@@ -1,0 +1,1501 @@
+[{
+	"@id": "http://creativecommons.org/licenses/by/1.0#id"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Adaptation"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Class_%28biology%29"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Family_%28biology%29"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Genus"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Habitat"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Kingdom_%28biology%29"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Order_%28biology%29"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Phylum"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Species"
+}, {
+	"@id": "http://en.wikipedia.org/wiki/Taxonomic_rank"
+}, {
+	"@id": "http://purl.org/dc/dcmitype/Collection"
+}, {
+	"@id": "http://purl.org/dc/elements/1.1/"
+}, {
+	"@id": "http://purl.org/dc/terms/"
+}, {
+	"@id": "http://purl.org/dc/terms/isPartOf"
+}, {
+	"@id": "http://purl.org/ontology/wo/",
+	"@type": ["http://www.w3.org/2002/07/owl#Ontology", "http://www.bbc.co.uk/ontologies/provenance/Ontology"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A simple vocabulary for describing biological species and related taxa. The vocabulary defines terms for describing the names and ranking of taxa, as well as providing support for describing their habitats, conservation status, and behavioural characteristics, etc",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Wildlife Ontology"
+	}],
+	"http://purl.org/dc/elements/1.1/creator": [{
+		"@id": "http://www.ldodds.com#me"
+	}, {
+		"@id": "http://tomscott.name/"
+	}],
+	"http://purl.org/dc/terms/title": [{
+		"@value": "Wildlife Ontology",
+		"@language": "en-gb"
+	}],
+	"http://purl.org/dc/terms/created": [{
+		"@value": "2010-01-04",
+		"@type": "http://www.w3.org/2001/XMLSchema#date"
+	}],
+	"http://purl.org/dc/elements/1.1/date": [{
+		"@value": "Date: 2013/12/18 11:33:00 "
+	}],
+	"http://purl.org/dc/terms/license": [{
+		"@id": "http://creativecommons.org/licenses/by/1.0#id"
+	}],
+	"http://www.bbc.co.uk/ontologies/provenance/canonicalLocation": [{
+		"@value": "https://repo.dev.bbc.co.uk/services/linked-data/ontologies/domain/kl/wildlife"
+	}],
+	"http://www.bbc.co.uk/ontologies/provenance/changeReason": [{
+		"@value": "Copying foaf: makers into dc:contributor."
+	}],
+	"http://www.bbc.co.uk/ontologies/provenance/slug": [{
+		"@value": "wo"
+	}],
+	"http://www.bbc.co.uk/ontologies/provenance/version": [{
+		"@value": "1.1"
+	}],
+	"http://www.bbc.co.uk/ontologies/provenance/public": [{
+		"@value": true
+	}],
+	"http://xmlns.com/foaf/0.1/maker": [{
+		"@id": "http://www.ldodds.com#me"
+	}, {
+		"@id": "http://tomscott.name/"
+	}],
+	"http://www.w3.org/2002/07/owl#imports": [{
+		"@id": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+	}, {
+		"@id": "http://purl.org/dc/elements/1.1/"
+	}, {
+		"@id": "http://purl.org/dc/terms/"
+	}, {
+		"@id": "http://xmlns.com/foaf/0.1/"
+	}, {
+		"@id": "http://purl.org/vocab/vann/"
+	}, {
+		"@id": "http://www.bbc.co.uk/ontologies/provenance"
+	}],
+	"http://www.w3.org/2002/07/owl#priorVersion": [{
+		"@id": "http://purl.org/ontology/wo/1.0"
+	}],
+	"http://www.w3.org/2002/07/owl#versionIRI": [{
+		"@id": "http://purl.org/ontology/wo/1.1"
+	}],
+	"http://www.w3.org/2002/07/owl#versionInfo": [{
+		"@value": "1.1"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/#tom",
+	"@type": ["http://xmlns.com/foaf/0.1/Person"],
+	"http://xmlns.com/foaf/0.1/name": [{
+		"@value": "Tom Scott"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/1.0"
+}, {
+	"@id": "http://purl.org/ontology/wo/1.1"
+}, {
+	"@id": "http://purl.org/ontology/wo/Adaptation",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "An adaptation is any feature of an animal or plant which makes it better suited for a particular habitat or to do a particular task. For instance, being streamlined is an adaptation to swimming fast and being able to survive on very little water is an adaptation to life in the desert.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Adaptation",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/adaptations"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/AnimalIntelligence",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Animal Intelligence or animal cognition is the title given to a modern approach to the mental capacities of non-human animals. It has developed out of comparative psychology, but has also been strongly influenced by the approach of ethology, behavioral ecology, and evolutionary psychology.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Animal Intelligence",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/BehaviouralPattern",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Behavioural pattern describes an animal's dominant way of life. Arboreal animals, for example, live in trees and nocturnal animals are active at night.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Behavioural Pattern",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Class",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A class is a scientific way to group related organisms together, some examples of classes being jellyfish, reptiles and sea urchins. Classes are big groups and contain within them smaller groupings called orders, families, genera and species.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Class",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/class"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Class_%28biology%29"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Collection",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A collection of resources, including documents, multimedia files, programme clips and their associated taxa, which aims to showcase a particular aspect of natural history film-making, or illustrate aspects of the natural world. A collection provides an alternate way to organize content over and above the basic taxonomic hierarchy."
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Collection"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/dc/dcmitype/Collection"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/CommunicationAdaptation",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Communication and senses are how an organism perceives the world - for instance through scent or sight - and how it sends messages or warnings to others.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Communication Adaptation",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/ConservationStatus",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Conservation status as described by the IUCN Red List. Will typically have a number of properties including an official IUCN status, population trend, and a year of assessment.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Conservation Status",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/EcosystemRole",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Ecosystem roles are about the part an animal or plant plays in sustaining or maintaining the habitat around them. Bees, for example, pollinate flowers, without which those plants would not produce fruits or seeds. Other species, such as dung beetles, play a vital role in keeping grasslands clear of animal waste and recycling valuable resources.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Ecosystem Role",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Ecozone",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Ecozones are a method of dividing up the Earth's surface. Each ecozone is a large area that contains a number of habitats, which are linked by the evolutionary history of the animals and plants within them. For instance one ecozone is Australasia, because its marsupials evolved in isolation to mammals in the rest of the world.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Ecozone",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/ExtremesAdaptation",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Organisms that are adapted to extremes (known as Extremophiles) are organisms that thrives in and even may require physically or geochemically extreme conditions that are detrimental to the majority of life on Earth.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Adapted to Extremes",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Family",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A family is a scientific grouping of closely related organisms. It has smaller groups, called genera and species, within it. A family can have a lot of members or only a few. Examples of families include the cats (Felidae), the gulls (Laridae) and the grasses (Poaceae).",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Family",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/family"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Family_%28biology%29"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/FeedingHabit",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Feeding habits describe the dominant diet of a particular species or group of species, and how they go about obtaining it.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Feeding Habit",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/FreshwaterHabitat",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Freshwater habitats include bogs, ponds, lakes, rivers and streams. About 3% of Earth's water is freshwater, but this includes the water locked up in the ice caps and trapped in rocks and soil as groundwater. Only a tiny fraction (0.014%) is surface water in the form of rivers, lakes and swamps."
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Freshwater Habitat",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Habitat"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Genus",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A genus is a scientific way of showing that species are very closed related to each other. In fact the first word of the species' scientific name is its genus. So for lions (Panthera leo), Panthera is the genus and tells us that they are closely related to tigers (Panthera tigris), because they share the name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Genus",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/genus"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Genus"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Habitat",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A habitat, or biome, is the type of environment in which plant and animals live. Habitat is dictated by what kinds of plants grow there, the climate and the geography. Rainforest, coral reefs and the tundra are all habitats where particular kinds of plants and animals might be found.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Habitat",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/habitats"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Habitat"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Kingdom",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Kingdoms are the major categories into which scientists divide up all living things. The main kingdoms are animals, plants, fungi and bacteria, although there are others. Each kingdom has its own suite of defining characteristics - for instance plants have rigid cell walls, whilst animals do not.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Kingdom",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/kingdom"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Kingdom_%28biology%29"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/LifeCycle",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "An organism's Life Cycle describes the stages in an organisms development including metamorphosis, courtship displays and parental care..",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Life Cycle",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/LocomotionAdaptation",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Locomotion is how an animal gets around - for instance by swimming, flying or climbing.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Locomotion",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/MarineHabitat",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Approximately 71% of the Earth's surface is covered by the oceans, an area of some 223698816km/sq. Although marine life evolved around three billion years before life on land, marine habitats are relatively poorly studied and much of the ocean's depths remains unexplored."
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Marine Habitat",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Habitat"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/MorphologyAdaptation",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Morphology is anything to do with what a plant or animal looks like - its size, shape, colour or structure.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Morphology",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Order",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "An order is a scientific way to categorise related organisms. An order is a smaller grouping than a class, but bigger than a family or genus. Examples of orders are willows, cockroaches and primates.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Order",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/order"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Order_%28biology%29"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Phylum",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A phylum - also known as a division when referring to plants - is a scientfic way of grouping together related organisms. All the members of a phylum have a common ancestor and anatomical similarities. For instance, all the arthropods have external skeletons. Phlya are large groups and are further subdivided into classes, orders, families and so on.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Phylum",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/phylum"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Phylum"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/PredationStrategy",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Predation is catching and killing an animal in order to eat it. The prey can be chased, ambushed or caught in a trap such as a spider's web.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Predation Strategy",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/RedListStatus",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A category in the IUCN red list, 2001.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Red List Status",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/ReproductionStrategy",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Reproduction covers all the tactics and behaviours involved in obtaining a mate, conceiving the next generation and successfully raising them. It includes everything from plants being pollinated, to stags fighting over hinds, to lionesses babysitting their sisters' cubs.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Reproduction Strategy",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/SocialBehaviour",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Social behaviour is all about how an animal interacts with members of its own species. For instance, does it live in a colony or on its own, does it fight to be top of the pecking order, or does it try to keep strangers away from its home?",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Social Behaviour",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/Species",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Generic class defining a biological species",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "species",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://www.bbc.co.uk/nature/species"
+	}, {
+		"@id": "http://en.wikipedia.org/wiki/Species"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/SurvivalStrategy",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Survival strategies include adaptations to changes in the organisms environment, including: hibernation, abscission and migration.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Survival Strategy",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/TaxonName",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "A taxonomic name, describing the structure and provenance of a taxonomic name.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Taxon Name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/TaxonRank",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Generic concept for a taxonomic rank such as a Genus or Species.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Taxonomic Rank",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#seeAlso": [{
+		"@id": "http://en.wikipedia.org/wiki/Taxonomic_rank"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/TerrestrialHabitat",
+	"@type": ["http://www.w3.org/2002/07/owl#Class"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Terrestrial habitats include forests, grasslands, deserts and rainforests. They are typically defined by factors such as plant structure (trees and grasses), leaf types (eg broadleaf and needleleaf), plant spacing (forest, woodland, savanna) and climate."
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "Terrestrial Habitat",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subClassOf": [{
+		"@id": "http://purl.org/ontology/wo/Habitat"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/adaptation",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with an adaptation which it displays",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "adaptation",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Adaptation"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/class",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a class",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "class",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Class"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/className",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Used to specify the name of a class as part of a Taxon Name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "class name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/ontology/wo/taxonomicName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/collection",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank, habitat, species, clip with a collection of which it is a member",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "collection",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Collection"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/dc/terms/isPartOf"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/commonName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a formal taxon name with a common version. E.g. Panthera leo might be associated with a common name of 'Lion'. A given taxon name may have several common names",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonName"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "common name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/conservationStatus",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a description of a recent assessment of its conservation status",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "conservation status",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/ConservationStatus"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/distributionMap",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a habitat, ecozone, or taxon rank with a map depicting its distribution or location",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "distribution map",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://xmlns.com/foaf/0.1/Image"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "unstable"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/ecozone",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "indicates that a habitat or a taxon rank can be found within an ecozone",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "ecozone",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Ecozone"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/family",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a family",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "family",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Family"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/familyName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Used to specify the name of a family as part of a Taxon Name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "family name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/ontology/wo/taxonomicName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/genus",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a genus",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "genus",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Genus"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/genusName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "specifies the genus part of a binomial name, allowing this portion of the name to be explicitly described. Therefore this property will typically only be used in TaxonNames associated with species. The property is largely provided as a convenience to avoid applications having to parse the binomial name.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "genus name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonName"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/ontology/wo/taxonomicName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/growsIn",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a habitat in which it grows. Sub-property of wo:habitat to be used for plants, fungi, etc",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "grows in",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Habitat"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/habitat",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a habitat in which it may typically be found",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "habitat",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Habitat"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/kingdom",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a kingdom",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "kingdom",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Kingdom"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/kingdomName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Used to specify the name of a kingdom as part of a Taxon Name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "kingdom name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/ontology/wo/taxonomicName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/livesIn",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a habitat in which it lives. Sub-property of wo:habitat to be used for members of the animal kingdom",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "lives in",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Habitat"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/name",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a taxon name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/TaxonName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/order",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with an order",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "order",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Kingdom"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/orderName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Used to specify the name of an order as part of a Taxon Name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "order name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/ontology/wo/taxonomicName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/phylum",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a phylum",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "phylum",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Phylum"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/phylumName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "Used to specify the name of a phylum as part of a Taxon Name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "phylum name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/ontology/wo/taxonomicName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/populationTrend",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "provides some indication of the population trend associated with an assessment of a taxon's conversation status. The value of this property is a simple literal, and is recommended to be one of: Decreasing, Increasing, Stable, Unknown.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/ConservationStatus"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "population trend",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "unstable"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/redListStatus",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a Conservation Status with a category in the IUCN Red List",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/ConservationStatus"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "red list status",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/RedListStatus"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/scientificName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon name with its formal scientific name. This may be a binomial name (e.g. Panthera leo) in the case of a species name, or a uninomial (e.g. Panthera) name in the case of a name associated with another taxon rank. In formal taxonomic naming conventions, the scientific name is often qualified with the source of the name, e.g. Panthera leo (Linnaeus, 1758).",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonName"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "scientific name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/shortDescription",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a short description with a Collection.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "short description",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/species",
+	"@type": ["http://www.w3.org/2002/07/owl#ObjectProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "associates a taxon rank with a species",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonRank"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "species",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://purl.org/ontology/wo/Species"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/speciesName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "specifies the species part of a binomial name, allowing this portion of the name to be explicitly described. Therefore this property will typically only be used in TaxonNames associated with species. The property is largely provided as a convenience to avoid applications having to parse the binomial name.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonName"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "species name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [{
+		"@id": "http://purl.org/ontology/wo/taxonomicName"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/taxonomicName",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "a naming property, associating a formal taxonomic name with a Taxon Name instance. This property is a parent of a number of sub-properties that provide more specific terms for denoting names of families, phyla, species, etc.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/TaxonName"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "taxonomic name",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/threatDescription",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "description of the threat(s) that have been identified as part of the assessment of the Conservation Status of a taxon",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/ConservationStatus"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "threatDescription",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/ontology/wo/yearAssessed",
+	"@type": ["http://www.w3.org/2002/07/owl#DatatypeProperty"],
+	"http://www.w3.org/2000/01/rdf-schema#comment": [{
+		"@value": "the year in which the conservation status was assessed.",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#domain": [{
+		"@id": "http://purl.org/ontology/wo/ConservationStatus"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [{
+		"@id": "http://purl.org/ontology/wo/"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#label": [{
+		"@value": "year assessed",
+		"@language": "en-gb"
+	}],
+	"http://www.w3.org/2000/01/rdf-schema#range": [{
+		"@id": "http://www.w3.org/2001/XMLSchema#string"
+	}],
+	"http://www.w3.org/2003/06/sw-vocab-status/ns#term_status": [{
+		"@value": "testing"
+	}]
+}, {
+	"@id": "http://purl.org/vocab/vann/"
+}, {
+	"@id": "http://tomscott.name/"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/adaptations"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/class"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/family"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/genus"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/habitats"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/kingdom"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/order"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/phylum"
+}, {
+	"@id": "http://www.bbc.co.uk/nature/species"
+}, {
+	"@id": "http://www.bbc.co.uk/ontologies/provenance"
+}, {
+	"@id": "http://www.bbc.co.uk/ontologies/provenance/Ontology"
+}, {
+	"@id": "http://www.iucnredlist.org/technical-documents/categories-and-criteria/2001-categories-criteria"
+}, {
+	"@id": "http://www.ldodds.com#me",
+	"@type": ["http://xmlns.com/foaf/0.1/Person"],
+	"http://xmlns.com/foaf/0.1/name": [{
+		"@value": "Leigh Dodds"
+	}]
+}, {
+	"@id": "http://www.w3.org/2001/XMLSchema#string"
+}, {
+	"@id": "http://www.w3.org/2002/07/owl#Class"
+}, {
+	"@id": "http://www.w3.org/2002/07/owl#DatatypeProperty"
+}, {
+	"@id": "http://www.w3.org/2002/07/owl#ObjectProperty"
+}, {
+	"@id": "http://www.w3.org/2002/07/owl#Ontology"
+}, {
+	"@id": "http://www.w3.org/2003/06/sw-vocab-status/ns#"
+}, {
+	"@id": "http://xmlns.com/foaf/0.1/"
+}, {
+	"@id": "http://xmlns.com/foaf/0.1/Image"
+}, {
+	"@id": "http://xmlns.com/foaf/0.1/Person"
+}]
