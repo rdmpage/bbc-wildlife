@@ -3,12 +3,12 @@
 ## Background
 The BBC created a lightweight ontology (available from http://purl.org/ontology/wo/ ) for publishing data about all forms of biological taxa, including phyla, families, and species. The terms in this ontology allow data to be published about:
 
-![Ontology](https://github.com/rdmpage/bbc-wildlife/raw/master/ontology/p01rpm09.png)
-
 - The relationships between taxa
 - Their associations with specific habitats, their mode of life, as well as their specific behaviours
 - Whether a taxon is endangered according to the IUCN terms
-- Topic relations between web documents and multimedia objects that may feature a taxon...etc
+- Topic relations between web documents and multimedia objects that may feature a taxon...etc.
+
+![Ontology](https://github.com/rdmpage/bbc-wildlife/raw/master/ontology/p01rpm09.png)
 
 The Wildlife Ontology was originally designed to support the publishing of data from the [BBC Wildlife Finder application](http://www.bbc.co.uk/nature/life/) which provided access to a rich set of information and data about biological species, as well as pointers to BBC broadcast output that relate to these topics.
 
