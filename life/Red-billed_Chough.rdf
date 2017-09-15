@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Red-billed_Chough">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Red-billed_Chough#species">
+				<rdfs:label>Red-billed chough</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Red-billed_Chough#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red-billed_chough/red-billed_chough_1.jpg"/>
+
+				<dc:description>Red-billed choughs are acrobatic members of the crow family that have unique, bright red, curved bills. Within the UK they are restricted to the coasts of Cornwall, Wales, and a few isolated regions of Scotland. They engage in spectacular aerial displays, and courtship involves the preening and feeding of the female by the male. Neighbourly hillside sheep keep turf short, allowing choughs to probe the ground in search of insects. The relationship is mutually beneficial since choughs often perch on the backs of sheep to remove ticks.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Red-billed_Chough"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Chough#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Corvidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Red-billed_Chough#name">
+				<rdfs:label>Pyrrhocorax pyrrhocorax</rdfs:label>
+				        <wo:commonName>Red-billed chough</wo:commonName>
+        								<wo:commonName>Chough</wo:commonName>
+								<wo:scientificName>pyrrhocoraxpyrrhocorax</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Corvidae</wo:familyName><wo:genusName>Pyrrhocorax</wo:genusName><wo:speciesName>pyrrhocorax</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red-billed_chough/red-billed_chough_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/red-billed_chough/red-billed_chough_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ktth0#programme">
+			<dc:title>Boys weekend</dc:title>
+			<po:subject rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087kll#programme">
+			<dc:title>Chough country</dc:title>
+			<po:subject rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vdf9#programme">
+			<dc:title>Tough choughs</dc:title>
+			<po:subject rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0056f2y#programme">
+			<dc:title>Choughs</dc:title>
+			<po:subject rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/r/re/red-billed_chough/5078316.mp3">
+			<dc:title>Calling adult choughs</dc:title>
+			<dc:subject rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Red-billed_Chough">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Pyrrhocorax_pyrrhocorax.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/chough/pyrrhocorax-pyrrhocorax/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/wales/nature/sites/species/birds/chough.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/webzine/article.asp?a=636">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdwatchireland.ie/Default.aspx?tabid=206">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.paradisepark.org.uk/choughs/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/c/chough/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/local/cornwall/hi/people_and_places/nature/newsid_8662000/8662085.stm">
+			<dc:title>Chough Nest Webcam goes live</dc:title>
+			<dc:description>Paradise Park in Hayle has gone live with a Chough Nest Webcam.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/cornwall/8118078.stm">
+			<dc:title>Chuffed over choughs' egg success</dc:title>
+			<dc:description>Bird enthusiasts are celebrating in Cornwall after two pairs of choughs successfully raised eight fledglings.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/calfofman/stories/choughedonthecalfofman">
+			<dc:title>Chuffed to see choughs</dc:title>
+			<dc:description>Braving the Irish sea, land-lubber Andrew Dawes is on a mission to see a mythical bird that he's waited 40 years to catch a glimpse of.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red-billed_Chough#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Chough#genus"><rdfs:label>Pyrrhocorax</rdfs:label><wo:species rdf:resource="/nature/life/Red-billed_Chough#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Corvidae#family"><rdfs:label>Corvidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

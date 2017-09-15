@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Anguis_fragilis">
+		<foaf:primaryTopic rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Anguis_fragilis#species">
+				<rdfs:label>Slow worm</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Anguis_fragilis#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/anguis_fragilis/anguis_fragilis_1.jpg"/>
+
+				<dc:description>Slow worms look superficially like snakes, but are actually legless lizards. One way to identify them is to see if they have eyelids. Lizards (and therefore slow worms) do while snakes are lidless.
+<br/>
+<br/>
+<a href="/nature/22062931">How to identify UK reptiles.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Anguis_fragilis"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ovoviviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Anguis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Anguidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Anguis_fragilis#name">
+				<rdfs:label>Anguis fragilis</rdfs:label>
+				        <wo:commonName>Slow worm</wo:commonName>
+        								<wo:commonName>Blindworm</wo:commonName>
+								<wo:scientificName>fragilisfragilis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Anguidae</wo:familyName><wo:genusName>Anguis</wo:genusName><wo:speciesName>fragilis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/anguis_fragilis/anguis_fragilis_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/an/anguis_fragilis/anguis_fragilis_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yzyl#programme">
+			<dc:title>Lightning lizard</dc:title>
+			<po:subject rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k8hc#programme">
+			<dc:title>Slow worms</dc:title>
+			<po:subject rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Anguis_fragilis">
+		<foaf:primaryTopic rdf:resource="/nature/species/Anguis_fragilis#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Anguis_fragilis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/slow-worm/anguis-fragilis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.herpetofauna.co.uk/slow_worm.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=102178">
+			<foaf:primaryTopic rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11485370">
+			<dc:title>Quick work to rescue slow worms</dc:title>
+			<dc:description>Children at a Highlands primary are in a race against time to rescue slow worms from the site of their new school.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Anguis_fragilis#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Ovoviviparity#adaptation">
+					<rdfs:label>Ovoviviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Anguis#genus"><rdfs:label>Anguis</rdfs:label><wo:species rdf:resource="/nature/life/Anguis_fragilis#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Anguidae#family"><rdfs:label>Anguidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

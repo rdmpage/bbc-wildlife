@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/White_Wagtail">
+		<foaf:primaryTopic rdf:resource="/nature/species/White_Wagtail#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/White_Wagtail#species">
+				<rdfs:label>Pied wagtail</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/White_Wagtail#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/white_wagtail/white_wagtail_1.jpg"/>
+
+				<dc:description>Sprightly and skittish, the pied wagtail is constantly in motion, from its jerky walk to its constantly wagging tail. Individuals are often seen dashing across verges on the hunt for insects, as comfortable in <a href="http://www.bbc.co.uk/nature/habitats/Urban_ecosystem">urban wastes</a> as they are alongside <a href="http://www.bbc.co.uk/nature/habitats/Wetland">streams and reed beds</a>. Pied wagtails will gather in their hundreds in winter to roost, with flocks settling in car parks, industrial estates, sewage works, hospitals and supermarkets.  
+<br />
+<br />
+Pied wagtails are found across <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> and <a href="http://www.bbc.co.uk/nature/places/Asia">Asia</a> and in parts of north <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a> where they are known as white wagtails. The British subspecies of pied wagtail (Motacilla alba yarrelli) has a darker plumage on its back. Pied wagtails are petite birds with a sharp pointed beak ideal for jabbing at insects.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/White_Wagtail"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/White_Wagtail.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Motacilla#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Motacillidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/White_Wagtail#name">
+				<rdfs:label>Motacilla alba</rdfs:label>
+				        <wo:commonName>Pied wagtail</wo:commonName>
+        								<wo:commonName>White wagtail</wo:commonName>
+								<wo:scientificName>albaalba</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Motacillidae</wo:familyName><wo:genusName>Motacilla</wo:genusName><wo:speciesName>alba</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/white_wagtail/white_wagtail_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/White_Wagtail#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wh/white_wagtail/white_wagtail_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01jwgst#programme">
+			<dc:title>Under the radar</dc:title>
+			<po:subject rdf:resource="/nature/species/White_Wagtail#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m14kz#programme">
+			<dc:title>City roost</dc:title>
+			<po:subject rdf:resource="/nature/species/White_Wagtail#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/White_Wagtail">
+		<foaf:primaryTopic rdf:resource="/nature/species/White_Wagtail#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Motacilla_alba.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/White_Wagtail#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/white-wagtail/motacilla-alba/">
+			<foaf:primaryTopic rdf:resource="/nature/species/White_Wagtail#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bto.org/volunteer-surveys/gbw/gardens-wildlife/garden-birds/a-z-garden-birds/pied-wagtail">
+			<foaf:primaryTopic rdf:resource="/nature/species/White_Wagtail#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/p/piedwagtail/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/White_Wagtail#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Calcareous_grassland#habitat">
+					<rdfs:label>Chalk grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/White_Wagtail.gif">
+		<dc:title>Map showing the distribution of the Pied wagtail species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Motacilla#genus"><rdfs:label>Motacilla</rdfs:label><wo:species rdf:resource="/nature/life/White_Wagtail#species"/><wo:species rdf:resource="/nature/life/Grey_Wagtail#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Motacillidae#family"><rdfs:label>Motacillidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

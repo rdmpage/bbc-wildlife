@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Asio">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Asio#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Asio#genus">
+				<rdfs:label>Eared owls</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Asio#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/as/asio/asio_1.jpg"/>
+
+				<dc:description>Eared owls are known for the ear-like tufts sticking up from their head. These tufts are simply feathers and have no connection with hearing. Eared owls are very widespread, although there are only half a dozen species in the genus. Most of them are ground nesters, though the long-eared owl nests in trees. On rare occasions, short-eared owl will do this too.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Asio"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/True_owl#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Owl#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Asio#name">
+				<rdfs:label>Asio</rdfs:label>
+				        <wo:commonName>Eared owls</wo:commonName>
+        										<wo:scientificName>Asio</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Strigiformes</wo:orderName><wo:familyName>Strigidae</wo:familyName><wo:genusName>Asio</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/as/asio/asio_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Asio#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/as/asio/asio_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Asio">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Asio#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Asio.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Asio#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Asio/101048">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Asio#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/14390">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Asio#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.owls.org/Species/asio/asio.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Asio#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/True_owl#family"><rdfs:label>Strigidae</rdfs:label><wo:genus rdf:resource="/nature/life/Asio#genus"/><wo:genus rdf:resource="/nature/life/Athene_(owl)#genus"/><wo:genus rdf:resource="/nature/life/Horned_owl#genus"/><wo:genus rdf:resource="/nature/life/Strix_(genus)#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Owl#order"><rdfs:label>Strigiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Long-eared_Owl#genus"><rdfs:label>Long-eared owl</rdfs:label><wo:genus rdf:resource="/nature/life/Asio#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Short-eared_Owl#genus"><rdfs:label>Short-eared owl</rdfs:label><wo:genus rdf:resource="/nature/life/Asio#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

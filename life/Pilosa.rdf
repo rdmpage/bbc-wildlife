@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Pilosa">
+		<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Pilosa#order">
+				<rdfs:label>Anteaters and sloths</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Pilosa#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pilosa/pilosa_1.jpg"/>
+
+				<dc:description>Anteaters and sloths are native to the Americas. There are 10 living species in this order, including the tamanduas, two-toed sloths and three-toed sloths.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pilosa"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Pilosa#name">
+				<rdfs:label>Pilosa</rdfs:label>
+				        <wo:commonName>Anteaters and sloths</wo:commonName>
+        										<wo:scientificName>Pilosa</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Pilosa</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pilosa/pilosa_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Pilosa#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pi/pilosa/pilosa_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pilosa">
+		<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="P">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="P">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18953393">
+			<dc:title>Sloths' 'lazy' sex life revealed</dc:title>
+			<dc:description>The secret sexual behaviour of Hoffman's two-toed sloths, one of the world's "laziest" mammals, is promiscuous but "not a total free for all", say scientists</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8972000/8972024.stm">
+			<dc:title>Sloth locomotion secrets revealed</dc:title>
+			<dc:description>The secrets of how sloths move around during their upside down lives are revealed by a study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8659000/8659239.stm">
+			<dc:title>Sloths' bizarre 'toilet habit' recorded in Amazon, Peru</dc:title>
+			<dc:description>Two-toed sloths have been recorded descending from the trees to feed out of a human toilet.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pilosa#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:order rdf:resource="/nature/life/Pilosa#order"/><wo:order rdf:resource="/nature/life/Carnivora#order"/><wo:order rdf:resource="/nature/life/Bat#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Diprotodontia#order"/><wo:order rdf:resource="/nature/life/Soricomorpha#order"/><wo:order rdf:resource="/nature/life/Lagomorpha#order"/><wo:order rdf:resource="/nature/life/Macroscelidea#order"/><wo:order rdf:resource="/nature/life/Monotreme#order"/><wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Pholidota#order"/><wo:order rdf:resource="/nature/life/Primate#order"/><wo:order rdf:resource="/nature/life/Proboscidea#order"/><wo:order rdf:resource="/nature/life/Rodent#order"/><wo:order rdf:resource="/nature/life/Sirenia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Afrosoricida#order"/><wo:order rdf:resource="/nature/life/Armadillo#order"/><wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Leptictida#order"/><wo:order rdf:resource="/nature/life/Litopterna#order"/><wo:order rdf:resource="/nature/life/Mesonychid#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Three-toed_sloth#order"><rdfs:label>Three-toed sloths</rdfs:label><wo:order rdf:resource="/nature/life/Pilosa#order"/></wo:Genus><wo:Species rdf:about="/nature/life/Giant_Anteater#order"><rdfs:label>Giant anteater</rdfs:label><wo:order rdf:resource="/nature/life/Pilosa#order"/></wo:Species><wo:Family rdf:about="/nature/life/Megatheriidae#order"><rdfs:label>Giant ground sloths</rdfs:label><wo:order rdf:resource="/nature/life/Pilosa#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

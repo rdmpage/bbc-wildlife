@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Long-eared_Hedgehog">
+		<foaf:primaryTopic rdf:resource="/nature/species/Long-eared_Hedgehog#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Long-eared_Hedgehog#species">
+				<rdfs:label>Long-eared hedgehog</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Long-eared_Hedgehog#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/long-eared_hedgehog/long-eared_hedgehog_1.jpg"/>
+
+				<dc:description>Long-eared hedgehogs are much faster than their longer spined West European cousins. They are also much more feisty. Their long ears give them an acute sense of hearing which helps them to detect both predators and prey.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Long-eared_Hedgehog"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Hemiechinus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Erinaceidae#family"/>
+                                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Long-eared_Hedgehog#name">
+				<rdfs:label>Hemiechinus auritus</rdfs:label>
+				        <wo:commonName>Long-eared hedgehog</wo:commonName>
+        										<wo:scientificName>auritusauritus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Erinaceomorpha</wo:orderName><wo:familyName>Erinaceidae</wo:familyName><wo:genusName>Hemiechinus</wo:genusName><wo:speciesName>auritus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/long-eared_hedgehog/long-eared_hedgehog_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Long-eared_Hedgehog#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/lo/long-eared_hedgehog/long-eared_hedgehog_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382qs#programme">
+			<dc:title>Animal defences</dc:title>
+			<po:subject rdf:resource="/nature/species/Long-eared_Hedgehog#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Long-eared_Hedgehog">
+		<foaf:primaryTopic rdf:resource="/nature/species/Long-eared_Hedgehog#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Hemiechinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-eared_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://arkive.org/long-eared-hedgehog/hemiechinus-auritus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-eared_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/40607/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-eared_Hedgehog#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Estivation#adaptation">
+					<rdfs:label>Aestivation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Hemiechinus#genus"><rdfs:label>Hemiechinus</rdfs:label><wo:species rdf:resource="/nature/life/Long-eared_Hedgehog#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Erinaceidae#family"><rdfs:label>Erinaceidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Erinaceomorpha</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

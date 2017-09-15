@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Chameleon">
+		<foaf:primaryTopic rdf:resource="/nature/family/Chameleon#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Chameleon#family">
+				<rdfs:label>Chameleons</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Chameleon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/chameleon/chameleon_1.jpg"/>
+
+				<dc:description>Chameleons are famed for their ability to change colour, though not all species can. In a few types, the colour change is used as camouflage, but in most it is actually a form of communication. When not 'talking' to potential mates or warning off rivals, these chameleons will revert to a default colour that merges with their habitat - green for a jungle species, beige for a desert one.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Chameleon"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Chameleon#name">
+				<rdfs:label>Chamaeleonidae</rdfs:label>
+				        <wo:commonName>Chameleons</wo:commonName>
+        										<wo:scientificName>Chamaeleonidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Chamaeleonidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/chameleon/chameleon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Chameleon#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ch/chameleon/chameleon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p014g1yq#programme">
+			<dc:title>Keeping cool</dc:title>
+			<po:subject rdf:resource="/nature/family/Chameleon#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f816q#programme">
+			<dc:title>Look out lizard</dc:title>
+			<po:subject rdf:resource="/nature/family/Chameleon#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dzfsl#programme">
+			<dc:title>Clinging chameleons</dc:title>
+			<po:subject rdf:resource="/nature/family/Chameleon#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009yp34#programme">
+			<dc:title>Blink and you'll miss it</dc:title>
+			<po:subject rdf:resource="/nature/family/Chameleon#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639pj#programme">
+			<dc:title>High altitude reptiles</dc:title>
+			<po:subject rdf:resource="/nature/family/Chameleon#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639lt#programme">
+			<dc:title>Eyed up</dc:title>
+			<po:subject rdf:resource="/nature/family/Chameleon#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004rqs8#programme">
+			<dc:title>Chameleon challenge</dc:title>
+			<po:subject rdf:resource="/nature/family/Chameleon#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Chameleon">
+		<foaf:primaryTopic rdf:resource="/nature/family/Chameleon#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Chamaeleonidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Chameleon#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://jcvi.org/reptiles/families/chamaeleonidae.php">
+			<foaf:primaryTopic rdf:resource="/nature/family/Chameleon#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17028940">
+			<dc:title>Tiny lizards found in Madagascar</dc:title>
+			<dc:description>One of the world's tiniest lizards has been discovered by keen-eyed researchers in Madagascar.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Chameleon#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8555000/8555547.stm">
+			<dc:title>Ballistic chameleon tongue beats the cold </dc:title>
+			<dc:description>The chameleon's lightning fast tongue is literally one of nature's most striking adaptations.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Chameleon#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label><wo:family rdf:resource="/nature/life/Chameleon#family"/><wo:family rdf:resource="/nature/life/Agamidae#family"/><wo:family rdf:resource="/nature/life/Anguidae#family"/><wo:family rdf:resource="/nature/life/Cordylidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Gecko#family"/><wo:family rdf:resource="/nature/life/Iguanidae#family"/><wo:family rdf:resource="/nature/life/Lacertidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Varanidae#family"/></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Cape_Dwarf_Chameleon#family"><rdfs:label>Cape dwarf chameleon</rdfs:label><wo:family rdf:resource="/nature/life/Chameleon#family"/></wo:Species><wo:Species rdf:about="/nature/life/Furcifer_labordi#family"><rdfs:label>Labord's chameleon</rdfs:label><wo:family rdf:resource="/nature/life/Chameleon#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

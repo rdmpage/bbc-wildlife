@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Black_mamba">
+		<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Black_mamba#species">
+				<rdfs:label>Black mamba</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Black_mamba#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/black_mamba/black_mamba_1.jpg"/>
+
+				<dc:description>Black mambas actually come in a variety of colours, from pale grey to beige. Their name is derived from the colour of their mouths rather than their skin. Highly venomous and feared throughout their range, black mambas are famed for being the fastest and most dangerous snakes in Africa. The mamba's venom contains a powerful neurotoxin which works by preventing impulses from travelling along the nerves. The victim becomes paralysed and death occurs through respiratory failure. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Black_mamba"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Elapidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Black_mamba#name">
+				<rdfs:label>Dendroaspis polylepis</rdfs:label>
+				        <wo:commonName>Black mamba</wo:commonName>
+        										<wo:scientificName>polylepispolylepis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Elapidae</wo:familyName><wo:genusName>Dendroaspis</wo:genusName><wo:speciesName>polylepis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/black_mamba/black_mamba_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Black_mamba#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/black_mamba/black_mamba_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0055vzc#programme">
+			<dc:title>Skin shedding</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_mamba#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0055vyq#programme">
+			<dc:title>Hunting mambas</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_mamba#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0055vy9#programme">
+			<dc:title>Mamba rumble</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_mamba#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0055vxv#programme">
+			<dc:title>Mamba danger</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_mamba#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0055vxk#programme">
+			<dc:title>Iconic predator</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_mamba#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bl/black_mamba/5020154.mp3">
+			<dc:title>A black mamba hissing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Black_mamba#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Black_mamba">
+		<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Dendroaspis_polylepis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://calphotos.berkeley.edu/cgi/img_query?stat=BROWSE&amp;query_src=photos_fauna_sci-Reptile&amp;where-lifeform=Reptile&amp;where-taxon=Dendroaspis+polylepis&amp;title_tag=Dendroaspis+polylepis">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/black-mamba/dendroaspis-polylepis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.blueplanetbiomes.org/black_mamba.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-19812064">
+			<dc:title>Mamba painkiller 'beats morphine'</dc:title>
+			<dc:description>A painkiller as powerful as morphine, but without most of the side-effects, has been found in the deadly venom of the black mamba say French scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-11271877">
+			<dc:title>Man recounts poisonous snake bid</dc:title>
+			<dc:description>A Sussex carpenter who spent more than 100 days in a room full of some of the world's most venomous snakes has returned back home. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_mamba#species"/>
+		</foaf:Document>
+			
+											<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Dendroaspis</rdfs:label><wo:species rdf:resource="/nature/life/Black_mamba#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Elapidae#family"><rdfs:label>Elapidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

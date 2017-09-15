@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Gelada">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Gelada#species">
+				<rdfs:label>Gelada baboon</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Gelada#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ge/gelada/gelada_1.jpg"/>
+
+				<dc:description>Gelada baboons are not actually true baboons, although they look very similar and are easily recognisable by the patches of hairless skin on their chest, which turns crimson when females are in oestrus. They are in fact the last surviving species of a once widespread group of grass-grazing primates. Geladas live in large groups of as many as 600 members. Such a complex society requires clear communication, and geladas use visual signals, such as facial expression and body posture, to interact.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gelada"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Old_World_monkey#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Gelada#name">
+				<rdfs:label>Theropithecus gelada</rdfs:label>
+				        <wo:commonName>Gelada baboon</wo:commonName>
+        										<wo:scientificName>geladagelada</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Cercopithecidae</wo:familyName><wo:genusName>Theropithecus</wo:genusName><wo:speciesName>gelada</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ge/gelada/gelada_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Gelada#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/ge/gelada/gelada_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p014rmzm#programme">
+			<dc:title>In retreat</dc:title>
+			<po:subject rdf:resource="/nature/species/Gelada#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dwcvz#programme">
+			<dc:title>Gelada monkey attack</dc:title>
+			<po:subject rdf:resource="/nature/species/Gelada#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639px#programme">
+			<dc:title>High life</dc:title>
+			<po:subject rdf:resource="/nature/species/Gelada#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c3hg#programme">
+			<dc:title>Fighting faces</dc:title>
+			<po:subject rdf:resource="/nature/species/Gelada#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/ge/gelada/nhs1335-43.mp3">
+			<dc:title>Group of gelada baboons</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gelada#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gelada">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Theropithecus_gelada.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/entry/gelada_baboon">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/gelada/theropithecus-gelada/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/40010">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22067192">
+			<dc:title>Primate 'wobble' gives speech clues</dc:title>
+			<dc:description>The call of the gelada monkey shares surprising similarities with some features found in human speech, scientists find.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8651000/8651148.stm">
+			<dc:title>Monkeys filmed feasting on locust swarm in Ethiopia</dc:title>
+			<dc:description>Geladas have been filmed feasting on a swarm of locusts in the highlands of Ethiopia, behaviour rarely seen before.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gelada#species"/>
+		</foaf:Document>
+			
+											<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Theropithecus</rdfs:label><wo:species rdf:resource="/nature/life/Gelada#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Old_World_monkey#family"><rdfs:label>Cercopithecidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

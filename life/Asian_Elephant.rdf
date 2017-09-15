@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Asian_Elephant">
+		<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Asian_Elephant#species">
+				<rdfs:label>Asian elephant</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Asian_Elephant#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/as/asian_elephant/asian_elephant_1.jpg"/>
+
+				<dc:description>Asian elephants are smaller than their African counterparts, most easily noted in their ear size. They are more readily tamed than African elephants and have been used as beasts of burden for centuries. Despite their size, their charge speed can reach nearly 50kmph. Wild bulls are solitary, while cows and calves live in small herds. Though the adult Asian elephant has no natural predators, there are only around 50,000 left in the wild.     </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Asian_Elephant"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Coprophagia#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mangrove#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Elephantidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Proboscidea#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Asian_Elephant#name">
+				<rdfs:label>Elephas maximus</rdfs:label>
+				        <wo:commonName>Asian elephant</wo:commonName>
+        										<wo:scientificName>maximusmaximus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Proboscidea</wo:orderName><wo:familyName>Elephantidae</wo:familyName><wo:genusName>Elephas</wo:genusName><wo:speciesName>maximus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/as/asian_elephant/asian_elephant_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Asian_Elephant#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/as/asian_elephant/asian_elephant_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00nly2r#programme">
+			<dc:title>Can elephants work together?</dc:title>
+			<po:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9drk#programme">
+			<dc:title>How To Clean An Elephant</dc:title>
+			<po:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0048586#programme">
+			<dc:title>Tea time</dc:title>
+			<po:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004853y#programme">
+			<dc:title>Elephant and cobra</dc:title>
+			<po:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003kbz9#programme">
+			<dc:title>Afternoon drinks</dc:title>
+			<po:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/as/asian_elephant/mp15146-05.mp3">
+			<dc:title>Asian elephant trumpeting</dc:title>
+			<dc:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/as/asian_elephant/nhs1224-03.mp3">
+			<dc:title>Asian elephant walking through grass</dc:title>
+			<dc:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/as/asian_elephant/nhs1224-18.mp3">
+			<dc:title>Asian elephant bathing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/as/asian_elephant/nhs1230-05.mp3">
+			<dc:title>Asian elephant grunts and exhalations</dc:title>
+			<dc:subject rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Asian_Elephant">
+		<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Elephas_maximus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/asian-elephant/elephas-maximus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.asesg.org/about.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/7140/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=9783">
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.panda.org/what_we_do/endangered_species/elephants/asian_elephants/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/animal-info/Animal-Bytes/animalia/eumetazoa/coelomates/deuterostomes/chordata/craniata/mammalia/proboscidea/asian-elephant.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-21241380">
+			<dc:title>Rare pygmy elephants 'poisoned'</dc:title>
+			<dc:description>Ten rare pygmy elephants are found dead in Borneo, with Malaysian officials saying they "highly suspect" poisoning.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-india-20150702">
+			<dc:title>Hundreds of India elephants dead</dc:title>
+			<dc:description>Nearly 300 wild elephants have died in India's Orissa state in the past five years, the state's forest and environment minister says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-20142858">
+			<dc:title>Elephant learns to mimic Korean</dc:title>
+			<dc:description>An Asian elephant uses his trunk to imitate human speech, scientists report.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16657090">
+			<dc:title>In pictures: How elephants cool off</dc:title>
+			<dc:description>Thermal images reveal how Asian elephants cool off by directing heat to their trunks overnight.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/how-do-asian-elephant-families-help-each-other-to-survive/6565.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>How do Asian elephant families help each other to survive? Family groups seek food and water and teach their young to prosper.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9417000/9417308.stm">
+			<dc:title>Elephants know how to co-operate</dc:title>
+			<dc:description>Elephants understand the concept of co-operation and deduce when a task requires teamwork, footage reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/south_asia/8649606.stm">
+			<dc:title>Indian officials hunt elephant 'serial killer'</dc:title>
+			<dc:description>Wildlife experts in India are looking for a bull elephant accused of killing 10 female elephants.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/south_asia/8533776.stm">
+			<dc:title>India's overworked elephants </dc:title>
+			<dc:description>The southern state of Kerala is home to the largest captive elephant population in India. But many question the way the animals are treated. The BBC's Soutik Biswas reports.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Asian_Elephant#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Coprophagia#adaptation">
+					<rdfs:label>Dung eater</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mangrove#habitat">
+					<rdfs:label>Mangroves</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Elephas</rdfs:label><wo:species rdf:resource="/nature/life/Asian_Elephant#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Elephantidae#family"><rdfs:label>Elephantidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Proboscidea#order"><rdfs:label>Proboscidea</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

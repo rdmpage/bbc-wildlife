@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Humboldt_Squid">
+		<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Humboldt_Squid#species">
+				<rdfs:label>Humboldt squid</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Humboldt_Squid#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hu/humboldt_squid/humboldt_squid_1.jpg"/>
+
+				<dc:description>Humboldt squid are found in the warm waters of the Eastern Pacific Ocean, and cover a range that expands as the waters are warmed by El Niño. These large squid migrate vertically (diel migration) to follow their prey, from depths of over 1,000m during the day to the surface waters at night. They capture their prey with their tentacles and suckers and rip it apart with their powerful beak. Like other cephalopods, Humboldt squid can change colour, flashing bright red when angered or excited - giving rise to their name 'the red devil'.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Humboldt_Squid"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Humboldt_Squid.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Squid#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Humboldt_Squid#name">
+				<rdfs:label>Dosidicus gigas</rdfs:label>
+				        <wo:commonName>Humboldt squid</wo:commonName>
+        								<wo:commonName>Jumbo flying squid</wo:commonName>
+						<wo:commonName>Jumbo squid</wo:commonName>
+						<wo:commonName>Red devil</wo:commonName>
+								<wo:scientificName>gigasgigas</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Teuthida</wo:orderName><wo:familyName>Ommastrephidae</wo:familyName><wo:genusName>Dosidicus</wo:genusName><wo:speciesName>gigas</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hu/humboldt_squid/humboldt_squid_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/hu/humboldt_squid/humboldt_squid_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cbx7t#programme">
+			<dc:title>Diving in Chainmail</dc:title>
+			<po:subject rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008py6f#programme">
+			<dc:title>Red devils</dc:title>
+			<po:subject rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005bpr0#programme">
+			<dc:title>Pack attack</dc:title>
+			<po:subject rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004s4qd#programme">
+			<dc:title>Humboldt squid</dc:title>
+			<po:subject rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Humboldt_Squid">
+		<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Dosidicus_gigas.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://diver.net/seahunt/fend/f_scottc.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://marinebio.org/species.asp?id=249">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://nationalzoo.si.edu/Animals/Invertebrates/Facts/cephalopods/FactSheets/Humboldtsquid.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/humboldt-squid/dosidicus-gigas/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17117200">
+			<dc:title>Humboldt squid's impressive dives</dc:title>
+			<dc:description>Scientists tag Humboldt squid as they dive through very low-oxygen waters off the coast of California.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/americas/8155417.stm">
+			<dc:title>San Diego menaced by jumbo squid</dc:title>
+			<dc:description>Scuba divers off the Californian city of San Diego are being menaced by large numbers of jumbo squid.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7783971.stm">
+			<dc:title>Rise in CO2 'affects jumbo squid'</dc:title>
+			<dc:description>Jumbo squid, common to the eastern tropical Pacific, may become rarer if current climate change continues.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7709473.stm">
+			<dc:title>Diving with hunting squid</dc:title>
+			<dc:description>Close-up, underwater footage of Humboldt squid hunting for fish.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humboldt_Squid#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Humboldt_Squid.gif">
+		<dc:title>Map showing the distribution of the Humboldt squid species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Dosidicus</rdfs:label><wo:species rdf:resource="/nature/life/Humboldt_Squid#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Ommastrephidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Squid#order"><rdfs:label>Teuthida</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

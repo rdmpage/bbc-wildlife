@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Dire_Wolf">
+		<foaf:primaryTopic rdf:resource="/nature/species/Dire_Wolf#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Dire_Wolf#species">
+				<rdfs:label>Dire wolf</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Dire_Wolf#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/dire_wolf/dire_wolf_1.jpg"/>
+
+				<dc:description>The dire wolf was probably the heaviest canine ever to have existed. It earned its 'dire' tag from comparisons with the modern grey wolf. A much heftier beast with larger teeth, its powerful build and short legs indicate it might have been more of an ambush hunter and less of a long-distance runner than modern wolves. Despite being heavier, the dire wolf had a smaller brain than the grey wolf. Dire wolves were native to the Americas and thousands of their skeletons have been found in the La Brea tar pits. They became extinct between 16,000 and 10,000 years ago in different areas of the Americas. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Dire_Wolf"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Dire_Wolf.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Canis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Canidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Dire_Wolf#name">
+				<rdfs:label>Canis dirus</rdfs:label>
+				        <wo:commonName>Dire wolf</wo:commonName>
+        										<wo:scientificName>dirusdirus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Canidae</wo:familyName><wo:genusName>Canis</wo:genusName><wo:speciesName>dirus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/dire_wolf/dire_wolf_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Dire_Wolf#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/di/dire_wolf/dire_wolf_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cknt2#programme">
+			<dc:title>Fossil analysis</dc:title>
+			<po:subject rdf:resource="/nature/species/Dire_Wolf#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bm1q3#programme">
+			<dc:title>Co-operative dogs</dc:title>
+			<po:subject rdf:resource="/nature/species/Dire_Wolf#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Dire_Wolf">
+		<foaf:primaryTopic rdf:resource="/nature/species/Dire_Wolf#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.naturalworlds.org/wolf/history/Canis_dirus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dire_Wolf#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sdnhm.org/exhibits/mystery/fg_direwolf.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dire_Wolf#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tarpits.org/education/guide/flora/wolf.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dire_Wolf#species"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Dire_Wolf.gif">
+		<dc:title>Map showing the distribution of the Dire wolf species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Canis#genus"><rdfs:label>Canis</rdfs:label><wo:species rdf:resource="/nature/life/Dire_Wolf#species"/><wo:species rdf:resource="/nature/life/Coyote#species"/><wo:species rdf:resource="/nature/life/Gray_Wolf#species"/><wo:species rdf:resource="/nature/life/Ethiopian_Wolf#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Canidae#family"><rdfs:label>Canidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

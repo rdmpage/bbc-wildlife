@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Leporidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Leporidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Leporidae#family">
+				<rdfs:label>Hares and rabbits</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Leporidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/leporidae/leporidae_1.jpg"/>
+
+				<dc:description>The hare and rabbit family has over 50 species in it, living in habitats as varied as tundra, savannah and farmland. Some species dig burrows to live in.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Leporidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Lagomorpha#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Leporidae#name">
+				<rdfs:label>Leporidae</rdfs:label>
+				        <wo:commonName>Hares and rabbits</wo:commonName>
+        										<wo:scientificName>Leporidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Lagomorpha</wo:orderName><wo:familyName>Leporidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/leporidae/leporidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Leporidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/le/leporidae/leporidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Leporidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Leporidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Leporidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Leporidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1689">
+			<foaf:primaryTopic rdf:resource="/nature/family/Leporidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Lagomorpha#order"><rdfs:label>Lagomorpha</rdfs:label><wo:family rdf:resource="/nature/life/Leporidae#family"/><wo:family rdf:resource="/nature/life/#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Hare#family"><rdfs:label>Common hares and jackrabbits</rdfs:label><wo:family rdf:resource="/nature/life/Leporidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/European_Rabbit#family"><rdfs:label>Rabbit</rdfs:label><wo:family rdf:resource="/nature/life/Leporidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

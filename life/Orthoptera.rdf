@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Orthoptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Orthoptera#order">
+				<rdfs:label>Grasshoppers and crickets</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Orthoptera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/or/orthoptera/orthoptera_1.jpg"/>
+
+				<dc:description>Grasshoppers and crickets are part of an insect order called the Orthoptera, which also includes wetas and katydids. Most types are good at jumping, although some - such as the mole cricket - cannot jump. Juvenile orthopterans are miniature copies of the adults, except that they lack functional wings. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Orthoptera"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Orthoptera.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Orthoptera#name">
+				<rdfs:label>Orthoptera</rdfs:label>
+				        <wo:commonName>Grasshoppers and crickets</wo:commonName>
+        										<wo:scientificName>Orthoptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Orthoptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/or/orthoptera/orthoptera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Orthoptera#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/or/orthoptera/orthoptera_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zjwh#programme">
+			<dc:title>Carnivorous crickets</dc:title>
+			<po:subject rdf:resource="/nature/order/Orthoptera#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Orthoptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="O">
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="O">
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-africa-21955740">
+			<dc:title>Madagascar hit by plague of locusts</dc:title>
+			<dc:description>A severe plague of locusts has infested about half of Madagascar, threatening crops and raising concerns about food shortages, a UN agency says. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/20310262">
+			<dc:title>Urban insects change their tune</dc:title>
+			<dc:description>Grasshoppers that live in noisy urban environments alter their mating call to tune out background noise, research finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19741849">
+			<dc:title>Nature's big picture: 'Pests' preserved</dc:title>
+			<dc:description>A preserved locust eating a mouse is displayed at the Natural History Museum, London in a bid to encourage an interest in scientific research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19248230">
+			<dc:title>'Song' shapes cricket personality</dc:title>
+			<dc:description>The experiences of youth affect the adult personalities of crickets, according to a new study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18796829">
+			<dc:title>Female crickets eat virgin males</dc:title>
+			<dc:description>Two cricket-like species in North America are interbreeding, scientists say, because females of one species “sexually cannibalise” males of the other. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8172000/8172168.stm">
+			<dc:title>Insect defence all blood and guts</dc:title>
+			<dc:description>Armoured crickets have a bizarre and striking way to avoid being eaten.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Orthoptera#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Orthoptera.gif">
+		<dc:title>Map showing the distribution of the Grasshoppers and crickets order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Desert_locust#order"><rdfs:label>Desert locust</rdfs:label><wo:order rdf:resource="/nature/life/Orthoptera#order"/></wo:Species><wo:Genus rdf:about="/nature/life/Giant_weta#order"><rdfs:label>Giant wetas</rdfs:label><wo:order rdf:resource="/nature/life/Orthoptera#order"/></wo:Genus><wo:Family rdf:about="/nature/life/Tettigoniidae#order"><rdfs:label>Bush crickets</rdfs:label><wo:order rdf:resource="/nature/life/Orthoptera#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

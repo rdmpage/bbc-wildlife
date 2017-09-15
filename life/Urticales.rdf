@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Urticales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Urticales#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Urticales#order">
+				<rdfs:label>Nettles, elms and hemp</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Urticales#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/u/ur/urticales/urticales_1.jpg"/>
+
+				<dc:description>Nettles, elms and hemp form an order of flowering plants that contains a number of well-known, interesting and useful plants. Within the six families are the familiar elm trees and stinging nettles, but also the medicinally important hemp, or cannabis, family. Other notable species are the mulberry, fig, banyan and breadfruit trees. Some of the lesser known plants include the barbeya tree, that's only found in north-eastern Africa. There are thousands of herbs, shrubs, trees and occasionally vines in this globally distributed botanical group.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Urticales"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Urticales.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Urticales#name">
+				<rdfs:label>Urticales</rdfs:label>
+				        <wo:commonName>Nettles, elms and hemp</wo:commonName>
+        										<wo:scientificName>Urticales</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Urticales</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/u/ur/urticales/urticales_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Urticales#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/u/ur/urticales/urticales_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Urticales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Urticales#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.eol.org/pages/4447">
+			<foaf:primaryTopic rdf:resource="/nature/order/Urticales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhptv.org/NATUREWORKS/nwep14urticales.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Urticales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantsystematics.org/taxpage/0/order/Urticales.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Urticales#order"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Urticales.gif">
+		<dc:title>Map showing the distribution of the Nettles, elms and hemp order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label><wo:order rdf:resource="/nature/life/Urticales#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Gentianales#order"/><wo:order rdf:resource="/nature/life/Nepenthales#order"/><wo:order rdf:resource="/nature/life/Rosales#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Fagales#order"/><wo:order rdf:resource="/nature/life/Theales#order"/><wo:order rdf:resource="/nature/life/Violales#order"/><wo:order rdf:resource="/nature/life/Sapindales#order"/><wo:order rdf:resource="/nature/life/Santalales#order"/><wo:order rdf:resource="/nature/life/Asterales#order"/><wo:order rdf:resource="/nature/life/Ranunculales#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Ulmus_procera#order"><rdfs:label>English elm</rdfs:label><wo:order rdf:resource="/nature/life/Urticales#order"/></wo:Species><wo:Species rdf:about="/nature/life/Stinging_nettle#order"><rdfs:label>Stinging nettle</rdfs:label><wo:order rdf:resource="/nature/life/Urticales#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

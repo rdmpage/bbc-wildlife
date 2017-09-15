@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Olive_Ridley">
+		<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Olive_Ridley#species">
+				<rdfs:label>Olive ridley turtle</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Olive_Ridley#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/ol/olive_ridley/olive_ridley_1.jpg"/>
+
+				<dc:description>Olive ridley turtles would once arrive in huge flotillas to nest at sandy beaches, but human influence on their habitat has changed that. One of the smallest species of sea turtle, they are now critically endangered and efforts to protect their nesting sites are being made in many areas.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Olive_Ridley"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Olive_Ridley.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Ridley_sea_turtle#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sea_turtle#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Turtle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Olive_Ridley#name">
+				<rdfs:label>Lepidochelys olivacea</rdfs:label>
+				        <wo:commonName>Olive ridley turtle</wo:commonName>
+        										<wo:scientificName>olivaceaolivacea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Testudines</wo:orderName><wo:familyName>Cheloniidae</wo:familyName><wo:genusName>Lepidochelys</wo:genusName><wo:speciesName>olivacea</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/ol/olive_ridley/olive_ridley_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Olive_Ridley#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/ol/olive_ridley/olive_ridley_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003kl25#programme">
+			<dc:title>Mating marathon</dc:title>
+			<po:subject rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/o/ol/olive_ridley/5099046.mp3">
+			<dc:title>Olive ridley covering her nest</dc:title>
+			<dc:subject rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Olive_Ridley">
+		<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lepidochelys_olivacea.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://wwf.panda.org/what_we_do/endangered_species/marine_turtles/olive_ridley_turtle/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/olive-ridley-turtle/lepidochelys-olivacea/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/turtles/oliveridley.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/in-pictures-17371468">
+			<dc:title>In pictures: Turtles' tale - from the nest to the sea</dc:title>
+			<dc:description>Every year thousands of turtles gather on a narrow strip of beach in Nicaragua to nest</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15110576">
+			<dc:title>In pictures: Turtles in trouble</dc:title>
+			<dc:description>Scientists pinpoint the world's most threatened populations of sea turtles in a study they have called a "blueprint for conservation". </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8571903.stm">
+			<dc:title>Turtles annual nesting along the Indian coast begins</dc:title>
+			<dc:description>Thousands of endangered turtles have begun their annual nesting along the Indian coast. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Olive_Ridley#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Olive_Ridley.gif">
+		<dc:title>Map showing the distribution of the Olive ridley turtle species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Ridley_sea_turtle#genus"><rdfs:label>Lepidochelys</rdfs:label><wo:species rdf:resource="/nature/life/Olive_Ridley#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sea_turtle#family"><rdfs:label>Cheloniidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Turtle#order"><rdfs:label>Testudines</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

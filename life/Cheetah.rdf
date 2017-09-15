@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Cheetah">
+		<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Cheetah#species">
+				<rdfs:label>Cheetah</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Cheetah#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/cheetah/cheetah_1.jpg"/>
+
+				<dc:description>Cheetahs are found in sub-Saharan Africa and Northern Iran. Reaching speeds of over 100kph (almost 65mph) they are the <a href="/nature/collections/p00hldcc">fastest animals</a> on land, easily capable of outrunning any other animal over short distances. To perfect their <a href="/nature/adaptations/Running">locomotive</a> skill, cheetahs have evolved harder paws than most other <a href="/nature/life/Felidae">cats</a> and have claws that are only semi-retractable. These provide continuous traction that allows the cheetah to make quick turns at top speed. Full sprints take a lot of energy, last roughly 20 seconds and rarely exceed a minute. Unfortunately for the cheetah, most of their hunts still fail.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Achieving speeds over 100kph (65mph) cheetahs are the fastest animals on land.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cheetah"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3b8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Acinonyx#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Cheetah#name">
+				<rdfs:label>Acinonyx jubatus</rdfs:label>
+				        <wo:commonName>Cheetah</wo:commonName>
+        										<wo:scientificName>jubatusjubatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Acinonyx</wo:genusName><wo:speciesName>jubatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/cheetah/cheetah_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Cheetah#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ch/cheetah/cheetah_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00mk78k#programme">
+			<dc:title>Cheetah race</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4f6z#programme">
+			<dc:title>Hello Kike</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4dv1#programme">
+			<dc:title>Cheetah lesson</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4dnm#programme">
+			<dc:title>Lucky escape</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4dcr#programme">
+			<dc:title>Kike's toilet break</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4d6y#programme">
+			<dc:title>Perfect viewpoint</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4cy8#programme">
+			<dc:title>Kike's example</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f475x#programme">
+			<dc:title>Skill and stamina</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f473j#programme">
+			<dc:title>Introducing Toto</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f472x#programme">
+			<dc:title>Toto in trouble</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f46z8#programme">
+			<dc:title>A close shave</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f46wc#programme">
+			<dc:title>Adventurous Toto</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f461d#programme">
+			<dc:title>Toto's farewell</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f457r#programme">
+			<dc:title>Cheetah chase</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00715j5#programme">
+			<dc:title>Pumped up</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00715gc#programme">
+			<dc:title>Speed sensation</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00699m6#programme">
+			<dc:title>Fleet footed tommies</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00699k1#programme">
+			<dc:title>Speed and stealth</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00698z7#programme">
+			<dc:title>Spotting the weak</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00698t5#programme">
+			<dc:title>Elephant scares cheetah</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00698qs#programme">
+			<dc:title>Cheetah hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004qgxy#programme">
+			<dc:title>Strength in numbers</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c39t#programme">
+			<dc:title>Desert specialists</dc:title>
+			<po:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/c/ch/cheetah/nhc27-08.mp3">
+			<dc:title>Cheetah growling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Cheetah#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cheetah">
+		<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Acinonyx_jubatus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/cheetah/acinonyx-jubatus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.awf.org/content/wildlife/detail/cheetah">
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cheetah.org/?nd=intro_to_the_cheetah">
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.predatorconservation.com/cheetah.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.zsl.org/zsl-whipsnade-zoo/exhibits/cheetah-rock/cheetah-facts,858,AR.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22861142">
+			<dc:title>Cheetah acceleration key to success</dc:title>
+			<dc:description>A study of the movements of cheetahs suggests that their hunting prowess comes not from sheer speed, but from rapid acceleration and deceleration.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/technology-19506130">
+			<dc:title>Cheetah robot 'beats Usain Bolt'</dc:title>
+			<dc:description>A robot called Cheetah achieves a speed faster than world record holder Usain Bolt.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-london-16522929">
+			<dc:title>Cheetah seized by Heathrow staff</dc:title>
+			<dc:description>A cheetah on its way to Russia is stopped at Heathrow Airport by border staff suspicious about its missing identity microchip.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9306000/9306399.stm">
+			<dc:title>'Ghostly' Saharan cheetah filmed</dc:title>
+			<dc:description>One of the first images of the extremely rare Saharan cheetah of Niger has been taken by a camera trap filming at night.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11416240">
+			<dc:title>Cheetah's blind date in Lovers' Lane</dc:title>
+			<dc:description>The UK's first litter of Northern cheetah cubs born were born at Whipsnade Zoo recently, and their birth is largely due to a specially designed part of the animals' enclosure. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-10798747">
+			<dc:title>Cheetah will run again in India</dc:title>
+			<dc:description>The cheetah, eradicated in India by hunting nearly a century ago, will run again in the country, as three sites are earmarked for its reintroduction. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8302000/8302054.stm">
+			<dc:title>Epic cheetah hunt filmed in HD</dc:title>
+			<dc:description>Stunning footage is captured of three cheetahs cooperating to hunt and bring down an adult ostrich.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8261000/8261358.stm">
+			<dc:title>Fingerprints' identify cheetahs 
+</dc:title>
+			<dc:description>Conservationists have developed a new technique to identify cheetahs in the wild from just their paw prints.
+</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Cheetah#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3b8#collection">
+				<dc:title>Jonathan Scott: a wild life in Africa</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Acinonyx#genus"><rdfs:label>Acinonyx</rdfs:label><wo:species rdf:resource="/nature/life/Cheetah#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

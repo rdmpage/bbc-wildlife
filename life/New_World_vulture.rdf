@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/New_World_vulture">
+		<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/New_World_vulture#family">
+				<rdfs:label>New World vultures</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/New_World_vulture#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/new_world_vulture/new_world_vulture_1.jpg"/>
+
+				<dc:description>The condors, the turkey vulture and the black vulture are amongst the members of this family. All the species live in the Americas.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/New_World_vulture"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/New_World_vulture#name">
+				<rdfs:label>Cathartidae</rdfs:label>
+				        <wo:commonName>New World vultures</wo:commonName>
+        										<wo:scientificName>Cathartidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Cathartidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/new_world_vulture/new_world_vulture_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/New_World_vulture#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/ne/new_world_vulture/new_world_vulture_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/New_World_vulture">
+		<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="N">
+			<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="N">
+			<foaf:primaryTopic rdf:resource="/nature/family/New_World_vulture#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label><wo:family rdf:resource="/nature/life/New_World_vulture#family"/><wo:family rdf:resource="/nature/life/Accipitridae#family"/><wo:family rdf:resource="/nature/life/Falconidae#family"/><wo:family rdf:resource="/nature/life/Pandionidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/American_Black_Vulture#family"><rdfs:label>American black vulture</rdfs:label><wo:family rdf:resource="/nature/life/New_World_vulture#family"/></wo:Species><wo:Species rdf:about="/nature/life/Andean_Condor#family"><rdfs:label>Andean condor</rdfs:label><wo:family rdf:resource="/nature/life/New_World_vulture#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

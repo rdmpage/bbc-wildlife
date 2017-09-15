@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/American_Black_Bear">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/American_Black_Bear#species">
+				<rdfs:label>Black bear</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/American_Black_Bear#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_black_bear/american_black_bear_1.jpg"/>
+
+				<dc:description>Black bears are found only in <a href="/nature/places/North_America">North America</a> and have a relatively impressive population base - double that of all other <a href="/nature/life/Bear">bear</a> species combined. Despite the common name, their coats vary from light cinnamon to dark charcoal, variants thought to have evolved from different regional geographical pressures. Black bears are full of curiosity and have complex family relationships which result from the slow maturation of cubs. During this time, <a href="/nature/adaptations/Maternal_effect">mothers</a> impart vital hunting and navigational skills to their offspring.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Black bears are highly efficient  <a href="/nature/adaptations/Hibernation">hibernators</a>; they can sleep for up to seven months without eating or drinking.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/American_Black_Bear"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Ursus_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bear#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/American_Black_Bear#name">
+				<rdfs:label>Ursus americanus</rdfs:label>
+				        <wo:commonName>Black bear</wo:commonName>
+        								<wo:commonName>North American black bear</wo:commonName>
+								<wo:scientificName>americanusamericanus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Ursidae</wo:familyName><wo:genusName>Ursus</wo:genusName><wo:speciesName>americanus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_black_bear/american_black_bear_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/American_Black_Bear#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/american_black_bear/american_black_bear_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f77k0#programme">
+			<dc:title>Cubs at play</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f76g8#programme">
+			<dc:title>Dare devils</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f759k#programme">
+			<dc:title>Berry binge</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3xth#programme">
+			<dc:title>Bear cub playmate</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3xgn#programme">
+			<dc:title>Bear physical</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3bmr#programme">
+			<dc:title>Bear swipe</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3bkm#programme">
+			<dc:title>Predatory bears</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3bjp#programme">
+			<dc:title>Monitoring male bears</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3bj1#programme">
+			<dc:title>Hope alone</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3bh8#programme">
+			<dc:title>Easy living</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3bgl#programme">
+			<dc:title>Cupboard love</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3b88#programme">
+			<dc:title>Bear walking</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx4tf#programme">
+			<dc:title>Bear introductions</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx4nj#programme">
+			<dc:title>New neck accessory</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx4mp#programme">
+			<dc:title>First time mum</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx4m1#programme">
+			<dc:title>Bear hijacks camera</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx4ht#programme">
+			<dc:title>Bear kiss</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx49c#programme">
+			<dc:title>Warning bite</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx44h#programme">
+			<dc:title>Toy teddy bear</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx43m#programme">
+			<dc:title>Reunited</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0053k6l#programme">
+			<dc:title>Precious honey</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0050wgt#programme">
+			<dc:title>Size matters</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0050w7l#programme">
+			<dc:title>Dinner for one</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x889#programme">
+			<dc:title>Bear necessities</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x87s#programme">
+			<dc:title>Bulking up</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x83l#programme">
+			<dc:title>Defuzzing fun</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x831#programme">
+			<dc:title>Separate lives</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x82n#programme">
+			<dc:title>New beginnings</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x821#programme">
+			<dc:title>Three amigos</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x7yj#programme">
+			<dc:title>Bear hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004x7xc#programme">
+			<dc:title>June busts out</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/am/american_black_bear/5099030.mp3">
+			<dc:title>Black bear cubs with their mother</dc:title>
+			<dc:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/am/american_black_bear/nwbotn04.mp3">
+			<dc:title>Contented hum of black bear cubs suckling</dc:title>
+			<dc:subject rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/American_Black_Bear">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Ursus_americanus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://nationalzoo.si.edu/Publications/ZooGoer/1999/2/fact-americanblack.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.americanbear.org/blackbearfacts.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/american-black-bear/ursus-americanus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bear.org/website/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=15&amp;Itemid=38">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=9643">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sdnhm.org/fieldguide/mammals/ursu-ame.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-21890034">
+			<dc:title>Up close and cuddly with Colorado's black bears</dc:title>
+			<dc:description>As bears and humans increasingly cross paths, wildlife researchers in Colorado are tagging the beasts to track their unpredictable behaviour.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18447587">
+			<dc:title>Black bears show counting skills</dc:title>
+			<dc:description>Black bears demonstrate they have counting abilities during touch-screen computer tests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17404059">
+			<dc:title>Bears' wounds heal as they sleep</dc:title>
+			<dc:description>Black bears' wounds heal scar- and infection-free as they hibernate, researchers find; a discovery that could aid the treatment of human wounds. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15075332">
+			<dc:title>World famous bear believed killed</dc:title>
+			<dc:description>A wild bear whose birth was shown live around the world on the internet is believed to have been shot and killed by a hunter in Minnesota, US.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-11401167">
+			<dc:title>Woman repels bear using courgette</dc:title>
+			<dc:description>A woman from the US state of Montana has fought off a 200lb (90kg) black bear with a courgette from her garden.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8462000/8462296.stm">
+			<dc:title>First wild bear birth filmed live</dc:title>
+			<dc:description>The birth of a wild black bear may be shown live on the internet, scientists hope.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8344000/8344367.stm">
+			<dc:title>Spirit bears become 'invisible'</dc:title>
+			<dc:description>On a few islands in western Canada, white 'spirit bears' walk the woods.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8320000/8320414.stm">
+			<dc:title>The man who walks with bears</dc:title>
+			<dc:description>Black bears are often considered among the most dangerous animals in North America, depicted down the years as ferocious predators threatening to man.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/minnesota/stories/blackbear">
+			<dc:title>Charmed by a black bear</dc:title>
+			<dc:description>When programme maker Ted Oakes went to the Northwoods of Minnesota to film black bears, he had no idea that he would have such an intimate encounter.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Black_Bear#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Ursus_(genus)#genus"><rdfs:label>Ursus</rdfs:label><wo:species rdf:resource="/nature/life/American_Black_Bear#species"/><wo:species rdf:resource="/nature/life/Brown_Bear#species"/><wo:species rdf:resource="/nature/life/Polar_bear#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bear#family"><rdfs:label>Ursidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

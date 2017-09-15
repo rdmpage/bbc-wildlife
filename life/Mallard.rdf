@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Mallard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Mallard#species">
+				<rdfs:label>Mallard</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Mallard#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/mallard/mallard_1.jpg"/>
+
+				<dc:description>Mallards are the archetypal and most recognisable ducks. They are found wherever there is water, from <a href="http://www.bbc.co.uk/nature/habitats/River">rivers and lakes</a> to remote <a href="http://www.bbc.co.uk/nature/habitats/Lake">ponds</a> and coastal <a href="http://www.bbc.co.uk/nature/habitats/Marsh">marshes</a>. It is their adaptablility to all kinds of environment that has brought mallards to <a href="http://www.bbc.co.uk/nature/habitats/Urban_ecosystem">towns</a> and <a href="http://www.bbc.co.uk/nature/habitats/Park">parks</a>. The males sport a glossy green head and white neck ring, and what the females lack in colour they make up for in noise. The familiar 'quack' is the <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_(sense)">call</a> of the female summoning her ducklings. Mallards are the ancestors of many breeds of domestic duck and readily interbreed with them.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> The loud 'quack-quack' of a female duck can be heard for miles.  
+<br />
+<br />
+<a href="/nature/19700707">All you need to know about British birds.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mallard"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Anas#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Anatidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Anseriformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Mallard#name">
+				<rdfs:label>Anas platyrhynchos</rdfs:label>
+				        <wo:commonName>Mallard</wo:commonName>
+        								<wo:commonName>Wild duck</wo:commonName>
+								<wo:scientificName>platyrhynchosplatyrhynchos</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Anseriformes</wo:orderName><wo:familyName>Anatidae</wo:familyName><wo:genusName>Anas</wo:genusName><wo:speciesName>platyrhynchos</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/mallard/mallard_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Mallard#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/mallard/mallard_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081cmb#programme">
+			<dc:title>Local amenity</dc:title>
+			<po:subject rdf:resource="/nature/species/Mallard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081ckq#programme">
+			<dc:title>Wild nature</dc:title>
+			<po:subject rdf:resource="/nature/species/Mallard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007tbfp#programme">
+			<dc:title>Duck decoy</dc:title>
+			<po:subject rdf:resource="/nature/species/Mallard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007t9v9#programme">
+			<dc:title>Daredevil ducklings</dc:title>
+			<po:subject rdf:resource="/nature/species/Mallard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007qxgf#programme">
+			<dc:title>Great leaps</dc:title>
+			<po:subject rdf:resource="/nature/species/Mallard#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/ma/mallard/5012010.mp3">
+			<dc:title>Calling mallard ducks</dc:title>
+			<dc:subject rdf:resource="/nature/species/Mallard#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mallard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Anas_platyrhynchos.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob1860.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/mallard/anas-platyrhynchos/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=027083">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhptv.org/NatureWorks/mallard.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/advice/helpingbirds/nesting_mallards/ducklings.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9454000/9454586.stm">
+			<dc:title>Ducks' bill colour gives STD clue</dc:title>
+			<dc:description>Ducks use bill colour to determine their mates' sexual health, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/wild-fowl/10259.html">
+			<dc:title>Wild fowl</dc:title>
+			<dc:description>At a waterworks nature reserve a group of children watch wild fowl from a viewing platform.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/northernireland/schools/4_11/tandy/projects/world_around_us/topic_feb.shtml">
+			<dc:title>BBC - TANDY - The World Around Us - February</dc:title>
+			<dc:description>Welcome to our new TANDY site, jam-packed full of loads of cool things. Tune in to BBC Radio Ulster MW 1341 every Tuesday at 11.20am or listen online.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/find-out-about-mallards-moulting/10372.html">
+			<dc:title>Find out about mallards moulting</dc:title>
+			<dc:description>The children give us clues for how to find mallards moulting.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Mallard#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Anas#genus"><rdfs:label>Anas</rdfs:label><wo:species rdf:resource="/nature/life/Mallard#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Anatidae#family"><rdfs:label>Anatidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Anseriformes#order"><rdfs:label>Anseriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Goliath_birdeater">
+		<foaf:primaryTopic rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Goliath_birdeater#species">
+				<rdfs:label>Goliath bird-eating spider</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Goliath_birdeater#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/go/goliath_birdeater/goliath_birdeater_1.jpg"/>
+
+				<dc:description>Goliath bird-eating spiders are <a href="http://www.bbc.co.uk/nature/life/Tarantula">tarantulas</a> of epic proportions. Biggest by mass and coming very close to the giant huntsman for the title of largest <a href="http://www.bbc.co.uk/nature/life/Spider">spider</a> in the world. As their name suggests, Goliath bird-eaters are certainly big enough to eat a <a href="http://www.bbc.co.uk/nature/life/Bird">bird</a>, although they rarely do, preferring smaller <a href="http://www.bbc.co.uk/nature/life/Insect">insects</a> and invertebrates. Interestingly, it was a Victorian explorer who first reported these giant <a href="http://www.bbc.co.uk/nature/life/Spider">spiders</a> and witnessed one eating a <a href="http://www.bbc.co.uk/nature/life/Hummingbird">hummingbird</a>. Like most <a href="http://www.bbc.co.uk/nature/life/Tarantula">tarantulas</a>, Goliath bird-eaters are fairly harmless to <a href="http://www.bbc.co.uk/nature/life/Human">humans</a>. They only attack when threatened and their bite is no worse than the sting of a <a href="http://www.bbc.co.uk/nature/life/Vespidae">wasp</a>. They live in deep burrows in the <a href="http://www.bbc.co.uk/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests">rainforests</a> of northern <a href="http://www.bbc.co.uk/nature/places/South_America">South America</a>.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Goliath_birdeater"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Goliath_birdeater.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Theraphosa#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Tarantula#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Spider#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Arachnid#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Goliath_birdeater#name">
+				<rdfs:label>Theraphosa blondi</rdfs:label>
+				        <wo:commonName>Goliath bird-eating spider</wo:commonName>
+        								<wo:commonName>Giant bird-eater spider</wo:commonName>
+						<wo:commonName>Giant bird-eating tarantula</wo:commonName>
+						<wo:commonName>Giant tarantula</wo:commonName>
+						<wo:commonName>Goliath Birdeater</wo:commonName>
+								<wo:scientificName>blondiblondi</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Arachnida</wo:className><wo:orderName>Araneae</wo:orderName><wo:familyName>Theraphosidae</wo:familyName><wo:genusName>Theraphosa</wo:genusName><wo:speciesName>blondi</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/go/goliath_birdeater/goliath_birdeater_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/go/goliath_birdeater/goliath_birdeater_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dlr0s#programme">
+			<dc:title>Snacking on giant spiders</dc:title>
+			<po:subject rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqdfg#programme">
+			<dc:title>Goliath bird-eater</dc:title>
+			<po:subject rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00btpsy#programme">
+			<dc:title>Hair-flicking and fangs</dc:title>
+			<po:subject rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Goliath_birdeater">
+		<foaf:primaryTopic rdf:resource="/nature/species/Goliath_birdeater#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/giant-tarantula/theraphosa-blondi/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.blueplanetbiomes.org/goliath_bird_eating_spider.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1182372">
+			<foaf:primaryTopic rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/amazonarachnids/stories/worldsbiggestspider">
+			<dc:title>Searching for the world's biggest spider</dc:title>
+			<dc:description></dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Goliath_birdeater#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Goliath_birdeater.gif">
+		<dc:title>Map showing the distribution of the Goliath bird-eating spider species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Theraphosa#genus"><rdfs:label>Theraphosa</rdfs:label><wo:species rdf:resource="/nature/life/Goliath_birdeater#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Tarantula#family"><rdfs:label>Theraphosidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Spider#order"><rdfs:label>Araneae</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Arachnid#class"><rdfs:label>Arachnida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

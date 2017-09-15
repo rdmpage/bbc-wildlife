@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Topi">
+		<foaf:primaryTopic rdf:resource="/nature/species/Topi#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Topi#species">
+				<rdfs:label>Topi</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Topi#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/to/topi/topi_1.jpg"/>
+
+				<dc:description>Topi are a grazing antelope with a mahogany and black coat that live in large migratory herds on African grasslands. Both sexes sport the almost two feet long heavily ringed lyre-shaped horns. They join up with other <a href="/nature/adaptations/Herbivore">herbivores</a> such as <a href="/nature/life/Blue_Wildebeest">wildebeests</a>, zebras and gazelles and are referred to as the savannah security, spending hours standing on a termite mound and announcing the dangers of approaching predators such as <a href="/nature/life/Felidae">big cats</a>
+ and <a href="/nature/life/Spotted_Hyena">hyenas</a> to all.  
+<br />
+<br />
+During the mating season, male topi gather to form 'leks' which are small patches of ground that they attempt to <a href="/nature/adaptations/Territory_(animal)">defend from rivals</a> and <a href="/nature/adaptations/Courtship_display">display their fitness</a> to potential mates. Receptive females leave their herd and travel to the lekking site, choosing several males to mate with over a couple of days.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Topi"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Topi.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Damaliscus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bovid#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Topi#name">
+				<rdfs:label>Damaliscus korrigum</rdfs:label>
+				        <wo:commonName>Topi</wo:commonName>
+        								<wo:commonName>Korrigum</wo:commonName>
+						<wo:commonName>Tiang</wo:commonName>
+								<wo:scientificName>korrigumkorrigum</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Bovidae</wo:familyName><wo:genusName>Damaliscus</wo:genusName><wo:speciesName>korrigum</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/to/topi/topi_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Topi#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/to/topi/topi_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4dnm#programme">
+			<dc:title>Lucky escape</dc:title>
+			<po:subject rdf:resource="/nature/species/Topi#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Topi">
+		<foaf:primaryTopic rdf:resource="/nature/species/Topi#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/accounts/Damaliscus_lunatus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Topi#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/topi/damaliscus-lunatus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Topi#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.awf.org/content/wildlife/detail/topi">
+			<foaf:primaryTopic rdf:resource="/nature/species/Topi#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Artiodactyla/Damaliscus_lunatus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Topi#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Topi.gif">
+		<dc:title>Map showing the distribution of the Topi species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Damaliscus#genus"><rdfs:label>Damaliscus</rdfs:label><wo:species rdf:resource="/nature/life/Topi#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bovid#family"><rdfs:label>Bovidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

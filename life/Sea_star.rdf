@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Sea_star">
+		<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Sea_star#class">
+				<rdfs:label>Starfish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Sea_star#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_star/sea_star_1.jpg"/>
+
+				<dc:description>Starfish, also know as sea stars, are a class of echinoderms. The majority of the 1,500 species live in the sea, though a few can tolerate and be found in brackish water. Starfish larvae are free-swimming, while the adults live on the seabed. Most types of starfish have five arms. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sea_star"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Sea_star.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Sea_star#name">
+				<rdfs:label>Asteroidea</rdfs:label>
+				        <wo:commonName>Starfish</wo:commonName>
+        										<wo:scientificName>Asteroidea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Echinodermata</wo:phylumName><wo:className>Asteroidea</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_star/sea_star_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Sea_star#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/se/sea_star/sea_star_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sea_star">
+		<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Asteroidea.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.microscopy-uk.org.uk/mag/indexmag.html?http://www.microscopy-uk.org.uk/mag/art98/janstar.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oceaneyephoto.com/gallery_32971.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.perspective.com/nature/animalia/starfish.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/sea-urchins-destroy-kelp-forests/10492.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Sea urchins fell and invade marine kelp forests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8378000/8378512.stm">
+			<dc:title>Monster worm and sea star frenzy</dc:title>
+			<dc:description>Deep under the Antarctic ice, a rare colourful burst of starfish and monster worms is filmed by BBC camera crew.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/britainshiddenworlds/stories/starfishenterprise">
+			<dc:title>Star fish enterprise</dc:title>
+			<dc:description>In our coastal waters life is ruled by the moon rather than the sun. Julian Hector goes in search of a brittlestar.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_star#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Sea_star.gif">
+		<dc:title>Map showing the distribution of the Starfish class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Echinoderm#phylum"><rdfs:label>Echinodermata</rdfs:label><wo:class rdf:resource="/nature/life/Sea_star#class"/><wo:class rdf:resource="/nature/life/Sea_urchin#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Crown-of-thorns_starfish#class"><rdfs:label>Crown-of-thorns starfish</rdfs:label><wo:class rdf:resource="/nature/life/Sea_star#class"/></wo:Species><wo:Species rdf:about="/nature/life/Sunflower_starfish#class"><rdfs:label>Sunflower star</rdfs:label><wo:class rdf:resource="/nature/life/Sea_star#class"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

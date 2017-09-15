@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Herring_Gull">
+		<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Herring_Gull#species">
+				<rdfs:label>Herring gull</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Herring_Gull#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/herring_gull/herring_gull_1.jpg"/>
+
+				<dc:description>Herring gulls are champion opportunists, feeding on anything from discarded fish offal, to the chicks of other birds. They have a fondness for a good rubbish dump, particularly during winter when tourists laden with bags of chips are harder to find. This familiar gull can be distinguished from other gulls by its large size and grey upper parts. Despite its supreme versatility, herring gulls have suffered a 50% decline over the past 30 years, the cause of which is unclear.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Herring_Gull"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Kleptoparasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Larus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Gull#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Charadriiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Herring_Gull#name">
+				<rdfs:label>Larus argentatus</rdfs:label>
+				        <wo:commonName>Herring gull</wo:commonName>
+        										<wo:scientificName>argentatusargentatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Charadriiformes</wo:orderName><wo:familyName>Laridae</wo:familyName><wo:genusName>Larus</wo:genusName><wo:speciesName>argentatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/herring_gull/herring_gull_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Herring_Gull#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/he/herring_gull/herring_gull_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xvlz#programme">
+			<dc:title>Herring gull calls</dc:title>
+			<po:subject rdf:resource="/nature/species/Herring_Gull#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xvj5#programme">
+			<dc:title>Tapping the parents</dc:title>
+			<po:subject rdf:resource="/nature/species/Herring_Gull#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xvgp#programme">
+			<dc:title>Too close for comfort?</dc:title>
+			<po:subject rdf:resource="/nature/species/Herring_Gull#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003bby2#programme">
+			<dc:title>Scavenging seagulls</dc:title>
+			<po:subject rdf:resource="/nature/species/Herring_Gull#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/h/he/herring_gull/nhs684-17.mp3">
+			<dc:title>A herring gull colony</dc:title>
+			<dc:subject rdf:resource="/nature/species/Herring_Gull#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Herring_Gull">
+		<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Larus_argentatus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Herring_Gull/lifehistory">
+			<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/herring-gull/larus-argentatus-argenteus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=61015">
+			<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.guardian.co.uk/environment/2009/aug/19/seagulls-birdwatching-stephen-moss">
+			<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/h/herringgull/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Herring_Gull#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Kleptoparasitism#adaptation">
+					<rdfs:label>Kleptoparasitic</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Larus#genus"><rdfs:label>Larus</rdfs:label><wo:species rdf:resource="/nature/life/Herring_Gull#species"/><wo:species rdf:resource="/nature/life/Great_Black-backed_Gull#species"/><wo:species rdf:resource="/nature/life/Lesser_Black-backed_Gull#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Gull#family"><rdfs:label>Laridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Charadriiformes#order"><rdfs:label>Charadriiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

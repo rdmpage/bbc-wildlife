@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Eucalyptus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Eucalyptus#genus">
+				<rdfs:label>Eucalyptus trees</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Eucalyptus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eucalyptus/eucalyptus_1.jpg"/>
+
+				<dc:description>Eucalyptus trees are native to Australia, New Guinea and parts of Indonesia. Fast-growing species have been introduced to Africa, India, the Americas and Europe for the commercial production of oil, timber and so on. Most eucalyptus trees are evergreen, though some shed their leaves in the dry season.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eucalyptus"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Eucalyptus.gif"/>
+		
+										    
+    								
+					
+                                                                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Eucalyptus#name">
+				<rdfs:label>Eucalyptus</rdfs:label>
+				        <wo:commonName>Eucalyptus trees</wo:commonName>
+        								<wo:commonName>Gum trees</wo:commonName>
+								<wo:scientificName>Eucalyptus</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Myrtales</wo:orderName><wo:familyName>Myrtaceae</wo:familyName><wo:genusName>Eucalyptus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eucalyptus/eucalyptus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/eucalyptus/eucalyptus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00by767#programme">
+			<dc:title>Friendly fire</dc:title>
+			<po:subject rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00by546#programme">
+			<dc:title>Gum blaze</dc:title>
+			<po:subject rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eucalyptus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://asgap.org.au/eucal1a.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://asgap.org.au/eucal7.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.anbg.gov.au/cpbr/cd-keys/Euclid/sample/html/classification.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/10566.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/299.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/3068.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.botanical.com/botanical/mgmh/e/eucaly14.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-10871340">
+			<dc:title>Cannock Chase tree planting aims to replace fossil fuel</dc:title>
+			<dc:description>Thousands of native Australian trees are planted in a beauty spot in Staffordshire to harvest later as an alternative to burning fossil fuels.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eucalyptus#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Eucalyptus.gif">
+		<dc:title>Map showing the distribution of the Eucalyptus trees genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Myrtaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Eucalyptus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Myrtales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

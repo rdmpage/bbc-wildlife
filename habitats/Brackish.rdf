@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/habitats/Brackish">
+		<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+		<rdfs:seeAlso rdf:resource="/nature/habitats"/>
+	</rdf:Description>
+
+		<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+				<rdfs:label>Brackish water</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brackish/brackish_1.jpg"/>
+
+				<dc:description>Brackish water describes the part salty, part fresh mix found where the two meet in such places as estuaries, deltas and mangrove swamps. It's also found on the surface layer of the Baltic and Black Seas, where the salt water is diluted by the many freshwater courses that pour into them. Since conditions are optimal for neither freshwater or marine creatures, brackish waters often lack diversity.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Brackish"/>
+		
+		
+										 				    									
+									
+				
+				
+        
+
+				
+					<wo:ecozone rdf:resource="/nature/ecozones/Australasia_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Afrotropic_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Indomalaya_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Oceania_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Nearctic_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Neotropic_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Palearctic_ecozone#ecozone"/>
+						</wo:FreshwaterHabitat>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brackish/brackish_1.jpg">
+		<foaf:depicts rdf:resource="/nature/habitats/Brackish#habitat"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/br/brackish/brackish_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/br/brackish/mna16-04.mp3">
+			<dc:title>The Chilkoot river estuary</dc:title>
+			<dc:subject rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/br/brackish/nhs1251-10.mp3">
+			<dc:title>Estuary in Western Australia</dc:title>
+			<dc:subject rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/br/brackish/nhs543-01.mp3">
+			<dc:title>An English estuary</dc:title>
+			<dc:subject rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Brackish">
+		<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Brackish#habitat"/>
+		</foaf:Document>
+			
+					
+										
+		
+	
+								
+		
+
+
+
+
+	
+	
+					    						    		    		<wo:Species rdf:about="/nature/life/American_crocodile#species">
+    			<rdfs:label>American crocodile</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Aurelia_aurita#species">
+    			<rdfs:label>Common jellyfish</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Beluga_(whale)#species">
+    			<rdfs:label>Beluga whale</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    						    						    		    		<wo:Species rdf:about="/nature/life/Common_Goldeneye#species">
+    			<rdfs:label>Goldeneye</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_Ringed_Plover#species">
+    			<rdfs:label>Common ringed plover</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    						    						    						    		    		<wo:Species rdf:about="/nature/life/Gray_Seal#species">
+    			<rdfs:label>Grey seal</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Great_Northern_Loon#species">
+    			<rdfs:label>Great northern diver</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Harbor_Seal#species">
+    			<rdfs:label>Common seal</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Harbour_porpoise#species">
+    			<rdfs:label>Harbour porpoise</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Lemon_shark#species">
+    			<rdfs:label>Lemon shark</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    						    						    						    		    		<wo:Species rdf:about="/nature/life/Pied_Avocet#species">
+    			<rdfs:label>Avocet</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    						    						    						    		    		<wo:Species rdf:about="/nature/life/Spectacled_Caiman#species">
+    			<rdfs:label>Spectacled caiman</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Three-spined_stickleback#species">
+    			<rdfs:label>Three-spined stickleback</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Wood_Stork#species">
+    			<rdfs:label>Wood stork</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Brackish#habitats"/>
+    		</wo:Species>
+    					
+						<wo:Ecozone rdf:about="/nature/ecozones/Australasia_ecozone#ecozone">
+			<rdfs:label>Australasia</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Afrotropic_ecozone#ecozone">
+			<rdfs:label>Afrotropics</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Indomalaya_ecozone#ecozone">
+			<rdfs:label>Indo-Malay</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Oceania_ecozone#ecozone">
+			<rdfs:label>Oceania</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Nearctic_ecozone#ecozone">
+			<rdfs:label>Nearctic</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Neotropic_ecozone#ecozone">
+			<rdfs:label>Neotropical</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Palearctic_ecozone#ecozone">
+			<rdfs:label>Palaearctic</rdfs:label>
+		</wo:Ecozone>
+			    
+</rdf:RDF>

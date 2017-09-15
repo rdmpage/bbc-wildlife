@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Bothrops_asper">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bothrops_asper#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Bothrops_asper#species">
+				<rdfs:label>Fer-de-lance</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Bothrops_asper#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bothrops_asper/bothrops_asper_1.jpg"/>
+
+				<dc:description>Fer-de-lances are one of the largest and most deadly snakes of Central and South America. They are Costa Rica's most feared snake and with good reason: 50% of all snakebites are from this venomous viper. Described as the ultimate pit-viper, fer-de-lances are excitable, unpredictable and can deliver swift and aggressive strikes. With up to 90 live young born in a single brood, they are a common cause of snakebites in their range. During the day, fer-de-lance lie coiled amongst the leaf-litter, where their long, thick bodies can be hard to spot. Come sundown, the search begins for something to eat.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bothrops_asper"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Bothrops_asper.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Bothrops#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Viperidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Bothrops_asper#name">
+				<rdfs:label>Bothrops asper</rdfs:label>
+				        <wo:commonName>Fer-de-lance</wo:commonName>
+        								<wo:commonName>Terciopelo</wo:commonName>
+								<wo:scientificName>asperasper</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Viperidae</wo:familyName><wo:genusName>Bothrops</wo:genusName><wo:speciesName>asper</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bothrops_asper/bothrops_asper_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Bothrops_asper#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bo/bothrops_asper/bothrops_asper_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0091ffs#programme">
+			<dc:title>Small but deadly</dc:title>
+			<po:subject rdf:resource="/nature/species/Bothrops_asper#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bothrops_asper">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bothrops_asper#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Bothrops_asper.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bothrops_asper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://carnivoraforum.com/index.cgi?board=reptiles&amp;action=print&amp;thread=3571">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bothrops_asper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ypte.org.uk/animal/fer-de-lance/119">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bothrops_asper#species"/>
+		</foaf:Document>
+			
+					
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Bothrops_asper.gif">
+		<dc:title>Map showing the distribution of the Fer-de-lance species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Bothrops#genus"><rdfs:label>Bothrops</rdfs:label><wo:species rdf:resource="/nature/life/Bothrops_asper#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Viperidae#family"><rdfs:label>Viperidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

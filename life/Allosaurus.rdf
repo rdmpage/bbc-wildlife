@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Allosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Allosaurus#genus">
+				<rdfs:label>Allosaurus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Allosaurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/al/allosaurus/allosaurus_1.jpg"/>
+
+				<dc:description>Allosaurus were big, mean killing machines that reigned supreme during the late Jurassic period. They were the most common huge predators in North America 140 million years ago, reaching an impressive 12 metres in length and weighing up to four tonnes. These carnivorous dinosaurs could rip and tear chunks out of the large plant-eating sauropods and stegosaurs of the time. The enormous jaw was filled with long, serrated, back-curving teeth. Near perfect examples of this classic shaped theropod dinosaur were discovered in Wyoming and called Big Al and Big Al Two. Allosaurus fossil remains are extremely rare outside America.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Allosaurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Allosaurus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Allosauridae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Allosaurus#name">
+				<rdfs:label>Allosaurus</rdfs:label>
+														<wo:scientificName>Allosaurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName><wo:familyName>Allosauridae</wo:familyName><wo:genusName>Allosaurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/al/allosaurus/allosaurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Allosaurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/al/allosaurus/allosaurus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kx7cx#programme">
+			<dc:title>Allosaurus</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kv3b1#programme">
+			<dc:title>Giants of the Jurassic</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kv36k#programme">
+			<dc:title>Element of surprise</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9bsc#programme">
+			<dc:title>Confrontation</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97zs#programme">
+			<dc:title>Meeting your match</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97z2#programme">
+			<dc:title>Hunting lesson</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97y5#programme">
+			<dc:title>Salt lake attack</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97xk#programme">
+			<dc:title>Dinosaur death trap</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97x3#programme">
+			<dc:title>Smelling good</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97w6#programme">
+			<dc:title>Allosaurus eggs</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97vf#programme">
+			<dc:title>Growing up fast</dc:title>
+			<po:subject rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Allosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bbc.co.uk/sn/prehistoric_life/tv_radio/big_al/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=6029&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossilmuseum.net/DinosaurFossils/Allosaurus/allosaurus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genusqtype=starts+with&amp;disp=list&amp;identifier=allo&amp;sort=Genus&amp;dataHeaderText_EX=dinosaurs+beginning+with+%27A%27&amp;Genus=A&amp;beginIndex=13&amp;listPageURL=nameAZ.dsml%3fGenusqtype%3dstarts%2bwith%26disp%3dlist%26sort%3dGenus%26beginIndex%3d10%26Genus%3dA">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rareresource.com/allosaurus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.uwyo.edu/geomuseum/info.asp?p=23114">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-11430159">
+			<dc:title>Who buys a dinosaur skeleton?</dc:title>
+			<dc:description>The BBC's Olivia Lang reports on the trend of collecting dinosaur fossils, as Sothebys auction house puts a partially complete Allosaurus skeleton up for sale in Paris.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Allosaurus#genus"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Allosaurus.gif">
+		<dc:title>Map showing the distribution of the Allosaurus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Allosauridae#family"><rdfs:label>Allosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Allosaurus#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Theropoda#suborder"><rdfs:label>Theropoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

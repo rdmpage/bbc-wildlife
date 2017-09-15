@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Steller's_Sea_Eagle">
+		<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Steller's_Sea_Eagle#species">
+				<rdfs:label>Steller's sea eagle</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Steller's_Sea_Eagle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/stellers_sea_eagle/stellers_sea_eagle_1.jpg"/>
+
+				<dc:description>Steller’s sea eagles are native to eastern Russia, inhabiting coastal cliffs and estuaries where they can easily access good fishing territories. They feed primarily on salmon, which they catch by swooping from perches located by the water's edge. Pairs are monogamous and hatch an average of two chicks each season, although crows and martens commonly take both eggs and young birds from the nest. During winter a small number of birds remain in Russia to tough it out, but the majority fly south to Japan.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Steller's_Sea_Eagle"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Sea_eagle#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Accipitridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Steller's_Sea_Eagle#name">
+				<rdfs:label>Haliaeetus pelagicus</rdfs:label>
+				        <wo:commonName>Steller's sea eagle</wo:commonName>
+        										<wo:scientificName>pelagicuspelagicus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Accipitridae</wo:familyName><wo:genusName>Haliaeetus</wo:genusName><wo:speciesName>pelagicus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/stellers_sea_eagle/stellers_sea_eagle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/st/stellers_sea_eagle/stellers_sea_eagle_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhn1t#programme">
+			<dc:title>Lunch on the wing</dc:title>
+			<po:subject rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382f5#programme">
+			<dc:title>Steller's sea eagle</dc:title>
+			<po:subject rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/st/stellers_sea_eagle/5015017.mp3">
+			<dc:title>Calls from Steller's and white-tailed sea eagles</dc:title>
+			<dc:subject rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Steller's_Sea_Eagle">
+		<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Haliaeetus_pelagicus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/stellers-sea-eagle/haliaeetus-pelagicus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3366&amp;m=0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flickr.com/search/show/?q=steller+sea+eagle&amp;s=int">
+			<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/144342/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.natural-research.org/index.php?cID=169">
+			<foaf:primaryTopic rdf:resource="/nature/species/Steller's_Sea_Eagle#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Sea_eagle#genus"><rdfs:label>Haliaeetus</rdfs:label><wo:species rdf:resource="/nature/life/Steller's_Sea_Eagle#species"/><wo:species rdf:resource="/nature/life/African_Fish_Eagle#species"/><wo:species rdf:resource="/nature/life/White-tailed_Eagle#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Accipitridae#family"><rdfs:label>Accipitridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

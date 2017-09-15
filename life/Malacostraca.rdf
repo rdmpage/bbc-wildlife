@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Malacostraca">
+		<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Malacostraca#class">
+				<rdfs:label>Crabs, shrimp and krill</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Malacostraca#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/malacostraca/malacostraca_1.jpg"/>
+
+				<dc:description>Crabs, shrimp and krill and their relatives form a very large class that contains two thirds of the world's crustaceans. This includes all the prawns, lobsters and crayfish that people eat. However, they aren't all marine creatures. Some members, such as the woodlice and land crabs, live on land for all or part of their life.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Malacostraca"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Malacostraca.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Malacostraca#name">
+				<rdfs:label>Malacostraca</rdfs:label>
+				        <wo:commonName>Crabs, shrimp and krill</wo:commonName>
+        								<wo:commonName>Malacostracans</wo:commonName>
+								<wo:scientificName>Malacostraca</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Malacostraca</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/malacostraca/malacostraca_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Malacostraca#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/malacostraca/malacostraca_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lyqvy#programme">
+			<dc:title>Killer shrimp</dc:title>
+			<po:subject rdf:resource="/nature/class/Malacostraca#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7sgp#programme">
+			<dc:title>Bottom of the food chain</dc:title>
+			<po:subject rdf:resource="/nature/class/Malacostraca#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Malacostraca">
+		<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Malacostraca.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/8/bgimage">
+			<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/arthropoda/crustacea/malacostraca.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21044077">
+			<dc:title>More evidence of crustacean pain</dc:title>
+			<dc:description>Scientists find further evidence that crabs and other crustaceans feel pain and then take steps to avoid it.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16834913">
+			<dc:title>'Supergiant' found in deepest sea</dc:title>
+			<dc:description>A huge crustacean called a supergiant - more than 30cm long - has been discovered 7km down in the waters north of New Zealand.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9092000/9092638.stm">
+			<dc:title>Deep void yields new fish species</dc:title>
+			<dc:description>A new species of snailfish is discovered in one of the world's deepest ocean trenches, which was previously thought to be devoid of fish.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Malacostraca#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Malacostraca.gif">
+		<dc:title>Map showing the distribution of the Crabs, shrimp and krill class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label><wo:class rdf:resource="/nature/life/Malacostraca#class"/><wo:class rdf:resource="/nature/life/Arachnid#class"/><wo:class rdf:resource="/nature/life/Insect#class"/><wo:class rdf:resource="/nature/life/Millipede#class"/><wo:class rdf:resource="/nature/life/Maxillopoda#class"/><wo:class rdf:resource="/nature/life/Merostomata#class"/><wo:class rdf:resource="/nature/life/Trilobite#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Decapoda#class"><rdfs:label>Crabs, lobsters and shrimp</rdfs:label><wo:class rdf:resource="/nature/life/Malacostraca#class"/></wo:Order>
+	
+	
+		    
+</rdf:RDF>

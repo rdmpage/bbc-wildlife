@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Squamata">
+		<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Squamata#order">
+				<rdfs:label>Scaled reptiles</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Squamata#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sq/squamata/squamata_1.jpg"/>
+
+				<dc:description>Scaled reptiles are the lizards, snakes and slowworms that make up the order known as the Squamata. They all have scaly skins, and all male squamates have two penises.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Squamata"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Squamata#name">
+				<rdfs:label>Squamata</rdfs:label>
+				        <wo:commonName>Scaled reptiles</wo:commonName>
+        								<wo:commonName>Scaled reptiles</wo:commonName>
+								<wo:scientificName>Squamata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sq/squamata/squamata_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Squamata#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sq/squamata/squamata_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b3m3#programme">
+			<dc:title>Completely legless</dc:title>
+			<po:subject rdf:resource="/nature/order/Squamata#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Squamata">
+		<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="S">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="S">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8727863.stm">
+			<dc:title>Snakes in mysterious global decline</dc:title>
+			<dc:description>Snakes may be declining across the world, according to a global study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10113949.stm">
+			<dc:title>Climate change link to lizard extinction</dc:title>
+			<dc:description>Climate change could wipe out 20% of the world's lizard species by 2080, according to a global-scale study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8304000/8304139.stm">
+			<dc:title>Lizards filmed 'walking on water'</dc:title>
+			<dc:description>Remarkable slow-motion film is taken of two lizards that seem to do the impossible - walk on water.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squamata#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label><wo:order rdf:resource="/nature/life/Squamata#order"/><wo:order rdf:resource="/nature/life/Turtle#order"/><wo:order rdf:resource="/nature/life/Crocodilia#order"/><wo:order rdf:resource="/nature/life/Pterosaur#order"/><wo:order rdf:resource="/nature/life/Rauisuchia#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Suborder rdf:about="/nature/life/Lizard#order"><rdfs:label>Lizards</rdfs:label><wo:order rdf:resource="/nature/life/Squamata#order"/></wo:Suborder><wo:Suborder rdf:about="/nature/life/Snake#order"><rdfs:label>Snakes</rdfs:label><wo:order rdf:resource="/nature/life/Squamata#order"/></wo:Suborder>
+	
+	
+		    
+</rdf:RDF>

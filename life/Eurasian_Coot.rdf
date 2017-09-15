@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Eurasian_Coot">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Eurasian_Coot#species">
+				<rdfs:label>Coot</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Eurasian_Coot#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_coot/eurasian_coot_1.jpg"/>
+
+				<dc:description>Coots are territorial and will swim menacingly towards any intruders on their patch. They are closely related to moorhens and, though found in the same highly vegetated lakes and ponds, the two species do not compete for food. Coots dive below the surface, to depths of up to two metres, searching insect larvae and other food. When they take off from the water, they run along the surface. They are sociable birds, often seen feeding together in flocks on ponds.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eurasian_Coot"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Coot#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Rallidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Gruiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Eurasian_Coot#name">
+				<rdfs:label>Fulica atra</rdfs:label>
+				        <wo:commonName>Coot</wo:commonName>
+        								<wo:commonName>Australian coot</wo:commonName>
+						<wo:commonName>bald coot</wo:commonName>
+						<wo:commonName>Common coot</wo:commonName>
+						<wo:commonName>Eurasian coot</wo:commonName>
+						<wo:commonName>white-faced diver</wo:commonName>
+								<wo:scientificName>atraatra</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Gruiformes</wo:orderName><wo:familyName>Rallidae</wo:familyName><wo:genusName>Fulica</wo:genusName><wo:speciesName>atra</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_coot/eurasian_coot_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/eurasian_coot/eurasian_coot_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082ht7#programme">
+			<dc:title>Scrape scraps</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zgsg#programme">
+			<dc:title>Neighbourhood spat</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/eurasian_coot/5026074.mp3">
+			<dc:title>Calls from a coot</dc:title>
+			<dc:subject rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eurasian_Coot">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Fulica_atra.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob4290.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/coot/fulica-atra/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=042123">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/coot.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/c/coot/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Coot#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Coot#genus"><rdfs:label>Fulica</rdfs:label><wo:species rdf:resource="/nature/life/Eurasian_Coot#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Rallidae#family"><rdfs:label>Rallidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Gruiformes#order"><rdfs:label>Gruiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

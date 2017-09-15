@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Crataegus_monogyna">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Crataegus_monogyna#species">
+				<rdfs:label>Hawthorn</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Crataegus_monogyna#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crataegus_monogyna/crataegus_monogyna_1.jpg"/>
+
+				<dc:description>Hawthorns create natural and almost perfectly impenetrable barriers. The thorns of this classic and widespread hedgerow plant have proved too much for animals and humans alike for centuries. However, if left uncut they grow into strong trees of up to 14 metres tall. Also widely known as May or May-trees, hawthorns are steeped in tradition, and their masses of white, scented flowers are linked to the May Day festival. The flowers go on to produce red, berry-like fruits, or haws, that attract birds. The haws can also be made into some pretty fine jams, jellies and wines.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Crataegus_monogyna"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crataegus_monogyna.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Crataegus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Rosaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rosales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Crataegus_monogyna#name">
+				<rdfs:label>Crataegus monogyna</rdfs:label>
+				        <wo:commonName>Hawthorn</wo:commonName>
+        								<wo:commonName>Common hawthorn</wo:commonName>
+						<wo:commonName>Haw</wo:commonName>
+						<wo:commonName>May-tree</wo:commonName>
+						<wo:commonName>Mayblossom</wo:commonName>
+						<wo:commonName>Maythorn</wo:commonName>
+								<wo:scientificName>monogynamonogyna</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Rosales</wo:orderName><wo:familyName>Rosaceae</wo:familyName><wo:genusName>Crataegus</wo:genusName><wo:speciesName>monogyna</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crataegus_monogyna/crataegus_monogyna_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/cr/crataegus_monogyna/crataegus_monogyna_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008lx6k#programme">
+			<dc:title>Unlucky for some</dc:title>
+			<po:subject rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0086g57#programme">
+			<dc:title>May legend</dc:title>
+			<po:subject rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081cts#programme">
+			<dc:title>Hedgerow lore</dc:title>
+			<po:subject rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Crataegus_monogyna">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://apps.kew.org/trees/?page_id=120">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/hawthorn/crataegus-monogyna/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/wildlifegarden/atoz/h/hawthorn.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.whitedragon.org.uk/articles/hawthorn.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/planting-a-hawthorn-hedge/10628.html">
+			<dc:title>Planting a hawthorn hedge</dc:title>
+			<dc:description>The Green Balloon Club meets to help plant a hawthorn hedge.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Crataegus_monogyna#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Calcareous_grassland#habitat">
+					<rdfs:label>Chalk grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crataegus_monogyna.gif">
+		<dc:title>Map showing the distribution of the Hawthorn species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Crataegus#genus"><rdfs:label>Crataegus</rdfs:label><wo:species rdf:resource="/nature/life/Crataegus_monogyna#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Rosaceae#family"><rdfs:label>Rosaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rosales#order"><rdfs:label>Rosales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

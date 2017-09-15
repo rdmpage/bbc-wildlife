@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Spectacled_Eider">
+		<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Spectacled_Eider#species">
+				<rdfs:label>Spectacled eider</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Spectacled_Eider#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/spectacled_eider/spectacled_eider_1.jpg"/>
+
+				<dc:description>Spectacled eiders are large sea ducks with a very noticeable difference. The colourful males are distinguished by black feathers surrounding white eye patches, looking much like a pair of spectacles! The females in comparison are much less showy.
+<br />
+<br />
+Spectacled eiders arrive along the <a href="http://www.bbc.co.uk/nature/habitats/Coast">coast</a> of Alaska and northeastern Siberia to breed during spring, making nests next to ponds out of the <a href="http://www.bbc.co.uk/nature/habitats/Tundra">tundra's</a> high grass. But little is still known about where spectacled eiders spend the winter, it is probably somewhere in the Bering Sea. They differ from other eider ducks in that their feathers extend down to the nostrils on the bill.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Spectacled_Eider"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Spectacled_Eider.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Eider#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Anatidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Anseriformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Spectacled_Eider#name">
+				<rdfs:label>Somateria fischeri</rdfs:label>
+				        <wo:commonName>Spectacled eider</wo:commonName>
+        										<wo:scientificName>fischerifischeri</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Anseriformes</wo:orderName><wo:familyName>Anatidae</wo:familyName><wo:genusName>Somateria</wo:genusName><wo:speciesName>fischeri</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/spectacled_eider/spectacled_eider_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sp/spectacled_eider/spectacled_eider_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l81rn#programme">
+			<dc:title>Last refuge</dc:title>
+			<po:subject rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/sp/spectacled_eider/LISC2038634.mp3">
+			<dc:title>Calling spectacled eider</dc:title>
+			<dc:subject rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Spectacled_Eider">
+		<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://alaska.fws.gov/media/SpecEider_FactSheet.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://alaska.usgs.gov/science/biology/seaducks/spei/index.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Somateria_fischeri.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.alaskasealife.org/New/research/index.php?page=spectacled_eider_research.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mbr-pwrc.usgs.gov/id/framlst/i1580id.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/radio4/worldonthemove/reports/the-spectacled-eider/">
+			<dc:title>The Spectacled Eider</dc:title>
+			<dc:description>Report on The Spectacled Eider for Radio 4's series on animal migration: World On the Move</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8673000/8673614.stm">
+			<dc:title>Walrus attacks on spectacled eider ducks caught on film</dc:title>
+			<dc:description>Walruses have been filmed attacking spectacled eider ducks in the Bering Sea, behaviour never seen before.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Spectacled_Eider#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Spectacled_Eider.gif">
+		<dc:title>Map showing the distribution of the Spectacled eider species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Eider#genus"><rdfs:label>Somateria</rdfs:label><wo:species rdf:resource="/nature/life/Spectacled_Eider#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Anatidae#family"><rdfs:label>Anatidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Anseriformes#order"><rdfs:label>Anseriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

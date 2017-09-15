@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Sea_urchin">
+		<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Sea_urchin#class">
+				<rdfs:label>Sea urchins</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Sea_urchin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_urchin/sea_urchin_1.jpg"/>
+
+				<dc:description>Sea urchins are a class of marine animals that live on the seabed or burrow into the sand. Those that live on rocky seabeds are spherical and have prominent, protective spines. Those that live on, or burrowed into, soft sand are heart-shaped or flattened, like the sand dollar, and have short spines that make them look furry. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sea_urchin"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Sea_urchin.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Sea_urchin#name">
+				<rdfs:label>Echinoidea</rdfs:label>
+				        <wo:commonName>Sea urchins</wo:commonName>
+        										<wo:scientificName>Echinoidea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Echinodermata</wo:phylumName><wo:className>Echinoidea</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_urchin/sea_urchin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Sea_urchin#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/se/sea_urchin/sea_urchin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01jm927#programme">
+			<dc:title>Undercover urchin</dc:title>
+			<po:subject rdf:resource="/nature/class/Sea_urchin#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sea_urchin">
+		<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.microscopy-uk.org.uk/mag/indexmag.html?http://www.microscopy-uk.org.uk/mag/artjul00/urchin1.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/intro/introduction.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21320666">
+			<dc:title>Sea urchin 'trick' captures CO2</dc:title>
+			<dc:description>The natural ability of sea urchins to absorb CO2 could be a model for an effective carbon capture and storage system, researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17027941">
+			<dc:title>Sea urchins inspire concrete idea</dc:title>
+			<dc:description>A study of the structure of sea urchins' spines turns up a "bricks-and-mortar" structure that could lead to improved materials such as concrete.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/sea-urchins-destroy-kelp-forests/10492.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Sea urchins fell and invade marine kelp forests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11511624">
+			<dc:title>Sea urchins tolerate acid water</dc:title>
+			<dc:description>Sea urchins are likely to be able to adapt to increasingly acidic oceans caused by human-induced climate change, a study says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8378000/8378512.stm">
+			<dc:title>Monster worm and sea star frenzy</dc:title>
+			<dc:description>Deep under the Antarctic ice, a rare colourful burst of starfish and monster worms is filmed by BBC camera crew.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Sea_urchin#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Sea_urchin.gif">
+		<dc:title>Map showing the distribution of the Sea urchins class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Echinoderm#phylum"><rdfs:label>Echinodermata</rdfs:label><wo:class rdf:resource="/nature/life/Sea_urchin#class"/><wo:class rdf:resource="/nature/life/Sea_star#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Strongylocentrotus_purpuratus#class"><rdfs:label>Purple sea urchin</rdfs:label><wo:class rdf:resource="/nature/life/Sea_urchin#class"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

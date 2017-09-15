@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Elephant_bird">
+		<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Elephant_bird#family">
+				<rdfs:label>Elephant birds</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Elephant_bird#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/el/elephant_bird/elephant_bird_1.jpg"/>
+
+				<dc:description>Madagascar's giant, flightless elephant birds were once a common sight on the island, certainly up until the 17th century. It is generally believed that the elephant bird's extinction resulted from human activity, perhaps not surprising when one of their giant eggs would have fed an entire family. Sir David Attenborough pieced fragments of one of the eggs together for the 1960's series Zoo Quest, which you can see in the video clip below. At over 3m tall, the largest elephant birds competed in size with New Zealand's moas, though at a hefty half tonne they were certainly heavier.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Elephant_bird"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Elephant_bird.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Aepyornithiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Elephant_bird#name">
+				<rdfs:label>Aepyornithidae</rdfs:label>
+				        <wo:commonName>Elephant birds</wo:commonName>
+        								<wo:commonName>Aepyornis</wo:commonName>
+						<wo:commonName>Vorompatra</wo:commonName>
+						<wo:commonName>Vouron patra</wo:commonName>
+								<wo:scientificName>Aepyornithidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Aepyornithiformes</wo:orderName><wo:familyName>Aepyornithidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/el/elephant_bird/elephant_bird_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Elephant_bird#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/el/elephant_bird/elephant_bird_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f81pr#programme">
+			<dc:title>Sizing an elephant bird</dc:title>
+			<po:subject rdf:resource="/nature/family/Elephant_bird#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dzfyy#programme">
+			<dc:title>Jigsaw puzzle</dc:title>
+			<po:subject rdf:resource="/nature/family/Elephant_bird#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Elephant_bird">
+		<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/resources/grzimek_birds/Aepyornithidae/Aepyornis_maximus.jpg/view.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/aepyornis_maximus/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Aepyornithidae/57562">
+			<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://users.aristotle.net/~swarmack/patra.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/entertainment-arts-21960778">
+			<dc:title>'Largest egg ever laid' auctioned</dc:title>
+			<dc:description>A rare giant elephant bird egg is being auctioned at Christie's auction house in London</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/8558683.stm">
+			<dc:title>Ancient eggshell yields its DNA</dc:title>
+			<dc:description>The eggshells of long-dead and extinct species are a particularly good source to find preserved DNA, researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Elephant_bird#family"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Elephant_bird.gif">
+		<dc:title>Map showing the distribution of the Elephant birds family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Aepyornithiformes#order"><rdfs:label>Aepyornithiformes</rdfs:label><wo:family rdf:resource="/nature/life/Elephant_bird#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

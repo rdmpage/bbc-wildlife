@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Magnificent_Bird_of_Paradise">
+		<foaf:primaryTopic rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Magnificent_Bird_of_Paradise#species">
+				<rdfs:label>Magnificent bird of paradise</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Magnificent_Bird_of_Paradise#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/magnificent_bird_of_paradise/magnificent_bird_of_paradise_1.jpg"/>
+
+				<dc:description>Magnificent birds of paradise are surprisingly common in the forested mountains and villages of New Guinea and its surrounding islands. The male of this species is a colourful mix of yellow, green and blue with two long ornamental tail feathers. The female, however, is really rather dull. To show off their magnificent plumage the males perform elaborate courtship displays, beginning with a good cleanup of the area. After a brief mating, both sexes go their separate ways, hoping to find other opportunities elsewhere</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Magnificent_Bird_of_Paradise"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Cicinnurus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Birds_of_Paradise#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Magnificent_Bird_of_Paradise#name">
+				<rdfs:label>Cicinnurus magnificus</rdfs:label>
+				        <wo:commonName>Magnificent bird of paradise</wo:commonName>
+        										<wo:scientificName>magnificusmagnificus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Paradisaeidae</wo:familyName><wo:genusName>Cicinnurus</wo:genusName><wo:speciesName>magnificus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/magnificent_bird_of_paradise/magnificent_bird_of_paradise_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/magnificent_bird_of_paradise/magnificent_bird_of_paradise_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005wklp#programme">
+			<dc:title>Camera, lights… action!</dc:title>
+			<po:subject rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/ma/magnificent_bird_of_paradise/magnificent_bird_of_paradise.mp3">
+			<dc:title>Calls from a male magnificent bird of paradise</dc:title>
+			<dc:subject rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Magnificent_Bird_of_Paradise">
+		<foaf:primaryTopic rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Diphyllodes_magnificus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://ibc.lynxeds.com/species/magnificent-bird-paradise-cicinnurus-magnificus">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.honoluluzoo.org/magnificent_bird_of_paradise.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/146710/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magnificent_Bird_of_Paradise#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Cicinnurus#genus"><rdfs:label>Cicinnurus</rdfs:label><wo:species rdf:resource="/nature/life/Magnificent_Bird_of_Paradise#species"/><wo:species rdf:resource="/nature/life/King_Bird_of_Paradise#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Birds_of_Paradise#family"><rdfs:label>Paradisaeidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

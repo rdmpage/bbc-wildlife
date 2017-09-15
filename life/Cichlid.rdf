@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Cichlid">
+		<foaf:primaryTopic rdf:resource="/nature/family/Cichlid#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Cichlid#family">
+				<rdfs:label>Cichlid fish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Cichlid#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ci/cichlid/cichlid_1.jpg"/>
+
+				<dc:description>Cichlid fish are famed for their rapid evolution, particularly in the African Great Lakes, where over a thousand new species have evolved over the last 12,400 to 100,000 years. The members of the cichlid family have diverse diets, mating habits and methods of looking after their young.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cichlid"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Cichlid.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Perciformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Cichlid#name">
+				<rdfs:label>Cichlidae</rdfs:label>
+				        <wo:commonName>Cichlid fish</wo:commonName>
+        										<wo:scientificName>Cichlidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Perciformes</wo:orderName><wo:familyName>Cichlidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ci/cichlid/cichlid_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Cichlid#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ci/cichlid/cichlid_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0065m6x#programme">
+			<dc:title>Fish play chicken</dc:title>
+			<po:subject rdf:resource="/nature/family/Cichlid#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00379zw#programme">
+			<dc:title>Lake Malawi life</dc:title>
+			<po:subject rdf:resource="/nature/family/Cichlid#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cichlid">
+		<foaf:primaryTopic rdf:resource="/nature/family/Cichlid#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cichlidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Cichlid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fishbase.org/Summary/FamilySummary.cfm?ID=349">
+			<foaf:primaryTopic rdf:resource="/nature/family/Cichlid#family"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Cichlid.gif">
+		<dc:title>Map showing the distribution of the Cichlid fish family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Perciformes#order"><rdfs:label>Perciformes</rdfs:label><wo:family rdf:resource="/nature/life/Cichlid#family"/><wo:family rdf:resource="/nature/life/Goby#family"/><wo:family rdf:resource="/nature/life/Marlin#family"/></wo:Order><wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

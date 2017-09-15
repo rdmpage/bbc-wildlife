@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Helix_aspersa">
+		<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Helix_aspersa#species">
+				<rdfs:label>Garden snail</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Helix_aspersa#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/helix_aspersa/helix_aspersa_1.jpg"/>
+
+				<dc:description>With their messy trails and taste for greens, garden snails are often considered to be pests whose strong homing instinct makes human control difficult. They are often seen after rain, and leave a tell-tale trail of mucus. Being <a href="http://www.bbc.co.uk/nature/adaptations/Hermaphrodite">hermaphrodites</a>, garden snails each have both male and female reproductive organs, but although they can mate with themselves, it's more usual to find a partner. When conditions are dry, snails retreat into their shell and seal the entrance. They can then survive in a state of <a href="http://www.bbc.co.uk/nature/adaptations/Hibernation">suspended animation</a> for several months.
+<br/>
+<br/>
+<b>Did you know?</b><br/> A single garden snail can have 430 babies in a year.   
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Helix_aspersa"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Helix_aspersa.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Helix_(gastropod)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Helicidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Stylommatophora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Gastropoda#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Helix_aspersa#name">
+				<rdfs:label>Helix aspersa</rdfs:label>
+				        <wo:commonName>Garden snail</wo:commonName>
+        								<wo:commonName>Brown garden snail</wo:commonName>
+						<wo:commonName>Common snail</wo:commonName>
+								<wo:scientificName>aspersaaspersa</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Gastropoda</wo:className><wo:orderName>Stylommatophora</wo:orderName><wo:familyName>Helicidae</wo:familyName><wo:genusName>Helix</wo:genusName><wo:speciesName>aspersa</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/helix_aspersa/helix_aspersa_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Helix_aspersa#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/he/helix_aspersa/helix_aspersa_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hjssx#programme">
+			<dc:title>Snails in the vegetable patch</dc:title>
+			<po:subject rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00byqyk#programme">
+			<dc:title>Gastronomic garden snails</dc:title>
+			<po:subject rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003km3j#programme">
+			<dc:title>Slow eaters</dc:title>
+			<po:subject rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Helix_aspersa">
+		<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Helix_aspersa.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://entomology.ifas.ufl.edu/creatures/misc/gastro/brown_garden_snail.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/garden-snail/helix-aspersa/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/o131-commongardensnail.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.weichtiere.at/english/gastropoda/terrestrial/escargot/aspersum.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22952707">
+			<dc:title>Snail genes reveal human migration</dc:title>
+			<dc:description>A genetic similarity between snail fossils found in Ireland and the Eastern Pyrenees suggests humans migrated from southern Europe to Ireland 8,000 years ago.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10855022">
+			<dc:title>Experiment tests snails' homing instincts</dc:title>
+			<dc:description>How to trail a garden snail to find out whether the shelled molluscs have a homing instinct.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10856523">
+			<dc:title>Snails 'have a homing instinct'</dc:title>
+			<dc:description>A 69-year-old amateur scientist discovers that her garden snails have a homing instinct. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8043000/8043689.stm">
+			<dc:title>Evolution is slowing snails down</dc:title>
+			<dc:description>Garden snails are evolving slower metabolisms.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Helix_aspersa#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Hermaphrodite#adaptation">
+					<rdfs:label>Hermaphroditic</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Helix_aspersa.gif">
+		<dc:title>Map showing the distribution of the Garden snail species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Helix_(gastropod)#genus"><rdfs:label>Helix</rdfs:label><wo:species rdf:resource="/nature/life/Helix_aspersa#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Helicidae#family"><rdfs:label>Helicidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Stylommatophora#order"><rdfs:label>Stylommatophora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Gastropoda#class"><rdfs:label>Gastropoda</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

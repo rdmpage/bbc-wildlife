@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Turtle_Dove">
+		<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Turtle_Dove#species">
+				<rdfs:label>Turtle dove</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Turtle_Dove#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/turtle_dove/turtle_dove_1.jpg"/>
+
+				<dc:description>Turtle doves often crop up in verse as symbols of devoted love, though feeding your chicks on regurgitated food doesn't carry quite such an air of romance! In spite of their place in poetic tradition, turtle doves are shot in huge numbers during their long migration between Europe and Africa. Their common name is taken from their gentle, purring song and has nothing to do with reptiles. The 'turr turr' call is one of the UK's most evocative summer sounds, but is becoming frighteningly rare.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Turtle_Dove"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Turtle_Dove.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Streptopelia#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Columbidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Columbiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Turtle_Dove#name">
+				<rdfs:label>Streptopelia turtur</rdfs:label>
+				        <wo:commonName>Turtle dove</wo:commonName>
+        								<wo:commonName>European turtle dove</wo:commonName>
+								<wo:scientificName>turturturtur</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Columbiformes</wo:orderName><wo:familyName>Columbidae</wo:familyName><wo:genusName>Streptopelia</wo:genusName><wo:speciesName>turtur</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/turtle_dove/turtle_dove_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Turtle_Dove#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/tu/turtle_dove/turtle_dove_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081dz1#programme">
+			<dc:title>Kissing season</dc:title>
+			<po:subject rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/tu/turtle_dove/5081058.mp3">
+			<dc:title>Song from a turtle dove</dc:title>
+			<dc:subject rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Turtle_Dove">
+		<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Streptopelia_turtur.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob6870.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/turtle-dove/streptopelia-turtur/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.happywarrior.org/genealogy/phoenix.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.norfolkwildlifetrust.org.uk/Documents/Species-Leaflets/WF_Turtle_Dove.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/t/turtledove/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18006233">
+			<dc:title>Turtle dove rescue mission begins</dc:title>
+			<dc:description>Conservationists launch what they call an urgent mission to save the turtle dove from extinction in the UK.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Turtle_Dove#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Calcareous_grassland#habitat">
+					<rdfs:label>Chalk grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Turtle_Dove.gif">
+		<dc:title>Map showing the distribution of the Turtle dove species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Streptopelia#genus"><rdfs:label>Streptopelia</rdfs:label><wo:species rdf:resource="/nature/life/Turtle_Dove#species"/><wo:species rdf:resource="/nature/life/Eurasian_Collared_Dove#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Columbidae#family"><rdfs:label>Columbidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Columbiformes#order"><rdfs:label>Columbiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

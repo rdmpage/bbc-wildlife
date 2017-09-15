@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/kingdom/Chromista">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Chromista#kingdom"/>
+		<rdfs:seeAlso rdf:resource="/nature/kingdom"/>
+	</rdf:Description>
+
+		<wo:Kingdom rdf:about="/nature/life/Chromista#kingdom">
+				<rdfs:label>Chromista</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/kingdom/Chromista#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/chromista/chromista_1.jpg"/>
+
+				<dc:description>Chromista include diatoms, ciliates and their relatives. As many of the species in this kingdom can photosynthesise, and have rigid cell walls, they were once thought to be plants. Their members include kelps, the water mould that caused the Irish potato famine and single-celled organisms such as the paramecium.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Chromista"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/kingdom/Chromista.gif"/>
+		
+										    
+    								
+					
+                                
+
+					</wo:Kingdom>
+
+			<wo:TaxonName rdf:about="/nature/kingdom/Chromista#name">
+				<rdfs:label>Chromista</rdfs:label>
+												<wo:commonName>Chromista</wo:commonName>
+								<wo:scientificName>Chromista</wo:scientificName>
+		<wo:kingdomName>Chromista</wo:kingdomName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/chromista/chromista_1.jpg">
+		<foaf:depicts rdf:resource="/nature/kingdom/Chromista#kingdom"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ch/chromista/chromista_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Chromista">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Chromista#kingdom"/>
+	</foaf:Document>
+		
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/kingdom/Chromista.gif">
+		<dc:title>Map showing the distribution of the Chromista kingdom</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/life/Macrocystis#kingdom"><rdfs:label>Giant kelps</rdfs:label><wo:kingdom rdf:resource="/nature/life/Chromista#kingdom"/></wo:Genus><wo:Order rdf:about="/nature/life/Coccolithophore#kingdom"><rdfs:label>Coccolithophores</rdfs:label><wo:kingdom rdf:resource="/nature/life/Chromista#kingdom"/></wo:Order>
+	
+	
+		    
+</rdf:RDF>

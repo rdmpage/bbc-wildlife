@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Ground_beetle">
+		<foaf:primaryTopic rdf:resource="/nature/family/Ground_beetle#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Ground_beetle#family">
+				<rdfs:label>Ground beetles</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Ground_beetle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/ground_beetle/ground_beetle_1.jpg"/>
+
+				<dc:description>Ground beetles (carabids) are a large and successful family of beetles, with over 40,000 described species including the tiger and bombardier beetles. They are usually black or metallic coloured with ridged wing cases. Found worldwide, they inhabit ground vegetation, rocks, crevices and the underside of logs and tree bark. The defensive secretions of some of the beetles in this family are so toxic they can injure small animals. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ground_beetle"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Ground_beetle.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Beetle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Ground_beetle#name">
+				<rdfs:label>Carabidae</rdfs:label>
+				        <wo:commonName>Ground beetles</wo:commonName>
+        								<wo:commonName>Carabids</wo:commonName>
+								<wo:scientificName>Carabidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Coleoptera</wo:orderName><wo:familyName>Carabidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/ground_beetle/ground_beetle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Ground_beetle#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/ground_beetle/ground_beetle_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zjs1#programme">
+			<dc:title>Beetle drive</dc:title>
+			<po:subject rdf:resource="/nature/family/Ground_beetle#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ff5t#programme">
+			<dc:title>Bootleg beetles</dc:title>
+			<po:subject rdf:resource="/nature/family/Ground_beetle#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0053k64#programme">
+			<dc:title>Ant acid</dc:title>
+			<po:subject rdf:resource="/nature/family/Ground_beetle#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003xjbk#programme">
+			<dc:title>Predator or prey?</dc:title>
+			<po:subject rdf:resource="/nature/family/Ground_beetle#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Ground_beetle">
+		<foaf:primaryTopic rdf:resource="/nature/family/Ground_beetle#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Carabidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Ground_beetle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/186">
+			<foaf:primaryTopic rdf:resource="/nature/family/Ground_beetle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Carabidae/8895/2006.04.11">
+			<foaf:primaryTopic rdf:resource="/nature/family/Ground_beetle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.carabidae.ru/carabidae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Ground_beetle#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Ground_beetle.gif">
+		<dc:title>Map showing the distribution of the Ground beetles family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Beetle#order"><rdfs:label>Coleoptera</rdfs:label><wo:family rdf:resource="/nature/life/Ground_beetle#family"/><wo:family rdf:resource="/nature/life/Coccinellidae#family"/><wo:family rdf:resource="/nature/life/Dytiscidae#family"/><wo:family rdf:resource="/nature/life/Firefly#family"/><wo:family rdf:resource="/nature/life/Silphidae#family"/><wo:family rdf:resource="/nature/life/Attelabidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

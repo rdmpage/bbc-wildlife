@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Caecilian">
+		<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Caecilian#order">
+				<rdfs:label>Caecilians</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Caecilian#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/caecilian/caecilian_1.jpg"/>
+
+				<dc:description>Caecilians look like worms but are actually <a href="http://www.bbc.co.uk/nature/life/Amphibian">amphibians</a> that inhabit the wet tropical regions of <a href="http://www.bbc.co.uk/nature/places/South_America">south America</a>, <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a> and south east <a href="http://www.bbc.co.uk/nature/places/Asia">Asia</a>. They make up one of the three orders of <a href="http://www.bbc.co.uk/nature/life/Amphibian">amphibians</a>, alongside <a href="http://www.bbc.co.uk/nature/life/Frog">frogs</a> and <a href="http://www.bbc.co.uk/nature/life/Salamander">salamanders</a>. Lacking any limbs but possessing a retractable sensory tentacle, caecilians - with the exception of a few aquatic species - have a <a href="http://www.bbc.co.uk/nature/adaptations/Fossorial">burrowing</a> lifestyle. The skin of one African species is fat and nutrient-rich, so the larvae peel this skin off the parent and eat it.
+<br/>
+<br/>
+<b>Did you know?</b><br/> In one caecilian species a mother grows a new skin every three days as it is eaten by her larvae.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Caecilian"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Amphibian#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Caecilian#name">
+				<rdfs:label>Gymnophiona</rdfs:label>
+				        <wo:commonName>Caecilians</wo:commonName>
+        										<wo:scientificName>Gymnophiona</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Amphibia</wo:className><wo:orderName>Gymnophiona</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/caecilian/caecilian_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Caecilian#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/caecilian/caecilian_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006fcfx#programme">
+			<dc:title>Legless amphibians</dc:title>
+			<po:subject rdf:resource="/nature/order/Caecilian#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Caecilian">
+		<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Gymnophiona.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.gymnophiona.org/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturehaven.com/Frog/caecilian.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17827350">
+			<dc:title>Limbless amphibian species found</dc:title>
+			<dc:description>A UK-Indian team of scientists have announced the discovery of a new species of limbless amphibian.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17100578">
+			<dc:title>Amphibian family first for India</dc:title>
+			<dc:description>A new family of caecilians, the most enigmatic branch of the amphibians, has been discovered in northeastern India.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/4904580.stm">
+			<dc:title>Yummy mummy feeds young its skin</dc:title>
+			<dc:description>An international group of scientists has described an animal that provides nutrition for its young by letting them peel off and eat its skin.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Caecilian#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Amphibian#class"><rdfs:label>Amphibia</rdfs:label><wo:order rdf:resource="/nature/life/Caecilian#order"/><wo:order rdf:resource="/nature/life/Frog#order"/><wo:order rdf:resource="/nature/life/Salamander#order"/><wo:order rdf:resource="/nature/life/Temnospondyli#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

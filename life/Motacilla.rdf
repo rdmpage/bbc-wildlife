@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Motacilla">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Motacilla#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Motacilla#genus">
+				<rdfs:label>Wagtails</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Motacilla#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/motacilla/motacilla_1.jpg"/>
+
+				<dc:description>There is something very hypnotic about watching one of the 11 species of wagtail. These slender, energetic, and often <a href="/nature/adaptations/Visual_perception">colourful</a> birds are constantly wagging their long tail; the trait from which they get their common name. The reason for this behaviour is not clearly understood, but could be for <a href="/nature/adaptations/Hearing_(sense)">communicating</a> with each other or to warn off potential <a href="/nature/adaptations/Predation">predators</a>.
+<br />
+<br />
+Species familiar to us in the UK, such as the yellow, <a href="/nature/life/Grey_Wagtail">grey</a> and <a href="/nature/life/White_Wagtail">pied</a> wagtails, are also widespread throughout much of <a href="/nature/places/Europe">Europe</a>, <a href="/nature/places/Asia">Asia</a> and north <a href="/nature/places/Africa">Africa</a>. Other species can have a more restricted range, for example, the endemic Madagascan wagtail, as its name suggests, can only be found on the African island of <a href="/nature/places/Madagascar">Madagascar</a>.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Motacilla"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Motacilla.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Motacillidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Motacilla#name">
+				<rdfs:label>Motacilla</rdfs:label>
+				        <wo:commonName>Wagtails</wo:commonName>
+        										<wo:scientificName>Motacilla</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Motacillidae</wo:familyName><wo:genusName>Motacilla</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/motacilla/motacilla_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Motacilla#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/motacilla/motacilla_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Motacilla">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Motacilla#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Motacilla.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Motacilla#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/34790/entries/34316182/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Motacilla#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Motacilla.gif">
+		<dc:title>Map showing the distribution of the Wagtails genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Motacillidae#family"><rdfs:label>Motacillidae</rdfs:label><wo:genus rdf:resource="/nature/life/Motacilla#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/White_Wagtail#genus"><rdfs:label>Pied wagtail</rdfs:label><wo:genus rdf:resource="/nature/life/Motacilla#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Grey_Wagtail#genus"><rdfs:label>Grey wagtail</rdfs:label><wo:genus rdf:resource="/nature/life/Motacilla#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

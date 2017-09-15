@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Reed_Bunting">
+		<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Reed_Bunting#species">
+				<rdfs:label>Reed bunting</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Reed_Bunting#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/reed_bunting/reed_bunting_1.jpg"/>
+
+				<dc:description>Reed buntings are some of the most 'adulterous' birds on record. As a result, over half the chicks in a nest may not have been fathered by the female's mate. Feigning injury to lure potential predators away from their nests, which are built dangerously close to the ground albeit amongst dense vegetation, is one of the ways that parent birds protect their young. Reed buntings are  wetland birds and widespread throughout central and northern Europe. They are particularly fond of reedbeds, though in recent years they've taken to coming into gardens in the winter in search of food. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Reed_Bunting"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Emberiza#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Emberizidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Reed_Bunting#name">
+				<rdfs:label>Emberiza schoeniclus</rdfs:label>
+				        <wo:commonName>Reed bunting</wo:commonName>
+        								<wo:commonName>Common reed bunting</wo:commonName>
+								<wo:scientificName>schoeniclusschoeniclus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Emberizidae</wo:familyName><wo:genusName>Emberiza</wo:genusName><wo:speciesName>schoeniclus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/reed_bunting/reed_bunting_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Reed_Bunting#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/reed_bunting/reed_bunting_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vd0w#programme">
+			<dc:title>Intruder in the nest</dc:title>
+			<po:subject rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/r/re/reed_bunting/5078315.mp3">
+			<dc:title>Reed bunting singing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Reed_Bunting">
+		<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Emberiza_schoeniclus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob18770.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/reed-bunting/emberiza-schoeniclus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/reed-bunting.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bto.org/volunteer-surveys/gbw/gardens-wildlife/garden-birds/a-z-garden-birds/reed-bunting">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/ourwork/conservation/biodiversity/keyspecies/birds/reedbunting.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reed_Bunting#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Emberiza#genus"><rdfs:label>Emberiza</rdfs:label><wo:species rdf:resource="/nature/life/Reed_Bunting#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Emberizidae#family"><rdfs:label>Emberizidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

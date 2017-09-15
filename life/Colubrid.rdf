@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Colubrid">
+		<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Colubrid#family">
+				<rdfs:label>Colubrid snakes</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Colubrid#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/colubrid/colubrid_1.jpg"/>
+
+				<dc:description>The Colubridae is a family of snakes. It is a very big group, containing around 65 percent of all living snake species. Egg-eating snakes, boomslangs and grass snakes are all colubrids.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Colubrid"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Colubrid#name">
+				<rdfs:label>Colubridae</rdfs:label>
+				        <wo:commonName>Colubrid snakes</wo:commonName>
+        								<wo:commonName>Colubrids</wo:commonName>
+								<wo:scientificName>Colubridae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Colubridae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/colubrid/colubrid_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Colubrid#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/colubrid/colubrid_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c70lh#programme">
+			<dc:title>Yellowtail cribo</dc:title>
+			<po:subject rdf:resource="/nature/family/Colubrid#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Colubrid">
+		<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/family/Colubrid#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label><wo:family rdf:resource="/nature/life/Colubrid#family"/><wo:family rdf:resource="/nature/life/Boidae#family"/><wo:family rdf:resource="/nature/life/Elapidae#family"/><wo:family rdf:resource="/nature/life/Sea_snake#family"/><wo:family rdf:resource="/nature/life/Viperidae#family"/></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Boiga_dendrophila#family"><rdfs:label>Mangrove cat snake</rdfs:label><wo:family rdf:resource="/nature/life/Colubrid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Coronella_austriaca#family"><rdfs:label>Smooth snake</rdfs:label><wo:family rdf:resource="/nature/life/Colubrid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Grass_Snake#family"><rdfs:label>Grass snake</rdfs:label><wo:family rdf:resource="/nature/life/Colubrid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Thermophis_baileyi#family"><rdfs:label>Tibetan spring snake</rdfs:label><wo:family rdf:resource="/nature/life/Colubrid#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Balaenidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Balaenidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Balaenidae#family">
+				<rdfs:label>Right whales</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Balaenidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/ba/balaenidae/balaenidae_1.jpg"/>
+
+				<dc:description>Right whales are large and chunky with huge heads, in fact the head makes up one third of the total length. They are often found <a href="http://www.bbc.co.uk/nature/adaptations/Aquatic_locomotion">swimming</a> slowly near the <a href="http://www.bbc.co.uk/nature/habitats/Pelagic">ocean's surface</a> with their mouths open. They are feeding on large quantities of <a href="http://www.bbc.co.uk/nature/life/Maxillopoda">copepods</a> and krill that they strain through long narrow baleen plates, then scrape off with their tongues. This small family of baleen whales contains only four species. They are the three right whales: the north Atlantic, north Pacific and <a href="http://www.bbc.co.uk/nature/life/Southern_right_whale">southern right whale</a> and a single <a href="http://www.bbc.co.uk/nature/life/Bowhead_whale">bowhead whale</a>. Right whales have smooth throats lacking the grooves of other baleen whales. They live singly or in small <a href="http://www.bbc.co.uk/nature/adaptations/Presociality">groups</a> of up to three or four individuals.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Balaenidae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Balaenidae.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Balaenidae#name">
+				<rdfs:label>Balaenidae</rdfs:label>
+				        <wo:commonName>Right whales</wo:commonName>
+        										<wo:scientificName>Balaenidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Balaenidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/ba/balaenidae/balaenidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Balaenidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/ba/balaenidae/balaenidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Balaenidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Balaenidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Balaenidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Balaenidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Balaenidae/16035">
+			<foaf:primaryTopic rdf:resource="/nature/family/Balaenidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7661">
+			<foaf:primaryTopic rdf:resource="/nature/family/Balaenidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=136978">
+			<foaf:primaryTopic rdf:resource="/nature/family/Balaenidae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Balaenidae.gif">
+		<dc:title>Map showing the distribution of the Right whales family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label><wo:family rdf:resource="/nature/life/Balaenidae#family"/><wo:family rdf:resource="/nature/life/Rorqual#family"/><wo:family rdf:resource="/nature/life/Oceanic_dolphin#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Monodontidae#family"/><wo:family rdf:resource="/nature/life/Porpoise#family"/><wo:family rdf:resource="/nature/life/Physeteridae#family"/><wo:family rdf:resource="/nature/life/Beaked_whale#family"/><wo:family rdf:resource="/nature/life/Iniidae#family"/><wo:family rdf:resource="/nature/life/Basilosauridae#family"/><wo:family rdf:resource="/nature/life/Ambulocetidae#family"/></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Southern_right_whale#family"><rdfs:label>Southern right whale</rdfs:label><wo:family rdf:resource="/nature/life/Balaenidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Bowhead_whale#family"><rdfs:label>Bowhead whale</rdfs:label><wo:family rdf:resource="/nature/life/Balaenidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Lion">
+		<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Lion#species">
+				<rdfs:label>Lion</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Lion#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/li/lion/lion_1.jpg"/>
+
+				<dc:description>Lions are the only truly <a href="/nature/adaptations/Presociality">social</a> cats, with related females living together in prides overseen by male coalitions that compete for possession in fierce and often fatal battles. These magnificent beasts are found in sub-Saharan <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a>, and there is also a small isolated population of Asiatic lions to be found in the Gir Forest of western India.
+<br />
+<br />
+Lions are predatory <a href="/nature/adaptations/Carnivore">carnivores</a> and it's the females that perform most of the hunting at night; the majority of the prey being antelope, zebra and <a href="/nature/life/Blue_Wildebeest">wildebeest</a>. They breed year-round and it’s estimated that lions copulate around 3,000 times for every cub that is born and survives for over a year.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Lions are the only cats with a mane.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lion"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Kleptoparasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3b8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Panthera#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Lion#name">
+				<rdfs:label>Panthera leo</rdfs:label>
+				        <wo:commonName>Lion</wo:commonName>
+        										<wo:scientificName>leoleo</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Panthera</wo:genusName><wo:speciesName>leo</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/li/lion/lion_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Lion#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/li/lion/lion_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p014rmcx#programme">
+			<dc:title>Lion guardians</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8f0s#programme">
+			<dc:title>Barbary lions</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fw3j4#programme">
+			<dc:title>Seen not spotted</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fw3fl#programme">
+			<dc:title>Hide and seek</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fw3cw#programme">
+			<dc:title>Deadly diseases</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fvdhc#programme">
+			<dc:title>Big game hunting</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fvdd0#programme">
+			<dc:title>Strength in numbers</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fvdc2#programme">
+			<dc:title>Reducing retaliation</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fvd76#programme">
+			<dc:title>The end of the road?</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fpv6s#programme">
+			<dc:title>The Marsh Pride</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fptxf#programme">
+			<dc:title>Strength in numbers?</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fptmg#programme">
+			<dc:title>Cub advantage</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fptfy#programme">
+			<dc:title>Communal suckling</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fpt8v#programme">
+			<dc:title>Lion infanticide</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fpt2z#programme">
+			<dc:title>Lion sisterhood</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fpss5#programme">
+			<dc:title>Counting cats</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fpsm8#programme">
+			<dc:title>Lion sociality</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4kc4#programme">
+			<dc:title>Lion spotting </dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4jn9#programme">
+			<dc:title>Bitter enemies</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4gq2#programme">
+			<dc:title>Lion tally</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dgh40#programme">
+			<dc:title>Lion learning</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dgh3c#programme">
+			<dc:title>Elsa makes history</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dgh2s#programme">
+			<dc:title>Elsa the lioness</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dggzb#programme">
+			<dc:title>Wild at heart</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dggxd#programme">
+			<dc:title>Lions in crisis</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c28fr#programme">
+			<dc:title>Lean lions</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009wwc7#programme">
+			<dc:title>Jaws of Death</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009ww9h#programme">
+			<dc:title>Tranquilized Lion</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00699jk#programme">
+			<dc:title>Hunting lesson</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0069917#programme">
+			<dc:title>Lioness earns her stripes</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00698w2#programme">
+			<dc:title>Social benefits</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00698sg#programme">
+			<dc:title>Lion love</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005bt2d#programme">
+			<dc:title>Mother's pride</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c3d9#programme">
+			<dc:title>Disadvantaged buffalo</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382c5#programme">
+			<dc:title>Lions hunt elephants</dc:title>
+			<po:subject rdf:resource="/nature/species/Lion#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/l/li/lion/nhs1315-01.mp3">
+			<dc:title>A lion growling and snarling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Lion#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/l/li/lion/nhs1356-34.mp3">
+			<dc:title>A group of lions roaring in the Masai Mara</dc:title>
+			<dc:subject rdf:resource="/nature/species/Lion#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Lion">
+		<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Panthera_leo.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/lion/panthera-leo/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cbs.umn.edu/eeb/lionresearch/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/15951">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.lionconservationfund.org/projects_home.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-africa-25722058">
+			<dc:title>Lions 'facing extinction in West Africa'</dc:title>
+			<dc:description>There has been a catastrophic collapse in the number of lions in West Africa, with only around 400 left in the region, a new survey suggests. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21687176">
+			<dc:title>Fencing off lions 'could save them'</dc:title>
+			<dc:description>Using fences to separate lions from humans could help to save them from extinction, a report suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-kent-15862433">
+			<dc:title>Breeding hopes for Barbary lions</dc:title>
+			<dc:description>Conservationists at a Kent zoo have started attempts to breed an endangered species of lion.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12806519">
+			<dc:title>Lions breed best near joining rivers</dc:title>
+			<dc:description>A 45-year study of lions in Tanzania finds that prides which have the best breeding success have specific territories.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/wiltshire/hi/people_and_places/nature/newsid_9135000/9135050.stm">
+			<dc:title>The lion with a head for heights</dc:title>
+			<dc:description>A lioness at Longleat Safari Park has taken to spending most of her time asleep up a tree.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9028000/9028491.stm">
+			<dc:title>Why lions roar and wildcats miaow</dc:title>
+			<dc:description>The low roar of a lion, or the miaow of a wildcat, is more to do with where a cat lives than its size.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8993000/8993557.stm">
+			<dc:title>'Trophy lion' hunts unsustainable</dc:title>
+			<dc:description>Lion and leopard numbers in Tanzania will crash unless fewer big cats are killed by trophy hunters, say conservation experts.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-11236560">
+			<dc:title>Lion lunges at Las Vegas trainer</dc:title>
+			<dc:description>A lion lunged at a trainer as stunned onlookers watched in horror, at Las Vegas's MGM Grand Hotel and Casino.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-middle-east-11099756">
+			<dc:title>Cairo zoo puts lions on human birth control pill</dc:title>
+			<dc:description>Vets at Cairo's Giza Zoo are experimenting with the human birth control pill in an attempt to slow their rapidly expanding population of lions. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11057786">
+			<dc:title>Collector fined for breeding 'ligers' in Taiwan</dc:title>
+			<dc:description>A wild animal collector is facing fines for crossbreeding a lion with a tiger.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Lion#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Kleptoparasitism#adaptation">
+					<rdfs:label>Kleptoparasitic</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3b8#collection">
+				<dc:title>Jonathan Scott: a wild life in Africa</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Panthera#genus"><rdfs:label>Panthera</rdfs:label><wo:species rdf:resource="/nature/life/Lion#species"/><wo:species rdf:resource="/nature/life/Jaguar#species"/><wo:species rdf:resource="/nature/life/Leopard#species"/><wo:species rdf:resource="/nature/life/Tiger#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

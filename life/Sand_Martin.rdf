@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Sand_Martin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Sand_Martin#species">
+				<rdfs:label>Sand martin</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Sand_Martin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sand_martin/sand_martin_1.jpg"/>
+
+				<dc:description>Sand martins are so named because they nest in sandy river banks or sandy coastal cliffs. The males dig burrows in the cliff and the females then do any final excavations needed to turn the burrows into nest chambers.
+<br/>
+<br/>
+<a href="/nature/22527420">How to identify swifts, swallows and martins.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sand_Martin"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fire_ecology#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Riparia#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Swallow#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Sand_Martin#name">
+				<rdfs:label>Riparia riparia</rdfs:label>
+				        <wo:commonName>Sand martin</wo:commonName>
+        								<wo:commonName>Bank swallow</wo:commonName>
+						<wo:commonName>Collared sand martin</wo:commonName>
+						<wo:commonName>European sand martin</wo:commonName>
+								<wo:scientificName>ripariariparia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Hirundinidae</wo:familyName><wo:genusName>Riparia</wo:genusName><wo:speciesName>riparia</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sand_martin/sand_martin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Sand_Martin#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sa/sand_martin/sand_martin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081f1w#programme">
+			<dc:title>Reed bed birds</dc:title>
+			<po:subject rdf:resource="/nature/species/Sand_Martin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yzmb#programme">
+			<dc:title>Accidental nature reserve</dc:title>
+			<po:subject rdf:resource="/nature/species/Sand_Martin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00699km#programme">
+			<dc:title>Welcome windfall</dc:title>
+			<po:subject rdf:resource="/nature/species/Sand_Martin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003bb1g#programme">
+			<dc:title>Sand martins</dc:title>
+			<po:subject rdf:resource="/nature/species/Sand_Martin#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/sa/sand_martin/5055057.mp3">
+			<dc:title>Sand martin colony</dc:title>
+			<dc:subject rdf:resource="/nature/species/Sand_Martin#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sand_Martin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Riparia_riparia.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob9810.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/sand-martin/riparia-riparia/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=117031">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=7105&amp;m=0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/s/sandmartin/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/local/nottingham/hi/people_and_places/nature/newsid_8902000/8902417.stm">
+			<dc:title>Sand martins nesting at Ratcliffe on Soar power station</dc:title>
+			<dc:description>Dozens of sand martins have made their homes in coal ash at a Nottinghamshire power station.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Martin#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Fire_ecology#adaptation">
+					<rdfs:label>Fire tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Riparia#genus"><rdfs:label>Riparia</rdfs:label><wo:species rdf:resource="/nature/life/Sand_Martin#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Swallow#family"><rdfs:label>Hirundinidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

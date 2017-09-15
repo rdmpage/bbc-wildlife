@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Rhinoceros">
+		<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Rhinoceros#family">
+				<rdfs:label>Rhinoceroses</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Rhinoceros#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/rh/rhinoceros/rhinoceros_1.jpg"/>
+
+				<dc:description>Rhinoceroses are megafauna and all five species alive today can reach over a tonne in weight as adults. While all the rhinos have horns, only the African species use them to fight with rivals. Asian rhinos slice at their opponents with their lower teeth instead.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rhinoceros"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Rhinoceros#name">
+				<rdfs:label>Rhinocerotidae</rdfs:label>
+				        <wo:commonName>Rhinoceroses</wo:commonName>
+        								<wo:commonName>Rhinos</wo:commonName>
+								<wo:scientificName>Rhinocerotidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Perissodactyla</wo:orderName><wo:familyName>Rhinocerotidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/rh/rhinoceros/rhinoceros_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Rhinoceros#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/rh/rhinoceros/rhinoceros_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bpl7j#programme">
+			<dc:title>Ancient Wales</dc:title>
+			<po:subject rdf:resource="/nature/family/Rhinoceros#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rhinoceros">
+		<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Rhinocerotidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rhinos-irf.org/rhinosincrisis/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sandiegozoo.org/animalbytes/t-rhinoceros.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Perissodactyla/Rhinocerotidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-25781746">
+			<dc:title>Worst year yet for SA rhino poaching</dc:title>
+			<dc:description>More white rhinos were illegally killed in South Africa in 2013 than in any previous year according to government figures.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22075274">
+			<dc:title>Rhino horn DNA database introduced</dc:title>
+			<dc:description>A new DNA database is being set up to hold genetic information on all the rhinoceros horn in the UK in an attempt to stop its theft and trade.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21714270">
+			<dc:title>Rhino 'taboo' must go says S Africa</dc:title>
+			<dc:description>South African officials warn a major conservation meeting that the poaching of rhinos is likely to reach record levels this year.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21615280">
+			<dc:title>Call to lift ban on rhino horn trade</dc:title>
+			<dc:description>Humanely shaving the horns of live rhinos and legalising the trade could save the species say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-africa-19966164">
+			<dc:title>Record number of SA rhinos killed</dc:title>
+			<dc:description>Poachers have killed a record number of rhinos in South Africa this year, with 455 slaughtered so far, the government says. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-18562208">
+			<dc:title>Sumatran rhino born in captivity</dc:title>
+			<dc:description>A Sumatran rhinoceros, one of the world's most endangered species, gives birth in Indonesia, the fourth recorded case of one being born in captivity.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16286655">
+			<dc:title>Team probes rhino's foot mystery</dc:title>
+			<dc:description>Scientists attempt to find out how rhinos are able to support their massive weight on their stumpy little feet.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15430787">
+			<dc:title>Javan rhino 'extinct in Vietnam'</dc:title>
+			<dc:description>The critically endangered Javan rhino is now extinct in Vietnam after the last surviving animal was killed, according to a report by conservation groups. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12859295">
+			<dc:title>Africa rhinos face poaching crisis</dc:title>
+			<dc:description>Rhino populations in Africa are facing the "worst poaching crisis for decades" as more than 800 are killed in the past three years, say conservationists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-11474166">
+			<dc:title>Man jailed for rhino horn smuggling bid</dc:title>
+			<dc:description>A man who pleaded guilty to attempting to smuggle a rhino horn worth hundreds of thousands of pounds through Manchester Airport has been sentenced to 12 months in prison.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-11477508">
+			<dc:title>Rhino horn smuggler is sentenced</dc:title>
+			<dc:description>A man from Preston who tried to smuggle rhino horns through Manchester Airport is jailed for 12 months.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-africa-11381686">
+			<dc:title>SA police smash 'rhino horn ring'</dc:title>
+			<dc:description>Some conservation organisations in Africa are operating a shoot-to-kill policy against poachers, to protect endangered species, a study says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11253449">
+			<dc:title>Zoo's newborn rhino weighs 13st</dc:title>
+			<dc:description>A newborn rhino born at a Bedfordshire zoo has been unveiled to the public just over a week after it was born and it already weighs 13 stone (82kg). </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-africa-11062726">
+			<dc:title>Kenya makes massive seizure of ivory and rhino horns</dc:title>
+			<dc:description>Some two tonnes of ivory and five rhino horns are seized in Kenya's main airport in boxes labelled as avocados for export to Malaysia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-africa-10999487">
+			<dc:title>Rhino poaching on the increase in South Africa</dc:title>
+			<dc:description>The South African wildlife service says poaching of rhinos is escalating at an unprecedented rate. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/asia-pacific/8522001.stm">
+			<dc:title>Critically endangered Sumatra rhino expecting calf </dc:title>
+			<dc:description>Conservationists in Indonesia have announced a breakthrough in their efforts to save the critically endangered Sumatran rhino.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8388606.stm">
+			<dc:title>'Global surge' in rhino poaching</dc:title>
+			<dc:description>Rhino poaching around the world is on the rise despite efforts to protect the animals, a report warns.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Rhinoceros#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Odd-toed_ungulate#order"><rdfs:label>Perissodactyla</rdfs:label><wo:family rdf:resource="/nature/life/Rhinoceros#family"/><wo:family rdf:resource="/nature/life/Equidae#family"/><wo:family rdf:resource="/nature/life/Hyracodontidae#family"/><wo:family rdf:resource="/nature/life/Palaeotheriidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/White_Rhinoceros#family"><rdfs:label>White rhinoceros</rdfs:label><wo:family rdf:resource="/nature/life/Rhinoceros#family"/></wo:Species><wo:Species rdf:about="/nature/life/Black_Rhinoceros#family"><rdfs:label>Black rhinoceros</rdfs:label><wo:family rdf:resource="/nature/life/Rhinoceros#family"/></wo:Species><wo:Species rdf:about="/nature/life/Indian_Rhinoceros#family"><rdfs:label>Indian rhinoceros</rdfs:label><wo:family rdf:resource="/nature/life/Rhinoceros#family"/></wo:Species><wo:Species rdf:about="/nature/life/Woolly_rhinoceros#family"><rdfs:label>Woolly rhinoceros</rdfs:label><wo:family rdf:resource="/nature/life/Rhinoceros#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

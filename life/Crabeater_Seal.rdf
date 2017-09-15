@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Crabeater_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Crabeater_Seal#species">
+				<rdfs:label>Crabeater seal</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Crabeater_Seal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crabeater_seal/crabeater_seal_1.jpg"/>
+
+				<dc:description>Crabeater seals gather around the coast and pack ice of Antarctica. Their population is estimated at an enormous 15 to 40 million. They spend most of the night diving for food, travelling or just exploring. These seals are very mobile and fast on land, and can range over hundreds of kilometres at a top speed of around 25kmph. Curiously, given their name, the crabeater seal's primary food source isn't crabs, but the shrimp-like krill which they sieve out of the water. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Crabeater_Seal"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crabeater_Seal.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Polar_region#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Earless_seal#family"/>
+                                                        <wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Crabeater_Seal#name">
+				<rdfs:label>Lobodon carcinophagus</rdfs:label>
+				        <wo:commonName>Crabeater seal</wo:commonName>
+        										<wo:scientificName>carcinophaguscarcinophagus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:superfamilyName>Pinnipedia</wo:superfamilyName><wo:familyName>Phocidae</wo:familyName><wo:genusName>Lobodon</wo:genusName><wo:speciesName>carcinophagus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crabeater_seal/crabeater_seal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/cr/crabeater_seal/crabeater_seal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kwdry#programme">
+			<dc:title>Ice world</dc:title>
+			<po:subject rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004p9ms#programme">
+			<dc:title>Ice hideout</dc:title>
+			<po:subject rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Crabeater_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crabeater_Seal#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lobodon_carcinophaga.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.aad.gov.au/default.asp?casid=1847">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.antarcticconnection.com/antarctic/wildlife/seals/crabeater.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pinnipeds.org/species/crabeatr.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/animal-info/Animal-Bytes/animalia/eumetazoa/coelomates/deuterostomes/chordata/craniata/mammalia/pinnipedia/crabeater-seal.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crabeater_Seal#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Polar_region#habitat">
+					<rdfs:label>Polar</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crabeater_Seal.gif">
+		<dc:title>Map showing the distribution of the Crabeater seal species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Lobodon</rdfs:label><wo:species rdf:resource="/nature/life/Crabeater_Seal#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Earless_seal#family"><rdfs:label>Phocidae</rdfs:label></wo:Family><wo:Superfamily rdf:about="/nature/superfamily/Pinniped#superfamily"><rdfs:label>Pinnipedia</rdfs:label></wo:Superfamily><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

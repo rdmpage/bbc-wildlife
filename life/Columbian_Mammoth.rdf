@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Columbian_Mammoth">
+		<foaf:primaryTopic rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Columbian_Mammoth#species">
+				<rdfs:label>Columbian mammoth</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Columbian_Mammoth#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/columbian_mammoth/columbian_mammoth_1.jpg"/>
+
+				<dc:description>Columbian mammoths had impressive, spiralled tusks that measured up to 4.9m, making them world record holders amongst the elephant family. There is some debate as to how hairy Columbian mammoths were and some scientists suggest that they had a full fur coat, like the woolly mammoth's. It is more likely that hair grew more extensively on some parts of the body, such as the top of the head, but that they were basically elephant-like with exposed greyish skin. Columbian mammoths ranged through the southern half of North America and south into Mexico before becoming extinct approximately 12,500 years ago.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Columbian_Mammoth"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Columbian_Mammoth.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Mammoth#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Elephantidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Proboscidea#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Columbian_Mammoth#name">
+				<rdfs:label>Mammuthus columbi</rdfs:label>
+				        <wo:commonName>Columbian mammoth</wo:commonName>
+        										<wo:scientificName>columbicolumbi</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Proboscidea</wo:orderName><wo:familyName>Elephantidae</wo:familyName><wo:genusName>Mammuthus</wo:genusName><wo:speciesName>columbi</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/columbian_mammoth/columbian_mammoth_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/columbian_mammoth/columbian_mammoth_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cl923#programme">
+			<dc:title>Prehistoric dung pile</dc:title>
+			<po:subject rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cl8tz#programme">
+			<dc:title>Mammoth graveyard</dc:title>
+			<po:subject rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cl6q0#programme">
+			<dc:title>Adolescent trap</dc:title>
+			<po:subject rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ckqnf#programme">
+			<dc:title>Back to life at La Brea</dc:title>
+			<po:subject rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ckqfb#programme">
+			<dc:title>La Brea death trap</dc:title>
+			<po:subject rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Columbian_Mammoth">
+		<foaf:primaryTopic rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.lakepowell.net/sciencecenter/mammoth.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mammothsite.com/mammoth_info.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tarpits.org/education/guide/flora/mammoth.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Columbian_Mammoth#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Columbian_Mammoth.gif">
+		<dc:title>Map showing the distribution of the Columbian mammoth species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Mammoth#genus"><rdfs:label>Mammuthus</rdfs:label><wo:species rdf:resource="/nature/life/Columbian_Mammoth#species"/><wo:species rdf:resource="/nature/life/Woolly_mammoth#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Elephantidae#family"><rdfs:label>Elephantidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Proboscidea#order"><rdfs:label>Proboscidea</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Magellanic_Woodpecker">
+		<foaf:primaryTopic rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Magellanic_Woodpecker#species">
+				<rdfs:label>Magellanic woodpecker</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Magellanic_Woodpecker#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/magellanic_woodpecker/magellanic_woodpecker_1.jpg"/>
+
+				<dc:description>Magellanic woodpeckers are ivory-billed woodpeckers that are found in Argentina and Chile. Whilst the chicks are being brought up, the females tend to catch small prey such as spiders and insects, whilst the males catch larger beetle larvae, lizards and even the chicks of other birds. This behaviour allows both parents to forage in the same area without competing. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Magellanic_Woodpecker"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Campephilus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Woodpecker#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Piciformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Magellanic_Woodpecker#name">
+				<rdfs:label>Campephilus magellanicus</rdfs:label>
+				        <wo:commonName>Magellanic woodpecker</wo:commonName>
+        										<wo:scientificName>magellanicusmagellanicus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Piciformes</wo:orderName><wo:familyName>Picidae</wo:familyName><wo:genusName>Campephilus</wo:genusName><wo:speciesName>magellanicus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/magellanic_woodpecker/magellanic_woodpecker_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/magellanic_woodpecker/magellanic_woodpecker_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hdrn#programme">
+			<dc:title>Talking to the birds</dc:title>
+			<po:subject rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/ma/magellanic_woodpecker/5050173.mp3">
+			<dc:title>A Magellenic woodpecker calls and climbs a tree</dc:title>
+			<dc:subject rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Magellanic_Woodpecker">
+		<foaf:primaryTopic rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Campephilus_magellanicus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Campephilus_magellanicus/93645">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/magellanic-woodpecker/campephilus-magellanicus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=717&amp;m=0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Magellanic_Woodpecker#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Campephilus#genus"><rdfs:label>Campephilus</rdfs:label><wo:species rdf:resource="/nature/life/Magellanic_Woodpecker#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Woodpecker#family"><rdfs:label>Picidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Piciformes#order"><rdfs:label>Piciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

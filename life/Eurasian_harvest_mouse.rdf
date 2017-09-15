@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Eurasian_harvest_mouse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Eurasian_harvest_mouse#species">
+				<rdfs:label>Harvest mouse</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Eurasian_harvest_mouse#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_harvest_mouse/eurasian_harvest_mouse_1.jpg"/>
+
+				<dc:description>Harvest mice are Europe’s smallest <a href="/nature/life/Rodent">rodents</a> with a remarkable prehensile tail. This long, hairless ‘limb’ aids <a href="/nature/adaptations/Climbing">climbing</a> through the tall, dense vegetation of their <a href="/nature/habitats/Meadow">meadow</a>, <a href="/nature/habitats/hedge">hedgerow</a> and <a href="/nature/habitats/Arable_land">crop field</a> homes. In the UK, they are rarely found north of Yorkshire or in Wales.
+<br />
+<br />
+Harvest mice weave complex spherical nests out of grass. The one-use breeding nest is roughly the size of a cricket ball and built about a metre above ground in spring and summer. Another smaller nest is built closer to the ground and used in winter for sleeping and <a href="/nature/adaptations/Hoarding_(animal_behaviour)">storing food</a>. Alas at harvest time they can all too easily find themselves homeless and in danger.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eurasian_harvest_mouse"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Eurasian_harvest_mouse.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Micromys#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Muridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Eurasian_harvest_mouse#name">
+				<rdfs:label>Micromys minutus</rdfs:label>
+				        <wo:commonName>Harvest mouse</wo:commonName>
+        								<wo:commonName>Eurasian harvest mouse</wo:commonName>
+								<wo:scientificName>minutusminutus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Muridae</wo:familyName><wo:genusName>Micromys</wo:genusName><wo:speciesName>minutus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_harvest_mouse/eurasian_harvest_mouse_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/eurasian_harvest_mouse/eurasian_harvest_mouse_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01lrq8v#programme">
+			<dc:title>Tiny mice</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eurasian_harvest_mouse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/accounts/Micromys_minutus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/harvest-mouse/micromys-minutus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.britishwildlifecentre.co.uk/planyourvisit/animals/harvestmouse.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildlifetrusts.org/species/harvest-mouse">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildwoodtrust.org/files/harvest-mouse-captive-breeding.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_harvest_mouse#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Eurasian_harvest_mouse.gif">
+		<dc:title>Map showing the distribution of the Harvest mouse species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Micromys#genus"><rdfs:label>Micromys</rdfs:label><wo:species rdf:resource="/nature/life/Eurasian_harvest_mouse#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Muridae#family"><rdfs:label>Muridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/North_American_River_Otter">
+		<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/North_American_River_Otter#species">
+				<rdfs:label>North American river otter</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/North_American_River_Otter#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/north_american_river_otter/north_american_river_otter_1.jpg"/>
+
+				<dc:description>North American river otters are excellent swimmers and divers. With ears and noses that can be closed underwater, insulating fur and webbed feet, their long, streamlined bodies are well suited to life in the water. On land they are no slouches either. Like other otters they enjoy mud and snow sliding and splashing around in the water. This may look like just having fun but it also encourages bonding and teaches hunting techniques to the young. River otters live in dens near water and catch fish, crayfish and crabs to eat.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/North_American_River_Otter"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Bog#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Mustelidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/North_American_River_Otter#name">
+				<rdfs:label>Lontra canadensis</rdfs:label>
+				        <wo:commonName>North American river otter</wo:commonName>
+        								<wo:commonName>Common otter</wo:commonName>
+						<wo:commonName>Northern river otter</wo:commonName>
+								<wo:scientificName>canadensiscanadensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Mustelidae</wo:familyName><wo:genusName>Lontra</wo:genusName><wo:speciesName>canadensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/north_american_river_otter/north_american_river_otter_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/no/north_american_river_otter/north_american_river_otter_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006rhmc#programme">
+			<dc:title>Fine dining</dc:title>
+			<po:subject rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006mzjt#programme">
+			<dc:title>Cunning coyote</dc:title>
+			<po:subject rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lmfc#programme">
+			<dc:title>Snow covered</dc:title>
+			<po:subject rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/n/no/north_american_river_otter/5076015.mp3">
+			<dc:title>North American river otter contact calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/North_American_River_Otter">
+		<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lontra_canadensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://nationalzoo.si.edu/Animals/NorthAmerica/Facts/fact-riverotter.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://northernbushcraft.com/animalTracks/otter/notes.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/north-american-otter/lontra-canadensis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.otternet.com/species/naotter.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.otterspecialistgroup.org/Species/Lontra_canadensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_River_Otter#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Bog#habitat">
+					<rdfs:label>Bog</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Lontra</rdfs:label><wo:species rdf:resource="/nature/life/North_American_River_Otter#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Mustelidae#family"><rdfs:label>Mustelidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

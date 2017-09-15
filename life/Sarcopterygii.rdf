@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Sarcopterygii">
+		<foaf:primaryTopic rdf:resource="/nature/class/Sarcopterygii#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Sarcopterygii#class">
+				<rdfs:label>Lobe-finned fishes</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Sarcopterygii#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sarcopterygii/sarcopterygii_1.jpg"/>
+
+				<dc:description>Lobe-finned fishes (Sarcopterygii) contain the coelacanths, the lungfish and various other extinct groups. This class of fish was ancestral to all of the four-legged vertebrates: amphibians, reptiles, birds and mammals. The bones of the pelvis, shoulder girdle and fins of lobe-finned fishes resembles a primitive, limb-like structure. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sarcopterygii"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Sarcopterygii.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Vernal_pool#habitat"/>
+        					        				    								
+					
+                                                                <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Sarcopterygii#name">
+				<rdfs:label>Sarcopterygii</rdfs:label>
+				        <wo:commonName>Lobe-finned fishes</wo:commonName>
+        								<wo:commonName>Crossopterygians</wo:commonName>
+								<wo:scientificName>Sarcopterygii</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Sarcopterygii</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sarcopterygii/sarcopterygii_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Sarcopterygii#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sa/sarcopterygii/sarcopterygii_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkwgv#programme">
+			<dc:title>The toothy jaws that led to the rise of the shark</dc:title>
+			<po:subject rdf:resource="/nature/class/Sarcopterygii#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hs5q#programme">
+			<dc:title>Fish types</dc:title>
+			<po:subject rdf:resource="/nature/class/Sarcopterygii#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sarcopterygii">
+		<foaf:primaryTopic rdf:resource="/nature/class/Sarcopterygii#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Sarcopterygii.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sarcopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Sarcopterygii/14922">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sarcopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossilmuseum.net/fishfossils/Sarcopterygii-fossils.htm">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sarcopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/vertebrates/sarco/sarcopterygii.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Sarcopterygii#class"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Vernal_pool#habitat">
+					<rdfs:label>Temporary pools</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Sarcopterygii.gif">
+		<dc:title>Map showing the distribution of the Lobe-finned fishes class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label><wo:class rdf:resource="/nature/life/Sarcopterygii#class"/><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Latimeria#class"><rdfs:label>Coelacanths</rdfs:label><wo:class rdf:resource="/nature/life/Sarcopterygii#class"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

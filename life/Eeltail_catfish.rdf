@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Eeltail_catfish">
+		<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Eeltail_catfish#family">
+				<rdfs:label>Eeltail catfish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Eeltail_catfish#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ee/eeltail_catfish/eeltail_catfish_1.jpg"/>
+
+				<dc:description>Eeltail catfish can be found in both marine and freshwater. The freshwater species have evolved from marine ones that have colonised rivers. These catfish are common in the rivers of Papua New Guinea, but are also found in Australia, the Indian and Pacific Oceans.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eeltail_catfish"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Eeltail_catfish.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Catfish#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Eeltail_catfish#name">
+				<rdfs:label>Plotosidae</rdfs:label>
+				        <wo:commonName>Eeltail catfish</wo:commonName>
+        										<wo:scientificName>Plotosidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Siluriformes</wo:orderName><wo:familyName>Plotosidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ee/eeltail_catfish/eeltail_catfish_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/ee/eeltail_catfish/eeltail_catfish_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004bkty#programme">
+			<dc:title>Venomous catfish</dc:title>
+			<po:subject rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eeltail_catfish">
+		<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="E">
+			<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="E">
+			<foaf:primaryTopic rdf:resource="/nature/family/Eeltail_catfish#family"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Eeltail_catfish.gif">
+		<dc:title>Map showing the distribution of the Eeltail catfish family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Catfish#order"><rdfs:label>Siluriformes</rdfs:label><wo:family rdf:resource="/nature/life/Eeltail_catfish#family"/><wo:family rdf:resource="/nature/life/#family"/></wo:Order><wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

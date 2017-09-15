@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Cricetidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Cricetidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Cricetidae#family">
+				<rdfs:label>New World rats and mice</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Cricetidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/cricetidae/cricetidae_1.jpg"/>
+
+				<dc:description>New World rats and mice are a very diverse family of rodents that includes voles, hamsters and lemmings. Widely distributed throughout the Americas, Europe and Asia, they live almost anywhere - from high up in the mountains to dry desert. Some species never leave the tree tops, while others are mostly aquatic. This is one of the largest families of mammals, containing nearly 700 species. Sadly, around one fifth of these species are currently considered threatened or endangered. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cricetidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Cricetidae#name">
+				<rdfs:label>Cricetidae</rdfs:label>
+				        <wo:commonName>New World rats and mice</wo:commonName>
+        										<wo:scientificName>Cricetidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Cricetidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/cricetidae/cricetidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Cricetidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/cr/cricetidae/cricetidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cricetidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Cricetidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cricetidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Cricetidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/2921042">
+			<foaf:primaryTopic rdf:resource="/nature/family/Cricetidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21043380">
+			<dc:title>Mouse burrowing 'in their genes'</dc:title>
+			<dc:description>The burrowing behaviour of mice is driven by just a few genetic regions and not through learning, researchers say - with implications for our own behaviour.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Cricetidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9383000/9383327.stm">
+			<dc:title>Rarest rat soon becomes nuisance</dc:title>
+			<dc:description>One of the rarest mammals in the world, the Stolzmann's fish-eating rat, has quickly become a potential pest species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Cricetidae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label><wo:family rdf:resource="/nature/life/Cricetidae#family"/><wo:family rdf:resource="/nature/life/Blesmol#family"/><wo:family rdf:resource="/nature/life/Castoridae#family"/><wo:family rdf:resource="/nature/life/Caviidae#family"/><wo:family rdf:resource="/nature/life/Muridae#family"/><wo:family rdf:resource="/nature/life/Dormouse#family"/><wo:family rdf:resource="/nature/life/Sciuridae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/European_Water_Vole#family"><rdfs:label>European water vole</rdfs:label><wo:family rdf:resource="/nature/life/Cricetidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Field_Vole#family"><rdfs:label>Field vole</rdfs:label><wo:family rdf:resource="/nature/life/Cricetidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Myodes_glareolus#family"><rdfs:label>Bank vole</rdfs:label><wo:family rdf:resource="/nature/life/Cricetidae#family"/></wo:Species><wo:Tribe rdf:about="/nature/life/Lemming#family"><rdfs:label>Lemmings</rdfs:label><wo:family rdf:resource="/nature/life/Cricetidae#family"/></wo:Tribe>
+	
+	
+		    
+</rdf:RDF>

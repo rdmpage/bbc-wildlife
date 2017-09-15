@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Humpback_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Humpback_whale#species">
+				<rdfs:label>Humpback whale</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Humpback_whale#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hu/humpback_whale/humpback_whale_1.jpg"/>
+
+				<dc:description>Humpback whales <a href="/nature/adaptations/Animal_migration">migrate</a> seasonally from the tropics to their northern feeding grounds, and during the summer months they must feed intensely in preparation for this migration. They hunt <a href="/nature/adaptations/Pack_hunter">cooperatively</a> using the ‘bubble net’ strategy where several  whales circle underwater emitting a stream of bubbles, which trap <a href="/nature/animals/by/fish">fish</a> within an air ring, the whales can then gorge on the contents of their ‘net’. These magnificent whales are renowned for their acrobatic aerial breaching, and their beautiful yet complex <a href="/nature/adaptations/Hearing_(sense)">songs</a>, performed by males during courtship.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> Humpback whales have five metre long flippers that are almost one third of their body length.
+<br/> </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Humpback_whale"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Humpback_whale.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Rorqual#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Humpback_whale#name">
+				<rdfs:label>Megaptera novaeangliae</rdfs:label>
+				        <wo:commonName>Humpback whale</wo:commonName>
+        										<wo:scientificName>novaeangliaenovaeangliae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Balaenidae</wo:familyName><wo:genusName>Megaptera</wo:genusName><wo:speciesName>novaeangliae</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hu/humpback_whale/humpback_whale_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Humpback_whale#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/hu/humpback_whale/humpback_whale_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p02bn426#programme">
+			<dc:title>Whale ballet</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01mqly5#programme">
+			<dc:title>Sleeping humpbacks</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015myqb#programme">
+			<dc:title>In isolation</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00x9ymw#programme">
+			<dc:title>Sleeping humpbacks</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006jq0n#programme">
+			<dc:title>Mating calls</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006jpy6#programme">
+			<dc:title>Singing whales</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vb1f#programme">
+			<dc:title>Nature's biggest battle</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004s4q0#programme">
+			<dc:title>World's best song</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039r6p#programme">
+			<dc:title>Freediving with whales</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7sgp#programme">
+			<dc:title>Bottom of the food chain</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l4q99#programme">
+			<dc:title>Rich polar waters</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k094d#programme">
+			<dc:title>Unusual catch</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jz0s5#programme">
+			<dc:title>Humpback opera</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jtfwv#programme">
+			<dc:title>Humpbacks fishing</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jp830#programme">
+			<dc:title>Whale wars</dc:title>
+			<po:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/h/hu/humpback_whale/nhs1345-01.mp3">
+			<dc:title>Humpback whale song</dc:title>
+			<dc:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/h/hu/humpback_whale/nhs1345-06.mp3">
+			<dc:title>Humpback whales bubble netting</dc:title>
+			<dc:subject rdf:resource="/nature/species/Humpback_whale#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Humpback_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Megaptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/humpback-whale/megaptera-novaeangliae/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/13006">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marlin.ac.uk/lzspeciesreview.php?speciesid=3777">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seawatchfoundation.org.uk/species.php?uid=5">
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21755885">
+			<dc:title>Whales feed with 'tangled hair net'</dc:title>
+			<dc:description>Hair-like structures inside the throats of filter-feeding whales tangle to trap food, according to a study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21592348">
+			<dc:title>Rare whales' singing put to test</dc:title>
+			<dc:description>An isolated population of Arabian Sea humpback whales may be less sophisticated "singers" than humpbacks elsewhere.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/20641787">
+			<dc:title>In pictures: Humpbacks close up</dc:title>
+			<dc:description>Large numbers of humpback whales have gathered to feed close to shore in Arctic Norway.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-20580373">
+			<dc:title>Humpback whales creating stir</dc:title>
+			<dc:description>Humpback whales create a stir off Baltimore in west Cork in the Irish Republic as they feed on shoals of sprat and herring.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-19179554">
+			<dc:title>Humpback whales perform migration spectacle</dc:title>
+			<dc:description>Enjoy a front seat for one of nature's greatest spectacles - humpback whales passing along Australia's east coast on an annual 10,000km migration.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17991601">
+			<dc:title>Humpbacks intervene in whale hunt</dc:title>
+			<dc:description>The unusual sight of humpback whales intervening in a killer whale hunt has been caught on camera by a BBC/National Geographic film crew.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9457000/9457855.stm">
+			<dc:title>Whale song spreads across oceans</dc:title>
+			<dc:description>Recordings of male humpback whales have shown that the mammals' haunting songs spread like trends through the ocean.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/freediving-with-whales/10531.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>A freediver is seen swimming with a humpback whale and her calf.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-11067194">
+			<dc:title>Male whale seeks female to take plunge</dc:title>
+			<dc:description>A humpback whale has put on a spectacular show in what is believed to be a way of attracting female attention</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cornwall-10980244">
+			<dc:title>Dead junior Humpback whale floating off St Ives coast</dc:title>
+			<dc:description>A whale, believed to be a junior Humpback, dies off the Cornish coast after losing its mother and becoming ill.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8722000/8722626.stm">
+			<dc:title>Humpback whales form friendships that last years</dc:title>
+			<dc:description>Humpback whales form lasting bonds with each other, the first baleen whales known to do so.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8318000/8318182.stm">
+			<dc:title>Epic humpback whale battle filmed</dc:title>
+			<dc:description>The greatest of all animal battles is filmed in its entirety for the first time by a BBC crew.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/8255538.stm">
+			<dc:title>Dead whale found afloat in Thames</dc:title>
+			<dc:description>A humpback whale found dead and floating in the River Thames is thought to have starved to death.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8222000/8222370.stm">
+			<dc:title>Intricate bat 'love songs' decoded</dc:title>
+			<dc:description>The love songs of free-tailed bats show a similar level of complexity as whale and bird songs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/asia-pacific/8126237.stm">
+			<dc:title>Exclusion zone for special whale</dc:title>
+			<dc:description>Australian authorities have warned the public to stay away from a rare white humpback whale named Migaloo that has made an appearance off the east coast.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7940396.stm">
+			<dc:title>Hungry whales steal birds' dinner</dc:title>
+			<dc:description>Humpback whales have come up with a novel way for getting an easy snack - stealing birds' dinners.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7519263.stm">
+			<dc:title>New white whale spotted</dc:title>
+			<dc:description>A new white humpback has been sighted off Byron Bay on the east coast of Australia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Humpback_whale#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Humpback_whale.gif">
+		<dc:title>Map showing the distribution of the Humpback whale species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Megaptera</rdfs:label><wo:species rdf:resource="/nature/life/Humpback_whale#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Rorqual#family"><rdfs:label>Balaenidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

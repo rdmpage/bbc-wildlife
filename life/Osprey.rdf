@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Osprey">
+		<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Osprey#species">
+				<rdfs:label>Osprey</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Osprey#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/os/osprey/osprey_1.jpg"/>
+
+				<dc:description>Ospreys are some of the most widespread <a href="http://www.bbc.co.uk/nature/life/Falconiformes">birds of prey</a>, located on every continent except Antarctica. Found typically near both salt and freshwater, they inhabit a variety of landscapes. Ospreys are supreme fishers. Plunging feet first they pluck live <a href="http://www.bbc.co.uk/nature/animals/by/fish">fish</a> from the water's surface, often submerging themselves completely in the process. This skillful manoeuvre is aided by a few key adaptations including oily plumage, big feet and a reversible toe which allows them to carry sizeable fish whilst in flight.   
+<br />
+<br />
+<a href="/nature/19700707">All you need to know about British birds.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Osprey"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Bog#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Pandion#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Pandionidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Osprey#name">
+				<rdfs:label>Pandion haliaetus</rdfs:label>
+				        <wo:commonName>Osprey</wo:commonName>
+        										<wo:scientificName>haliaetushaliaetus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Pandionidae</wo:familyName><wo:genusName>Pandion</wo:genusName><wo:speciesName>haliaetus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/os/osprey/osprey_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Osprey#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/os/osprey/osprey_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m14h5#programme">
+			<dc:title>Winter in West Africa</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m13tj#programme">
+			<dc:title>Osprey heaven</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l6xms#programme">
+			<dc:title>Osprey migration</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l1b72#programme">
+			<dc:title>Hard journey ahead</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l19jb#programme">
+			<dc:title>Tracking ospreys</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kslyb#programme">
+			<dc:title>Osprey babies</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g9r9k#programme">
+			<dc:title>Ospreys up close</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g90n2#programme">
+			<dc:title>An osprey's history of Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g90kp#programme">
+			<dc:title>Osprey show homes</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fny5q#programme">
+			<dc:title>Operation Osprey</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm9n9#programme">
+			<dc:title>Osprey navigation</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm9ms#programme">
+			<dc:title>Instinctive hunting</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm9f8#programme">
+			<dc:title>Migration mecca</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm9dr#programme">
+			<dc:title>Travelling instincts</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm9ch#programme">
+			<dc:title>Fish thief</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm9bc#programme">
+			<dc:title>Osprey heaven</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm99g#programme">
+			<dc:title>Osprey prowess</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm950#programme">
+			<dc:title>Fatal fishing error</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fm93j#programme">
+			<dc:title>Migration mentality</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f778y#programme">
+			<dc:title>Ambush hunters</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085sx1#programme">
+			<dc:title>Job share</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085c2q#programme">
+			<dc:title>Doting dad</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085bf4#programme">
+			<dc:title>Dive-bombing birds</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00859vq#programme">
+			<dc:title>Nest DIY</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008593x#programme">
+			<dc:title>Poetry of motion </dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0084rx1#programme">
+			<dc:title>Domestic dispute</dc:title>
+			<po:subject rdf:resource="/nature/species/Osprey#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/o/os/osprey/5020109.mp3">
+			<dc:title>Calling female osprey</dc:title>
+			<dc:subject rdf:resource="/nature/species/Osprey#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Osprey">
+		<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Pandion_haliaetus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://ospreys.com/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Osprey/lifehistory">
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/osprey/pandion-haliaetus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/07/osprey-tracking-the-start-of-a-1.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/wales/nature/sites/species/birds/ospreys.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/o/osprey/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-18611742">
+			<dc:title>Buzzard snatches osprey chick</dc:title>
+			<dc:description>Footage showing an osprey chick being snatched from its nest in Aberdeenshire by a buzzard has been captured.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-18021420">
+			<dc:title>Osprey chick hatches at Glaslyn</dc:title>
+			<dc:description>The first of three osprey chicks hatches at a nest being monitored by the RSPB in north Wales and is thought to be the first in the UK in 2012.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-tayside-central-17726409">
+			<dc:title>'Oldest' breeding osprey lays egg</dc:title>
+			<dc:description>An osprey which is thought to be the UK's oldest breeding female lays her 62nd egg at a reserve in Perthshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-tyne-17599950">
+			<dc:title>Nesting ospreys return to forest</dc:title>
+			<dc:description>A pair of ospreys return to a forest nesting site in Northumberland for the fourth successive year.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-15560712">
+			<dc:title>Rare ospreys secure own paparazzo</dc:title>
+			<dc:description>A student becomes official photographer for rare birds of prey to record their annual stay in Cumbria.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-mid-wales-14203153">
+			<dc:title>Osprey chicks tracked by sat nav</dc:title>
+			<dc:description>Three osprey chicks born in a man-made nest on a Powys nature reserve are fitted with satellite trackers to follow their flight to Africa.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-leicestershire-13526489">
+			<dc:title>Reward offered for missing osprey</dc:title>
+			<dc:description>The Rutland Osprey Project offers a reward for information after a third osprey disappears from the area.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/tyne/hi/front_page/newsid_9416000/9416672.stm">
+			<dc:title>Rangers hope for ospreys return</dc:title>
+			<dc:description>Tree-climbing rangers at Kielder are to build a new platform to help their resident ospreys find love.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-sussex-11514737">
+			<dc:title>Reward over bird of prey shooting</dc:title>
+			<dc:description>Police and the RSPB offer a £1,000 reward to help catch the person who shot an Osprey in East Sussex.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11310240">
+			<dc:title>Police probe after osprey death</dc:title>
+			<dc:description>An osprey rescued from near a river died from injuries which were deliberately inflicted, police say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-tayside-central-11070641">
+			<dc:title>Net snag osprey returned to Loch Tay</dc:title>
+			<dc:description>An osprey found tangled in fishing nets on Loch Tay is rehabilitated and released back into the wild.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/north_east/5019960.stm">
+			<dc:title>Shetland wildlife to be TV stars</dc:title>
+			<dc:description>Shetland's wildlife stars in a live BBC broadcast aimed at showcasing beautiful scenery and birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-tyne-10838017">
+			<dc:title>Kielder ospreys take to the air</dc:title>
+			<dc:description>Three osprey chicks born to a nesting pair in Northumberland have taken to the air for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/8638876.stm">
+			<dc:title>RSPB fake nests aim to lure ospreys to southern England</dc:title>
+			<dc:description>Conservationists are attempting to lure rare ospreys to new nesting sites in southern England using polystyrene models of the birds in "show homes".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/tayside_and_central/8617401.stm">
+			<dc:title>Oldest osprey produces 56th egg</dc:title>
+			<dc:description>The UK's oldest known breeding female osprey has surprised wildlife experts by producing her 56th egg.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Osprey#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Bog#habitat">
+					<rdfs:label>Bog</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Pandion#genus"><rdfs:label>Pandion</rdfs:label><wo:species rdf:resource="/nature/life/Osprey#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Pandionidae#family"><rdfs:label>Pandionidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

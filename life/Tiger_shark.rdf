@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Tiger_shark">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Tiger_shark#species">
+				<rdfs:label>Tiger shark</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Tiger_shark#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/tiger_shark/tiger_shark_1.jpg"/>
+
+				<dc:description>Tiger sharks have been nicknamed the dustbins of the sea, due to their voracious appetite and reputation for eating anything in their path. They are second to great whites as the record holders of attacks on humans. This is partly due to their occurrence in shallow waters and their indiscriminate feeding habits. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tiger_shark"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tiger_shark.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Requiem_shark#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carcharhiniformes#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Shark#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Chondrichthyes#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Tiger_shark#name">
+				<rdfs:label>Galeocerdo cuvier</rdfs:label>
+				        <wo:commonName>Tiger shark</wo:commonName>
+        										<wo:scientificName>cuviercuvier</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Chondrichthyes</wo:className><wo:superorderName>Selachimorpha</wo:superorderName><wo:orderName>Carcharhiniformes</wo:orderName><wo:familyName>Carcharhinidae</wo:familyName><wo:genusName>Galeocerdo</wo:genusName><wo:speciesName>cuvier</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/tiger_shark/tiger_shark_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Tiger_shark#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ti/tiger_shark/tiger_shark_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n6tkd#programme">
+			<dc:title>Turtle soup</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger_shark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bvc6d#programme">
+			<dc:title>Dolphin defenders</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger_shark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004s5jg#programme">
+			<dc:title>Swimming with sharks</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger_shark#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tiger_shark">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Galeocerdo_cuvier.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/tiger-shark/galeocerdo-cuvier/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fishbase.org/Summary/SpeciesSummary.php?ID=886">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flmnh.ufl.edu/fish/Gallery/Descript/Tigershark/tigershark.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marinebiodiversity.ca/shark/english/tiger_shark.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17299522">
+			<dc:title>In pictures: Tagging tiger sharks</dc:title>
+			<dc:description>Researchers from the University of Miami, Florida have completed the first satellite-tagging study to find out how ecotourism impacts on tiger sharks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11174456">
+			<dc:title>Sharks swarm off Australian coast</dc:title>
+			<dc:description>Hundreds of sharks have been spotted off the Queensland coast. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/hawaii2007/stories/turtlewatchingwithatwist">
+			<dc:title>Turtle watching with a twist</dc:title>
+			<dc:description>Visiting an underwater turtle cleaning station, Ellen Husain encounters an unexpected and curious predator. The tiger shark.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/tigerbeach/stories/sharks">
+			<dc:title>Swimming with sharks</dc:title>
+			<dc:description></dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger_shark#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tiger_shark.gif">
+		<dc:title>Map showing the distribution of the Tiger shark species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Galeocerdo</rdfs:label><wo:species rdf:resource="/nature/life/Tiger_shark#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Requiem_shark#family"><rdfs:label>Carcharhinidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carcharhiniformes#order"><rdfs:label>Carcharhiniformes</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Shark#superorder"><rdfs:label>Selachimorpha</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Chondrichthyes#class"><rdfs:label>Chondrichthyes</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

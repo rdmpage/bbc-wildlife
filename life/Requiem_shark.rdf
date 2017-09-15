@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Requiem_shark">
+		<foaf:primaryTopic rdf:resource="/nature/family/Requiem_shark#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Requiem_shark#family">
+				<rdfs:label>Requiem sharks</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Requiem_shark#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/requiem_shark/requiem_shark_1.jpg"/>
+
+				<dc:description>Requiem sharks are one of the largest and best-known families of <a href="/nature/life/Shark">sharks</a>. Their torpedo-shaped bodies range in length from less than a metre to over seven metres. Most are voracious <a href="/nature/adaptations/Predation">predators</a> of other fish, octopus, marine mammals and seabirds. The 52 species are all quite similar in appearance, so telling individual species apart can be very tricky. <a href="/nature/life/Tiger_shark">Tiger</a>, <a href="/nature/life/Lemon_shark">lemon</a> and whitetip reef sharks are some of the more familiar species; the family also includes the intriguingly named bignose, nervous and daggernose sharks. Requiem sharks are responsible for a high proportion of the reported attacks on humans.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Requiem_shark"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Requiem_shark.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carcharhiniformes#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Shark#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Chondrichthyes#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Requiem_shark#name">
+				<rdfs:label>Carcharhinidae</rdfs:label>
+				        <wo:commonName>Requiem sharks</wo:commonName>
+        										<wo:scientificName>Carcharhinidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Chondrichthyes</wo:className><wo:superorderName>Selachimorpha</wo:superorderName><wo:orderName>Carcharhiniformes</wo:orderName><wo:familyName>Carcharhinidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/requiem_shark/requiem_shark_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Requiem_shark#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/requiem_shark/requiem_shark_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Requiem_shark">
+		<foaf:primaryTopic rdf:resource="/nature/family/Requiem_shark#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Carcharhinidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Requiem_shark#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/1901/overview">
+			<foaf:primaryTopic rdf:resource="/nature/family/Requiem_shark#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fishbase.org/summary/FamilySummary.php?ID=11">
+			<foaf:primaryTopic rdf:resource="/nature/family/Requiem_shark#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oceanoasis.org/fieldguide/carcharhinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Requiem_shark#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21497049">
+			<dc:title>Endangered sharks return 'home'</dc:title>
+			<dc:description>Oceanic whitetip sharks return home to protected Bahamas waters, surprising scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Requiem_shark#family"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Requiem_shark.gif">
+		<dc:title>Map showing the distribution of the Requiem sharks family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carcharhiniformes#order"><rdfs:label>Carcharhiniformes</rdfs:label><wo:family rdf:resource="/nature/life/Requiem_shark#family"/><wo:family rdf:resource="/nature/life/#family"/></wo:Order><wo:Superorder rdf:about="/nature/superorder/Shark#superorder"><rdfs:label>Selachimorpha</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Chondrichthyes#class"><rdfs:label>Chondrichthyes</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Tiger_shark#family"><rdfs:label>Tiger shark</rdfs:label><wo:family rdf:resource="/nature/life/Requiem_shark#family"/></wo:Species><wo:Species rdf:about="/nature/life/Lemon_shark#family"><rdfs:label>Lemon shark</rdfs:label><wo:family rdf:resource="/nature/life/Requiem_shark#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

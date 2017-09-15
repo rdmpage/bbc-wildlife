@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Spider_wasp">
+		<foaf:primaryTopic rdf:resource="/nature/family/Spider_wasp#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Spider_wasp#family">
+				<rdfs:label>Spider wasps</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Spider_wasp#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/spider_wasp/spider_wasp_1.jpg"/>
+
+				<dc:description>Spider wasps are named after their prey - so it will come as no surprise that they hunt down <a href="/nature/life/Spider">spiders</a>, including some as large as <a href="/nature/life/Tarantula">tarantulas</a>. The spider wasps are often not after a meal for themselves, but for their larvae. A female wasp will paralyse the spider she's caught, and then <a href="/nature/adaptations/Oviparity">lays a single egg</a> on it. When the larvae hatches out it has a fresh spider ready-meal waiting.
+<br />
+<br />
+A few species of spider wasp have given up hunting <a href="/nature/life/Spider">spiders</a> and instead attack other types of spider wasp. This very cosmopolitan family of wasps contain around 5,000 species; unusually all of them are solitary and nest alone.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Spider_wasp"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Spider_wasp.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Hymenoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Spider_wasp#name">
+				<rdfs:label>Pompilidae</rdfs:label>
+				        <wo:commonName>Spider wasps</wo:commonName>
+        								<wo:commonName>Spider-hunting wasps</wo:commonName>
+								<wo:scientificName>Pompilidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hymenoptera</wo:orderName><wo:familyName>Pompilidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/spider_wasp/spider_wasp_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Spider_wasp#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sp/spider_wasp/spider_wasp_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zm1j#programme">
+			<dc:title>A wheelie good defence</dc:title>
+			<po:subject rdf:resource="/nature/family/Spider_wasp#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bmbb9#programme">
+			<dc:title>Spider spotting</dc:title>
+			<po:subject rdf:resource="/nature/family/Spider_wasp#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Spider_wasp">
+		<foaf:primaryTopic rdf:resource="/nature/family/Spider_wasp#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://bugguide.net/node/view/3919">
+			<foaf:primaryTopic rdf:resource="/nature/family/Spider_wasp#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://chrisraper.org.uk/blog/?tag=pompilidae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Spider_wasp#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.natureconservationimaging.com/Pages/nature_conservation_imaging_heathland1_sphunting_wasps.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Spider_wasp#family"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Parasitism#adaptation">
+					<rdfs:label>Parasitic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Spider_wasp.gif">
+		<dc:title>Map showing the distribution of the Spider wasps family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Hymenoptera#order"><rdfs:label>Hymenoptera</rdfs:label><wo:family rdf:resource="/nature/life/Spider_wasp#family"/><wo:family rdf:resource="/nature/life/Ant#family"/><wo:family rdf:resource="/nature/life/Vespidae#family"/><wo:family rdf:resource="/nature/life/Apidae#family"/><wo:family rdf:resource="/nature/life/Megachilidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Snow_Leopard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Snow_Leopard#species">
+				<rdfs:label>Snow leopard</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Snow_Leopard#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sn/snow_leopard/snow_leopard_1.jpg"/>
+
+				<dc:description>Snow leopards are exceptional athletes capable of making huge leaps over ravines. They are highly adapted to their harsh environment in the mountainous areas of central Asia, with long, thick body hair, a woolly belly and enlarged nasal cavities which heat inhaled cold air. Snow leopards are critically endangered since their fur was once highly prized and their natural prey has declined. They can bring down prey three times their own size, but on average only kill one large animal twice a month.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Snow_Leopard"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Snow_Leopard#name">
+				<rdfs:label>Uncia uncia</rdfs:label>
+				        <wo:commonName>Snow leopard</wo:commonName>
+        										<wo:scientificName>unciauncia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Uncia</wo:genusName><wo:speciesName>uncia</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sn/snow_leopard/snow_leopard_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Snow_Leopard#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sn/snow_leopard/snow_leopard_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b6wv1#programme">
+			<dc:title>Cub close-up</dc:title>
+			<po:subject rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382v3#programme">
+			<dc:title>Snow leopard</dc:title>
+			<po:subject rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00378k9#programme">
+			<dc:title>Snow leopard hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Snow_Leopard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Uncia_uncia.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/snow-leopard/panthera-uncia/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/22732/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.panthera.org/programs/snow-leopard/snow-leopard-program">
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.snowleopardtrustuk.org/snow-leopards.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wwfnepal.org/our_solutions/thematic_solutions_nepal/species_nepal/snow_leopard_nepal/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17050373">
+			<dc:title>Rare snow leopards caught on film</dc:title>
+			<dc:description>New footage suggests the endangered snow leopard is thriving in a national park in Bhutan.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/2011/04/gir-lion-revival-offers-food-f.shtml">
+			<dc:title>Big cats prefer the taste of wild flesh</dc:title>
+			<dc:description> Asiatic lions are extending their limited range Conservation stories can be hard to tell. Not so the story of the Asiatic lion - which is a rare beast, in...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/">
+			<dc:title>BBC - Wonder Monkey</dc:title>
+			<dc:description>Matt Walker, editor of BBC Nature, discusses how there’s more to Life and
+the natural world than you may think.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9021000/9021293.stm">
+			<dc:title>Baby snow leopard filmed in wild</dc:title>
+			<dc:description>A wild baby snow leopard has been caught on camera, filmed living 4000m up in the highlands of Bhutan in the Himalayas.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-11396054">
+			<dc:title>Online auction to name zoo's cubs</dc:title>
+			<dc:description>A Norfolk zoo is holding an online auction for people to bid for a chance to name three snow leopard cubs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8998000/8998044.stm">
+			<dc:title>Baby snow leopard filmed in wild</dc:title>
+			<dc:description>A wild baby snow leopard has been caught on camera, filmed living over 5000m up in the highlands of Bhutan in the Himalayas.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/norfolk/hi/people_and_places/nature/newsid_8880000/8880883.stm">
+			<dc:title>In pictures: Snow leopard cubs born at Banham Zoo</dc:title>
+			<dc:description>Rare snow leopard cubs are born at Banham Zoo in Norfolk - three of only a few thousand left in the world.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8321000/8321033.stm">
+			<dc:title>Tiger skin trade in China exposed</dc:title>
+			<dc:description>An undercover investigation by an environmental campaign group reveals the continuing trade in tiger skins in China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/north_west/8126937.stm">
+			<dc:title>Zoo's snow leopard has twin cubs</dc:title>
+			<dc:description>Twin snow leopard cubs have been born for the first time in Wales at the Welsh Mountain Zoo in Conwy.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/technology/6331445.stm">
+			<dc:title>Answers to your snow leopards questions</dc:title>
+			<dc:description>Over the past four months, a research project has been underway on the Pakistan-Afghanistan borders to learn more about the elusive snow leopard.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/technology/6159767.stm">
+			<dc:title>Snow Leopard Diary</dc:title>
+			<dc:description>A research project is under way to learn more about the elusive snow leopard.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Snow_Leopard#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Uncia</rdfs:label><wo:species rdf:resource="/nature/life/Snow_Leopard#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

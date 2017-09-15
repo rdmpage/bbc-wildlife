@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Pygmy_Three-toed_Sloth">
+		<foaf:primaryTopic rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Pygmy_Three-toed_Sloth#species">
+				<rdfs:label>Pygmy three-toed sloth</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Pygmy_Three-toed_Sloth#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/pygmy_three-toed_sloth/pygmy_three-toed_sloth_1.jpg"/>
+
+				<dc:description>Pygmy three-toed sloths are pretty laid back even as sloths go, but there's serious trouble in the Caribbean paradise where these highly specialised mangrove dwellers hang out. They were only recognised as a species in 2001, and with their population perhaps already numbering less than 1,000, time is rapidly running out. These diminutive sloths are fairly decent swimmers, can turn their heads 360 degrees and have a unique green algae that grows in their fur and provides camouflage.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pygmy_Three-toed_Sloth"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Pygmy_Three-toed_Sloth.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mangrove#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Three-toed_sloth#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bradypodidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pilosa#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Pygmy_Three-toed_Sloth#name">
+				<rdfs:label>Bradypus pygmaeus</rdfs:label>
+				        <wo:commonName>Pygmy three-toed sloth</wo:commonName>
+        								<wo:commonName>Dwarf three-toed sloth</wo:commonName>
+								<wo:scientificName>pygmaeuspygmaeus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Pilosa</wo:orderName><wo:familyName>Bradypodidae</wo:familyName><wo:genusName>Bradypus</wo:genusName><wo:speciesName>pygmaeus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/pygmy_three-toed_sloth/pygmy_three-toed_sloth_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/py/pygmy_three-toed_sloth/pygmy_three-toed_sloth_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqcjq#programme">
+			<dc:title>Pygmy sloth discovery</dc:title>
+			<po:subject rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pygmy_Three-toed_Sloth">
+		<foaf:primaryTopic rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Bradypus_pygmaeus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/pygmy-three-toed-sloth/bradypus-pygmaeus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.edgeofexistence.org/mammals/species_info.php?id=1396">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/61925/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pygmy_Three-toed_Sloth#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mangrove#habitat">
+					<rdfs:label>Mangroves</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Pygmy_Three-toed_Sloth.gif">
+		<dc:title>Map showing the distribution of the Pygmy three-toed sloth species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Three-toed_sloth#genus"><rdfs:label>Bradypus</rdfs:label><wo:species rdf:resource="/nature/life/Pygmy_Three-toed_Sloth#species"/><wo:species rdf:resource="/nature/life/Brown-throated_Sloth#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bradypodidae#family"><rdfs:label>Bradypodidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Pilosa#order"><rdfs:label>Pilosa</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

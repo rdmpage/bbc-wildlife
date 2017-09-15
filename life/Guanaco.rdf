@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Guanaco">
+		<foaf:primaryTopic rdf:resource="/nature/species/Guanaco#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Guanaco#species">
+				<rdfs:label>Guanaco</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Guanaco#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gu/guanaco/guanaco_1.jpg"/>
+
+				<dc:description>Darwin described the guanaco as 'an elegant animal, with long slender neck and fine legs' - a deserved compliment for this speedy, high Andes inhabitant. The guanaco is believed to be the ancestor of the domestic llama. It's surprisingly graceful and has been known to clock speeds of 56km per hour. Its blood can carry more oxygen than other mammals, which helps the guanaco function well at altitudes of up to 4,000m.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Guanaco"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Lama_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Camelid#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Guanaco#name">
+				<rdfs:label>Lama guanicoe</rdfs:label>
+				        <wo:commonName>Guanaco</wo:commonName>
+        										<wo:scientificName>guanicoeguanicoe</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Camelidae</wo:familyName><wo:genusName>Lama</wo:genusName><wo:speciesName>guanicoe</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gu/guanaco/guanaco_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Guanaco#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gu/guanaco/guanaco_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003tjcq#programme">
+			<dc:title>Desert survivors</dc:title>
+			<po:subject rdf:resource="/nature/species/Guanaco#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039z8q#programme">
+			<dc:title>Patagonian spring</dc:title>
+			<po:subject rdf:resource="/nature/species/Guanaco#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gu/guanaco/mp25220-07.mp3">
+			<dc:title>A guanaco snorting</dc:title>
+			<dc:subject rdf:resource="/nature/species/Guanaco#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Guanaco">
+		<foaf:primaryTopic rdf:resource="/nature/species/Guanaco#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lama_guanicoe.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Guanaco#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/guanaco/lama-guanicoe/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Guanaco#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/11186">
+			<foaf:primaryTopic rdf:resource="/nature/species/Guanaco#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Lama_(genus)#genus"><rdfs:label>Lama</rdfs:label><wo:species rdf:resource="/nature/life/Guanaco#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Camelid#family"><rdfs:label>Camelidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

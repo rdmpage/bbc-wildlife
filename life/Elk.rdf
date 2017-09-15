@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Elk">
+		<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Elk#species">
+				<rdfs:label>Elk</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Elk#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/el/elk/elk_1.jpg"/>
+
+				<dc:description>Elk are one of the world's largest species of deer once thought to be the same species as the red deer. They are now known to be a species in their own right and are in fact more closely related to sika deer than to red deer. Primarily grazers and browsers of open woodland and forests, elk are native to North America and east Asia. They have also become well established in all other countries where they've been introduced. The males grow large, impressive antlers every year that are used in the spectacular clashes that take place during the seasonal rut. Calves can be particularly vulnerable to wolves, coyotes, bears and big cats.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Elk"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Elk.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Cervus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Deer#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Elk#name">
+				<rdfs:label>Cervus canadensis</rdfs:label>
+				        <wo:commonName>Elk</wo:commonName>
+        								<wo:commonName>North American elk</wo:commonName>
+						<wo:commonName>Wapiti</wo:commonName>
+								<wo:scientificName>canadensiscanadensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Cervidae</wo:familyName><wo:genusName>Cervus</wo:genusName><wo:speciesName>canadensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/el/elk/elk_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Elk#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/el/elk/elk_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f9wx8#programme">
+			<dc:title>Showdown in elk town</dc:title>
+			<po:subject rdf:resource="/nature/species/Elk#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f3hbg#programme">
+			<dc:title>Street fighters</dc:title>
+			<po:subject rdf:resource="/nature/species/Elk#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006mz64#programme">
+			<dc:title>Winter weakness</dc:title>
+			<po:subject rdf:resource="/nature/species/Elk#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Elk">
+		<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cervus_elaphus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rmef.org/AllAboutElk/ElkSeasons/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rmef.org/AllAboutElk/WhatAreElk/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rmnp.com/RMNP-PhotoGalleryCritters-Elk01.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.uwsp.edu/wildlife/elk/biology.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-14842999">
+			<dc:title>Drunk Swedish elk found in tree</dc:title>
+			<dc:description>An intoxicated Swedish elk is freed from a fruit tree after becoming caught while hunting for fermenting apples. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14332648">
+			<dc:title>Moose moans spur sexual fighting</dc:title>
+			<dc:description>Female moose may be able to manipulate amorous males - inciting fights between male competitors by moaning, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11213394">
+			<dc:title>Zoo licence objection 'unlikely'</dc:title>
+			<dc:description>A mountaineering body says it does not expect to protest against an estate's plans to introduce wild animals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Elk#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Elk.gif">
+		<dc:title>Map showing the distribution of the Elk species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Cervus#genus"><rdfs:label>Cervus</rdfs:label><wo:species rdf:resource="/nature/life/Elk#species"/><wo:species rdf:resource="/nature/life/Red_Deer#species"/><wo:species rdf:resource="/nature/life/Sika_Deer#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Deer#family"><rdfs:label>Cervidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

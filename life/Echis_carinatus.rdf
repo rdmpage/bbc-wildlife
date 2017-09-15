@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Echis_carinatus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Echis_carinatus#species">
+				<rdfs:label>Saw-scaled viper</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Echis_carinatus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ec/echis_carinatus/echis_carinatus_1.jpg"/>
+
+				<dc:description>The saw-scaled viper is highly venomous and listed as one of south Asia's most dangerous snakes. It is quite a common snake, lives in proximity to people and is quick to bite when it feels threatened. These vipers are mostly nocturnal and sometimes bury themselves in sand. Saw-scaled vipers give birth to live young and those that live in colder climates hibernate in winter.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Echis_carinatus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ovoviviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Echis_carinatus.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Echis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Viperidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Echis_carinatus#name">
+				<rdfs:label>Echis carinatus</rdfs:label>
+				        <wo:commonName>Saw-scaled viper</wo:commonName>
+        								<wo:commonName> Little Indian viper</wo:commonName>
+						<wo:commonName>Carpet viper</wo:commonName>
+						<wo:commonName>Indian saw-scaled viper</wo:commonName>
+								<wo:scientificName>carinatuscarinatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Viperidae</wo:familyName><wo:genusName>Echis</wo:genusName><wo:speciesName>carinatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ec/echis_carinatus/echis_carinatus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Echis_carinatus#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/ec/echis_carinatus/echis_carinatus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f2z24#programme">
+			<dc:title>Strike to bite</dc:title>
+			<po:subject rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f2yzd#programme">
+			<dc:title>Venom testing</dc:title>
+			<po:subject rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382qs#programme">
+			<dc:title>Animal defences</dc:title>
+			<po:subject rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/ec/echis_carinatus/5016025.mp3">
+			<dc:title>Saw-scaled viper threat display</dc:title>
+			<dc:subject rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Echis_carinatus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Echis_carinatus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://reptile-database.reptarium.cz/species.php?genus=Echis&amp;species=carinatus">
+			<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/sind-saw-scaled-viper/echis-carinatus-sochureki/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1056916">
+			<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.portfolio.mvm.ed.ac.uk/studentwebs/session2/group13/vipers.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildlifeofpakistan.com/ReptilesofPakistan/sawscaledviper.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Echis_carinatus#species"/>
+		</foaf:Document>
+			
+					
+											<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Ovoviviparity#adaptation">
+					<rdfs:label>Ovoviviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Echis_carinatus.gif">
+		<dc:title>Map showing the distribution of the Saw-scaled viper species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Echis#genus"><rdfs:label>Echis</rdfs:label><wo:species rdf:resource="/nature/life/Echis_carinatus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Viperidae#family"><rdfs:label>Viperidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

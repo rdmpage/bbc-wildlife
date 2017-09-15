@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Old_World_flycatcher">
+		<foaf:primaryTopic rdf:resource="/nature/family/Old_World_flycatcher#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Old_World_flycatcher#family">
+				<rdfs:label>Old world flycatchers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Old_World_flycatcher#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/ol/old_world_flycatcher/old_world_flycatcher_1.jpg"/>
+
+				<dc:description>Old world flycatchers are a family of insect-eating birds. As their name suggests, they are found in the old world: Palaearctic, Afrotropic and Indo-Malayan ecozones. There are 116 species in the family, most of whom have bristles round their beak that help them catch their insect prey. Some flycatchers catch insects on the wing, others hunt for them on the ground.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Old_World_flycatcher"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Old_World_flycatcher#name">
+				<rdfs:label>Muscicapidae</rdfs:label>
+				        <wo:commonName>Old world flycatchers</wo:commonName>
+        										<wo:scientificName>Muscicapidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Muscicapidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/ol/old_world_flycatcher/old_world_flycatcher_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Old_World_flycatcher#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/ol/old_world_flycatcher/old_world_flycatcher_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Old_World_flycatcher">
+		<foaf:primaryTopic rdf:resource="/nature/family/Old_World_flycatcher#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Muscicapa.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Old_World_flycatcher#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://ibc.lynxeds.com/family/old-world-flycatchers-muscicapidae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Old_World_flycatcher#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1637">
+			<foaf:primaryTopic rdf:resource="/nature/family/Old_World_flycatcher#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oiseaux.net/birds/muscicapidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Old_World_flycatcher#family"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label><wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/><wo:family rdf:resource="/nature/life/Aegithalidae#family"/><wo:family rdf:resource="/nature/life/Lark#family"/><wo:family rdf:resource="/nature/life/Bombycillidae#family"/><wo:family rdf:resource="/nature/life/Treecreeper#family"/><wo:family rdf:resource="/nature/life/Cinclidae#family"/><wo:family rdf:resource="/nature/life/Corvidae#family"/><wo:family rdf:resource="/nature/life/Drongo#family"/><wo:family rdf:resource="/nature/life/Emberizidae#family"/><wo:family rdf:resource="/nature/life/Estrildidae#family"/><wo:family rdf:resource="/nature/life/Finch#family"/><wo:family rdf:resource="/nature/life/Swallow#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Motacillidae#family"/><wo:family rdf:resource="/nature/life/Panuridae#family"/><wo:family rdf:resource="/nature/life/Birds_of_Paradise#family"/><wo:family rdf:resource="/nature/life/Tit_(bird)#family"/><wo:family rdf:resource="/nature/life/Sparrow#family"/><wo:family rdf:resource="/nature/life/Picathartidae#family"/><wo:family rdf:resource="/nature/life/Manakin#family"/><wo:family rdf:resource="/nature/life/Ploceidae#family"/><wo:family rdf:resource="/nature/life/Prunellidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Regulidae#family"/><wo:family rdf:resource="/nature/life/Starling#family"/><wo:family rdf:resource="/nature/life/Sylviidae#family"/><wo:family rdf:resource="/nature/life/Troglodytidae#family"/><wo:family rdf:resource="/nature/life/Thrush_(bird)#family"/><wo:family rdf:resource="/nature/life/Phylloscopidae#family"/><wo:family rdf:resource="/nature/life/Acrocephalidae#family"/><wo:family rdf:resource="/nature/life/Megaluridae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/European_Robin#family"><rdfs:label>Robin</rdfs:label><wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/></wo:Species><wo:Species rdf:about="/nature/life/European_Pied_Flycatcher#family"><rdfs:label>Pied flycatcher</rdfs:label><wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/></wo:Species><wo:Species rdf:about="/nature/life/Nightingale#family"><rdfs:label>Nightingale</rdfs:label><wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/></wo:Species><wo:Species rdf:about="/nature/life/Spotted_Flycatcher#family"><rdfs:label>Spotted flycatcher</rdfs:label><wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/></wo:Species><wo:Species rdf:about="/nature/life/Common_Redstart#family"><rdfs:label>Redstart</rdfs:label><wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Saxicola#family"><rdfs:label>Chats</rdfs:label><wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

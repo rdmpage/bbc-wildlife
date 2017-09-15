@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Aphididae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Aphididae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Aphididae#family">
+				<rdfs:label>Aphids</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Aphididae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ap/aphididae/aphididae_1.jpg"/>
+
+				<dc:description>Aphids are the bane of gardeners and farmers alike. Settling in vast numbers on the soft green plant tissue, sucking the sap, and life, out of the plant. If that wasn't bad enough they are also major carriers of plant viruses. However, they are not all bad as many species of ant 'milk' them like cows for their honeydew. Aphids are a large family of small insects, containing many thousands of species. Some particularly infamous ones are the black bean aphid, rose aphid and the green peach aphid. Luckily help is in hand in the form of beetles who love to feast on this bounty.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Aphididae"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Aphididae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Hemiptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Aphididae#name">
+				<rdfs:label>Aphididae</rdfs:label>
+				        <wo:commonName>Aphids</wo:commonName>
+        								<wo:commonName>Blackfly</wo:commonName>
+						<wo:commonName>Greenfly</wo:commonName>
+						<wo:commonName>Plant lice</wo:commonName>
+								<wo:scientificName>Aphididae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hemiptera</wo:orderName><wo:familyName>Aphididae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ap/aphididae/aphididae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Aphididae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ap/aphididae/aphididae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015yxgb#programme">
+			<dc:title>Pest control by insects</dc:title>
+			<po:subject rdf:resource="/nature/family/Aphididae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006v499#programme">
+			<dc:title>Genetic engineering</dc:title>
+			<po:subject rdf:resource="/nature/family/Aphididae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003lckg#programme">
+			<dc:title>Ant vs ladybird</dc:title>
+			<po:subject rdf:resource="/nature/family/Aphididae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Aphididae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Aphididae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Aphididae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Aphididae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/147">
+			<foaf:primaryTopic rdf:resource="/nature/family/Aphididae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://entomology.ifas.ufl.edu/foltz/eny3005/lab1/homoptera/aphidid.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Aphididae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.biology-resources.com/aphid-01.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Aphididae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Aphididae.gif">
+		<dc:title>Map showing the distribution of the Aphids family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Hemiptera#order"><rdfs:label>Hemiptera</rdfs:label><wo:family rdf:resource="/nature/life/Aphididae#family"/><wo:family rdf:resource="/nature/life/Cicada#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

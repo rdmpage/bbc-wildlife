@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Nepenthes">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Nepenthes#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Nepenthes#genus">
+				<rdfs:label>Tropical pitcher plants</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Nepenthes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/nepenthes/nepenthes_1.jpg"/>
+
+				<dc:description>Tropical pitchers are cunningly <a href="/nature/adaptations/Carnivore">carnivorous</a> plants that lure prey into pitfall traps. Attractive colours, sugary nectar and sweet smells entice potential prey to the plants. Once inside the pitcher victims cannot escape the waxy sides, eventually falling into a liquid and drowning. Digestive acids in the liquid then turn these <a href="/nature/life/Insect">insects</a> into a ‘soup’ from which glands absorb nutrients. Larger species of pitcher plant can even attract and digest <a href="/nature/life/Rodent">mice</a> and <a href="/nature/life/Lizard">lizards</a>.
+<br />
+<br />
+There are over a hundred species of tropical pitcher plant, usually growing as climbing vines using trees for support. Mainly found in tropical Southeast Asia, most diversity is concentrated in the <a href="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests">rainforests</a> on the islands of Borneo and Sumatra. It is alleged that <a href="/nature/life/Old_World_monkey">monkeys</a> drink rainwater out of the pitcher, giving them another name of ‘monkey cups’.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Nepenthes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predator_trap#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Symbiosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Nepenthes.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Nepenthaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Nepenthales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Nepenthes#name">
+				<rdfs:label>Nepenthes</rdfs:label>
+				        <wo:commonName>Tropical pitcher plants</wo:commonName>
+        								<wo:commonName>Monkey cup plants</wo:commonName>
+								<wo:scientificName>Nepenthes</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Nepenthales</wo:orderName><wo:familyName>Nepenthaceae</wo:familyName><wo:genusName>Nepenthes</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/nepenthes/nepenthes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Nepenthes#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/ne/nepenthes/nepenthes_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lxsvx#programme">
+			<dc:title>Pitcher perfect</dc:title>
+			<po:subject rdf:resource="/nature/genus/Nepenthes#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038stg#programme">
+			<dc:title>Red crab spider</dc:title>
+			<po:subject rdf:resource="/nature/genus/Nepenthes#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Nepenthes">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Nepenthes#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://eol.org/pages/60885/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Nepenthes#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/explore/species?q=Nepenthes">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Nepenthes#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="https://www.carnivorousplants.co.uk/resources/nepenthes-interactive-guide/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Nepenthes#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8552000/8552157.stm">
+			<dc:title>Giant meat-eating plants prefer to eat tree shrew poo </dc:title>
+			<dc:description>The largest meat-eating plant in the world is designed not to eat small animals, but small animal poo.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Nepenthes#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8195000/8195029.stm">
+			<dc:title>Giant 'meat-eating' plant found</dc:title>
+			<dc:description>A new species of giant carnivorous plant has been discovered in the highlands of the central Philippines.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Nepenthes#genus"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predator_trap#adaptation">
+					<rdfs:label>Trapping predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Symbiosis#adaptation">
+					<rdfs:label>Symbiotic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Nepenthes.gif">
+		<dc:title>Map showing the distribution of the Tropical pitcher plants genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Nepenthaceae#family"><rdfs:label>Nepenthaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Nepenthes#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Nepenthales#order"><rdfs:label>Nepenthales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

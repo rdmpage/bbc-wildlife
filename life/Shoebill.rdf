@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Shoebill">
+		<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Shoebill#species">
+				<rdfs:label>Shoebill</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Shoebill#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sh/shoebill/shoebill_1.jpg"/>
+
+				<dc:description>There is no mistaking Africa’s secretive shoebill with its enormous bill and almost prehistoric looks. These large <a href="/nature/life/Ciconiiformes">stork-like</a> birds inhabit the continent’s central and eastern tropical <a href="/nature/habitats/Swamp">swamps</a> and <a href="/nature/habitats/Marsh">marshes</a>. Shoebills particularly like poorly oxygenated shallow water as <a href="/nature/animals/by/fish">fish</a> surface more often, becoming easy prey for a stalking shoebill with a rapid strike in the tall vegetation.
+Shoebills are mostly silent and solitary birds, only coming together when food is scarce or to breed. Shoebill breeding coincides with the dry season which may help prevent their large flat nests from flooding. Like some other <a href="/nature/life/Ciconiiformes">storks</a> they pour water over the nest to keep the eggs cool.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> Shoebills share similarities with <a href="/nature/life/Pelican">pelicans</a>, <a href="/nature/life/Heron">herons</a>, hamerkops and <a href="/nature/life/Ciconiiformes">storks</a>.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Shoebill"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Shoebill.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Balaeniceps#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Balaenicipitidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pelecaniformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Shoebill#name">
+				<rdfs:label>Balaeniceps rex</rdfs:label>
+				        <wo:commonName>Shoebill</wo:commonName>
+        								<wo:commonName>Whale-headed stork</wo:commonName>
+						<wo:commonName>Whalehead</wo:commonName>
+								<wo:scientificName>rexrex</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Pelecaniformes</wo:orderName><wo:familyName>Balaenicipitidae</wo:familyName><wo:genusName>Balaeniceps</wo:genusName><wo:speciesName>rex</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sh/shoebill/shoebill_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Shoebill#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sh/shoebill/shoebill_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012z316#programme">
+			<dc:title>Insurance policy</dc:title>
+			<po:subject rdf:resource="/nature/species/Shoebill#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012z2s7#programme">
+			<dc:title>Prehistoric bird</dc:title>
+			<po:subject rdf:resource="/nature/species/Shoebill#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Shoebill">
+		<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/accounts/Balaeniceps_rex/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://creagrus.home.montereybay.com/shoebill.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.africanbirdclub.org/feature/shoefull.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/shoebill/balaeniceps-rex/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdlife.org/datazone/speciesfactsheet.php?id=3808">
+			<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/106003808/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/20938650">
+			<dc:title>'Monster' bird reveals dark side</dc:title>
+			<dc:description>'Prehistoric-looking' shoebill chicks demonstrate aggressive sibling behaviour for the first time on film.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Shoebill#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Shoebill.gif">
+		<dc:title>Map showing the distribution of the Shoebill species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Balaeniceps#genus"><rdfs:label>Balaeniceps</rdfs:label><wo:species rdf:resource="/nature/life/Shoebill#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Balaenicipitidae#family"><rdfs:label>Balaenicipitidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Pelecaniformes#order"><rdfs:label>Pelecaniformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

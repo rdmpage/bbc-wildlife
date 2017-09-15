@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Australopithecus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Australopithecus#genus">
+				<rdfs:label>Australopithecus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Australopithecus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/au/australopithecus/australopithecus_1.jpg"/>
+
+				<dc:description>Australopithecus are the ape-man ancestors of humans and the first in our lineage to have walked upright as a matter of course. As many as nine different species of Australopithecus may have existed from 2-4 million years ago in Africa. The species with hefty jaws and massive faces - known as robust australopithecines - are believed by many scientists to belong in a separate genus, Paranthropus. In all australopithecines the males were up to twice the size of the females. However, even the largest male was quite short compared to modern humans, at only 150cm tall.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Australopithecus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Australopithecus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Hominidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Australopithecus#name">
+				<rdfs:label>Australopithecus</rdfs:label>
+												<wo:commonName>southern ape</wo:commonName>
+								<wo:scientificName>Australopithecus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hominidae</wo:familyName><wo:genusName>Australopithecus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/au/australopithecus/australopithecus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Australopithecus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/au/australopithecus/australopithecus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk6rz#programme">
+			<dc:title>Brain or brawn</dc:title>
+			<po:subject rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk67h#programme">
+			<dc:title>On two feet</dc:title>
+			<po:subject rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bjrq2#programme">
+			<dc:title>Deinotherium charge</dc:title>
+			<po:subject rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bfxvw#programme">
+			<dc:title>Upright apes</dc:title>
+			<po:subject rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bfxq8#programme">
+			<dc:title>Apeman and sabretooth</dc:title>
+			<po:subject rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Australopithecus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://humanorigins.si.edu/evidence/human-fossils/species">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.archaeologyinfo.com/australopithecusafarensis.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.columbia.edu/itc/anthropology/v1007/2002projects/web/australopithecus/austro.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.talkorigins.org/faqs/homs/species.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22108784">
+			<dc:title>Team reconstructs 'human ancestor'</dc:title>
+			<dc:description>The most complete view yet of a possible human ancestor uncovered in South Africa has revealed an intriguing mix of human and ape traits.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18603558">
+			<dc:title>Early human ancestor chewed bark</dc:title>
+			<dc:description>One of our early relatives chewed on fruit, bark and leaves from the forests, fossil evidence suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11756602">
+			<dc:title>Oldest tool-use claim challenged</dc:title>
+			<dc:description>The idea that human ancestors were using stone tools more than 3.2 million years ago is challenged by a Spanish-led team of researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8615424.stm">
+			<dc:title>Ancient creature's skull probed</dc:title>
+			<dc:description>X-rays show in stunning detail the interior of the skull of a new human-like creature found in South Africa.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10938453">
+			<dc:title>Oldest signs of tool-making found</dc:title>
+			<dc:description>Researchers have unearthed evidence that our ancestors used tools and ate meat 800,000 years earlier than thought.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8609192.stm">
+			<dc:title>South African fossils could be new hominid species</dc:title>
+			<dc:description>The remarkable remains of two ancient human-like creatures (hominids) have been found in South Africa.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Australopithecus#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Australopithecus.gif">
+		<dc:title>Map showing the distribution of the Australopithecus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Hominidae#family"><rdfs:label>Hominidae</rdfs:label><wo:genus rdf:resource="/nature/life/Australopithecus#genus"/><wo:genus rdf:resource="/nature/life/Gorilla#genus"/><wo:genus rdf:resource="/nature/life/Homo#genus"/><wo:genus rdf:resource="/nature/life/Chimpanzee#genus"/><wo:genus rdf:resource="/nature/life/Orangutan#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

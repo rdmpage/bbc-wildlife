@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Bighorn_Sheep">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Bighorn_Sheep#species">
+				<rdfs:label>Bighorn sheep</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Bighorn_Sheep#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bi/bighorn_sheep/bighorn_sheep_1.jpg"/>
+
+				<dc:description>Bighorn sheep are all about those famous massive spiralled horns. In the males, they are particularly heavy and can reach over a metre in length. They are the primary weapon during some spectacular clashes over the females and horn size dictates position in the herd. Bighorn sheep are found on the grassy alpine meadows and foothills of some of America's greatest mountain ranges. They're never far from the safety of some rocky cliffs and buffs where agile leaping and bounding between impossibly narrow ledges lets them escape potential predators with ease.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bighorn_Sheep"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Ovis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bovid#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Bighorn_Sheep#name">
+				<rdfs:label>Ovis canadensis</rdfs:label>
+				        <wo:commonName>Bighorn sheep</wo:commonName>
+        								<wo:commonName>American bighorn sheep</wo:commonName>
+						<wo:commonName>Mountain sheep</wo:commonName>
+								<wo:scientificName>canadensiscanadensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Bovidae</wo:familyName><wo:genusName>Ovis</wo:genusName><wo:speciesName>canadensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bi/bighorn_sheep/bighorn_sheep_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bi/bighorn_sheep/bighorn_sheep_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006txqw#programme">
+			<dc:title>Bighorn battles</dc:title>
+			<po:subject rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bighorn_Sheep">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Ovis_canadensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bighorn-sheep/ovis-canadensis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mnh.si.edu/mna/image_info.cfm?species_id=241">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhptv.org/Natureworks/bighornsheep.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nps.gov/romo/naturescience/big_horn_sheep.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Artiodactyla/Ovis_canadensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bighorn_Sheep#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Ovis#genus"><rdfs:label>Ovis</rdfs:label><wo:species rdf:resource="/nature/life/Bighorn_Sheep#species"/><wo:species rdf:resource="/nature/life/Argali#species"/><wo:species rdf:resource="/nature/life/Dall_Sheep#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bovid#family"><rdfs:label>Bovidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

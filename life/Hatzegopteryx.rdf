@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Hatzegopteryx">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Hatzegopteryx#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Hatzegopteryx#genus">
+				<rdfs:label>Hatzegopteryx</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Hatzegopteryx#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/hatzegopteryx/hatzegopteryx_1.jpg"/>
+
+				<dc:description>As flying animals go they don't get much bigger than Hatzegopteryx. It was a <a href="http://www.bbc.co.uk/nature/life/Pterosaur">pterosaur</a> of gigantic proportions, standing over five metres tall with a wingspan of at least ten metres. This would have made Hatzegopteryx one of, if not the, largest <a href="http://www.bbc.co.uk/nature/adaptations/Flight">flying</a> animal ever known. The robust skull was three metres long and among the largest of any non-marine animal.
+<br />
+<br />
+The massive lower jaw was found to have a groove that would have allowed for an impressively wide gape. Hatzegopteryx's heavily built skull was in contrast to other <a href="http://www.bbc.co.uk/nature/life/Pterosaur">pterosaur</a> skulls that were made up of lightweight plates. The necessary reduction in weight being achieved by the skull bones internal structure. Hatzegopteryx would have been flying the skies 65 million years ago above what is now Europe.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hatzegopteryx"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Gliding_(flight)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Hatzegopteryx.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Azhdarchidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pterosaur#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Hatzegopteryx#name">
+				<rdfs:label>Hatzegopteryx</rdfs:label>
+												<wo:commonName>Hațeg basin wing</wo:commonName>
+								<wo:scientificName>Hatzegopteryx</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Pterosauria</wo:orderName><wo:familyName>Azhdarchidae</wo:familyName><wo:genusName>Hatzegopteryx</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/hatzegopteryx/hatzegopteryx_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Hatzegopteryx#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ha/hatzegopteryx/hatzegopteryx_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l4m6s#programme">
+			<dc:title>Top predators</dc:title>
+			<po:subject rdf:resource="/nature/genus/Hatzegopteryx#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hatzegopteryx">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Hatzegopteryx#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://paleodb.org/cgi-bin/bridge.pl?a=basicTaxonInfo&amp;taxon_no=148380">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hatzegopteryx#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeocritti.com/by-group/pterosauria/hatzegopteryx">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hatzegopteryx#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.prehistoric-wildlife.com/species/h/hatzegopteryx.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hatzegopteryx#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Gliding_(flight)#adaptation">
+					<rdfs:label>Adapted to gliding</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Hatzegopteryx.gif">
+		<dc:title>Map showing the distribution of the Hatzegopteryx genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Azhdarchidae#family"><rdfs:label>Azhdarchidae</rdfs:label><wo:genus rdf:resource="/nature/life/Hatzegopteryx#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Pterosaur#order"><rdfs:label>Pterosauria</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

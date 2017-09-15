@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/phylum/Pinophyta">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		<rdfs:seeAlso rdf:resource="/nature/phylum"/>
+	</rdf:Description>
+
+		<wo:Phylum rdf:about="/nature/life/Pinophyta#phylum">
+				<rdfs:label>Conifers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/phylum/Pinophyta#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pinophyta/pinophyta_1.jpg"/>
+
+				<dc:description>Conifers are an ancient lineage of plants, dating back some 290 million years. Most conifers are trees, though a few grow as shrubs. Many, though not all, are evergreen. Some conifers produce a resin which oozes from their trunk and branches protecting them from attack by insects and fungi. There are about 600 conifer species, and they boast both the world's tallest tree and its oldest in their number.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pinophyta"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Pinophyta.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Phylum>
+
+			<wo:TaxonName rdf:about="/nature/phylum/Pinophyta#name">
+				<rdfs:label>Pinophyta</rdfs:label>
+				        <wo:commonName>Conifers</wo:commonName>
+        								<wo:commonName>Conifers</wo:commonName>
+								<wo:scientificName>Pinophyta</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Pinophyta</wo:phylumName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pinophyta/pinophyta_1.jpg">
+		<foaf:depicts rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pi/pinophyta/pinophyta_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00csxbq#programme">
+			<dc:title>Weather wise</dc:title>
+			<po:subject rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00crf4d#programme">
+			<dc:title>Tree trumps </dc:title>
+			<po:subject rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00crdyg#programme">
+			<dc:title>Wind power</dc:title>
+			<po:subject rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pinophyta">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/Conifers/20634">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.conifers.org/zz/pinales.htm">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/4062">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kew.org/plants/conifers/">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Pinophyta#phylum"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Pinophyta.gif">
+		<dc:title>Map showing the distribution of the Conifers phylum</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label><wo:phylum rdf:resource="/nature/life/Pinophyta#phylum"/><wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/></wo:Kingdom><wo:Order rdf:about="/nature/life/Pinales#phylum"><rdfs:label>Modern conifers</rdfs:label><wo:phylum rdf:resource="/nature/life/Pinophyta#phylum"/></wo:Order>
+	
+	
+		    
+</rdf:RDF>

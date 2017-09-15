@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Komodo_dragon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Komodo_dragon#species">
+				<rdfs:label>Komodo dragon</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Komodo_dragon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ko/komodo_dragon/komodo_dragon_1.jpg"/>
+
+				<dc:description>The name and appearance of the Komodo dragon is straight out of legend.  In reality these are huge, heavily-built monitor lizards - the biggest lizards in the world. The largest accurately recorded dragon was 3.1m long and a weighty 166kg. It was once thought that Komodos used deadly saliva containing toxic bacteria to poison their prey. Studies have now shown that they are venomous. Glands in the jaw secrete a complex mix of toxic substances into a wound made by the dragon's teeth. Komodo dragons are at the top of the food chain on their Indonesian island homes of Komodo, Rinca and Flores.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Komodo_dragon"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Monitor_lizard#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Varanidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Komodo_dragon#name">
+				<rdfs:label>Varanus komodoensis</rdfs:label>
+				        <wo:commonName>Komodo dragon</wo:commonName>
+        										<wo:scientificName>komodoensiskomodoensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Varanidae</wo:familyName><wo:genusName>Varanus</wo:genusName><wo:speciesName>komodoensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ko/komodo_dragon/komodo_dragon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Komodo_dragon#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/k/ko/komodo_dragon/komodo_dragon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jzlb3#programme">
+			<dc:title>Venom gland discovery</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jxks6#programme">
+			<dc:title>Throat with a neat trick</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jxkqy#programme">
+			<dc:title>Fighting dragons</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jxkn8#programme">
+			<dc:title>Smarter than the average lizard</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jxkmg#programme">
+			<dc:title>Giant lizards</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jxkjp#programme">
+			<dc:title>Miraculous babies</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004rqr9#programme">
+			<dc:title>Dragon's teeth</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jnr5#programme">
+			<dc:title>Catching a dragon</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jnnd#programme">
+			<dc:title>Here be dragons</dc:title>
+			<po:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/k/ko/komodo_dragon/'05047050.mp3">
+			<dc:title>A komodo dragon hissing and breathing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/k/ko/komodo_dragon/05047050.mp3">
+			<dc:title>A komodo dragon hissing and breathing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Komodo_dragon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Varanus_komodoensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/komodo-dragon/varanus-komodoensis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/lastchancetosee/sites/animals/komodo_dragon">
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.komododragon.biz/Dragons">
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sandiegozoo.org/animalbytes/t-komodo.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14558510">
+			<dc:title>In Pictures: Inside a dragon head</dc:title>
+			<dc:description>A BBC film crew get inside the head of the world's largest venomous animal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8056040.stm">
+			<dc:title>Komodo dragons have venomous bite</dc:title>
+			<dc:description>The Komodo dragon has a bite tinged with a deadly venom, according to researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6196225.stm">
+			<dc:title>'Virgin births' for giant lizards</dc:title>
+			<dc:description>The largest lizards in the world are capable of "virgin births".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Komodo_dragon#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Monitor_lizard#genus"><rdfs:label>Varanus</rdfs:label><wo:species rdf:resource="/nature/life/Komodo_dragon#species"/><wo:species rdf:resource="/nature/life/Perentie#species"/><wo:species rdf:resource="/nature/life/Sand_goanna#species"/><wo:species rdf:resource="/nature/life/Water_monitor#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Varanidae#family"><rdfs:label>Varanidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Great_Bustard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Great_Bustard#species">
+				<rdfs:label>Great bustard</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Great_Bustard#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_bustard/great_bustard_1.jpg"/>
+
+				<dc:description>Great bustards are quite possibly the heaviest flying birds in the world. They're often described as magnificent, stately birds on account of the males' great size, cocked tails and large white whiskers. Hunted to extinction in Britain in the mid 19th century, these grand birds are now gradually being reintroduced from Russia on to Salisbury Plain. Populations of great bustards are scattered on open farmland across Europe and Asia.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Great_Bustard"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Otis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bustard#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Gruiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Great_Bustard#name">
+				<rdfs:label>Otis tarda</rdfs:label>
+				        <wo:commonName>Great bustard</wo:commonName>
+        										<wo:scientificName>tardatarda</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Gruiformes</wo:orderName><wo:familyName>Otididae</wo:familyName><wo:genusName>Otis</wo:genusName><wo:speciesName>tarda</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_bustard/great_bustard_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Great_Bustard#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/great_bustard/great_bustard_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085xvf#programme">
+			<dc:title>Back in the UK</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Bustard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vd6m#programme">
+			<dc:title>Back where they belong</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Bustard#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Great_Bustard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Otis_tarda.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://greatbustard.org/about-the-birds/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://greatbustard.org/about-us/background/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/great-bustard/otis-tarda/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=047011">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-dorset-15826625">
+			<dc:title>Rare sighting of a great bustard</dc:title>
+			<dc:description>A rare great bustard that was released in September on Salisbury Plain is spotted about 50 miles away in Dorset.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-wiltshire-12218959">
+			<dc:title>Cash boost helps bustard project</dc:title>
+			<dc:description>A project to reintroduce the great bustard to the UK is given a £1.8m boost from the European Union.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/10280831.stm">
+			<dc:title>Four great bustard chicks born on Salisbury Plain</dc:title>
+			<dc:description>Conservationists hoping to reintroduce the great bustard to the UK are celebrating the hatching of four chicks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8510760.stm">
+			<dc:title>Why love birds 'dance' to the Sun</dc:title>
+			<dc:description>Male great bustards have developed a trick to make their elaborate mating displays even more alluring to females, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/wiltshire/8079310.stm">
+			<dc:title>New bustard chicks a 'huge step'</dc:title>
+			<dc:description>A project set up on Salisbury Plain to reintroduce the Great Bustard has hailed the successful hatching of three wild chicks as a "huge step".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Bustard#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Otis#genus"><rdfs:label>Otis</rdfs:label><wo:species rdf:resource="/nature/life/Great_Bustard#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bustard#family"><rdfs:label>Otididae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Gruiformes#order"><rdfs:label>Gruiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

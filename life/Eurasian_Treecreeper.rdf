@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Eurasian_Treecreeper">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Eurasian_Treecreeper#species">
+				<rdfs:label>Treecreeper</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Eurasian_Treecreeper#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_treecreeper/eurasian_treecreeper_1.jpg"/>
+
+				<dc:description>At first glance, treecreepers look very much like mice as they hop up tree trunks, which gives them the fitting country name: tree mouse. That is, of course, if you can spot one in the first place, given that their plumage makes for perfect camouflage against the rough bark of an oak tree. Unlike the similar nuthatch, treecreepers can't actually climb down again, and so must leap off and fly to the base of the next tree in their endless search for beetles, earwigs and woodlice to pull out of the bark.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eurasian_Treecreeper"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Eurasian_Treecreeper.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Certhia#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Treecreeper#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Eurasian_Treecreeper#name">
+				<rdfs:label>Certhia familiaris</rdfs:label>
+				        <wo:commonName>Treecreeper</wo:commonName>
+        								<wo:commonName>Common treecreeper</wo:commonName>
+						<wo:commonName>Eurasian treecreeper</wo:commonName>
+								<wo:scientificName>familiarisfamiliaris</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Certhiidae</wo:familyName><wo:genusName>Certhia</wo:genusName><wo:speciesName>familiaris</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_treecreeper/eurasian_treecreeper_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/eurasian_treecreeper/eurasian_treecreeper_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f292t#programme">
+			<dc:title>Treecreeper with an unusual roost </dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085b7r#programme">
+			<dc:title>Treecreeper huddle</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/eurasian_treecreeper/5050234.mp3">
+			<dc:title>Excited calls from a treecreeper</dc:title>
+			<dc:subject rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eurasian_Treecreeper">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Certhia_familiaris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob14860.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/eurasian-treecreeper/certhia-familiaris/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=148001">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.garden-birds.co.uk/birds/treecreeper.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/t/treecreeper/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Treecreeper#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Eurasian_Treecreeper.gif">
+		<dc:title>Map showing the distribution of the Treecreeper species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Certhia#genus"><rdfs:label>Certhia</rdfs:label><wo:species rdf:resource="/nature/life/Eurasian_Treecreeper#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Treecreeper#family"><rdfs:label>Certhiidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Red_Deer">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Red_Deer#species">
+				<rdfs:label>Red deer</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Red_Deer#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_deer/red_deer_1.jpg"/>
+
+				<dc:description>Red deer are the largest of the UK's resident deer species. Their impressive autumn rut is a top British wildlife spectacle, particularly familiar in Scotland where red deer are widespread and common. During the rut, mature stags invest much time and effort into competing with other males for access to females. Roaring contests and parallel walking allow males to size each other up without violence. However, conflict can soon escalate between evenly matched stags leading to serious injuries and even death.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Red_Deer"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Red_Deer.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Cervus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Deer#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Red_Deer#name">
+				<rdfs:label>Cervus elaphus</rdfs:label>
+				        <wo:commonName>Red deer</wo:commonName>
+        										<wo:scientificName>elaphuselaphus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Cervidae</wo:familyName><wo:genusName>Cervus</wo:genusName><wo:speciesName>elaphus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_deer/red_deer_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Red_Deer#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/red_deer/red_deer_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015rvd4#programme">
+			<dc:title>Deer count in the dark</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m5zg1#programme">
+			<dc:title>Too many deer?</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m5yf8#programme">
+			<dc:title>Out of control?</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lcrnp#programme">
+			<dc:title>Exmoor deer rut</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l29c9#programme">
+			<dc:title>Alien introductions</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bhnc0#programme">
+			<dc:title>Richmond rut</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bhn2g#programme">
+			<dc:title>Sounds of autumn</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0088tm0#programme">
+			<dc:title>Antlers explained</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0088t1z#programme">
+			<dc:title>Rear of the deer</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082x9s#programme">
+			<dc:title>Leaving the glens</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081tl5#programme">
+			<dc:title>Stag morning</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081fx8#programme">
+			<dc:title>Red rut</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fn7f#programme">
+			<dc:title>Clash of the titans</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0067s34#programme">
+			<dc:title>Red deer in the winter</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005fsm8#programme">
+			<dc:title>Autumn soundtrack</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004tfd8#programme">
+			<dc:title>King of the rut</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k0my#programme">
+			<dc:title>Winter scavengers</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003bbt3#programme">
+			<dc:title>Red deer in Richmond</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/r/re/red_deer/mm13-01.mp3">
+			<dc:title>A red deer stag roaring</dc:title>
+			<dc:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/r/re/red_deer/mm14-06.mp3">
+			<dc:title>Red deer hinds and calves grazing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Red_Deer#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Red_Deer">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cervus_elaphus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/red-deer/cervus-elaphus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bds.org.uk/red_deer.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mammal.org.uk/index.php?option=com_content&amp;view=article&amp;id=227&amp;Itemid=260">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.treesforlife.org.uk/forest/mythfolk/deer.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.zoo.cam.ac.uk/zoostaff/larg/pages/Rum.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-suffolk-21061823">
+			<dc:title>Deer adopted by flock of sheep</dc:title>
+			<dc:description>A young, lost deer has joined up with a flock of sheep in Suffolk and they seem to have accepted him.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-11633614">
+			<dc:title>Shoot ban urged on 'special' deer</dc:title>
+			<dc:description>Animals like the Emperor of Exmoor, a red deer shot dead in Devon, should be protected, according to a group of MPs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-11625567">
+			<dc:title>Why huge stag Emperor was killed</dc:title>
+			<dc:description>The shooting of a red deer named The Emperor raises the issue of stalking.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-11624253">
+			<dc:title>Huge stag Emperor found shot dead</dc:title>
+			<dc:description>A giant red stag, known as the Exmoor Emperor and thought to have been the biggest wild land animal in the UK, is found shot dead.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-11575345">
+			<dc:title>Deer warning issued to motorists</dc:title>
+			<dc:description>Motorists in many parts of Scotland are warned to expect large numbers of deer on the roads as winter approaches.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11179837">
+			<dc:title>Deer 'peering in house windows'</dc:title>
+			<dc:description>Residents on Lewis complain about wild deer destroying vegetable plots and even peering in through house windows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8413000/8413647.stm">
+			<dc:title>Scotland's deer 'changing shape'</dc:title>
+			<dc:description>Scotland's wild red deer are changing shape due to breeding with a foreign species, a new study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8291000/8291710.stm">
+			<dc:title>Stags locked in 'mortal combat'</dc:title>
+			<dc:description>A fight to the death between two stags is witnessed by a BBC Autumnwatch crew filming on the island of Rum. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Deer#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Red_Deer.gif">
+		<dc:title>Map showing the distribution of the Red deer species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Cervus#genus"><rdfs:label>Cervus</rdfs:label><wo:species rdf:resource="/nature/life/Red_Deer#species"/><wo:species rdf:resource="/nature/life/Sika_Deer#species"/><wo:species rdf:resource="/nature/life/Elk#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Deer#family"><rdfs:label>Cervidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

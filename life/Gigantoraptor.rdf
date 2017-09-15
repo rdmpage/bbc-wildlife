@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Gigantoraptor">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Gigantoraptor#genus">
+				<rdfs:label>Gigantoraptor</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Gigantoraptor#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/gigantoraptor/gigantoraptor_1.jpg"/>
+
+				<dc:description>In 2005, a Chinese palaeontologist filming <a href="http://www.bbc.co.uk/nature/life/Sauropoda">sauropod</a> bones in Mongolia came across an unidentified thigh bone. It was a fortunate discovery. The bone belonged to a creature that may have been eight metres in length and more than two tons in weight. Gigantoraptor, as it was subsequently named, is the largest feathered <a href="http://www.bbc.co.uk/nature/life/Dinosaur">dinosaur</a> discovered to date.
+<br/>
+<br/>
+It is 35 times bigger than the next largest species of Oviraptorid. The toothless skull of this bird-like <a href="http://www.bbc.co.uk/nature/life/Dinosaur">dinosaur</a> was more than half a metre long with a horny beak. It had long hind legs and large claws and would have been fast enough to outrun most <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predators</a> around 70 million years ago. It seems certain that Gigantoraptor's feathers were for <a href="http://www.bbc.co.uk/nature/adaptations/Visual_perception">display</a> rather than for flight or insulation. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gigantoraptor"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Gigantoraptor.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Oviraptoridae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Gigantoraptor#name">
+				<rdfs:label>Gigantoraptor</rdfs:label>
+												<wo:commonName>gigantic seizer</wo:commonName>
+								<wo:scientificName>Gigantoraptor</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName><wo:familyName>Oviraptoridae</wo:familyName><wo:genusName>Gigantoraptor</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/gigantoraptor/gigantoraptor_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gi/gigantoraptor/gigantoraptor_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l8j21#programme">
+			<dc:title>Gigantoraptor</dc:title>
+			<po:subject rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kkmkz#programme">
+			<dc:title>Display feathers</dc:title>
+			<po:subject rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gigantoraptor">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://csotonyi.com/Gigantoraptor_erlianensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1657">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://palaeoblog.blogspot.com/2007/06/gigantoraptor-erlianensis-from-china.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=9594&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nature.com/news/2007/070611/full/news070611-9.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gigantoraptor#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Gigantoraptor.gif">
+		<dc:title>Map showing the distribution of the Gigantoraptor genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Oviraptoridae#family"><rdfs:label>Oviraptoridae</rdfs:label><wo:genus rdf:resource="/nature/life/Gigantoraptor#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Theropoda#suborder"><rdfs:label>Theropoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

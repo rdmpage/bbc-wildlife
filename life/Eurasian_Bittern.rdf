@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Eurasian_Bittern">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Eurasian_Bittern#species">
+				<rdfs:label>Bittern</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Eurasian_Bittern#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_bittern/eurasian_bittern_1.jpg"/>
+
+				<dc:description>Bitterns are shy, secretive and more likely to be heard than seen. With their subtle brown plumage, this plump heron-like bird blends almost perfectly into its reed bed habitat. Even when frightened, the bittern stands perfectly still pointing its neck and bill skywards, to look just like a reed stalk. It is the male's remarkably loud and booming mating call, which can be heard over two kilometres away, that announces their presence. Though found in Europe, North Africa and central Asia, there is only a handful of breeding pairs in Britain that have re-colonised after becoming extinct late in the 19th century.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eurasian_Bittern"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Botaurus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Heron#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Ciconiiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Eurasian_Bittern#name">
+				<rdfs:label>Botaurus stellaris</rdfs:label>
+				        <wo:commonName>Bittern</wo:commonName>
+        								<wo:commonName>Eurasian bittern</wo:commonName>
+						<wo:commonName>Great bittern</wo:commonName>
+								<wo:scientificName>stellarisstellaris</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Ciconiiformes</wo:orderName><wo:familyName>Ardeidae</wo:familyName><wo:genusName>Botaurus</wo:genusName><wo:speciesName>stellaris</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_bittern/eurasian_bittern_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/eurasian_bittern/eurasian_bittern_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dtnn1#programme">
+			<dc:title>Urban bitterns </dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007rfv8#programme">
+			<dc:title>Bittern beauty</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007qsbz#programme">
+			<dc:title>Booming brilliant</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/eurasian_bittern/5081061.mp3">
+			<dc:title>Boom of a bittern</dc:title>
+			<dc:subject rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eurasian_Bittern">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Botaurus_stellaris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bittern/botaurus-stellaris/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/bittern.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.broads-authority.gov.uk/projects/bittern-ii.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/b/bittern/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-14754291">
+			<dc:title>Boom time for UK's loudest bird</dc:title>
+			<dc:description>Britain's loudest bird, the bittern, has enjoyed its best year on record in England with breeding males now topping 100 for the first time since 1911, conservationists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8663000/8663139.stm">
+			<dc:title>Booming bittern: UK Minsmere wetlands film exclusive</dc:title>
+			<dc:description>One of the rarest mating rituals of any British animal has finally been caught on camera.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/nottinghamshire/8446136.stm">
+			<dc:title>Reserve attracting rare bitterns</dc:title>
+			<dc:description>A Nottinghamshire nature reserve said the number of rare bitterns visiting its reed beds had increased sharply.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/8241194.stm">
+			<dc:title>Shy bittern makes home on estate</dc:title>
+			<dc:description>The bittern, one of Britain's rarest birds, is booming again in the most unlikely places after research revealed record numbers across the country.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Bittern#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Botaurus#genus"><rdfs:label>Botaurus</rdfs:label><wo:species rdf:resource="/nature/life/Eurasian_Bittern#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Heron#family"><rdfs:label>Ardeidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Ciconiiformes#order"><rdfs:label>Ciconiiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

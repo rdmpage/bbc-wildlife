@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Highland_midge">
+		<foaf:primaryTopic rdf:resource="/nature/species/Highland_midge#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Highland_midge#species">
+				<rdfs:label>Highland midge</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Highland_midge#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hi/highland_midge/highland_midge_1.jpg"/>
+
+				<dc:description>Highland midges are notorious UK summer pests. They're found not only in Scotland but also in areas of boggy and acidic soil in mainland Europe, Russia and China. In Scotland, they are also known as the Highland biting midge, and for good reason, as this species is responsible for 90% of the midge bites to humans. It is the large, cloud-forming numbers that help to make this tiny fly such a great nuisance. In prime breeding grounds it has been estimated that larvae can reach an incredible density of 24 million per hectare.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Highland_midge"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hematophagy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Highland_midge.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Bog#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Vernal_pool#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Culicoides#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Ceratopogonidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Fly#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Highland_midge#name">
+				<rdfs:label>Culicoides impunctatus</rdfs:label>
+				        <wo:commonName>Highland midge</wo:commonName>
+        								<wo:commonName>Highland biting midge</wo:commonName>
+								<wo:scientificName>impunctatusimpunctatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Diptera</wo:orderName><wo:familyName>Ceratopogonidae</wo:familyName><wo:genusName>Culicoides</wo:genusName><wo:speciesName>impunctatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hi/highland_midge/highland_midge_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Highland_midge#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/hi/highland_midge/highland_midge_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009rnh6#programme">
+			<dc:title>Millions of midges</dc:title>
+			<po:subject rdf:resource="/nature/species/Highland_midge#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Highland_midge">
+		<foaf:primaryTopic rdf:resource="/nature/species/Highland_midge#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.ionalister.com/midge.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Highland_midge#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.snh.org.uk/publications/on-line/advisorynotes/29/29.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Highland_midge#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.treesforlife.org.uk/tfl.midge.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Highland_midge#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8542670.stm">
+			<dc:title>Midges die off in freezing cold </dc:title>
+			<dc:description>Freezing temperatures are believed to have killed off a "proportion" of Scotland's midge population.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Highland_midge#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Hematophagy#adaptation">
+					<rdfs:label>Blood sucker</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Bog#habitat">
+					<rdfs:label>Bog</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Vernal_pool#habitat">
+					<rdfs:label>Temporary pools</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Highland_midge.gif">
+		<dc:title>Map showing the distribution of the Highland midge species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Culicoides#genus"><rdfs:label>Culicoides</rdfs:label><wo:species rdf:resource="/nature/life/Highland_midge#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Ceratopogonidae#family"><rdfs:label>Ceratopogonidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Fly#order"><rdfs:label>Diptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Coccolithophore">
+		<foaf:primaryTopic rdf:resource="/nature/order/Coccolithophore#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Coccolithophore#order">
+				<rdfs:label>Coccolithophores</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Coccolithophore#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/coccolithophore/coccolithophore_1.jpg"/>
+
+				<dc:description>Tiny coccolithophores have had a big impact on the planet over time. Though they are single-celled, these photosynthesising organisms are enclosed in a mosaic, or cage, of microscopic plates that make many very beautiful to look at. The plates are made of calcium carbonate, which the coccoliths pull from the surrounding water. As these small organisms live and die in their trillions, they bequeath their tiny plates to the ocean floor where they form rocks such as chalk. Over geological time, coccoliths have removed significant amounts of the greenhouse gas carbon dioxide from the atmosphere, helping to keep Earth cool as the sun grew hotter.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Coccolithophore"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Coccolithophore.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Prymnesiophyceae#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Haptophyte#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Chromista#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Coccolithophore#name">
+				<rdfs:label>Coccosphaerales</rdfs:label>
+				        <wo:commonName>Coccolithophores</wo:commonName>
+        								<wo:commonName>Coccolithophorids</wo:commonName>
+						<wo:commonName>Coccoliths</wo:commonName>
+								<wo:scientificName>Coccosphaerales</wo:scientificName>
+		<wo:kingdomName>Chromista</wo:kingdomName><wo:phylumName>Haptophyte</wo:phylumName><wo:className>Prymnesiophyceae</wo:className><wo:orderName>Coccosphaerales</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/coccolithophore/coccolithophore_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Coccolithophore#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/coccolithophore/coccolithophore_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bxk9c#programme">
+			<dc:title>Chalk dust</dc:title>
+			<po:subject rdf:resource="/nature/order/Coccolithophore#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Coccolithophore">
+		<foaf:primaryTopic rdf:resource="/nature/order/Coccolithophore#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://earthobservatory.nasa.gov/Features/Coccolithophores/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Coccolithophore#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.discoveringfossils.co.uk/chalk_formation_fossils.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Coccolithophore#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/nature-online/virtual-wonders/vrcocco_ehux.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Coccolithophore#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/chromista/prymnesiophyta.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Coccolithophore#order"/>
+		</foaf:Document>
+			
+					
+					
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Coccolithophore.gif">
+		<dc:title>Map showing the distribution of the Coccolithophores order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Prymnesiophyceae#class"><rdfs:label>Prymnesiophyceae</rdfs:label><wo:order rdf:resource="/nature/life/Coccolithophore#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Haptophyte#phylum"><rdfs:label>Haptophyte</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Chromista#kingdom"><rdfs:label>Chromista</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

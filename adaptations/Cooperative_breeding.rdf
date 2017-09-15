@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/adaptations/Cooperative_breeding">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		<rdfs:seeAlso rdf:resource="/nature/adaptations"/>
+	</rdf:Description>
+
+		<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+				<rdfs:label>Co-operative breeding</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/cooperative_breeding/cooperative_breeding_1.jpg"/>
+
+				<dc:description>Co-operative breeding is when parents recruit the previous year's grown up offspring or other adult helpers to help raise the latest brood or litter. The minders may look after the young in creches, or individually. Examples include bee-eaters, wolves and of course, humans. If grandma or a child minder helps look after the kids, then that's co-operative breeding!</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cooperative_breeding"/>
+		
+		
+				
+									<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+				
+        
+
+					</wo:ReproductionStrategy>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/cooperative_breeding/cooperative_breeding_1.jpg">
+		<foaf:depicts rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/cooperative_breeding/cooperative_breeding_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m18w1#programme">
+			<dc:title>Chicknapped!</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006v442#programme">
+			<dc:title>Treetop babysitters</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006rfms#programme">
+			<dc:title>Babywatch</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006m4jh#programme">
+			<dc:title>Mobsters</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006m432#programme">
+			<dc:title>Adult escorts</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006gjdh#programme">
+			<dc:title>New recruits</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ffzz#programme">
+			<dc:title>Caiman cavalcade</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005btbt#programme">
+			<dc:title>Elephant emotions</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00484lm#programme">
+			<dc:title>Gharial guardian</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039zbt#programme">
+			<dc:title>Capybara young</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cooperative_breeding">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://stanford.edu/group/stanfordbirds/text/essays/Cooperative_Breeding.html">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.britannica.com/EBchecked/topic/550897/animal-social-behaviour/282532/Social-interactions-involving-cooperative-breeding-and-eusociality">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+		</foaf:Document>
+			
+					
+		
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	
+	
+					    		    		<wo:Species rdf:about="/nature/life/African_Bush_Elephant#species">
+    			<rdfs:label>African bush elephant</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/African_Forest_Elephant#species">
+    			<rdfs:label>Forest elephant</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/African_Wild_Dog#species">
+    			<rdfs:label>African wild dog</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Arctic_Fox#species">
+    			<rdfs:label>Arctic fox</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Arctic_Skua#species">
+    			<rdfs:label>Arctic skua</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Banded_Mongoose#species">
+    			<rdfs:label>Banded mongoose</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Barbary_macaque#species">
+    			<rdfs:label>Barbary macaque</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Barn_Swallow#species">
+    			<rdfs:label>Swallow</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Black-tailed_Prairie_Dog#species">
+    			<rdfs:label>Black-tailed prairie dog</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Brown_rat#species">
+    			<rdfs:label>Brown rat</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Capybara#species">
+    			<rdfs:label>Capybara</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_Bottlenose_Dolphin#species">
+    			<rdfs:label>Common bottlenose dolphin</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Damaraland_Mole_Rat#species">
+    			<rdfs:label>Damaraland mole rat</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Eciton_burchellii#species">
+    			<rdfs:label>Army ant</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Ethiopian_Wolf#species">
+    			<rdfs:label>Ethiopian wolf</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Eurasian_Beaver#species">
+    			<rdfs:label>European beaver</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/European_Nightjar#species">
+    			<rdfs:label>Nightjar</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Formica_aquilonia#species">
+    			<rdfs:label>Scottish wood ant</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Formica_lugubris#species">
+    			<rdfs:label>Hairy wood ant</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Francois'_Langur#species">
+    			<rdfs:label>François' langur</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Gee's_Golden_Langur#species">
+    			<rdfs:label>Golden langur</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Giant_Otter#species">
+    			<rdfs:label>Giant river otter</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Giraffe#species">
+    			<rdfs:label>Giraffe</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Gray_Wolf#species">
+    			<rdfs:label>Grey wolf</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Gunnison's_Prairie_Dog#species">
+    			<rdfs:label>Gunnison's prairie dog</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Human#species">
+    			<rdfs:label>Human</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Indo-Pacific_bottlenose_dolphin#species">
+    			<rdfs:label>Indo-Pacific bottlenose dolphin</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Lion#species">
+    			<rdfs:label>Lion</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Little_Ringed_Plover#species">
+    			<rdfs:label>Little ringed plover</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Meerkat#species">
+    			<rdfs:label>Meerkat</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Naked_mole_rat#species">
+    			<rdfs:label>Naked mole rat</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Olive_Baboon#species">
+    			<rdfs:label>Olive baboon</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Phayre's_Leaf_Monkey#species">
+    			<rdfs:label>Phayre's leaf monkey</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Pied_Kingfisher#species">
+    			<rdfs:label>Pied kingfisher</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Pied_tamarin#species">
+    			<rdfs:label>Pied tamarin</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Red_Fox#species">
+    			<rdfs:label>Red fox</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Red_Ruffed_Lemur#species">
+    			<rdfs:label>Red ruffed lemur</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Skylark#species">
+    			<rdfs:label>Skylark</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Socotra_Cormorant#species">
+    			<rdfs:label>Socotra cormorant</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Southern_Carmine_Bee-eater#species">
+    			<rdfs:label>Southern carmine bee-eater</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/South_American_Gray_Fox#species">
+    			<rdfs:label>South American grey fox</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Spectacled_Caiman#species">
+    			<rdfs:label>Spectacled caiman</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Sperm_whale#species">
+    			<rdfs:label>Sperm whale</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Walrus#species">
+    			<rdfs:label>Walrus</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/White-fronted_Bee-eater#species">
+    			<rdfs:label>White-fronted bee-eater</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/White-nosed_Coati#species">
+    			<rdfs:label>White-nosed coati</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptations"/>
+    		</wo:Species>
+    					
+		    
+</rdf:RDF>

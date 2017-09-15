@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Postosuchus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Postosuchus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Postosuchus#genus">
+				<rdfs:label>Postosuchus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Postosuchus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/po/postosuchus/postosuchus_1.jpg"/>
+
+				<dc:description>A cousin of modern crocodiles, Postosuchus was an archosaur - the lineage of reptiles that include the crocodiles, dinosaurs and birds. Reaching lengths of five metres, Postosuchus was the top predator during the Late Triassic in what's now the southern USA. Since its front limbs were shorter than its hind limbs, there is debate as to whether it walked on two legs or four, but most palaeontologists favour the latter. Its stance, with the legs under the body, would have made it a faster and more efficient runner than a modern crocodile. Most Postosuchus fossils have been found in Texas' Post quarry, hence the name.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Postosuchus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Postosuchus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Rauisuchidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rauisuchia#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Postosuchus#name">
+				<rdfs:label>Postosuchus</rdfs:label>
+												<wo:commonName>crocodile from Post</wo:commonName>
+								<wo:scientificName>Postosuchus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Rauisuchia</wo:orderName><wo:familyName>Rauisuchidae</wo:familyName><wo:genusName>Postosuchus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/po/postosuchus/postosuchus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Postosuchus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/po/postosuchus/postosuchus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b99fj#programme">
+			<dc:title>Border dispute</dc:title>
+			<po:subject rdf:resource="/nature/genus/Postosuchus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9834#programme">
+			<dc:title>Hungry mouths</dc:title>
+			<po:subject rdf:resource="/nature/genus/Postosuchus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Postosuchus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Postosuchus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.abc.net.au/dinosaurs/fact_files/dried/postosuchus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Postosuchus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cmstudio.com/postosuchus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Postosuchus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinosalive.com/index.php?option=com_content&amp;task=view&amp;id=19&amp;Itemid=34">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Postosuchus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tshaonline.org/handbook/online/articles/PP/bcp3.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Postosuchus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Postosuchus.gif">
+		<dc:title>Map showing the distribution of the Postosuchus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Rauisuchidae#family"><rdfs:label>Rauisuchidae</rdfs:label><wo:genus rdf:resource="/nature/life/Postosuchus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Rauisuchia#order"><rdfs:label>Rauisuchia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

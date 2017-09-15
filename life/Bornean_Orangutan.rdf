@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Bornean_Orangutan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Bornean_Orangutan#species">
+				<rdfs:label>Bornean orangutan</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Bornean_Orangutan#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bornean_orangutan/bornean_orangutan_1.jpg"/>
+
+				<dc:description>Bornean orangutans live high in the tropical canopy of Borneo's forests, where they survive predominantly on fruit and sleep in nests constructed from branches. Females give birth only once every eight years, and it is this sluggish reproduction rate which makes orangutans so susceptible to population depletion. Sadly, these intelligent, iconic tree-dwellers are the victims of horrendous habitat loss: 80% has disappeared in the last 20 years, reducing the Bornean orangutan population to a mere 12,000-15,000.      </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bornean_Orangutan"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Orangutan#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Hominidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Bornean_Orangutan#name">
+				<rdfs:label>Pongo pygmaeus</rdfs:label>
+				        <wo:commonName>Bornean orangutan</wo:commonName>
+        										<wo:scientificName>pygmaeuspygmaeus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hominidae</wo:familyName><wo:genusName>Pongo</wo:genusName><wo:speciesName>pygmaeus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bornean_orangutan/bornean_orangutan_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bo/bornean_orangutan/bornean_orangutan_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00nlw0g#programme">
+			<dc:title>It's peanuts to an orangutan</dc:title>
+			<po:subject rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hv2rt#programme">
+			<dc:title>Food for thought</dc:title>
+			<po:subject rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lnvg#programme">
+			<dc:title>Delinquent apes</dc:title>
+			<po:subject rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lmgz#programme">
+			<dc:title>Momentous day</dc:title>
+			<po:subject rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jmg4#programme">
+			<dc:title>Aping apes</dc:title>
+			<po:subject rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bo/bornean_orangutan/5018098.mp3">
+			<dc:title>Calls from a male Bornean orangutan</dc:title>
+			<dc:subject rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bornean_Orangutan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Pongo_pygmaeus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Pongo_pygmaeus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bornean-orang-utan/pongo-pygmaeus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/326450">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/17975/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.orangutan.com/projects">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21940533">
+			<dc:title>Pratchett's orangutans revisited</dc:title>
+			<dc:description>Author Sir Terry Pratchett revisits Borneo to consider the fate of his beloved, endangered orangutans.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14592436">
+			<dc:title>Team to build orangutan bridges</dc:title>
+			<dc:description>A Chester Zoo team will travel to Borneo to help construct "orangutan bridges", allowing the animals to cross the drainage ditches dug for palm oil plantations. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10926301">
+			<dc:title>Orangutans mime to get message across</dc:title>
+			<dc:description>Orangutans resort to miming to get their messages across in the wild, a study shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8466000/8466488.stm">
+			<dc:title>Bornean orangutan acts as 'peacemaker' in Japan zoo</dc:title>
+			<dc:description>A captive Bornean orangutan has been seen acting as a peacemaker, breaking up fights between other warring apes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8184015.stm">
+			<dc:title>Orangutan ruse misleads predators</dc:title>
+			<dc:description>Wild orangutans in Borneo hold leaves to their mouths to make their voices sound deeper than they actually are, a new study shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/asia-pacific/7995970.stm">
+			<dc:title>New rare orangutan find in Borneo</dc:title>
+			<dc:description>A hitherto unknown population of orangutans numbering perhaps 1-2,000 has been found on the island of Borneo, conservation researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bornean_Orangutan#species"/>
+		</foaf:Document>
+			
+											<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Orangutan#genus"><rdfs:label>Pongo</rdfs:label><wo:species rdf:resource="/nature/life/Bornean_Orangutan#species"/><wo:species rdf:resource="/nature/life/Sumatran_Orangutan#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Hominidae#family"><rdfs:label>Hominidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

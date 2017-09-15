@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Weasel">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Weasel#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Weasel#genus">
+				<rdfs:label>Weasels</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Weasel#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/weasel/weasel_1.jpg"/>
+
+				<dc:description>Weasels include the stoats, ferrets and polecats, as well as the European mink. The smallest is the least weasel of North America, which weighs a maximum of 250g, though much smaller ones are known. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Weasel"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Mustelidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Weasel#name">
+				<rdfs:label>Mustela</rdfs:label>
+				        <wo:commonName>Weasels</wo:commonName>
+        										<wo:scientificName>Mustela</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Mustelidae</wo:familyName><wo:genusName>Mustela</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/weasel/weasel_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Weasel#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/we/weasel/weasel_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Weasel">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Weasel#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Mustela.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Weasel#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/14116">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Weasel#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Mustelidae#family"><rdfs:label>Mustelidae</rdfs:label><wo:genus rdf:resource="/nature/life/Weasel#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Gulo#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Lutra#genus"/><wo:genus rdf:resource="/nature/life/Marten#genus"/><wo:genus rdf:resource="/nature/life/Meles_(genus)#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Neovison#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Stoat#genus"><rdfs:label>Stoat</rdfs:label><wo:genus rdf:resource="/nature/life/Weasel#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Least_Weasel#genus"><rdfs:label>Weasel</rdfs:label><wo:genus rdf:resource="/nature/life/Weasel#genus"/></wo:Species><wo:Species rdf:about="/nature/life/European_Polecat#genus"><rdfs:label>Polecat</rdfs:label><wo:genus rdf:resource="/nature/life/Weasel#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

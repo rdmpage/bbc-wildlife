@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Brant_Goose">
+		<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Brant_Goose#species">
+				<rdfs:label>Brent goose</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Brant_Goose#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brant_goose/brant_goose_1.jpg"/>
+
+				<dc:description>Brent geese were once only to be found on or very near the coast in winter. In fact, the UK population almost died out in the 1930s when its main food source, eelgrass, was devastated by disease. Nowadays, brent geese have moved a bit inland to find their food, looking to agricultural land for grass and winter cereals. There are three forms, or subspecies, of brent goose: dark-bellied, pale-bellied and black. During the winter the United Kingdom is home to globally important numbers of brent geese, that have spent the breeding season in the Arctic. Brent geese fly in long low wavering lines.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Brant_Goose"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Brant_Goose.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Branta#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Anatidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Anseriformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Brant_Goose#name">
+				<rdfs:label>Branta bernicla</rdfs:label>
+				        <wo:commonName>Brent goose</wo:commonName>
+        								<wo:commonName>Black brant</wo:commonName>
+						<wo:commonName>Brant goose</wo:commonName>
+								<wo:scientificName>berniclabernicla</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Anseriformes</wo:orderName><wo:familyName>Anatidae</wo:familyName><wo:genusName>Branta</wo:genusName><wo:speciesName>bernicla</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brant_goose/brant_goose_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Brant_Goose#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/br/brant_goose/brant_goose_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00brd6g#programme">
+			<dc:title>Gobbling geese</dc:title>
+			<po:subject rdf:resource="/nature/species/Brant_Goose#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bngnj#programme">
+			<dc:title>Chilled out birds</dc:title>
+			<po:subject rdf:resource="/nature/species/Brant_Goose#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081f9d#programme">
+			<dc:title>Seal watching</dc:title>
+			<po:subject rdf:resource="/nature/species/Brant_Goose#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/br/brant_goose/5021142.mp3">
+			<dc:title>Calling from a large flock</dc:title>
+			<dc:subject rdf:resource="/nature/species/Brant_Goose#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Brant_Goose">
+		<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Branta_bernicla.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/brent-goose/branta-bernicla/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=027030">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/brent-goose.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/b/brentgoose/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/northernireland/forteachers/water/loughs/ft_cl_water_loughs_intro.shtml">
+			<dc:title>KS2 Water</dc:title>
+			<dc:description>Introduction to Unit 5: Our Loughs and Rivers. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Brant_Goose#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Brant_Goose.gif">
+		<dc:title>Map showing the distribution of the Brent goose species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Branta#genus"><rdfs:label>Branta</rdfs:label><wo:species rdf:resource="/nature/life/Brant_Goose#species"/><wo:species rdf:resource="/nature/life/Barnacle_Goose#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Anatidae#family"><rdfs:label>Anatidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Anseriformes#order"><rdfs:label>Anseriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

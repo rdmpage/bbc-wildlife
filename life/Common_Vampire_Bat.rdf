@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Common_Vampire_Bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Common_Vampire_Bat#species">
+				<rdfs:label>Common vampire bat</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Common_Vampire_Bat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_vampire_bat/common_vampire_bat_1.jpg"/>
+
+				<dc:description>Common vampire bats need to feed on blood almost daily to avoid starvation. They are are not the fearsome, blood-sucking creatures portrayed in the movies, however, but rather ordinary-looking, medium-sized bats with a highly evolved feeding method. They don't actually suck blood, but lap it up from cuts made by their razor-sharp incisors. A chemical in the saliva stops the victim's blood clotting and numbs the wound. Vampire bats live in large colonies in Central and South America where they feed mostly from the abundant livestock.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Common_Vampire_Bat"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hematophagy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Common_Vampire_Bat.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Desmodus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Leaf-nosed_bat#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Bat#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Common_Vampire_Bat#name">
+				<rdfs:label>Desmodus rotundus</rdfs:label>
+				        <wo:commonName>Common vampire bat</wo:commonName>
+        								<wo:commonName>Vampire bat</wo:commonName>
+								<wo:scientificName>rotundusrotundus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Chiroptera</wo:orderName><wo:familyName>Phyllostomidae</wo:familyName><wo:genusName>Desmodus</wo:genusName><wo:speciesName>rotundus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_vampire_bat/common_vampire_bat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/common_vampire_bat/common_vampire_bat_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01my4gf#programme">
+			<dc:title>Walls of blood</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01mqn7x#programme">
+			<dc:title>Vampire supersenses</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01mql9t#programme">
+			<dc:title>Sneaky suckers</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01mql0r#programme">
+			<dc:title>Bloodsucking bats</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00x9yc0#programme">
+			<dc:title>Sneaky suckers</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00x9xfd#programme">
+			<dc:title>Bloodsucking bats</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00x7q7v#programme">
+			<dc:title>Vampire supersenses</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00x54x3#programme">
+			<dc:title>Walls of blood</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0095r7p#programme">
+			<dc:title>Fearsome faces</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Common_Vampire_Bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.blueplanetbiomes.org/vampire_bat.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pitt.edu/~slavic/courses/vampires/images/bats/vambat.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/animal-info/animal-bytes/animalia/eumetazoa/coelomates/deuterostomes/chordata/craniata/mammalia/chiroptera/common-vampire-bat.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thewildones.org/Animals/vampire.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21534299">
+			<dc:title>'Vampires' attack penguin chicks</dc:title>
+			<dc:description>For the first time, documentary makers film vampire bats are filmed preying on Humboldt penguin chicks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18408660">
+			<dc:title>Culling bats does not halt rabies</dc:title>
+			<dc:description>Culling vampire bats in South American nations does not curb the spread of rabies, in fact it could actually be counterproductive, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14392311">
+			<dc:title>How bloodsuckers find their blood</dc:title>
+			<dc:description>Scientists have discovered how vampire bats use their infrared detectors to find the right spot on their warm-blooded prey to bite.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Vampire_Bat#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Hematophagy#adaptation">
+					<rdfs:label>Blood sucker</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Parasitism#adaptation">
+					<rdfs:label>Parasitic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Common_Vampire_Bat.gif">
+		<dc:title>Map showing the distribution of the Common vampire bat species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Desmodus#genus"><rdfs:label>Desmodus</rdfs:label><wo:species rdf:resource="/nature/life/Common_Vampire_Bat#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Leaf-nosed_bat#family"><rdfs:label>Phyllostomidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Bat#order"><rdfs:label>Chiroptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

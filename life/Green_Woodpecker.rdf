@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Green_Woodpecker">
+		<foaf:primaryTopic rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Green_Woodpecker#species">
+				<rdfs:label>Green woodpecker</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Green_Woodpecker#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/green_woodpecker/green_woodpecker_1.jpg"/>
+
+				<dc:description>Green woodpeckers are the largest and most colourful woodpeckers native to Britain. They are easily recognised by their laughing ‘yaffle’ call, which they use to demarcate their territory. They also drum on trees, though the sound is not as resonant as that made by the other two British species (the greater and lesser spotted woodpeckers). Green woodpeckers survive on a diet of insects and have a particular fondness for ants. They return day after day to their favourite ant hill to feed.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Green_Woodpecker"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Picus_(biology)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Woodpecker#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Piciformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Green_Woodpecker#name">
+				<rdfs:label>Picus viridis</rdfs:label>
+				        <wo:commonName>Green woodpecker</wo:commonName>
+        								<wo:commonName>Eurasian green woodpecker</wo:commonName>
+						<wo:commonName>European green woodpecker</wo:commonName>
+						<wo:commonName>Yaffle</wo:commonName>
+								<wo:scientificName>viridisviridis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Piciformes</wo:orderName><wo:familyName>Picidae</wo:familyName><wo:genusName>Picus</wo:genusName><wo:speciesName>viridis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/green_woodpecker/green_woodpecker_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/green_woodpecker/green_woodpecker_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bhnvl#programme">
+			<dc:title>Green anteater</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089v7z#programme">
+			<dc:title>Five a day</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081fhz#programme">
+			<dc:title>Feral foresters</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/green_woodpecker/5042120.mp3">
+			<dc:title>Calling green woodpecker</dc:title>
+			<dc:subject rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Green_Woodpecker">
+		<foaf:primaryTopic rdf:resource="/nature/species/Green_Woodpecker#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Picus_viridis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=099178">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/green-woodpecker.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/o16-greenwoodpecker.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/g/greenwoodpecker/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_Woodpecker#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Picus_(biology)#genus"><rdfs:label>Picus</rdfs:label><wo:species rdf:resource="/nature/life/Green_Woodpecker#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Woodpecker#family"><rdfs:label>Picidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Piciformes#order"><rdfs:label>Piciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

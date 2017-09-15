@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Wood_Warbler">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wood_Warbler#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Wood_Warbler#species">
+				<rdfs:label>Wood warbler</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Wood_Warbler#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wo/wood_warbler/wood_warbler_1.jpg"/>
+
+				<dc:description>The wood warbler gets its name from the trilling <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_(sense)">song</a> performed by the male with gusto, head raised, bright yellow throat puffed out and body all aquiver. The scientific name ‘sibilatrix’ means the whistler.  It is the largest <a href="http://www.bbc.co.uk/nature/life/Leaf-warbler">leaf warbler</a> in <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> and is easily confused with other leaf warblers such as the <a href="http://www.bbc.co.uk/nature/life/Chiffchaff">chiffchaff</a> and the <a href="http://www.bbc.co.uk/nature/life/Willow_Warbler">willow warbler</a>. Despite a love of beech and oak woodlands, wood warblers are ground-nesting birds, sometimes concealing their nests under a fallen branch. In the UK the highest densities of wood warblers are found in the western <a href="http://www.bbc.co.uk/nature/habitats/Ancient_woodland">oak woods</a> of <a href="http://www.bbc.co.uk/nature/places/Wales">Wales</a>. All European wood warblers <a href="http://www.bbc.co.uk/nature/adaptations/Animal_migration">migrate</a> to <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a> for the winter.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Wood_Warbler"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Wood_Warbler.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Leaf-warbler#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Phylloscopidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Wood_Warbler#name">
+				<rdfs:label>Phylloscopus sibilatrix</rdfs:label>
+				        <wo:commonName>Wood warbler</wo:commonName>
+        										<wo:scientificName>sibilatrixsibilatrix</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Phylloscopidae</wo:familyName><wo:genusName>Phylloscopus</wo:genusName><wo:speciesName>sibilatrix</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wo/wood_warbler/wood_warbler_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Wood_Warbler#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wo/wood_warbler/wood_warbler_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hlgks#programme">
+			<dc:title>Wood warblers fledge</dc:title>
+			<po:subject rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hj48b#programme">
+			<dc:title>Warbler ecological niches</dc:title>
+			<po:subject rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007w1h4#programme">
+			<dc:title>Welsh oak woods</dc:title>
+			<po:subject rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vc0j#programme">
+			<dc:title>Little brown jobs</dc:title>
+			<po:subject rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/w/wo/wood_warbler/LISC9177943.mp3">
+			<dc:title>Wood warbler song</dc:title>
+			<dc:subject rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Wood_Warbler">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wood_Warbler#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Phylloscopus_sibilatrix.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob13080.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=136291">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.forestry.gov.uk/pdf/wood-warbler.pdf/$FILE/wood-warbler.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/w/woodwarbler/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wood_Warbler#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Wood_Warbler.gif">
+		<dc:title>Map showing the distribution of the Wood warbler species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Leaf-warbler#genus"><rdfs:label>Phylloscopus</rdfs:label><wo:species rdf:resource="/nature/life/Wood_Warbler#species"/><wo:species rdf:resource="/nature/life/Chiffchaff#species"/><wo:species rdf:resource="/nature/life/Willow_Warbler#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Phylloscopidae#family"><rdfs:label>Phylloscopidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Procellariidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Procellariidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Procellariidae#family">
+				<rdfs:label>Petrels and shearwaters</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Procellariidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pr/procellariidae/procellariidae_1.jpg"/>
+
+				<dc:description>Shearwaters, prions, fulmar-petrels and gadlfy petrels make up this family (though it excludes the storm or diving petrels). These birds can be found fishing for prey in every ocean in the world.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Procellariidae"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Procellariidae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Procellariiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Procellariidae#name">
+				<rdfs:label>Procellariidae</rdfs:label>
+				        <wo:commonName>Petrels and shearwaters</wo:commonName>
+        										<wo:scientificName>Procellariidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Procellariiformes</wo:orderName><wo:familyName>Procellariidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pr/procellariidae/procellariidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Procellariidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pr/procellariidae/procellariidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Procellariidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Procellariidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Procellariidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Procellariidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Procellariidae/26384">
+			<foaf:primaryTopic rdf:resource="/nature/family/Procellariidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Procellariidae.gif">
+		<dc:title>Map showing the distribution of the Petrels and shearwaters family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Procellariiformes#order"><rdfs:label>Procellariiformes</rdfs:label><wo:family rdf:resource="/nature/life/Procellariidae#family"/><wo:family rdf:resource="/nature/life/Albatross#family"/><wo:family rdf:resource="/nature/life/Storm-petrel#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Northern_Fulmar#family"><rdfs:label>Fulmar</rdfs:label><wo:family rdf:resource="/nature/life/Procellariidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Snow_Petrel#family"><rdfs:label>Snow petrel</rdfs:label><wo:family rdf:resource="/nature/life/Procellariidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Galápagos_Petrel#family"><rdfs:label>Galápagos petrel</rdfs:label><wo:family rdf:resource="/nature/life/Procellariidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Puffinus#family"><rdfs:label>Shearwaters</rdfs:label><wo:family rdf:resource="/nature/life/Procellariidae#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

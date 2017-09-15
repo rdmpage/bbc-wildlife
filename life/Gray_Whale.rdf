@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Gray_Whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Gray_Whale#species">
+				<rdfs:label>Grey whale</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Gray_Whale#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_whale/gray_whale_1.jpg"/>
+
+				<dc:description>Grey whales undertake the longest annual <a href="/nature/adaptations/Animal_migration">migration</a> of any known mammal, along the coastlines between their summer feeding and winter breeding grounds. Belonging to the baleen <a href="/nature/life/Cetacea">whale</a> group, they have plates for filtering marine worms and crustaceans from the <a href="/nature/habitats/Benthic_zone">ocean floor</a>. Grey whales are split into two separate populations, the eastern North Pacific (American) and the critically endangered western North Pacific (Asian) population. They are the only species in their genus, which in turn, is the only genus in the family.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> Much of a grey whale’s body is covered with barnacles and whale lice. 
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gray_Whale"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gray_Whale.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Gray_Whale#name">
+				<rdfs:label>Eschrichtius robustus</rdfs:label>
+				        <wo:commonName>Grey whale</wo:commonName>
+        								<wo:commonName>Devil fish</wo:commonName>
+						<wo:commonName>Gray back</wo:commonName>
+						<wo:commonName>Gray whale</wo:commonName>
+						<wo:commonName>Hard head</wo:commonName>
+						<wo:commonName>Mussel digger</wo:commonName>
+						<wo:commonName>Rip sack</wo:commonName>
+								<wo:scientificName>robustusrobustus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Eschrichtiidae</wo:familyName><wo:genusName>Eschrichtius</wo:genusName><wo:speciesName>robustus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_whale/gray_whale_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Gray_Whale#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/gray_whale/gray_whale_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gray_Whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://acsonline.org/fact-sheets/gray-whale/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Eschrichtiidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://wildwhales.org/?page_id=41">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.acsonline.org/factpack/graywhl.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/gray-whale/eschrichtius-robustus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/8097/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.learner.org/jnorth/tm/gwhale/MigrationRoute_Map2009.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10403820.stm">
+			<dc:title>Russia's oil exploration threatens gray whales</dc:title>
+			<dc:description>Oil exploration plans in eastern Russia are a serious threat to gray whales in the area, say scientists with the International Whaling Commission (IWC).</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8729000/8729064.stm">
+			<dc:title>Mystery gray whale sighted again off Spain coast</dc:title>
+			<dc:description>A mysterious gray whale sighted off the coast of Israel in the Mediterranean Sea has been seen again off the north east coast of Spain.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8017291.stm">
+			<dc:title>Gray whales granted rare reprieve</dc:title>
+			<dc:description>Conservation campaigners are hailing a victory for the critically endangered western gray whale.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Whale#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gray_Whale.gif">
+		<dc:title>Map showing the distribution of the Grey whale species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Eschrichtius</rdfs:label><wo:species rdf:resource="/nature/life/Gray_Whale#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Eschrichtiidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

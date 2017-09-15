@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Giant_Panda">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Giant_Panda#species">
+				<rdfs:label>Giant panda</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Giant_Panda#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giant_panda/giant_panda_1.jpg"/>
+
+				<dc:description>The giant panda is a rare, endangered and elusive <a href="http://www.bbc.co.uk/nature/life/Bear">bear</a>, making the videos below of a newborn baby giant panda and the remarkable courtship scene filmed in the wild unique. Giant pandas are famous for their love of bamboo, a diet so nutritionally poor that the pandas have to consume up to 20kg each day. The extra digit on the panda's hand helps them to tear the bamboo and their gut is covered with a thick layer of mucus to protect against splinters. Habitat loss is the greatest cause of the giant panda's decline, and today their range is restricted to six separate mountain ranges in western <a href="http://www.bbc.co.uk/nature/places/China">China</a>.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> A giant panda is born pink, hairless, blind and 1/900th the size of its mother.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Giant_Panda"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Ailuropoda#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bear#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Giant_Panda#name">
+				<rdfs:label>Ailuropoda melanoleuca</rdfs:label>
+				        <wo:commonName>Giant panda</wo:commonName>
+        										<wo:scientificName>melanoleucamelanoleuca</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Ursidae</wo:familyName><wo:genusName>Ailuropoda</wo:genusName><wo:speciesName>melanoleuca</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giant_panda/giant_panda_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Giant_Panda#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gi/giant_panda/giant_panda_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqdgr#programme">
+			<dc:title>Panda perfume</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00chqqm#programme">
+			<dc:title>Panda positions</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00chqq8#programme">
+			<dc:title>Panda birth</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00chqpt#programme">
+			<dc:title>Cub care</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00chqp7#programme">
+			<dc:title>Giant panda milestone</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00chptr#programme">
+			<dc:title>Chengdu Research Base</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00379jc#programme">
+			<dc:title>Panda cub</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0036t83#programme">
+			<dc:title>Mating pandas</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0036r9x#programme">
+			<dc:title>Panda profile</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gi/giant_panda/mp25096-07.mp3">
+			<dc:title>Giant panda calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gi/giant_panda/nhs1195-04.mp3">
+			<dc:title>Mother giant panda feeding her baby</dc:title>
+			<dc:subject rdf:resource="/nature/species/Giant_Panda#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Giant_Panda">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Ailuropoda_melanoleuca.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/giant-panda/ailuropoda-melanoleuca/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/712">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-china-24784767">
+			<dc:title>Disguises used to help timid panda</dc:title>
+			<dc:description>Chinese conservation workers are planning to release a female panda cub into the wild, after spending two years teaching her the skills she will need to survive. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24161385">
+			<dc:title>China's new phase of panda diplomacy</dc:title>
+			<dc:description>For half a century China used pandas to foster links with other countries, now the practice is entering a new phase, researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-china-24223721">
+			<dc:title>China shows off 14 baby pandas</dc:title>
+			<dc:description>A group of 14 artificially-bred panda cubs have been put on display in China's Sichuan province.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19945872">
+			<dc:title>Panda conservation not 'greenwash'</dc:title>
+			<dc:description>The man behind the deal that brought two pandas to a Scottish zoo has defended panda conservation against allegations of "greenwash".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-china-19920462">
+			<dc:title>'Survival trained' panda freed</dc:title>
+			<dc:description>China releases a second giant panda bred in captivity into the wild after giving it special survival training, state-run media say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-16030944">
+			<dc:title>Pandas 'very well' but jet lagged</dc:title>
+			<dc:description>Two giant pandas are settling in "very well" to their new home at Edinburgh Zoo but are jet lagged, officials confirm.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-16000130">
+			<dc:title>How do you fly a panda 5,000 miles?</dc:title>
+			<dc:description>Two giant pandas have been flown from China to Scotland. How do you go about transporting rare creatures such a distance?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14930876">
+			<dc:title>Pandas' dung reveals sex secrets</dc:title>
+			<dc:description>Scientists in China are testing panda droppings for sex hormones to work how to improve captive breeding programmes for these endangered animals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14153997">
+			<dc:title>Giant pandas sexually segregate</dc:title>
+			<dc:description>Male and female giant pandas prefer to use different habitats, a discovery that could inform conservation strategies.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/why-do-panda-bears-eat-bamboo/6566.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Why do Panda bears eat bamboo? The panda is a carnivore but is ideally suited to eat bamboo which grows in its habitat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/wild-pandas-in-the-chinese-mountains/10562.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>A wild panda is seen feeding on bamboo leaves in the mountains of China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/food-chains-and-food-webs/10601.html">
+			<dc:title>Food chains and food webs</dc:title>
+			<dc:description>Examples of simple food webs and food chains are shown. Population changes and their effects on food webs are discussed. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/mating-pandas/10515.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Male pandas compete for a female and then mating is seen.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12161671">
+			<dc:title>Old forests 'crucial' for pandas</dc:title>
+			<dc:description>The endangered giant panda thrives in old forest that has never been logged, research shows - as China debates ending a logging ban in the region.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-11401084">
+			<dc:title>'Pambassadors' whittled down to 12</dc:title>
+			<dc:description>Twelve finalists of a global competition to select "panda ambassadors", also known as "pambassadors", have started their onsite training in Chengdu, China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11326093">
+			<dc:title>China starts Japan panda inquiry</dc:title>
+			<dc:description>Chinese officials have arrived in Japan to investigate the death of a giant panda on loan to a zoo.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/11182047">
+			<dc:title>Panda twins delight Japanese zoo</dc:title>
+			<dc:description>New-born twin giant pandas made their first public appearance at a zoo in Japan on Friday in Shirahama.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/americas/8497973.stm">
+			<dc:title>US-born pandas Tai Shan and Mei Lan arrive in China</dc:title>
+			<dc:description>Two pandas born in the US have arrived in China for the start of a new life.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8388000/8388484.stm">
+			<dc:title>Pandas 'chirp' to get pregnant</dc:title>
+			<dc:description>Female giant pandas make chirping sounds to advertise their fertility to males, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8383000/8383070.stm">
+			<dc:title>Save 'special' carnivores plea</dc:title>
+			<dc:description>Certain carnivores are so unique that special efforts should be made to save them, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8119000/8119402.stm">
+			<dc:title>Wood harvest puts pandas at risk</dc:title>
+			<dc:description>People and giant pandas are still coming into conflict.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/edinburgh_and_east/7711597.stm">
+			<dc:title>Climate may force pandas to move</dc:title>
+			<dc:description>Climate change could force pandas to move to different parts of China as patterns of bamboo growth shift in the future, it has been claimed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/asia-pacific/7527613.stm">
+			<dc:title>Boost for China panda population</dc:title>
+			<dc:description>Four giant panda cubs have been born within 14 hours in China, boosting the population of the endangered species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7438975.stm">
+			<dc:title>Giant panda sex secrets revealed</dc:title>
+			<dc:description>The giant panda's courtship and mating sequence - from boisterous beginning to noisy ending - has been filmed in the wild for what may be a TV first.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/south_east/7324489.stm">
+			<dc:title>Giant panda genome project begins</dc:title>
+			<dc:description>Scientists from Cardiff University are working on the first genome project detailing the genetic make up of the endangered giant panda.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6764365.stm">
+			<dc:title>Giant panda ancestor not so giant</dc:title>
+			<dc:description>The giant panda's earliest known ancestor was much smaller than its modern-day counterpart, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_Panda#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Ailuropoda#genus"><rdfs:label>Ailuropoda</rdfs:label><wo:species rdf:resource="/nature/life/Giant_Panda#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bear#family"><rdfs:label>Ursidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

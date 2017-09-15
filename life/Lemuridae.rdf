@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Lemuridae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Lemuridae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Lemuridae#family">
+				<rdfs:label>True lemurs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Lemuridae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/lemuridae/lemuridae_1.jpg"/>
+
+				<dc:description>The true lemurs, or Lemuridae, are one of the five families commonly known just as lemurs. Like all other lemurs, those in this group live on, and only on, the island of Madagascar. They evolved in near isolation after Madagascar split away from the African mainland and,  importantly, away from competition with other primates. Lemuridae is a diverse group that includes both solitary and social species, tree-dwellers and those that spend time on the ground and herbivores as well as omnivores. Explore a couple of distinctively marked species from this family of 22 - the ring-tailed and crowned lemurs - using the image links below.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lemuridae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Lemuridae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:infraorder rdf:resource="/nature/life/Lemur#infraorder"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Lemuridae#name">
+				<rdfs:label>Lemuridae</rdfs:label>
+				        <wo:commonName>True lemurs</wo:commonName>
+        								<wo:commonName>Lemuridae</wo:commonName>
+								<wo:scientificName>Lemuridae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:infraorderName>Lemuriformes</wo:infraorderName><wo:familyName>Lemuridae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/lemuridae/lemuridae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Lemuridae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/le/lemuridae/lemuridae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00zd3w2#programme">
+			<dc:title>Narcotic insecticide</dc:title>
+			<po:subject rdf:resource="/nature/family/Lemuridae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Lemuridae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Lemuridae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/Lemuridae/16335">
+			<foaf:primaryTopic rdf:resource="/nature/family/Lemuridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1650">
+			<foaf:primaryTopic rdf:resource="/nature/family/Lemuridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.primates.com/primate/lemuridae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Lemuridae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Lemuridae.gif">
+		<dc:title>Map showing the distribution of the True lemurs family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Infraorder rdf:about="/nature/infraorder/Lemur#infraorder"><rdfs:label>Lemuriformes</rdfs:label><wo:family rdf:resource="/nature/life/Lemuridae#family"/><wo:family rdf:resource="/nature/life/Cheirogaleidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Indriidae#family"/></wo:Infraorder><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Crowned_Lemur#family"><rdfs:label>Crowned lemur</rdfs:label><wo:family rdf:resource="/nature/life/Lemuridae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Lac_Alaotra_Bamboo_Lemur#family"><rdfs:label>Lac Alaotra gentle lemur </rdfs:label><wo:family rdf:resource="/nature/life/Lemuridae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Ring-tailed_Lemur#family"><rdfs:label>Ring-tailed lemur</rdfs:label><wo:family rdf:resource="/nature/life/Lemuridae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Red_Ruffed_Lemur#family"><rdfs:label>Red ruffed lemur</rdfs:label><wo:family rdf:resource="/nature/life/Lemuridae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

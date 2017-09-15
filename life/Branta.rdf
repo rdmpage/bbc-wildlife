@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Branta">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Branta#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Branta#genus">
+				<rdfs:label>Black geese</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Branta#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/branta/branta_1.jpg"/>
+
+				<dc:description>Black geese are named for the distinctive areas of black plumage. It is these black (and white) markings that can be used to tell the species apart. They are also the only true geese to have dark coloured legs and feet. There are six species of black goose, including the Canada goose, barnacle goose and brent goose. Most species spend the breeding season in northern parts of America, Europe and Asia, wintering on more southern coasts. The Canada goose is the largest type of black goose, while the nene is the only species which does not migrate.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Branta"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Branta.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Anatidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Anseriformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Branta#name">
+				<rdfs:label>Branta</rdfs:label>
+				        <wo:commonName>Black geese</wo:commonName>
+        								<wo:commonName>Brent geese</wo:commonName>
+								<wo:scientificName>Branta</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Anseriformes</wo:orderName><wo:familyName>Anatidae</wo:familyName><wo:genusName>Branta</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/branta/branta_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Branta#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/br/branta/branta_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Branta">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Branta#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Branta.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Branta#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/18070">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Branta#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.gobirding.eu/Photos/BlackGeese.php">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Branta#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Branta.gif">
+		<dc:title>Map showing the distribution of the Black geese genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Anatidae#family"><rdfs:label>Anatidae</rdfs:label><wo:genus rdf:resource="/nature/life/Branta#genus"/><wo:genus rdf:resource="/nature/life/Aix_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Anas#genus"/><wo:genus rdf:resource="/nature/life/Anser_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Goldeneye_(duck)#genus"/><wo:genus rdf:resource="/nature/life/Chen_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Swan#genus"/><wo:genus rdf:resource="/nature/life/Eider#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Anseriformes#order"><rdfs:label>Anseriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Barnacle_Goose#genus"><rdfs:label>Barnacle goose</rdfs:label><wo:genus rdf:resource="/nature/life/Branta#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Brant_Goose#genus"><rdfs:label>Brent goose</rdfs:label><wo:genus rdf:resource="/nature/life/Branta#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

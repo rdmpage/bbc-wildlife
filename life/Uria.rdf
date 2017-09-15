@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Uria">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Uria#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Uria#genus">
+				<rdfs:label>Guillemots</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Uria#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/u/ur/uria/uria_1.jpg"/>
+
+				<dc:description>Guillemots, or murres as they are known in North America, are among the deepest diving of all <a href="http://www.bbc.co.uk/nature/life/Bird">birds</a>, more than capable of reaching depths over 150 metres. Diving is for food using their short wings to swim under the water. Guillemots breed in large <a href="http://www.bbc.co.uk/nature/adaptations/Colony_(biology)">colonies</a> on <a href="http://www.bbc.co.uk/nature/habitats/Coast">coastal</a> cliffs, laying a single egg on a narrow ledge, the rest of the year is spent out at sea. There are only two species in this group: the <a href="http://www.bbc.co.uk/nature/life/Common_Murre">common guillemot</a> and the <a href="http://www.bbc.co.uk/nature/life/Thick-billed_Murre">thick-billed, or Brünnich's, guillemot</a>.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Uria"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Auk#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Charadriiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Uria#name">
+				<rdfs:label>Uria</rdfs:label>
+				        <wo:commonName>Guillemots</wo:commonName>
+        								<wo:commonName>Murres</wo:commonName>
+								<wo:scientificName>Uria</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Charadriiformes</wo:orderName><wo:familyName>Alcidae</wo:familyName><wo:genusName>Uria</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/u/ur/uria/uria_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Uria#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/u/ur/uria/uria_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Uria">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Uria#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Uria.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Uria#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/20224/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Uria#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Auk#family"><rdfs:label>Alcidae</rdfs:label><wo:genus rdf:resource="/nature/life/Uria#genus"/><wo:genus rdf:resource="/nature/life/Puffin#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Charadriiformes#order"><rdfs:label>Charadriiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Common_Murre#genus"><rdfs:label>Guillemot</rdfs:label><wo:genus rdf:resource="/nature/life/Uria#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Thick-billed_Murre#genus"><rdfs:label>Thick-billed guillemot</rdfs:label><wo:genus rdf:resource="/nature/life/Uria#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

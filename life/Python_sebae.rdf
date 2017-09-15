@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Python_sebae">
+		<foaf:primaryTopic rdf:resource="/nature/species/Python_sebae#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Python_sebae#species">
+				<rdfs:label>African rock python</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Python_sebae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/python_sebae/python_sebae_1.jpg"/>
+
+				<dc:description>The rock python is Africa’s largest snake with a particularly aggressive reputation. Reaching lengths up to 7m and weights of 90kg they have a devastating power to constrict. Their incredible size means large prey can be tackled such as <a href="/nature/life/Old_World_monkey">monkeys</a>, <a href="/nature/life/Warthog">warthogs</a>, antelopes and even <a href="/nature/life/Crocodile">crocodiles</a>.
+<br />
+<br />
+A rock python is nonvenomous but still uses its curved teeth on unfortunate victims to anchor itself, before coiling around and suffocating, then swallowing it whole. Prey is located by <a href="/nature/adaptations/Semiochemical">odour</a> using well-developed Jacobson’s organs and heat-sensing pits. Yet these formidable <a href="/nature/adaptations/Carnivore">carnivores</a> are themselves preyed upon by <a href="/nature/life/Spotted_Hyena">hyenas</a> and <a href="/nature/life/African_Wild_Dog">wild dogs</a>. Despite this ferocity there is a gentle side to the rock python: females coil around their eggs to protect them; hatchlings are up to 50cm long and independent.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Python_sebae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Python_sebae.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Python_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Boidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Python_sebae#name">
+				<rdfs:label>Python sebae</rdfs:label>
+				        <wo:commonName>African rock python</wo:commonName>
+        										<wo:scientificName>sebaesebae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Boidae</wo:familyName><wo:genusName>Python</wo:genusName><wo:speciesName>sebae</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/python_sebae/python_sebae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Python_sebae#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/py/python_sebae/python_sebae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p013vdz7#programme">
+			<dc:title>A mother's love</dc:title>
+			<po:subject rdf:resource="/nature/species/Python_sebae#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p013v84q#programme">
+			<dc:title>Loving embrace</dc:title>
+			<po:subject rdf:resource="/nature/species/Python_sebae#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00chkzk#programme">
+			<dc:title>Open wide</dc:title>
+			<po:subject rdf:resource="/nature/species/Python_sebae#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Python_sebae">
+		<foaf:primaryTopic rdf:resource="/nature/species/Python_sebae#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/accounts/Python_sebae/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Python_sebae#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/1055462/overview">
+			<foaf:primaryTopic rdf:resource="/nature/species/Python_sebae#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/african-rock-python/python-sebae/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Python_sebae#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flmnh.ufl.edu/herpetology/fl-guide/Pythonsebae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Python_sebae#species"/>
+		</foaf:Document>
+			
+					
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Python_sebae.gif">
+		<dc:title>Map showing the distribution of the African rock python species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Python_(genus)#genus"><rdfs:label>Python</rdfs:label><wo:species rdf:resource="/nature/life/Python_sebae#species"/><wo:species rdf:resource="/nature/life/Python_molurus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Boidae#family"><rdfs:label>Boidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

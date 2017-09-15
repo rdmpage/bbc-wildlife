@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Beloniformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Beloniformes#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Beloniformes#order">
+				<rdfs:label>Needlefish and flying fish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Beloniformes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/beloniformes/beloniformes_1.jpg"/>
+
+				<dc:description>Needlefish, flying fish and three other families of fish together make up the order Beloniformes. There are 191 species in the order, the vast majority of which live in the sea. Most of them are fast swimmers. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Beloniformes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Beloniformes.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Beloniformes#name">
+				<rdfs:label>Beloniformes</rdfs:label>
+				        <wo:commonName>Needlefish and flying fish</wo:commonName>
+        										<wo:scientificName>Beloniformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Beloniformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/beloniformes/beloniformes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Beloniformes#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/be/beloniformes/beloniformes_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Beloniformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Beloniformes#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Beloniformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Beloniformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/8242">
+			<foaf:primaryTopic rdf:resource="/nature/order/Beloniformes#order"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Beloniformes.gif">
+		<dc:title>Map showing the distribution of the Needlefish and flying fish order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label><wo:order rdf:resource="/nature/life/Beloniformes#order"/><wo:order rdf:resource="/nature/life/Perciformes#order"/><wo:order rdf:resource="/nature/life/Clupeiformes#order"/><wo:order rdf:resource="/nature/life/Osteoglossiformes#order"/><wo:order rdf:resource="/nature/life/Catfish#order"/><wo:order rdf:resource="/nature/life/Salmoniformes#order"/><wo:order rdf:resource="/nature/life/Characiformes#order"/><wo:order rdf:resource="/nature/life/Syngnathiformes#order"/><wo:order rdf:resource="/nature/life/Gasterosteiformes#order"/><wo:order rdf:resource="/nature/life/Anglerfish#order"/></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Flying_fish#order"><rdfs:label>Flying fish</rdfs:label><wo:order rdf:resource="/nature/life/Beloniformes#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

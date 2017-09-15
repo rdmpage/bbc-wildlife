@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/suborder/Sauropodomorpha">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		<rdfs:seeAlso rdf:resource="/nature/suborder"/>
+	</rdf:Description>
+
+		<wo:Suborder rdf:about="/nature/life/Sauropodomorpha#suborder">
+				<rdfs:label>Sauropodomorph dinosaurs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/suborder/Sauropodomorpha#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>Sauropods are among the most famous and recognisable dinosaurs: long-necked, long-tailed giants that include Diplodocus and Brachiosaurus.  Early sauropods were bipedal and quite small compared to their later descendants which became the heaviest and longest dinosaurs. It requires a four-legged stance to get to truly giant size, as you need to spread your weight. Like elephants today, the largest sauropods could only move at a walk as their leg bones couldn't withstand the impact of trotting or galloping gaits. However, just because they were restricted to walking didn't mean they couldn't put on a turn of speed: their top walking speed has been estimated at between 20 and 35 km/h. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sauropodomorpha"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/suborder/Sauropodomorpha.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Suborder>
+
+			<wo:TaxonName rdf:about="/nature/suborder/Sauropodomorpha#name">
+				<rdfs:label>Sauropodomorpha</rdfs:label>
+				        <wo:commonName>Sauropodomorph dinosaurs</wo:commonName>
+        										<wo:scientificName>Sauropodomorpha</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Sauropodomorpha</wo:suborderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkqxv#programme">
+			<dc:title>Dinosaur footprints</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sauropodomorpha">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://onlinelibrary.wiley.com/doi/10.1111/j.1469-185X.2010.00137.x/abstract">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=950&amp;Itemid=104">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinosaurisle.com/sauropodomorpha.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeos.com/Vertebrates/Units/330Sauropodomorpha/330.000.html">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thescelosaurus.com/sauropodomorpha.htm">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8583911.stm">
+			<dc:title>Dinosaur fossilised in sand dune</dc:title>
+			<dc:description>A close dinosaur relative of the biggest animals to ever walk the Earth seems to have been caught in a falling sand dune.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Sauropodomorpha#suborder"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/suborder/Sauropodomorpha.gif">
+		<dc:title>Map showing the distribution of the Sauropodomorph dinosaurs suborder</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label><wo:suborder rdf:resource="/nature/life/Sauropodomorpha#suborder"/><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Infraorder rdf:about="/nature/life/Sauropoda#suborder"><rdfs:label>Sauropod dinosaurs</rdfs:label><wo:suborder rdf:resource="/nature/life/Sauropodomorpha#suborder"/></wo:Infraorder>
+	
+	
+		    
+</rdf:RDF>

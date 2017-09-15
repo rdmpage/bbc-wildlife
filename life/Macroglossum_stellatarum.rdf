@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Macroglossum_stellatarum">
+		<foaf:primaryTopic rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Macroglossum_stellatarum#species">
+				<rdfs:label>Hummingbird hawk-moth</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Macroglossum_stellatarum#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macroglossum_stellatarum/macroglossum_stellatarum_1.jpg"/>
+
+				<dc:description>Hummingbird hawk-moths beat their wings at such speed they emit an audible hum. Their name is further derived from their similar feeding patterns to hummingbirds. They're found in Britain all summer long, especially in southern parts and in Ireland. Active in both sunny and overcast conditions, hummingbird hawk-moths are strongly attracted to flowers with a plentiful supply of nectar such as honeysuckle and buddleia. Studies reveal a remarkable memory, since they return to the same flowerbeds at the same time everyday.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Macroglossum_stellatarum"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pollinator#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Macroglossum_stellatarum.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Macroglossum#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sphingidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Lepidoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Macroglossum_stellatarum#name">
+				<rdfs:label>Macroglossum stellatarum</rdfs:label>
+				        <wo:commonName>Hummingbird hawk-moth</wo:commonName>
+        										<wo:scientificName>stellatarumstellatarum</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Lepidoptera</wo:orderName><wo:familyName>Sphingidae</wo:familyName><wo:genusName>Macroglossum</wo:genusName><wo:speciesName>stellatarum</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macroglossum_stellatarum/macroglossum_stellatarum_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/macroglossum_stellatarum/macroglossum_stellatarum_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lx8ph#programme">
+			<dc:title>Drink through a straw</dc:title>
+			<po:subject rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003kmgn#programme">
+			<dc:title>Daytime moth</dc:title>
+			<po:subject rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Macroglossum_stellatarum">
+		<foaf:primaryTopic rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tpittaway.tripod.com/sphinx/m_ste.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://ukmoths.org.uk/show.php?id=658">
+			<foaf:primaryTopic rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/hummingbird-hawkmoth/macroglossum-stellatarum/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Macroglossum_stellatarum#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Pollinator#adaptation">
+					<rdfs:label>Pollinator</rdfs:label>
+				</wo:EcosystemRole>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Macroglossum_stellatarum.gif">
+		<dc:title>Map showing the distribution of the Hummingbird hawk-moth species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Macroglossum#genus"><rdfs:label>Macroglossum</rdfs:label><wo:species rdf:resource="/nature/life/Macroglossum_stellatarum#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sphingidae#family"><rdfs:label>Sphingidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Lepidoptera#order"><rdfs:label>Lepidoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

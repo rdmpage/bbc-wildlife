@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Naked_mole_rat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Naked_mole_rat#species">
+				<rdfs:label>Naked mole rat</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Naked_mole_rat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/naked_mole_rat/naked_mole_rat_1.jpg"/>
+
+				<dc:description>Naked mole rats may not be the world's most beautiful animals, but they are fascinating. They have no fur, but aren't completely hairless: <a href="http://www.bbc.co.uk/nature/adaptations/Haptic_perception">sensory whiskers</a> on the nose and tail help them navigate dark underground tunnels. The queen is the only female in the <a href="http://www.bbc.co.uk/nature/adaptations/Colony_(biology)">colony</a> that breeds and her offspring devote their lives either to protecting the <a href="http://www.bbc.co.uk/nature/adaptations/Colony_(biology)">colony</a> or digging <a href="http://www.bbc.co.uk/nature/adaptations/Fossorial">burrows</a> with their powerful, ever-growing incisors. Naked mole rats can live for over 20 years, an age unprecedented in small <a href="http://www.bbc.co.uk/nature/life/Rodent">rodents</a>. Unlike most other <a href="http://www.bbc.co.uk/nature/life/Mammal">mammals</a>, naked mole rats can't maintain steady body temperature - they are essentially cold-blooded.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Naked_mole_rat"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Eusociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Naked_mole_rat.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Heterocephalus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Blesmol#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Naked_mole_rat#name">
+				<rdfs:label>Heterocephalus glaber</rdfs:label>
+				        <wo:commonName>Naked mole rat</wo:commonName>
+        								<wo:commonName>Desert mole rat</wo:commonName>
+						<wo:commonName>Sand puppy</wo:commonName>
+								<wo:scientificName>glaberglaber</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Bathyergidae</wo:familyName><wo:genusName>Heterocephalus</wo:genusName><wo:speciesName>glaber</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/naked_mole_rat/naked_mole_rat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/na/naked_mole_rat/naked_mole_rat_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p014dfnx#programme">
+			<dc:title>Sabre-toothed sausages</dc:title>
+			<po:subject rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fvd54#programme">
+			<dc:title>Underground society</dc:title>
+			<po:subject rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Naked_mole_rat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Heterocephalus_glaber.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://nationalzoo.si.edu/Publications/ZooGoer/2002/3/nakedmolerats.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/naked-mole-rat/heterocephalus-glaber/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bio.davidson.edu/people/vecase/behavior/Spring2002/Poulton/poulton.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bristolzoo.org.uk/naked-mole-rat">
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nbb.cornell.edu/neurobio/BioNB427/READINGS/ShermanJarvis2002.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-22961694">
+			<dc:title>Naked mole-rat gives cancer clues</dc:title>
+			<dc:description>A rodent that never gets cancer could hold the key to preventing or treating malignant tumours, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14031978">
+			<dc:title>Naked mole rat blueprint revealed</dc:title>
+			<dc:description>Researchers sequence the genome of the naked mole rat, a key step towards finding the secret of the bizarre animal's longevity. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10088502.stm">
+			<dc:title>Meet the 'sabre-toothed sausage'</dc:title>
+			<dc:description>They look a bit like a sabre-toothed sausage, says Dr Chris Faulkes, as we enter the naked mole rat laboratory at Queen Mary, University of London.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Naked_mole_rat#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Eusociality#adaptation">
+					<rdfs:label>Eusocial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Naked_mole_rat.gif">
+		<dc:title>Map showing the distribution of the Naked mole rat species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Heterocephalus#genus"><rdfs:label>Heterocephalus</rdfs:label><wo:species rdf:resource="/nature/life/Naked_mole_rat#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Blesmol#family"><rdfs:label>Bathyergidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

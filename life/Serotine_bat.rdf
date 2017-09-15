@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Serotine_bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Serotine_bat#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Serotine_bat#species">
+				<rdfs:label>Serotine bat</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Serotine_bat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/serotine_bat/serotine_bat_1.jpg"/>
+
+				<dc:description>Serotine bats are one of the largest British species, and one of the first to emerge in the evening. Serotines inhabit almost all of Europe and parts of Asia, but in the UK are restricted to southern England. They have a relatively slow, looping flight and in the summer, roost in tree hollows and attics. In the winter, they hibernate in tree hollows, caves, old mines and cellars. In Europe, the females give birth to one young, but in Asia, they typically have two and occasionally three. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Serotine_bat"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Eptesicus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Vesper_bat#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Bat#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Serotine_bat#name">
+				<rdfs:label>Eptesicus serotinus</rdfs:label>
+				        <wo:commonName>Serotine bat</wo:commonName>
+        										<wo:scientificName>serotinusserotinus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Chiroptera</wo:orderName><wo:familyName>Vespertilionidae</wo:familyName><wo:genusName>Eptesicus</wo:genusName><wo:speciesName>serotinus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/serotine_bat/serotine_bat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Serotine_bat#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/se/serotine_bat/serotine_bat_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/se/serotine_bat/5042102.mp3">
+			<dc:title>Calls of a serotine bat</dc:title>
+			<dc:subject rdf:resource="/nature/species/Serotine_bat#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Serotine_bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Serotine_bat#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Eptesicus_serotinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Serotine_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/serotine-bat/eptesicus-serotinus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Serotine_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bio.bris.ac.uk/research/bats/China%20bats/eptesicusserotinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Serotine_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.jerseybatgroup.org.je/serotine.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Serotine_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/o98-serotinebat.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Serotine_bat#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Eptesicus#genus"><rdfs:label>Eptesicus</rdfs:label><wo:species rdf:resource="/nature/life/Serotine_bat#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Vesper_bat#family"><rdfs:label>Vespertilionidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Bat#order"><rdfs:label>Chiroptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

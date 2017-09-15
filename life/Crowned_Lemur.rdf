@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Crowned_Lemur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Crowned_Lemur#species">
+				<rdfs:label>Crowned lemur</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Crowned_Lemur#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crowned_lemur/crowned_lemur_1.jpg"/>
+
+				<dc:description>The only place crowned lemurs can be found is in the dry forests of northern Madagascar where they use their long tails to balance as they leap around the canopy. These small lemurs are about the size of a house cat and live in close-knit social groups of 5 or 6 individuals. The young are born as the rainy season starts, so they can make the most of the plentiful flowers, fruits and leaves they like to eat. At first, the youngsters are carried clinging to their mother's belly, but as they get bigger and heavier, they move round to ride on her back.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Crowned_Lemur"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pollinator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crowned_Lemur.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/True_lemur#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Lemuridae#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Lemur#infraorder"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Crowned_Lemur#name">
+				<rdfs:label>Eulemur coronatus</rdfs:label>
+				        <wo:commonName>Crowned lemur</wo:commonName>
+        										<wo:scientificName>coronatuscoronatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:infraorderName>Lemuriformes</wo:infraorderName><wo:familyName>Lemuridae</wo:familyName><wo:genusName>Eulemur</wo:genusName><wo:speciesName>coronatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crowned_lemur/crowned_lemur_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/cr/crowned_lemur/crowned_lemur_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dtq1q#programme">
+			<dc:title>Rock climbing lemurs</dc:title>
+			<po:subject rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Crowned_Lemur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crowned_Lemur#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Eulemur_coronatus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://homepage.mac.com/wildlifeweb/primate/PrimateWeek/crowned_lemur/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/image/210">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/crowned-lemur/eulemur-coronatus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/8199/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crowned_Lemur#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Pollinator#adaptation">
+					<rdfs:label>Pollinator</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crowned_Lemur.gif">
+		<dc:title>Map showing the distribution of the Crowned lemur species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/True_lemur#genus"><rdfs:label>Eulemur</rdfs:label><wo:species rdf:resource="/nature/life/Crowned_Lemur#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Lemuridae#family"><rdfs:label>Lemuridae</rdfs:label></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Lemur#infraorder"><rdfs:label>Lemuriformes</rdfs:label></wo:Infraorder><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

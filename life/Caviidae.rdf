@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Caviidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Caviidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Caviidae#family">
+				<rdfs:label>Cavies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Caviidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/caviidae/caviidae_1.jpg"/>
+
+				<dc:description>Cavies are rodents native to South America whose most familiar member is the guinea pig. Other species in the family include the capybara and the mara.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Caviidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Caviidae#name">
+				<rdfs:label>Caviidae</rdfs:label>
+				        <wo:commonName>Cavies</wo:commonName>
+        										<wo:scientificName>Caviidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Caviidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/caviidae/caviidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Caviidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/caviidae/caviidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Caviidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Caviidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Caviidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Caviidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.biolib.cz/en/gallery/dir684/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Caviidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/8685">
+			<foaf:primaryTopic rdf:resource="/nature/family/Caviidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Caviidae_Family.asp">
+			<foaf:primaryTopic rdf:resource="/nature/family/Caviidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label><wo:family rdf:resource="/nature/life/Caviidae#family"/><wo:family rdf:resource="/nature/life/Blesmol#family"/><wo:family rdf:resource="/nature/life/Castoridae#family"/><wo:family rdf:resource="/nature/life/Muridae#family"/><wo:family rdf:resource="/nature/life/Dormouse#family"/><wo:family rdf:resource="/nature/life/Sciuridae#family"/><wo:family rdf:resource="/nature/life/Cricetidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Patagonian_Mara#family"><rdfs:label>Patagonian mara</rdfs:label><wo:family rdf:resource="/nature/life/Caviidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Capybara#family"><rdfs:label>Capybara</rdfs:label><wo:family rdf:resource="/nature/life/Caviidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Jaguar">
+		<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Jaguar#species">
+				<rdfs:label>Jaguar</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Jaguar#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/j/ja/jaguar/jaguar_1.jpg"/>
+
+				<dc:description>Jaguars are formidable predators and eat a wide variety of prey, from large mammals such as deer, to fish and small birds. Their common name comes from the native Indian 'yaguara' meaning 'beast that kills its prey with one bound', since these remarkable cats typically attack their prey by pouncing on them from a concealed spot. Jaguars are the largest cats of the Americas, but despite genetic studies indicating there are no subspecies, they vary enormously in size within different regions.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Jaguar"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mangrove#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Panthera#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Jaguar#name">
+				<rdfs:label>Panthera onca</rdfs:label>
+				        <wo:commonName>Jaguar</wo:commonName>
+        										<wo:scientificName>oncaonca</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Panthera</wo:genusName><wo:speciesName>onca</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/j/ja/jaguar/jaguar_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Jaguar#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/j/ja/jaguar/jaguar_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01pkrg2#programme">
+			<dc:title>Catty courtship</dc:title>
+			<po:subject rdf:resource="/nature/species/Jaguar#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p013vjmj#programme">
+			<dc:title>Jaguars fight</dc:title>
+			<po:subject rdf:resource="/nature/species/Jaguar#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p013vj0y#programme">
+			<dc:title>Jaguar cubs swimming</dc:title>
+			<po:subject rdf:resource="/nature/species/Jaguar#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jpf9#programme">
+			<dc:title>On the prowl</dc:title>
+			<po:subject rdf:resource="/nature/species/Jaguar#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003vnmf#programme">
+			<dc:title>Defending dinner</dc:title>
+			<po:subject rdf:resource="/nature/species/Jaguar#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/j/ja/jaguar/mp15146-07.mp3">
+			<dc:title>Jaguar snarling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Jaguar#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Jaguar">
+		<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Panthera_onca.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/jaguar/panthera-onca/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/cbbc/bluepeter/presenters-pets/helen/amazonmap.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/15953/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.panthera.org/species/jaguar">
+			<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-birmingham-15670539">
+			<dc:title>Land Rover creates 1,000 new jobs</dc:title>
+			<dc:description>More than 1,000 new members of staff are to be recruited at Jaguar Land Rover's manufacturing plant in Solihull.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-birmingham-17271258">
+			<dc:title>New Jaguar to be made in Midlands</dc:title>
+			<dc:description>Jaguar Land Rover confirms its latest model will be made in the West Midlands.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Jaguar#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mangrove#habitat">
+					<rdfs:label>Mangroves</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Panthera#genus"><rdfs:label>Panthera</rdfs:label><wo:species rdf:resource="/nature/life/Jaguar#species"/><wo:species rdf:resource="/nature/life/Lion#species"/><wo:species rdf:resource="/nature/life/Leopard#species"/><wo:species rdf:resource="/nature/life/Tiger#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

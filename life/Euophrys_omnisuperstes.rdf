@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Euophrys_omnisuperstes">
+		<foaf:primaryTopic rdf:resource="/nature/species/Euophrys_omnisuperstes#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Euophrys_omnisuperstes#species">
+				<rdfs:label>Himalayan jumping spider</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Euophrys_omnisuperstes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/euophrys_omnisuperstes/euophrys_omnisuperstes_1.jpg"/>
+
+				<dc:description>The Himalayan jumping spider is a tiny spider that lives high up in the Himalayas, and has been found at altitudes as high as 6700 metres above sea level. Its only source of food at these extreme heights is stray insects that are blown up the mountainside by the wind.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Euophrys_omnisuperstes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Jumping#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3fy#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Euophrys#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Jumping_spider#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Spider#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Arachnid#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Euophrys_omnisuperstes#name">
+				<rdfs:label>Euophrys omnisuperstes</rdfs:label>
+				        <wo:commonName>Himalayan jumping spider</wo:commonName>
+        										<wo:scientificName>omnisuperstesomnisuperstes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Arachnida</wo:className><wo:orderName>Araneae</wo:orderName><wo:familyName>Salticidae</wo:familyName><wo:genusName>Euophrys</wo:genusName><wo:speciesName>omnisuperstes</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/euophrys_omnisuperstes/euophrys_omnisuperstes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Euophrys_omnisuperstes#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/euophrys_omnisuperstes/euophrys_omnisuperstes_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0036qx0#programme">
+			<dc:title>Jumping spider </dc:title>
+			<po:subject rdf:resource="/nature/species/Euophrys_omnisuperstes#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Euophrys_omnisuperstes">
+		<foaf:primaryTopic rdf:resource="/nature/species/Euophrys_omnisuperstes#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://salticidae.org/salticid/diagnost/euophrys/omnisup.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Euophrys_omnisuperstes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/himalayan-jumping-spider/euophrys-omnisuperstes/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Euophrys_omnisuperstes#species"/>
+		</foaf:Document>
+			
+					
+											<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Jumping#adaptation">
+					<rdfs:label>Adapted to jumping</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3fy#collection">
+				<dc:title>George's marvellous minibeasts</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Euophrys#genus"><rdfs:label>Euophrys</rdfs:label><wo:species rdf:resource="/nature/life/Euophrys_omnisuperstes#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Jumping_spider#family"><rdfs:label>Salticidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Spider#order"><rdfs:label>Araneae</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Arachnid#class"><rdfs:label>Arachnida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Vandellia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Vandellia#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Vandellia#genus">
+				<rdfs:label>Candirus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Vandellia#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/va/vandellia/vandellia_1.jpg"/>
+
+				<dc:description>Candirus are parasites that feed on the blood and flesh of their victims. Using the spines on their gill covers, they wedge themselves into the gills of other fish, where they then live and feed.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Vandellia"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hematophagy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p006r1w3#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Vandellia.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:order rdf:resource="/nature/life/Catfish#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Vandellia#name">
+				<rdfs:label>Vandellia</rdfs:label>
+				        <wo:commonName>Candirus</wo:commonName>
+        								<wo:commonName>Canero</wo:commonName>
+						<wo:commonName>Toothpick fish</wo:commonName>
+								<wo:scientificName>Vandellia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Siluriformes</wo:orderName><wo:familyName>Trichomycteridae</wo:familyName><wo:genusName>Vandellia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/va/vandellia/vandellia_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Vandellia#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/v/va/vandellia/vandellia_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00zbhlx#programme">
+			<dc:title>Hanging on</dc:title>
+			<po:subject rdf:resource="/nature/genus/Vandellia#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004pq88#programme">
+			<dc:title>Candiru danger</dc:title>
+			<po:subject rdf:resource="/nature/genus/Vandellia#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039zf9#programme">
+			<dc:title>River scavengers</dc:title>
+			<po:subject rdf:resource="/nature/genus/Vandellia#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Vandellia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Vandellia#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Vandellia.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Vandellia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fishbase.org/Summary/speciesSummary.php?id=8811&amp;lang=english">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Vandellia#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Hematophagy#adaptation">
+					<rdfs:label>Blood sucker</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Parasitism#adaptation">
+					<rdfs:label>Parasitic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p006r1w3#collection">
+				<dc:title>Wildlife wind-ups</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Vandellia.gif">
+		<dc:title>Map showing the distribution of the Candirus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Trichomycteridae</rdfs:label><wo:genus rdf:resource="/nature/life/Vandellia#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Catfish#order"><rdfs:label>Siluriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

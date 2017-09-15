@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Tundra_Swan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Tundra_Swan#species">
+				<rdfs:label>Bewick's swan</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Tundra_Swan#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/tundra_swan/tundra_swan_1.jpg"/>
+
+				<dc:description>It takes a good eye to tell the difference between Bewick's swans and <a href="/nature/life/Whooper_Swan">whooper swans</a>. Bewick's are smaller and their black beaks sport a small yellow blob, rather than the whooper's extended yellow wedge. In fact these yellow and black beak patterns have been extensively studied and illustrated over the years and are unique to each swan, identifying individual birds.
+<br />
+<br />
+They breed in the cold Arctic <a href="/nature/habitats/Tundra">tundra</a> of northern <a href="/nature/places/Russia">Russia</a>. The western population winters in northern Europe, with the <a href="/nature/places/United_Kingdom">British Isles</a> boasting some sizeable and surprisingly musical flocks. The eastern population heads towards <a href="/nature/places/China">China</a> and Japan for the winter season. Bewick's are actually a subspecies of the tundra swan and the smallest swan in Europe.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tundra_Swan"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tundra_Swan.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Swan#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Anatidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Anseriformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Tundra_Swan#name">
+				<rdfs:label>Cygnus columbianus</rdfs:label>
+				        <wo:commonName>Bewick's swan</wo:commonName>
+        								<wo:commonName>Tundra swan</wo:commonName>
+								<wo:scientificName>columbianuscolumbianus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Anseriformes</wo:orderName><wo:familyName>Anatidae</wo:familyName><wo:genusName>Cygnus</wo:genusName><wo:speciesName>columbianus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/tundra_swan/tundra_swan_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Tundra_Swan#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/tu/tundra_swan/tundra_swan_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m5z12#programme">
+			<dc:title>Slimbridge swan feed</dc:title>
+			<po:subject rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lw5y9#programme">
+			<dc:title>Winter arrivals</dc:title>
+			<po:subject rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lr2k1#programme">
+			<dc:title>Bewick's swans</dc:title>
+			<po:subject rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/tu/tundra_swan/LISC2005165.mp3">
+			<dc:title>Calls of a tundra swan</dc:title>
+			<dc:subject rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/tu/tundra_swan/LISC2005195.mp3">
+			<dc:title>Flock of tundra swans calling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tundra_Swan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Cygnus_columbianus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob1530.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bewicks-swan/cygnus-columbianus-bewickii/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=027015">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/bewick-swan.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/b/bewicksswan/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/20800129">
+			<dc:title>Baby boost for threatened swans</dc:title>
+			<dc:description>Northwest Europe's threatened Bewick's swan population boosted by a bumper year for chicks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/gloucestershire/8477351.stm">
+			<dc:title>Experts stunned by swan 'divorce' at Slimbridge wetland</dc:title>
+			<dc:description>Experts have told of their surprise after witnessing a rare "divorce" between a pair of swans at a Gloucestershire wildfowl sanctuary.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tundra_Swan#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tundra_Swan.gif">
+		<dc:title>Map showing the distribution of the Bewick's swan species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Swan#genus"><rdfs:label>Cygnus</rdfs:label><wo:species rdf:resource="/nature/life/Tundra_Swan#species"/><wo:species rdf:resource="/nature/life/Mute_Swan#species"/><wo:species rdf:resource="/nature/life/Whooper_Swan#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Anatidae#family"><rdfs:label>Anatidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Anseriformes#order"><rdfs:label>Anseriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

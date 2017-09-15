@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Formica">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Formica#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Formica#genus">
+				<rdfs:label>Wood ants</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Formica#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fo/formica/formica_1.jpg"/>
+
+				<dc:description>Wood ants are usually found where there is plenty of dead wood for nest building. However, some of the 200 species do like to live on open grassland. Their conspicuous mounds offer protection from predators and the weather, and are also a stable and comfortable place to incubate eggs. Wood ants are very social insects living in colonies of up to half a million individuals, most of which are female workers. This genus of ants is widely distributed throughout Europe, Asia and North America.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Formica"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Eusociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Symbiosis#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Formica.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Ant#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Hymenoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Formica#name">
+				<rdfs:label>Formica</rdfs:label>
+				        <wo:commonName>Wood ants</wo:commonName>
+        								<wo:commonName>Field ants</wo:commonName>
+						<wo:commonName>Mound ants</wo:commonName>
+								<wo:scientificName>Formica</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hymenoptera</wo:orderName><wo:familyName>Formicidae</wo:familyName><wo:genusName>Formica</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fo/formica/formica_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Formica#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fo/formica/formica_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01jm9hg#programme">
+			<dc:title>Ant air-con</dc:title>
+			<po:subject rdf:resource="/nature/genus/Formica#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Formica">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Formica#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Formica.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Formica#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/49325">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Formica#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.myrmecos.net/formicinae/formica.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Formica#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.treesforlife.org.uk/tfl.woodants.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Formica#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Eusociality#adaptation">
+					<rdfs:label>Eusocial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Symbiosis#adaptation">
+					<rdfs:label>Symbiotic</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Formica.gif">
+		<dc:title>Map showing the distribution of the Wood ants genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Ant#family"><rdfs:label>Formicidae</rdfs:label><wo:genus rdf:resource="/nature/life/Formica#genus"/><wo:genus rdf:resource="/nature/life/Atta_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Eciton#genus"/><wo:genus rdf:resource="/nature/life/Lasius#genus"/><wo:genus rdf:resource="/nature/life/Cataglyphis#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Hymenoptera#order"><rdfs:label>Hymenoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Formica_aquilonia#genus"><rdfs:label>Scottish wood ant</rdfs:label><wo:genus rdf:resource="/nature/life/Formica#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Formica_lugubris#genus"><rdfs:label>Hairy wood ant</rdfs:label><wo:genus rdf:resource="/nature/life/Formica#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

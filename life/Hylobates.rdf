@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Hylobates">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Hylobates#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Hylobates#genus">
+				<rdfs:label>Hylobates gibbons</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Hylobates#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hy/hylobates/hylobates_1.jpg"/>
+
+				<dc:description>Hylobate gibbons are one of four genera of gibbons, and contains six species. This group is the the most widespread ranging from China where the Lar gibbon can be found, right down to Indonesia where the silvery gibbon lives. The hylobate gibbons are recognisable by their distinctive white ring of facial fur. Each genus has a different number of chomosomes, with hylobates having 44. Like all gibbons species, hylobates are tail-less and have long arms for swinging through the trees.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hylobates"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Gibbon#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Hylobates#name">
+				<rdfs:label>Hylobates</rdfs:label>
+				        <wo:commonName>Hylobates gibbons</wo:commonName>
+        										<wo:scientificName>Hylobates</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hylobatidae</wo:familyName><wo:genusName>Hylobates</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hy/hylobates/hylobates_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Hylobates#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/hy/hylobates/hylobates_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hylobates">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Hylobates#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Hylobates.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hylobates#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/links/hylobates">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hylobates#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Gibbon#family"><rdfs:label>Hylobatidae</rdfs:label><wo:genus rdf:resource="/nature/life/Hylobates#genus"/><wo:genus rdf:resource="/nature/life/Nomascus#genus"/><wo:genus rdf:resource="/nature/life/Symphalangus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Agile_Gibbon#genus"><rdfs:label>Agile gibbon</rdfs:label><wo:genus rdf:resource="/nature/life/Hylobates#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Lar_Gibbon#genus"><rdfs:label>Lar gibbon</rdfs:label><wo:genus rdf:resource="/nature/life/Hylobates#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

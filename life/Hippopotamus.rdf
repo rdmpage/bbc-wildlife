@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Hippopotamus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Hippopotamus#species">
+				<rdfs:label>Hippopotamus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Hippopotamus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hi/hippopotamus/hippopotamus_1.jpg"/>
+
+				<dc:description>Hippopotamuses are found in Africa where they require habitats with water deep enough to protect them from overheating and sunburn. Despite their enormous bulk these aquatic mammals move with grace underwater, their specific gravity allows them to sink and literally run along the bottom. When on land, they can also be surprisingly nimble and speedy, but it’s the battles between males where their power is best demonstrated, since these bloody competitions often result in death.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hippopotamus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Hippopotamus_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Hippopotamidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Hippopotamus#name">
+				<rdfs:label>Hippopotamus amphibius</rdfs:label>
+				        <wo:commonName>Hippopotamus</wo:commonName>
+        										<wo:scientificName>amphibiusamphibius</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Hippopotamidae</wo:familyName><wo:genusName>Hippopotamus</wo:genusName><wo:speciesName>amphibius</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hi/hippopotamus/hippopotamus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Hippopotamus#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/hi/hippopotamus/hippopotamus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bxkwj#programme">
+			<dc:title>Ice age safari</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00699l7#programme">
+			<dc:title>Fussy eaters</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00698r9#programme">
+			<dc:title>Hippo safety</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0065m5q#programme">
+			<dc:title>Curious hippos</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lmm2#programme">
+			<dc:title>No way out</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005bs5y#programme">
+			<dc:title>Parental choice</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004p9p2#programme">
+			<dc:title>Leadership challenge</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c5dc#programme">
+			<dc:title>Territory dispute</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c36g#programme">
+			<dc:title>Brute force</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039qd3#programme">
+			<dc:title>Hippos fighting</dc:title>
+			<po:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/h/hi/hippopotamus/nhs150-05.mp3">
+			<dc:title>A bellowing and snorting hippo</dc:title>
+			<dc:subject rdf:resource="/nature/species/Hippopotamus#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hippopotamus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Hippopotamus_amphibius.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/hippopotamus/hippopotamus-amphibius/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/10103">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Artiodactyla/Hippopotamus_amphibius.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/male-hippopotamuses-fighting/10548.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Male and female hippopotamuses are seen fighting to defend their territory and young respectively.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/hippos-in-the-okavango-delta/8947.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>The Okavango Delta in Botswana is the perfect habitat for swamp-loving hippopotamuses.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8070000/8070073.stm">
+			<dc:title>Close encounter with a wild hippo</dc:title>
+			<dc:description>A BBC presenter has had a close encounter with a dangerous wild hippo, which cornered him on a river near Hoedspruit in South Africa.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/4204021.stm">
+			<dc:title>Whale and hippo 'close cousins'</dc:title>
+			<dc:description>A water-loving mammal that lived 50 to 60 million years ago was probably the "missing link" between whales and hippos, according to a new analysis.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/3749351.stm">
+			<dc:title>Hippo's 'magic' sweat explained</dc:title>
+			<dc:description>The really clever thing about hippos is that they produce their own sunscreen, in the form of a sticky reddish sweat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hippopotamus#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Hippopotamus_(genus)#genus"><rdfs:label>Hippopotamus</rdfs:label><wo:species rdf:resource="/nature/life/Hippopotamus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Hippopotamidae#family"><rdfs:label>Hippopotamidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

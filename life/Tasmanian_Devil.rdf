@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Tasmanian_Devil">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Tasmanian_Devil#species">
+				<rdfs:label>Tasmanian devil</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Tasmanian_Devil#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/tasmanian_devil/tasmanian_devil_1.jpg"/>
+
+				<dc:description>Tasmanian devils are the largest carnivorous marsupials. They are restricted to Tasmania, where their population has plummeted by 60% in recent years owing to a deadly epidemic of facial cancer. Haunted by its chilling nocturnal screeches, early European settlers gave the Tasmanian devil its alarming name. Despite its fierce reputation, it has a rather shy, cautious disposition. They emit their blood-curdling shrieks and theatrical growling only when threatened, or in competition with other devils for food.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tasmanian_Devil"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Kleptoparasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tasmanian_Devil.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Sarcophilus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Dasyuridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Tasmanian_Devil#name">
+				<rdfs:label>Sarcophilus harrisii</rdfs:label>
+				        <wo:commonName>Tasmanian devil</wo:commonName>
+        										<wo:scientificName>harrisiiharrisii</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Dasyuromorphia</wo:orderName><wo:familyName>Dasyuridae</wo:familyName><wo:genusName>Sarcophilus</wo:genusName><wo:speciesName>harrisii</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/tasmanian_devil/tasmanian_devil_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ta/tasmanian_devil/tasmanian_devil_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kdg5q#programme">
+			<dc:title>Little devils</dc:title>
+			<po:subject rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kdg4d#programme">
+			<dc:title>Treating tumours</dc:title>
+			<po:subject rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kdg35#programme">
+			<dc:title>Tracking devils</dc:title>
+			<po:subject rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k0kt#programme">
+			<dc:title>Tasmanian wildlife</dc:title>
+			<po:subject rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/ta/tasmanian_devil/nh96z-15.mp3">
+			<dc:title>Tasmanian devils snarling and feeding</dc:title>
+			<dc:subject rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tasmanian_Devil">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Sarcophilus_harrisii.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/tasmanian-devil/sarcophilus-harrisii/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.environment.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=299">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/40540">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tassiedevil.com.au/tasdevil.nsf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.timesonline.co.uk/tol/travel/destinations/australia/article6292888.ece">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-21754620">
+			<dc:title>Tasmanian devil cancer vaccine 'close'</dc:title>
+			<dc:description>Researchers say they are now a step closer to developing a vaccine for a contagious cancer which is driving the Tasmanian devil towards extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15158814">
+			<dc:title>Cull 'no help' to Tasmanian devil</dc:title>
+			<dc:description>Culling does not effectively control the contagious cancer threatening the Tasmanian devil, finds a new study. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-14574296">
+			<dc:title>Little devils face the public</dc:title>
+			<dc:description>Five baby Tasmanian devils have faced the public at Australia Zoo in Queensland. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13909703">
+			<dc:title>Genome plan for Tasmanian devil</dc:title>
+			<dc:description>Scientists sequence the genome of the Tasmanian devil to try to protect the endangered marsupial against a contagious facial cancer.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11150532">
+			<dc:title>Vaccine hope Tasmanian Devil dies from cancer</dc:title>
+			<dc:description>A Tasmanian Devil who experts hoped was immune to a facial cancer that threatens the marsupial species is euthanised after developing tumours. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tasmanian_Devil#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Kleptoparasitism#adaptation">
+					<rdfs:label>Kleptoparasitic</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tasmanian_Devil.gif">
+		<dc:title>Map showing the distribution of the Tasmanian devil species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Sarcophilus#genus"><rdfs:label>Sarcophilus</rdfs:label><wo:species rdf:resource="/nature/life/Tasmanian_Devil#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Dasyuridae#family"><rdfs:label>Dasyuridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Dasyuromorphia#order"><rdfs:label>Dasyuromorphia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

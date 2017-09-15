@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Blesmol">
+		<foaf:primaryTopic rdf:resource="/nature/family/Blesmol#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Blesmol#family">
+				<rdfs:label>Mole rats</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Blesmol#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blesmol/blesmol_1.jpg"/>
+
+				<dc:description>Mole rats are rodents that are highly evolved for a life spent digging elaborate, underground burrow systems. They excavate tunnels with their mouths, using powerful, enlarged incisors. Most mole rats have loose skin covered in sensitive hairs, which allows forward and reverse movement in very tight spaces. Like most fossorial animals their eyesight is poor, however the eye's surface can sense air currents. All 22 species of mole rat currently identified live in sub-Saharan Africa, although as these species are easily separated geographically, new species arise rapidly. The Damaraland mole rat and naked mole rat are the only known eusocial mammals.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Blesmol"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Blesmol#name">
+				<rdfs:label>Bathyergidae</rdfs:label>
+				        <wo:commonName>Mole rats</wo:commonName>
+        								<wo:commonName>African mole-rats</wo:commonName>
+						<wo:commonName>Blesmoles</wo:commonName>
+						<wo:commonName>Blesmols</wo:commonName>
+								<wo:scientificName>Bathyergidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Bathyergidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blesmol/blesmol_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Blesmol#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/blesmol/blesmol_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Blesmol">
+		<foaf:primaryTopic rdf:resource="/nature/family/Blesmol#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Bathyergidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Blesmol#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/8682">
+			<foaf:primaryTopic rdf:resource="/nature/family/Blesmol#family"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label><wo:family rdf:resource="/nature/life/Blesmol#family"/><wo:family rdf:resource="/nature/life/Castoridae#family"/><wo:family rdf:resource="/nature/life/Caviidae#family"/><wo:family rdf:resource="/nature/life/Muridae#family"/><wo:family rdf:resource="/nature/life/Dormouse#family"/><wo:family rdf:resource="/nature/life/Sciuridae#family"/><wo:family rdf:resource="/nature/life/Cricetidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Damaraland_Mole_Rat#family"><rdfs:label>Damaraland mole rat</rdfs:label><wo:family rdf:resource="/nature/life/Blesmol#family"/></wo:Species><wo:Species rdf:about="/nature/life/Naked_mole_rat#family"><rdfs:label>Naked mole rat</rdfs:label><wo:family rdf:resource="/nature/life/Blesmol#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

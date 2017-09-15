@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Brown_long-eared_bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Brown_long-eared_bat#species">
+				<rdfs:label>Brown long-eared bat</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Brown_long-eared_bat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brown_long-eared_bat/brown_long-eared_bat_1.jpg"/>
+
+				<dc:description>Brown long-eared bats, as their name suggests, have strikingly large ears. These large appendages are three quarters the length of the bat's head and body. When resting, the bats fold their ears and hold them backwards. They have a slow and fluttering flight, often close to the ground, which makes them vulnerable to predation from domestic cats. In the summer, they roost in tree holes, bat and bird boxes and attics. In the winter, they hibernate in cellars, tunnels and caves, usually alone. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Brown_long-eared_bat"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Plecotus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Vesper_bat#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Bat#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Brown_long-eared_bat#name">
+				<rdfs:label>Plecotus auritus</rdfs:label>
+				        <wo:commonName>Brown long-eared bat</wo:commonName>
+        								<wo:commonName>Brown big-eared bat</wo:commonName>
+						<wo:commonName>Common long-eared bat</wo:commonName>
+								<wo:scientificName>auritusauritus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Chiroptera</wo:orderName><wo:familyName>Vespertilionidae</wo:familyName><wo:genusName>Plecotus</wo:genusName><wo:speciesName>auritus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brown_long-eared_bat/brown_long-eared_bat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/br/brown_long-eared_bat/brown_long-eared_bat_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087l4r#programme">
+			<dc:title>Belfry bats</dc:title>
+			<po:subject rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081fth#programme">
+			<dc:title>Bat facts</dc:title>
+			<po:subject rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Brown_long-eared_bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Plecotus_auritus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/brown-long-eared-bat/plecotus-auritus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bio.bris.ac.uk/research/bats/britishbats/batpages/brownlongeared.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.jwaller.co.uk/batgroup/brown_longeared.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/search.php?name=&amp;pl=5&amp;adv=1&amp;ot=&amp;r=0&amp;g=42202&amp;p=1&amp;o=89">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_long-eared_bat#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Plecotus#genus"><rdfs:label>Plecotus</rdfs:label><wo:species rdf:resource="/nature/life/Brown_long-eared_bat#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Vesper_bat#family"><rdfs:label>Vespertilionidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Bat#order"><rdfs:label>Chiroptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

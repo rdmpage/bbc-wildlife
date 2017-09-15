@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Skylark">
+		<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Skylark#species">
+				<rdfs:label>Skylark</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Skylark#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sk/skylark/skylark_1.jpg"/>
+
+				<dc:description>Skylarks are the very voice of the UK spring. They have a beautiful song that radiates through the air as the bird itself hangs suspended somewhere overhead. This aerial, territorial display can last up to five minutes while the male reaches the pinnacle of its flight before slowly descending. The skylark's breeding range covers all of Europe and the temperate zone of Asia. Skylarks have declined by more than 50% over the last quarter of a century, as a result of increased intensive farming methods.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Skylark"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Alauda#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Lark#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Skylark#name">
+				<rdfs:label>Alauda arvensis</rdfs:label>
+				        <wo:commonName>Skylark</wo:commonName>
+        								<wo:commonName>Eurasian skylark</wo:commonName>
+								<wo:scientificName>arvensisarvensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Alaudidae</wo:familyName><wo:genusName>Alauda</wo:genusName><wo:speciesName>arvensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sk/skylark/skylark_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Skylark#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sk/skylark/skylark_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hwlqq#programme">
+			<dc:title>Skylarks sing at Royal St George</dc:title>
+			<po:subject rdf:resource="/nature/species/Skylark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fp0s4#programme">
+			<dc:title>Lark song</dc:title>
+			<po:subject rdf:resource="/nature/species/Skylark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fdmq1#programme">
+			<dc:title>Sky diver</dc:title>
+			<po:subject rdf:resource="/nature/species/Skylark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00887sk#programme">
+			<dc:title>Sounds like skylarks </dc:title>
+			<po:subject rdf:resource="/nature/species/Skylark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zk2f#programme">
+			<dc:title>Plotting for skylarks</dc:title>
+			<po:subject rdf:resource="/nature/species/Skylark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yf9c#programme">
+			<dc:title>Lazy afternoon</dc:title>
+			<po:subject rdf:resource="/nature/species/Skylark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xr4d#programme">
+			<dc:title>Idyllic countryside</dc:title>
+			<po:subject rdf:resource="/nature/species/Skylark#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/sk/skylark/5052229.mp3">
+			<dc:title>Song-flight of the skylark</dc:title>
+			<dc:subject rdf:resource="/nature/species/Skylark#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Skylark">
+		<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Alauda_arvensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob9760.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/skylark/alauda-arvensis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/webzine/article.asp?a=673">
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/skylark.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/ourwork/conservation/species/casestudies/skylark.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-kent-13721361">
+			<dc:title>Springwatch: Fairway to wildlife</dc:title>
+			<dc:description>Cameraman Richard Taylor-Jones went to Royal St George's to see if sport and nature can exist side by side.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/south_west/4795799.stm">
+			<dc:title>Airfield provides skylark's haven</dc:title>
+			<dc:description>A former military airfield is proving a haven for the skylark, whose numbers are in decline across much of Europe.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/8093917.stm">
+			<dc:title>Learning to spot the tiny skylark</dc:title>
+			<dc:description>An expert on skylarks, renowned for their song, has been giving tips on how to spot the bird which is tiny and flies high.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Skylark#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Alauda#genus"><rdfs:label>Alauda</rdfs:label><wo:species rdf:resource="/nature/life/Skylark#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Lark#family"><rdfs:label>Alaudidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

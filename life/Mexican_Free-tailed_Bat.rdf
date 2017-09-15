@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Mexican_Free-tailed_Bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Mexican_Free-tailed_Bat#species">
+				<rdfs:label>Mexican free-tailed bat</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Mexican_Free-tailed_Bat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/me/mexican_free-tailed_bat/mexican_free-tailed_bat_1.jpg"/>
+
+				<dc:description>Mexican free-tailed bats form some of the largest congregations of mammals on the planet. One cave in Texas is estimated to contain 20 million individuals. These large colonies consume an enormous number of insects every night, many of which are agricultural pests. Mexican free-tailed bats forage for food for longer and go further afield than other bats, travelling at around 80kph (50mph) when flying over open ground.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mexican_Free-tailed_Bat"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Halotolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Bat#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Mexican_Free-tailed_Bat#name">
+				<rdfs:label>Tadarida brasiliensis</rdfs:label>
+				        <wo:commonName>Mexican free-tailed bat</wo:commonName>
+        								<wo:commonName>Brazilian free-tailed bat</wo:commonName>
+								<wo:scientificName>brasiliensisbrasiliensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Chiroptera</wo:orderName><wo:familyName>Molossidae</wo:familyName><wo:genusName>Tadarida</wo:genusName><wo:speciesName>brasiliensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/me/mexican_free-tailed_bat/mexican_free-tailed_bat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/me/mexican_free-tailed_bat/mexican_free-tailed_bat_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006rxyr#programme">
+			<dc:title>Bat exodus</dc:title>
+			<po:subject rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006rxyc#programme">
+			<dc:title>Deadly cave</dc:title>
+			<po:subject rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ffwv#programme">
+			<dc:title>Bat cave</dc:title>
+			<po:subject rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/mexican_free-tailed_bat/5009017.mp3">
+			<dc:title>Thousands of free tailed bats flying out of a cave</dc:title>
+			<dc:subject rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mexican_Free-tailed_Bat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Tadarida_brasiliensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Tadarida_brasiliensis_mexicana/whole/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/brazilian-free-tailed-bat/tadarida-brasiliensis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.batcon.org/index.php/all-about-bats/species-profiles.html?task=detail&amp;species=1738&amp;country=43&amp;state=all&amp;family=all&amp;start=25">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nature.org/wherewework/northamerica/states/texas/animals/art25118.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8291483.stm">
+			<dc:title>Are bat bridges better than bat caves? </dc:title>
+			<dc:description>Concrete bridges could make better roosts for Brazilian free-tailed bats than natural caves, according to research. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8291195.stm">
+			<dc:title>Bats set up homes on the highway</dc:title>
+			<dc:description>Concrete bridges could make better roosts for certain species of bat than natural caves, according to research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Mexican_Free-tailed_Bat#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Halotolerance#adaptation">
+					<rdfs:label>Chemical tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Tadarida</rdfs:label><wo:species rdf:resource="/nature/life/Mexican_Free-tailed_Bat#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Molossidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Bat#order"><rdfs:label>Chiroptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

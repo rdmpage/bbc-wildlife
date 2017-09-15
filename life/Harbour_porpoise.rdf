@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Harbour_porpoise">
+		<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Harbour_porpoise#species">
+				<rdfs:label>Harbour porpoise</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Harbour_porpoise#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/harbour_porpoise/harbour_porpoise_1.jpg"/>
+
+				<dc:description>Harbour porpoises are the smallest and most common cetaceans in European waters. They are also one of the shortest lived, rarely surviving beyond 12 years of age. Harbour porpoises favour the shallow waters of coasts and estuaries and it is not uncommon for them to travel a considerable distance up river. Being social by nature, these porpoises travel and patrol for fish in small schools of around 12 individuals. Although they don't ever clear the water, they do break the surface in a smooth black arc, often making a loud noise as they blow.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Harbour_porpoise"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Harbour_porpoise.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Phocoena#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Porpoise#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Harbour_porpoise#name">
+				<rdfs:label>Phocoena phocoena</rdfs:label>
+				        <wo:commonName>Harbour porpoise</wo:commonName>
+        								<wo:commonName>Common porpoise</wo:commonName>
+						<wo:commonName>Harbor porpoise</wo:commonName>
+						<wo:commonName>Puffing pigs</wo:commonName>
+								<wo:scientificName>phocoenaphocoena</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Phocoenidae</wo:familyName><wo:genusName>Phocoena</wo:genusName><wo:speciesName>phocoena</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/harbour_porpoise/harbour_porpoise_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ha/harbour_porpoise/harbour_porpoise_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Harbour_porpoise">
+		<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Phocoena_phocoena.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://wildwhales.org/?page_id=47">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.acsonline.org/factpack/HarborPorpoise.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/harbour-porpoise/phocoena-phocoena/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cms.int/reports/small_cetaceans/data/P_phocoena/p_phocoena.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/nature-online/species-of-the-day/biodiversity/endangered-species/phocoena-phocoena/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/10680.file">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, Evolution and Environment</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6244521.stm">
+			<dc:title>Climate food threat to porpoises</dc:title>
+			<dc:description>Climate change is disturbing the food supply of the harbour porpoise, one of Britain's sea mammals, research shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbour_porpoise#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Harbour_porpoise.gif">
+		<dc:title>Map showing the distribution of the Harbour porpoise species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Phocoena#genus"><rdfs:label>Phocoena</rdfs:label><wo:species rdf:resource="/nature/life/Harbour_porpoise#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Porpoise#family"><rdfs:label>Phocoenidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

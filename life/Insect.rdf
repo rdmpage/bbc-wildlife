@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Insect">
+		<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Insect#class">
+				<rdfs:label>Insects</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Insect#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/i/in/insect/insect_1.jpg"/>
+
+				<dc:description>The insects are one of the most successful types of living organism, with roughly half of all species on Earth being insects. Insects are part of the Arthropod phylum, and as such have an external skeleton and jointed limbs. All insects have six legs, and are the only type of invertebrate which has evolved the ability to fly.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Insect"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Insect.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Insect#name">
+				<rdfs:label>Insecta</rdfs:label>
+				        <wo:commonName>Insects</wo:commonName>
+        										<wo:scientificName>Insecta</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/i/in/insect/insect_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Insect#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/i/in/insect/insect_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00tt546#programme">
+			<dc:title>Thermal cameras expose secrets of insect flight</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kxc14#programme">
+			<dc:title>Tiny survivors</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fc6c4#programme">
+			<dc:title>Island surprise</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f29b7#programme">
+			<dc:title>Flight path</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqcsm#programme">
+			<dc:title>Chan's megastick</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cdlwq#programme">
+			<dc:title>Hidden bugs</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bnbry#programme">
+			<dc:title>Age of insects</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089xws#programme">
+			<dc:title>Insects in detail</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0053k49#programme">
+			<dc:title>Global force</dc:title>
+			<po:subject rdf:resource="/nature/class/Insect#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Insect">
+		<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="I">
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="I">
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21712920">
+			<dc:title>From Beyonce to Electra: What inspires insect names?</dc:title>
+			<dc:description>Entomologists are coming up with ever more imaginative names to meet the demand for naming new insects. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-21458463">
+			<dc:title>The bug-hunters finding new species in their spare time</dc:title>
+			<dc:description>Everyone knows there are lots of species yet to be discovered in rainforests and remote parts of the world. But hundreds are being discovered every year in Europe too - most of them by amateurs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18073074">
+			<dc:title>Amber preserves pollen carriers</dc:title>
+			<dc:description>What may be the earliest direct example of insect pollination of plants has been identified by scientists in 100-million-year-old amber blocks from Spain.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-nottinghamshire-15017816">
+			<dc:title>In pictures: 10,000 ceramic bugs</dc:title>
+			<dc:description>A Nottinghamshire artist makes 10,000 insects for her first solo show.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-suffolk-14677498">
+			<dc:title>Landlord banned over mouldy food</dc:title>
+			<dc:description>A Suffolk pub landlord is banned from working at food premises after council inspectors discovered one of the worst food hygiene breaches they had ever seen.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-somerset-13353836">
+			<dc:title>Insect fossil discovery at museum</dc:title>
+			<dc:description>Hundreds of insect fossils dating to the Jurassic period are found at the Museum of Somerset after being forgotten for more than 90 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11628322">
+			<dc:title>Assassin bug mimics spider prey</dc:title>
+			<dc:description>Scientists have described how a species of insect, known as assassin bugs, lures spiders by mimicking prey caught in webs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11618809">
+			<dc:title>Amber yields ancient bug haul</dc:title>
+			<dc:description>More than 700 new species of ancient insects, preserved in 50-million-year-old amber, were found in India.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9067000/9067721.stm">
+			<dc:title>Wind turbines 'lure in' animals</dc:title>
+			<dc:description>Wind turbines attract insects, which may explain why their blades strike and kill significant numbers of insect-eating bats and birds. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11496710">
+			<dc:title>GM profit boost to non-GM crops</dc:title>
+			<dc:description>Pest control by genetically-modified crops can raise yields and profits from non-GM varieties grown nearby, a study from the US suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8500619.stm">
+			<dc:title>Insects migrate in wind highways</dc:title>
+			<dc:description>Migrating insects use highways in the sky to speed their journey, according to a study published in Science magazine.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8241000/8241536.stm">
+			<dc:title>In Pictures: Weird crater creatures</dc:title>
+			<dc:description>Stunning photographs of unusual and unknown invertebrates discovered in a 'lost volcano' in Papua New Guinea</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Insect#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Insect.gif">
+		<dc:title>Map showing the distribution of the Insects class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/><wo:class rdf:resource="/nature/life/Arachnid#class"/><wo:class rdf:resource="/nature/life/Malacostraca#class"/><wo:class rdf:resource="/nature/life/Millipede#class"/><wo:class rdf:resource="/nature/life/Maxillopoda#class"/><wo:class rdf:resource="/nature/life/Merostomata#class"/><wo:class rdf:resource="/nature/life/Trilobite#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Lepidoptera#class"><rdfs:label>Butterflies and moths</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Beetle#class"><rdfs:label>Beetles</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Fly#class"><rdfs:label>Flies</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Odonata#class"><rdfs:label>Damselflies and dragonflies</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Hymenoptera#class"><rdfs:label>Ants, bees and wasps</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Cockroach#class"><rdfs:label>Cockroaches</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Hemiptera#class"><rdfs:label>True bugs</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Orthoptera#class"><rdfs:label>Grasshoppers and crickets</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Mantis#class"><rdfs:label>Praying mantis</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Termite#class"><rdfs:label>Termites</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Neuroptera#class"><rdfs:label>Net-winged insects</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Order rdf:about="/nature/life/Phasmatodea#class"><rdfs:label>Stick insects</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Order><wo:Species rdf:about="/nature/life/Tisza_Mayfly#class"><rdfs:label>Tisza mayfly</rdfs:label><wo:class rdf:resource="/nature/life/Insect#class"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

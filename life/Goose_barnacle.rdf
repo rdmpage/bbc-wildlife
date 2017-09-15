@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Goose_barnacle">
+		<foaf:primaryTopic rdf:resource="/nature/order/Goose_barnacle#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Goose_barnacle#order">
+				<rdfs:label>Goose barnacles</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Goose_barnacle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/go/goose_barnacle/goose_barnacle_1.jpg"/>
+
+				<dc:description>Goose barnacles are odd-looking crustaceans usually found in quite deep water. Occasionally they can be found on debris that has become dislodged from the sea bed and washed up on the shore. They are found in oceans the world over, except in Arctic regions. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Goose_barnacle"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Goose_barnacle.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Maxillopoda#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Goose_barnacle#name">
+				<rdfs:label>Pedunculata</rdfs:label>
+				        <wo:commonName>Goose barnacles</wo:commonName>
+        								<wo:commonName>Pedunculate barnacles</wo:commonName>
+						<wo:commonName>Stalked barnacles</wo:commonName>
+								<wo:scientificName>Pedunculata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Maxillopoda</wo:className><wo:orderName>Pedunculata</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/go/goose_barnacle/goose_barnacle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Goose_barnacle#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/go/goose_barnacle/goose_barnacle_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fc0g4#programme">
+			<dc:title>Goose or barnacle?</dc:title>
+			<po:subject rdf:resource="/nature/order/Goose_barnacle#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00d3xyf#programme">
+			<dc:title>Extreme coastal foraging</dc:title>
+			<po:subject rdf:resource="/nature/order/Goose_barnacle#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zg89#programme">
+			<dc:title>Beached barnacles</dc:title>
+			<po:subject rdf:resource="/nature/order/Goose_barnacle#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Goose_barnacle">
+		<foaf:primaryTopic rdf:resource="/nature/order/Goose_barnacle#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bluereefaquarium.co.uk/news-from-portsmouth/goose-barnacles.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Goose_barnacle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pznow.co.uk/marine/barnacles.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Goose_barnacle#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8426000/8426208.stm">
+			<dc:title>Barnacles become toxic to repel hungry predators</dc:title>
+			<dc:description>One species of a rare, ancient barnacle has extraordinarily high levels of a toxic chemical in its body, scientists have discovered.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Goose_barnacle#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Goose_barnacle.gif">
+		<dc:title>Map showing the distribution of the Goose barnacles order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Maxillopoda#class"><rdfs:label>Maxillopoda</rdfs:label><wo:order rdf:resource="/nature/life/Goose_barnacle#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

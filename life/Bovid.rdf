@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Bovid">
+		<foaf:primaryTopic rdf:resource="/nature/family/Bovid#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Bovid#family">
+				<rdfs:label>Cattle family</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Bovid#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bovid/bovid_1.jpg"/>
+
+				<dc:description>Bovidae is the mammal family that contains all the cattle, goats, sheep, antelopes and gazelles. All male bovines have horns, though some hornless domestic cattle have been bred by man. In some species the females also have horns.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bovid"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Bovid#name">
+				<rdfs:label>Bovidae</rdfs:label>
+				        <wo:commonName>Cattle family</wo:commonName>
+        								<wo:commonName>Bovids</wo:commonName>
+						<wo:commonName>Bovines</wo:commonName>
+								<wo:scientificName>Bovidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Bovidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bovid/bovid_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Bovid#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bo/bovid/bovid_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bovid">
+		<foaf:primaryTopic rdf:resource="/nature/family/Bovid#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Bovidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bovid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7687">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bovid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhc.ed.ac.uk/index.php?page=493.170.276.278#bovidae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bovid#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Cetartiodactyla/Bovidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bovid#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8355000/8355177.stm">
+			<dc:title>Baby ibex's epic struggle to live</dc:title>
+			<dc:description>Amazing footage of a baby ibex's perilous escape from a fox is captured on film by a BBC natural history cameraman.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Bovid#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/><wo:family rdf:resource="/nature/life/Antilocapridae#family"/><wo:family rdf:resource="/nature/life/Camelid#family"/><wo:family rdf:resource="/nature/life/Deer#family"/><wo:family rdf:resource="/nature/life/Giraffidae#family"/><wo:family rdf:resource="/nature/life/Hippopotamidae#family"/><wo:family rdf:resource="/nature/life/Suidae#family"/><wo:family rdf:resource="/nature/life/Entelodont#family"/></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Springbok_(antelope)#family"><rdfs:label>Springbok</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Blackbuck#family"><rdfs:label>Blackbuck</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/American_Bison#family"><rdfs:label>American bison</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Aurochs#family"><rdfs:label>Cattle and aurochs</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Water_Buffalo#family"><rdfs:label>Water buffalo</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Capra_(genus)#family"><rdfs:label>Ibex and goats</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Blue_Wildebeest#family"><rdfs:label>Blue wildebeest</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Topi#family"><rdfs:label>Topi</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Muskox#family"><rdfs:label>Musk ox</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Ovis#family"><rdfs:label>Sheep</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Mongolian_gazelle#family"><rdfs:label>Mongolian gazelle</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Bharal#family"><rdfs:label>Bharal</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Saiga_Antelope#family"><rdfs:label>Saiga</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/African_Buffalo#family"><rdfs:label>African buffalo</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Bongo_(antelope)#family"><rdfs:label>Bongo</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Thomson's_Gazelle#family"><rdfs:label>Thomson's gazelle</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species><wo:Species rdf:about="/nature/life/Grant's_gazelle#family"><rdfs:label>Grant's gazelle</rdfs:label><wo:family rdf:resource="/nature/life/Bovid#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

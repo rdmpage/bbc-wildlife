@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/suborder/Snake">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		<rdfs:seeAlso rdf:resource="/nature/suborder"/>
+	</rdf:Description>
+
+		<wo:Suborder rdf:about="/nature/life/Snake#suborder">
+				<rdfs:label>Snakes</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/suborder/Snake#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>Snakes loom large in the human imagination, from the venomous cobras to the boas and pythons that squeeze their prey to death and swallow it whole. In the UK only the adder is venomous, but elsewhere - such as in Australia - are concentrations of some of the planet's most toxic snakes. Snakes are venomous rather than poisonous as they actively deliver toxins, usually through a bite. Explore below to find video of David Attenborough's close encounter with a spitting cobra and watch sea kraits as they defy the image of snakes as single-minded individualists to go hunting in a group.
+<br/>
+<br/>
+<b>Did you know?</b><br/> The largest snake ever discovered was a Titano boa, it lived 60 million years ago and would have measured 15m (50ft). 
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Snake"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Suborder>
+
+			<wo:TaxonName rdf:about="/nature/suborder/Snake#name">
+				<rdfs:label>Serpentes</rdfs:label>
+				        <wo:commonName>Snakes</wo:commonName>
+        										<wo:scientificName>Serpentes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/suborder/Snake#suborder"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b3mh#programme">
+			<dc:title>Snake evolution</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Snake#suborder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hfyj#programme">
+			<dc:title>Snake tactics</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Snake#suborder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038t09#programme">
+			<dc:title>Sea krait hunt</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Snake#suborder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0037nrh#programme">
+			<dc:title>Bat-catching snakes</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Snake#suborder"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Snake">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Serpentes.html">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://arachnophiliac.info/burrow/evolution_of_snakes.htm">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://thewildclassroom.com/biodiversity/snakes/main/snakevenom.html">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/animal-info/animal-bytes/animalia/eumetazoa/coelomates/deuterostomes/chordata/craniata/reptilia/squamata/snakes.htm">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildlifesos.org/rescue/reptiles/snake-facts-myths">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-25943693">
+			<dc:title>Scientists reveal how snakes fly</dc:title>
+			<dc:description>The mystery of how flying snakes stay aloft may have been solved by scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-19634621">
+			<dc:title>Snake venom may be 'drug source'</dc:title>
+			<dc:description>Venomous snakes may be a good place to look for new drugs for a range of human diseases, researchers in Liverpool say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18998634">
+			<dc:title>'Land not sea' origin for snakes</dc:title>
+			<dc:description>One of the most primitive snake fossils ever found hints that the slithery reptiles might have originated on land, not in the sea.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-17544885">
+			<dc:title>The giant snake that stalked the Earth</dc:title>
+			<dc:description>Newly discovered fossils unearthed in Colombia have revealed that a giant snake - now named titanoboa - roamed the earth 58 million years ago.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-bristol-15073514">
+			<dc:title>Robotic snake made by engineers</dc:title>
+			<dc:description>A robotic snake created by a team of Bristol engineers could be used to access locations such as the inside of a nuclear reactor.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-lancashire-14444745">
+			<dc:title>Trapped python rescued from chair</dc:title>
+			<dc:description>Fire crews rescue a 3ft python snake trapped inside an office chair in Morecambe.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-suffolk-13971779">
+			<dc:title>'Hungry' boa constrictor on loose</dc:title>
+			<dc:description>Children and pets are warned to stay indoors after a "hungry" and "unfriendly" snake escaped from a house in Ipswich.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12393387">
+			<dc:title>Studying how snakes got legless</dc:title>
+			<dc:description>A 95-million-year-old fossil snake is helping scientists understand how these creatures lost their legs through the course of evolutionary time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9401000/9401974.stm">
+			<dc:title>Deadly bite</dc:title>
+			<dc:description>New research suggests that the problem of snakes accidentally biting people is worse than previously thought.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/cbbcnews/hi/newsid_9080000/newsid_9083000/9083044.stm">
+			<dc:title>Snakes slither into Delhi games</dc:title>
+			<dc:description>Some poisonous snakes have slithered in to the venues at the Commonwealth Games</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-south-east-wales-11101266">
+			<dc:title>Shopper takes snake to Tesco store in Newport</dc:title>
+			<dc:description>A shopper is escorted from a Tesco store after other customers complain that he had a live snake wrapped around his arm.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-11520328">
+			<dc:title>Snakes move into Commonwealth village</dc:title>
+			<dc:description>Snakes are causing a stir in at the Commonwealth Games after the reptiles, including venomous cobras, were found around the athletes' village.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-northern-ireland-politics-11206944">
+			<dc:title>40 snakes and lizards are stolen</dc:title>
+			<dc:description>More than 40 snakes and lizards have been stolen during a burglary of a shop in north Belfast.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-11271877">
+			<dc:title>Man recounts poisonous snake bid</dc:title>
+			<dc:description>A Sussex carpenter who spent more than 100 days in a room full of some of the world's most venomous snakes has returned back home. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11203270">
+			<dc:title>Jail for Malaysian snake smuggler</dc:title>
+			<dc:description>Malaysian wildlife trafficker Anson Wong, nicknamed the "Lizard King", is jailed for trying to smuggle 95 boa constrictors in his luggage.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Snake#suborder"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label><wo:suborder rdf:resource="/nature/life/Snake#suborder"/><wo:suborder rdf:resource="/nature/life/Lizard#suborder"/></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Boidae#suborder"><rdfs:label>Boas and pythons</rdfs:label><wo:suborder rdf:resource="/nature/life/Snake#suborder"/></wo:Family><wo:Family rdf:about="/nature/life/Colubrid#suborder"><rdfs:label>Colubrid snakes</rdfs:label><wo:suborder rdf:resource="/nature/life/Snake#suborder"/></wo:Family><wo:Family rdf:about="/nature/life/Elapidae#suborder"><rdfs:label>Cobras, kraits and coral snakes</rdfs:label><wo:suborder rdf:resource="/nature/life/Snake#suborder"/></wo:Family><wo:Genus rdf:about="/nature/life/Laticauda#suborder"><rdfs:label>Sea kraits</rdfs:label><wo:suborder rdf:resource="/nature/life/Snake#suborder"/></wo:Genus><wo:Family rdf:about="/nature/life/Viperidae#suborder"><rdfs:label>Vipers</rdfs:label><wo:suborder rdf:resource="/nature/life/Snake#suborder"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

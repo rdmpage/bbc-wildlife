@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/European_Robin">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/European_Robin#species">
+				<rdfs:label>Robin</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/European_Robin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_robin/european_robin_1.jpg"/>
+
+				<dc:description>Robins are one of the only UK birds to be heard singing in the garden on Christmas day. This is because they hold their <a href="http://www.bbc.co.uk/nature/adaptations/Territory_%28animal%29">territories</a> all year round, warning off intruders with <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_%28sense%29">song</a>. Males may hold the same territory throughout their lives, and will even attack a bundle of red feathers or their own reflection if they mistake it for another individual.
+<br />
+<br />
+Their melodious voices, along with their cheeky attitudes, have endeared robin red breasts to the British public, and in 1960 they were crowned the UK's national bird.
+<br />
+<br />
+<b>Did you know?</b><br/>The characteristic image of a robin on a spade handle is a consequence of their territorial instinct. The male quite simply seeks a favourable lookout post!</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/European_Robin"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Erithacus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/European_Robin#name">
+				<rdfs:label>Erithacus rubecula</rdfs:label>
+				        <wo:commonName>Robin</wo:commonName>
+        								<wo:commonName>European robin</wo:commonName>
+								<wo:scientificName>rubecularubecula</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Muscicapidae</wo:familyName><wo:genusName>Erithacus</wo:genusName><wo:speciesName>rubecula</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_robin/european_robin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/European_Robin#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/european_robin/european_robin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hxymk#programme">
+			<dc:title>Molehill meals</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Robin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fndy9#programme">
+			<dc:title>Painted warrior</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Robin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fn8yk#programme">
+			<dc:title>Robin red-breast</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Robin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c4m9m#programme">
+			<dc:title>Garden robins</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Robin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yg80#programme">
+			<dc:title>Rockin' robins</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Robin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003bb67#programme">
+			<dc:title>City robins night chorus</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Robin#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/european_robin/nhs737-03.mp3">
+			<dc:title>Robin spring song</dc:title>
+			<dc:subject rdf:resource="/nature/species/European_Robin#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/European_Robin">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Erithacus_rubecula.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob10990.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/robin/erithacus-rubecula/">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/robin.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/r/robin/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9441000/9441321.stm">
+			<dc:title>British birds are bouncing back</dc:title>
+			<dc:description>A national survey by the RSPB records a rise in the populations of small birds, including long-tailed tits, goldcrests and coal tits.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9233000/9233865.stm">
+			<dc:title>Harsh winter hit resident birds</dc:title>
+			<dc:description>Resident British birds struggled in the previous harsh winter, while migrating birds benefited from leaving the country, according to the British Trust for Ornithology.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Robin#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Erithacus#genus"><rdfs:label>Erithacus</rdfs:label><wo:species rdf:resource="/nature/life/European_Robin#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Old_World_flycatcher#family"><rdfs:label>Muscicapidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

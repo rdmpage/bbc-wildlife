@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Hemiptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Hemiptera#order">
+				<rdfs:label>True bugs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Hemiptera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/hemiptera/hemiptera_1.jpg"/>
+
+				<dc:description>The term bug is often used used to describe insects, spiders, centipedes and a whole range of other arthropods, but true bugs or Hemiptera actually only includes things like aphids and shield bugs. True bugs all have very unusual mouthparts. The mandibles have evolved into a spiky proboscus for sucking up liquids, usually plant sap or sometimes even blood. Some of the best known species, such as aphids, are significant pests of crops and gardens, while bed bugs are common human parasite. Most of the 75,000 species, however are not even noticed, and can even be benificial, like the damsel bug helping to keep the levels of some garden pests down. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hemiptera"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Hemiptera.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Hemiptera#name">
+				<rdfs:label>Hemiptera</rdfs:label>
+				        <wo:commonName>True bugs</wo:commonName>
+        										<wo:scientificName>Hemiptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hemiptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/hemiptera/hemiptera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Hemiptera#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/he/hemiptera/hemiptera_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hemiptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Hemiptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.britishbugs.org.uk/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kendalluk.com/hemip.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/resources-rx/files/26feat_its_a_bugs_life-3013.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18781430">
+			<dc:title>Bed bugs may be tracked using DNA</dc:title>
+			<dc:description>Scientists use DNA fingerprinting techniques to trace the origins of the global bed bug boom. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17939390">
+			<dc:title>Pond bugs hooked in sex struggle</dc:title>
+			<dc:description>Pond skater males have evolved elaborate antennae due to sexual struggles with females, say researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Hemiptera#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Hemiptera.gif">
+		<dc:title>Map showing the distribution of the True bugs order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Magicicada#order"><rdfs:label>Periodical cicadas</rdfs:label><wo:order rdf:resource="/nature/life/Hemiptera#order"/></wo:Genus><wo:Family rdf:about="/nature/life/Aphididae#order"><rdfs:label>Aphids</rdfs:label><wo:order rdf:resource="/nature/life/Hemiptera#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

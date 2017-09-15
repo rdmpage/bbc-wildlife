@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Northern_Lapwing">
+		<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Northern_Lapwing#species">
+				<rdfs:label>Lapwing</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Northern_Lapwing#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/northern_lapwing/northern_lapwing_1.jpg"/>
+
+				<dc:description>Lapwings are known locally in the UK as 'peewits' after their shrill <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_%28sense%29">call</a>. Their call is not the only distinctive feature - they also have a very characteristic <a href="http://www.bbc.co.uk/nature/adaptations/Flight">flight</a> pattern.
+<br />
+<br />
+The common name 'lapwing' is thought to come from the Old English word 'hleapewince' which means leaping with a wink in it. Dense <a href="http://www.bbc.co.uk/nature/adaptations/Presociality">flocks</a> of this once common <a href="http://www.bbc.co.uk/nature/habitats/Arable_land">farmland</a> wading bird still make an impressive sight with their iridescent green and purple plumage shimmering in the sunlight.
+<br />
+<br />
+Lapwing chicks are renowned for being able to run only moments after hatching.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Northern_Lapwing"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Vanellus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Charadriidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Charadriiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Northern_Lapwing#name">
+				<rdfs:label>Vanellus vanellus</rdfs:label>
+				        <wo:commonName>Lapwing</wo:commonName>
+        								<wo:commonName>Green plover</wo:commonName>
+						<wo:commonName>Northern lapwing</wo:commonName>
+						<wo:commonName>Peewit</wo:commonName>
+								<wo:scientificName>vanellusvanellus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Charadriiformes</wo:orderName><wo:familyName>Charadriidae</wo:familyName><wo:genusName>Vanellus</wo:genusName><wo:speciesName>vanellus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/northern_lapwing/northern_lapwing_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/no/northern_lapwing/northern_lapwing_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cbvxv#programme">
+			<dc:title>State of the nation</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085t59#programme">
+			<dc:title>Sentinels</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081ffr#programme">
+			<dc:title>Field life</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zk2x#programme">
+			<dc:title>In harmony</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/n/no/northern_lapwing/5012040.mp3">
+			<dc:title>Flight calls of a lapwing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Northern_Lapwing">
+		<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Vanellus_vanellus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/lapwing/vanellus-vanellus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=056001">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/lapwing.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/ourwork/conservation/species/casestudies/lapwing.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/l/lapwing/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Lapwing#species"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Vanellus#genus"><rdfs:label>Vanellus</rdfs:label><wo:species rdf:resource="/nature/life/Northern_Lapwing#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Charadriidae#family"><rdfs:label>Charadriidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Charadriiformes#order"><rdfs:label>Charadriiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Procyonidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Procyonidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Procyonidae#family">
+				<rdfs:label>Raccoon and coati family</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Procyonidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pr/procyonidae/procyonidae_1.jpg"/>
+
+				<dc:description>The raccoon and coati family has 18 species in it. Alongside the raccoons and coatis there are also the kinkajous, olingos, ringtails and cacomistles. They are all omnivores and only found in the Americas.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Procyonidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Procyonidae#name">
+				<rdfs:label>Procyonidae</rdfs:label>
+				        <wo:commonName>Raccoon and coati family</wo:commonName>
+        										<wo:scientificName>Procyonidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Procyonidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pr/procyonidae/procyonidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Procyonidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pr/procyonidae/procyonidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Procyonidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Procyonidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Procyonidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Procyonidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7665">
+			<foaf:primaryTopic rdf:resource="/nature/family/Procyonidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhc.ed.ac.uk/index.php?page=493.172.290">
+			<foaf:primaryTopic rdf:resource="/nature/family/Procyonidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label><wo:family rdf:resource="/nature/life/Procyonidae#family"/><wo:family rdf:resource="/nature/life/Canidae#family"/><wo:family rdf:resource="/nature/life/Felidae#family"/><wo:family rdf:resource="/nature/life/Mongoose#family"/><wo:family rdf:resource="/nature/life/Hyena#family"/><wo:family rdf:resource="/nature/life/Mustelidae#family"/><wo:family rdf:resource="/nature/life/Bear#family"/><wo:family rdf:resource="/nature/life/Ailuridae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Eupleridae#family"/><wo:family rdf:resource="/nature/life/Bear_dog#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Nasua#family"><rdfs:label>Coatis</rdfs:label><wo:family rdf:resource="/nature/life/Procyonidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Raccoon#family"><rdfs:label>Raccoon</rdfs:label><wo:family rdf:resource="/nature/life/Procyonidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

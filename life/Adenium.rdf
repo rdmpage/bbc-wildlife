@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Adenium">
+		<foaf:primaryTopic rdf:resource="/nature/species/Adenium#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Adenium#species">
+				<rdfs:label>Desert rose</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Adenium#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ad/adenium/adenium_1.jpg"/>
+
+				<dc:description>Desert roses are colourful flowering plants native to the dry climates of sub-Saharan Africa and the Arabian penisula. The stem and root swells up to store water from the summer rains for the long dry winter ahead. Desert rose species, and a handful of subspecies, vary widely from short, fat trees to small shrubs, depending on their location. All have a highly toxic sap which is used by local people to coat arrow tips for hunting. Unrelated to the rose family, these are also popular house plants.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Adenium"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Poison#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Adenium.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Apocynaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Gentianales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Adenium#name">
+				<rdfs:label>Adenium obesum</rdfs:label>
+				        <wo:commonName>Desert rose</wo:commonName>
+        								<wo:commonName>Impala lily</wo:commonName>
+						<wo:commonName>Kudu</wo:commonName>
+						<wo:commonName>Mock azalea</wo:commonName>
+						<wo:commonName>Sabi star</wo:commonName>
+								<wo:scientificName>obesumobesum</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Gentianales</wo:orderName><wo:familyName>Apocynaceae</wo:familyName><wo:genusName>Adenium</wo:genusName><wo:speciesName>obesum</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ad/adenium/adenium_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Adenium#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ad/adenium/adenium_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005frls#programme">
+			<dc:title>Dragon's blood and roses</dc:title>
+			<po:subject rdf:resource="/nature/species/Adenium#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Adenium">
+		<foaf:primaryTopic rdf:resource="/nature/species/Adenium#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://plants.usda.gov/java/profile?symbol=ADOB2">
+			<foaf:primaryTopic rdf:resource="/nature/species/Adenium#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=69375">
+			<foaf:primaryTopic rdf:resource="/nature/species/Adenium#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Poison#adaptation">
+					<rdfs:label>Poisonous</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Adenium.gif">
+		<dc:title>Map showing the distribution of the Desert rose species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Adenium</rdfs:label><wo:species rdf:resource="/nature/life/Adenium#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Apocynaceae#family"><rdfs:label>Apocynaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Gentianales#order"><rdfs:label>Gentianales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

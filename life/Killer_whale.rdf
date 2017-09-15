@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Killer_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Killer_whale#species">
+				<rdfs:label>Killer whale</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Killer_whale#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ki/killer_whale/killer_whale_1.jpg"/>
+
+				<dc:description>Killer whales are actually the largest species of <a href="/nature/life/Oceanic_dolphin">dolphin</a>. Their dorsal fin can be used to recognise individuals, and in males can measure an incredible 1.8 metres in height. Killer whales are found in every ocean on the planet, and as well as being the most widely distributed, they are also one of the <a href="/nature/collections/p00hldcc">fastest</a> sea mammals, reaching speeds of up to 55kph. As distinguished marine <a href="/nature/adaptations/Predation">predators</a>, these strikingly marked killers employ a number of clever techniques to catch their prey. These include herding, coordinated attacks and <a href="/nature/life/Killer_whale#p00l4jrz">wave washing seals</a> off ice floes.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> Killer whales have been known to hunt down <a href="/nature/life/Gray_Whale">grey</a> and <a href="/nature/life/Blue_Whale">blue</a> whales.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Killer_whale"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_culture#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Killer_whale.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Oceanic_dolphin#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Killer_whale#name">
+				<rdfs:label>Orcinus orca</rdfs:label>
+				        <wo:commonName>Killer whale</wo:commonName>
+        								<wo:commonName>Blackfish</wo:commonName>
+						<wo:commonName>Orca</wo:commonName>
+								<wo:scientificName>orcaorca</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Delphinidae</wo:familyName><wo:genusName>Orcinus</wo:genusName><wo:speciesName>orca</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ki/killer_whale/killer_whale_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Killer_whale#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/k/ki/killer_whale/killer_whale_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7rvd#programme">
+			<dc:title>Coordinated attack</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l70jv#programme">
+			<dc:title>Hunters on the lookout</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l4jrz#programme">
+			<dc:title>Wave washing</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k5wgc#programme">
+			<dc:title>Polluted water</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k09b3#programme">
+			<dc:title>Fearless diver</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k091q#programme">
+			<dc:title>Sharing supper</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k08q8#programme">
+			<dc:title>Orcas on the hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k08kt#programme">
+			<dc:title>Blowing bubbles</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jz1cs#programme">
+			<dc:title>Stunning sound effects</dc:title>
+			<po:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/k/ki/killer_whale/nhs1231-18.mp3">
+			<dc:title>Pod of killer whales</dc:title>
+			<dc:subject rdf:resource="/nature/species/Killer_whale#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Killer_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Orcinus_orca.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.acsonline.org/factpack/KillerWhale.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/orca/orcinus-orca/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/killerwhale.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/animal-info/info-books/killer-whale/adaptations.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-23813427">
+			<dc:title>Killer whale 'first for east coast'</dc:title>
+			<dc:description>Three killer whales from a west coast community of orcas are sighted off Peterhead and Girdleness in Aberdeenshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-20975536">
+			<dc:title>Whales freed from Canada ice trap</dc:title>
+			<dc:description>A dozen killer whales trapped under sea ice with only a single breathing hole reach safety in Canada's Hudson Bay, local villagers have reported.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-20966867">
+			<dc:title>Whales trapped under Canada ice</dc:title>
+			<dc:description>A remote Quebec fishing village asks Canada's government to help free a dozen killer whales trapped in a vast stretch of sea ice.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19561076">
+			<dc:title>Orca menopause helps protect sons</dc:title>
+			<dc:description>Killer whale mothers live longer lives in order to protect their sons, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17991601">
+			<dc:title>Humpbacks intervene in whale hunt</dc:title>
+			<dc:description>The unusual sight of humpback whales intervening in a killer whale hunt has been caught on camera by a BBC/National Geographic film crew.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17783603">
+			<dc:title>White killer whale adult spotted</dc:title>
+			<dc:description>A white orca is identified off Russia's Kamchatka peninsula - believed to be the first white adult seen in the wild.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-17587816">
+			<dc:title>Killer whale 'likely a dolphin'</dc:title>
+			<dc:description>Mammal experts looking into a possible sighting of a killer whale off the north Norfolk coast believe it could have been a dolphin that was spotted.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15308790">
+			<dc:title>Orcas make waves to prey on seals</dc:title>
+			<dc:description>A film crew captures footage of killer whales working together to create waves that wash their vulnerable prey into the water. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14663732">
+			<dc:title>What is killing killer whales?</dc:title>
+			<dc:description>An invisible threat to orcas has been building in our seas since World War II, say marine experts.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9409000/9409694.stm">
+			<dc:title>How orcas hunt in 'stealth mode'</dc:title>
+			<dc:description>Killer whales avoid being overheard by their prey by hunting in "stealth mode", according to a study. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/11517664">
+			<dc:title>Baby killer whale born in Florida</dc:title>
+			<dc:description>A wildlife park in Florida is celebrating the arrival of its newest attraction, a baby killer whale weighing more than 300lb.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8536000/8536184.stm">
+			<dc:title>Killer whales: What to do with captive orcas? </dc:title>
+			<dc:description>The recent attack by a captive orca on its trainer at a SeaWorld facility in Orlando, Florida, has again raised questions about our relationship with these top marine predators.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/8497936.stm">
+			<dc:title>Whales use 'Killer' technique for hunting fish</dc:title>
+			<dc:description>Scientists on Shetland believe they may have discovered a previously-unobserved technique being used by killer whales to catch herring.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8440000/8440002.stm">
+			<dc:title>Two killer whale types identified</dc:title>
+			<dc:description>Scientists reveal there is not one but two types of killer whale living in UK waters.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8308000/8308265.stm">
+			<dc:title>Massive killer whale pod sighted</dc:title>
+			<dc:description>A massive pod of specialist mackerel-eating killer whales is filmed off the coast of Scotland by a BBC crew for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Killer_whale#species"/>
+		</foaf:Document>
+			
+											<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_culture#adaptation">
+					<rdfs:label>Culture</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Killer_whale.gif">
+		<dc:title>Map showing the distribution of the Killer whale species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Orcinus</rdfs:label><wo:species rdf:resource="/nature/life/Killer_whale#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Oceanic_dolphin#family"><rdfs:label>Delphinidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

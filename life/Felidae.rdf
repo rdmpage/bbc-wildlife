@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Felidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Felidae#family">
+				<rdfs:label>Cats</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Felidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fe/felidae/felidae_1.jpg"/>
+
+				<dc:description>Cats are more purely <a href="/nature/adaptations/Carnivore">carnivorous</a> than any other meat-eating family and they like their meat fresh, relying on prey they have caught and killed themselves. Cats usually live solitary lives, with one famous exception: the <a href="/nature/life/Lion">lion</a>, the only truly <a href="/nature/adaptations/Presociality">social</a> cat. For stealth, and to protect against wear, cats retract their claws, although the <a href="/nature/life/Cheetah">cheetah's</a> remain visible. With over 40 species, from the familar domestic to the mighty <a href="/nature/life/Tiger">tiger</a>, cats are found everywhere except Australia and Antarctica. Explore the familiar and the lesser known below, including the <a href="/nature/life/Asian_Golden_Cat">Asian golden</a> and <a href="/nature/life/Leopard_Cat">leopard cats</a>, as well as the extinct <a href="/nature/life/Smilodon">sabre-toothed tiger</a>.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Felidae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Felidae#name">
+				<rdfs:label>Felidae</rdfs:label>
+				        <wo:commonName>Cats</wo:commonName>
+        								<wo:commonName>Felids</wo:commonName>
+						<wo:commonName>Felines</wo:commonName>
+								<wo:scientificName>Felidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fe/felidae/felidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Felidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fe/felidae/felidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fw5ls#programme">
+			<dc:title>Big cat attack</dc:title>
+			<po:subject rdf:resource="/nature/family/Felidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fvd4j#programme">
+			<dc:title>Lynx to sand cat</dc:title>
+			<po:subject rdf:resource="/nature/family/Felidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk811#programme">
+			<dc:title>Evolutionary arms race</dc:title>
+			<po:subject rdf:resource="/nature/family/Felidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Felidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Felidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.catsg.org/catsgportal/20_catsg-website/home/index_en.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7674">
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.felidaefund.org/research/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.panthera.org/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/25086721">
+			<dc:title>New species of wild cat in Brazil</dc:title>
+			<dc:description>Molecular markers have been used to identify a new distinct species of wild cat in Brazil, researchers claim.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24913291">
+			<dc:title>Oldest big cat fossil found in Tibet</dc:title>
+			<dc:description>The skull of a four million-year-old big cat resembling a modern snow leopard has been found in the Himalayas, evidence that big cats first evolved in Asia not Africa.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24117279">
+			<dc:title>Genomes of big cats revealed</dc:title>
+			<dc:description>International scientists have mapped the genomes of the tiger, lion and snow leopard, in conservation efforts to protect endangered species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21236690">
+			<dc:title>Cats killing 'billions of animals'</dc:title>
+			<dc:description>Cats are killing billions of birds and other animals in the US each year, a new study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19426885">
+			<dc:title>Small dinosaur 'hunted like cat'</dc:title>
+			<dc:description>Some predatory dinosaurs used guile and agility to outwit their feathered prey according to research published in PLoS One.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/wild-cats-and-domestic-cats-similarities/2479.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Comparing a lioness and a domestic cat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11710421">
+			<dc:title>Model offers habitat link insight</dc:title>
+			<dc:description>Researchers develop a statistical model that predicts where big cats are most likely to cross busy roads that cut through their natural range.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9028000/9028491.stm">
+			<dc:title>Why lions roar and wildcats miaow</dc:title>
+			<dc:description>The low roar of a lion, or the miaow of a wildcat, is more to do with where a cat lives than its size.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8574000/8574155.stm">
+			<dc:title>Flat-headed cat of southeast Asia is now endangered </dc:title>
+			<dc:description>One of the smallest and most enigmatic species of cat is now threatened with extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/4585766.stm">
+			<dc:title>New cat family tree revealed 
+</dc:title>
+			<dc:description>Modern cats have their roots in Asia 11 million years ago, according to a DNA study of wild and domestic cats.
+</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Felidae#family"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/><wo:family rdf:resource="/nature/life/Canidae#family"/><wo:family rdf:resource="/nature/life/Mongoose#family"/><wo:family rdf:resource="/nature/life/Hyena#family"/><wo:family rdf:resource="/nature/life/Mustelidae#family"/><wo:family rdf:resource="/nature/life/Procyonidae#family"/><wo:family rdf:resource="/nature/life/Bear#family"/><wo:family rdf:resource="/nature/life/Ailuridae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Eupleridae#family"/><wo:family rdf:resource="/nature/life/Bear_dog#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Cheetah#family"><rdfs:label>Cheetah</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Asian_Golden_Cat#family"><rdfs:label>Asian golden cat</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Wildcat#family"><rdfs:label>Wildcat</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Serval#family"><rdfs:label>Serval</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Eurasian_Lynx#family"><rdfs:label>Eurasian lynx</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Clouded_Leopard#family"><rdfs:label>Clouded leopard</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Panthera#family"><rdfs:label>Roaring cats</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Leopard_Cat#family"><rdfs:label>Leopard cat</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Cougar#family"><rdfs:label>Puma</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Snow_Leopard#family"><rdfs:label>Snow leopard</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Smilodon#family"><rdfs:label>Smilodon</rdfs:label><wo:family rdf:resource="/nature/life/Felidae#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

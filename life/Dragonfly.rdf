@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/infraorder/Dragonfly">
+		<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		<rdfs:seeAlso rdf:resource="/nature/infraorder"/>
+	</rdf:Description>
+
+		<wo:Infraorder rdf:about="/nature/life/Dragonfly#infraorder">
+				<rdfs:label>Dragonflies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/infraorder/Dragonfly#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>Dragonflies are marvels of aerodynamic engineering. The adult beats its two sets of wings out of phase and can control both frequency and amplitude. The angle of the two sets can be controlled independently, allowing for some astonishing aerial manoeuvres, spectacular hovering and <a href="http://www.bbc.co.uk/nature/adaptations/Flight">flight</a> in any direction. Dragonflies love the world's wet places as their nymphs remain aquatic for months or even years. Both nymphs and adults are voracious <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predators</a>: an adult will eat just about any insect it can capture in flight, especially <a href="http://www.bbc.co.uk/nature/life/Mosquito">mosquitos</a>. Thousands of dragonfly species have been identified, differentiated by wing colour patterns and venations.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Dragonflies can fly backwards, change direction in mid-air and hover for up to a minute.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragonfly"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/infraorder/Dragonfly.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Bog#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Odonata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Infraorder>
+
+			<wo:TaxonName rdf:about="/nature/infraorder/Dragonfly#name">
+				<rdfs:label>Anisoptera</rdfs:label>
+				        <wo:commonName>Dragonflies</wo:commonName>
+        										<wo:scientificName>Anisoptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Odonata</wo:orderName><wo:infraorderName>Anisoptera</wo:infraorderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gcnfc#programme">
+			<dc:title>Dragonfly distribution</dc:title>
+			<po:subject rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkv5b#programme">
+			<dc:title>Aerial dogfights</dc:title>
+			<po:subject rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008hw23#programme">
+			<dc:title>Stick trick</dc:title>
+			<po:subject rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087j47#programme">
+			<dc:title>Chase, dart, skim or hawk?</dc:title>
+			<po:subject rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005fskd#programme">
+			<dc:title>Summer jewels</dc:title>
+			<po:subject rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00486wy#programme">
+			<dc:title>Living fossils</dc:title>
+			<po:subject rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/d/dr/dragonfly/5095218.mp3">
+			<dc:title>Wing beats of a dragonfly</dc:title>
+			<dc:subject rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Dragonfly">
+		<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Anisoptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/191">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.discoverlife.org/20/q?guide=Anisoptera">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dragonflysoc.org.uk/dragonflies.html">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-13728254">
+			<dc:title>Rare dragonfly returns to Cumbria</dc:title>
+			<dc:description>A rare dragonfly is returning to a nature reserve in Cumbria for the first time this century.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9469000/9469163.stm">
+			<dc:title>Desert dragonflies arrive in UK</dc:title>
+			<dc:description>The UK is seeing record numbers of migrant dragonflies, says the British Dragonfly Society.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9455000/9455764.stm">
+			<dc:title>A dragonfly's guide to Britain</dc:title>
+			<dc:description>How dragonflies are thriving in some of the UK's most unexpected places.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/dragonflies/10586.html">
+			<dc:title>Dragonflies</dc:title>
+			<dc:description>The Green Balloon Club meets to find out about nature and the world around us. The members give reports on what they've spotted around where they live. Children follow a dragonfly trail.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/emperor-dragon-fly-behaviour/7542.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>What does the Emperor dragonfly do in a moss patch?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Dragonfly#infraorder"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Bog#habitat">
+					<rdfs:label>Bog</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/infraorder/Dragonfly.gif">
+		<dc:title>Map showing the distribution of the Dragonflies infraorder</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Odonata#order"><rdfs:label>Odonata</rdfs:label><wo:infraorder rdf:resource="/nature/life/Dragonfly#infraorder"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Norfolk_Hawker#infraorder"><rdfs:label>Norfolk hawker</rdfs:label><wo:infraorder rdf:resource="/nature/life/Dragonfly#infraorder"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

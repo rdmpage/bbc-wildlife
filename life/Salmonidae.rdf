@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Salmonidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Salmonidae#family">
+				<rdfs:label>Salmon family</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Salmonidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/salmonidae/salmonidae_1.jpg"/>
+
+				<dc:description>Salmon family includes trout, whitefish, chars and graylings - together they form a family of ray-finned fish. Found throughout the northern hemisphere, the family includes species important to commercial and sport interests, which has resulted in their introduction to other waters of the world. Almost all species are anadromous: they live in the open ocean and swim up river to spawn in clean and cold freshwater. These are mostly large, predatory fish that reach lengths of up to two metres and prey on crustaceans, insects and smaller fish.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Salmonidae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Salmonidae.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Salmoniformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Salmonidae#name">
+				<rdfs:label>Salmonidae</rdfs:label>
+				        <wo:commonName>Salmon family</wo:commonName>
+        										<wo:scientificName>Salmonidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Salmoniformes</wo:orderName><wo:familyName>Salmonidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/salmonidae/salmonidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Salmonidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sa/salmonidae/salmonidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Salmonidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Salmonidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eoearth.org/article/Anadromous_behavior">
+			<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/5158">
+			<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fishbase.org/Summary/FamilySummary.cfm?Family=Salmonidae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-26067065">
+			<dc:title>Salmon born with 'magnetic map'</dc:title>
+			<dc:description>Scientists believe that Pacific salmon sense changes in intensity and angle of the Earth's magnetic field to find their way in the ocean.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/technology-21078731">
+			<dc:title>Transgenic salmon steak 'out soon'</dc:title>
+			<dc:description>The first genetically modified fish could be about to arrive on dinner tables.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12849019">
+			<dc:title>Salmon run helps shape ecosystems</dc:title>
+			<dc:description>Pacific salmon plays an important role in providing nutrients to part of the world's largest old-growth temperate rainforest, a study shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Salmonidae#family"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Salmonidae.gif">
+		<dc:title>Map showing the distribution of the Salmon family family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Salmoniformes#order"><rdfs:label>Salmoniformes</rdfs:label><wo:family rdf:resource="/nature/life/Salmonidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Sockeye_salmon#family"><rdfs:label>Sockeye salmon</rdfs:label><wo:family rdf:resource="/nature/life/Salmonidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Salmo#family"><rdfs:label>Atlantic salmon and trout</rdfs:label><wo:family rdf:resource="/nature/life/Salmonidae#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

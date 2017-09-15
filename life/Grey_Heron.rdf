@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Grey_Heron">
+		<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Grey_Heron#species">
+				<rdfs:label>Grey heron</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Grey_Heron#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/grey_heron/grey_heron_1.jpg"/>
+
+				<dc:description>Grey herons are large, striking birds often spotted standing motionless at the water's edge. Having found a suitable location, herons stand and wait patiently for the right moment to stab passing prey with their dagger-like beaks. They also wade through shallow water searching for small <a href="http://www.bbc.co.uk/nature/animals/by/fish">fish</a>
+ and <a href="http://www.bbc.co.uk/nature/life/Amphibian">amphibians</a>. Herons <a href="http://www.bbc.co.uk/nature/adaptations/Flight">fly</a> with their head drawn back and feet trailing behind. The wing beats are slow and their curved wings form an m-shape.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Grey_Heron"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Ardea_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Heron#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Ciconiiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Grey_Heron#name">
+				<rdfs:label>Ardea cinerea</rdfs:label>
+				        <wo:commonName>Grey heron</wo:commonName>
+        										<wo:scientificName>cinereacinerea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Ciconiiformes</wo:orderName><wo:familyName>Ardeidae</wo:familyName><wo:genusName>Ardea</wo:genusName><wo:speciesName>cinerea</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/grey_heron/grey_heron_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Grey_Heron#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/grey_heron/grey_heron_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dvh6h#programme">
+			<dc:title>Pwllheli heron colony</dc:title>
+			<po:subject rdf:resource="/nature/species/Grey_Heron#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008ddl4#programme">
+			<dc:title>Striking herons</dc:title>
+			<po:subject rdf:resource="/nature/species/Grey_Heron#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087nnj#programme">
+			<dc:title>Head for heights</dc:title>
+			<po:subject rdf:resource="/nature/species/Grey_Heron#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yg1d#programme">
+			<dc:title>Urban birds</dc:title>
+			<po:subject rdf:resource="/nature/species/Grey_Heron#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k0r6#programme">
+			<dc:title>London's herons</dc:title>
+			<po:subject rdf:resource="/nature/species/Grey_Heron#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/grey_heron/5028134.mp3">
+			<dc:title>Adult heron arriving at nest</dc:title>
+			<dc:subject rdf:resource="/nature/species/Grey_Heron#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Grey_Heron">
+		<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Ardea_cinerea.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/grey-heron/ardea-cinerea/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=20003">
+			<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/grey-heron.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/144670/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/g/greyheron/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Grey_Heron#species"/>
+		</foaf:Document>
+			
+					
+											<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Ardea_(genus)#genus"><rdfs:label>Ardea</rdfs:label><wo:species rdf:resource="/nature/life/Grey_Heron#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Heron#family"><rdfs:label>Ardeidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Ciconiiformes#order"><rdfs:label>Ciconiiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

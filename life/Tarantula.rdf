@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Tarantula">
+		<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Tarantula#family">
+				<rdfs:label>Tarantulas</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Tarantula#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/tarantula/tarantula_1.jpg"/>
+
+				<dc:description>Tarantulas have large, hairy bodies that make them the stuff of nightmares for many, but they look more threatening than they actually are. The mild <a href="http://www.bbc.co.uk/nature/adaptations/Venom">venom</a> of their bite is weaker than the average <a href="http://www.bbc.co.uk/nature/life/Apidae">bee's</a>, and causes little more pain than a <a href="http://www.bbc.co.uk/nature/life/Vespula_vulgaris">wasp</a> sting. There are hundreds of species of tarantula living in the world's tropical <a href="http://www.bbc.co.uk/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests">jungles</a> and <a href="http://www.bbc.co.uk/nature/habitats/Deserts_and_xeric_shrublands">deserts</a>. <a href="http://www.bbc.co.uk/nature/places/South_America">South America</a> is home to some of the most sizeable species, such as the Goliath spiders that can have a leg span of 30cm. The name tarantula originates from the Italian town of Taranto.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tarantula"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3fy#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Tarantula.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Spider#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Arachnid#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Tarantula#name">
+				<rdfs:label>Theraphosidae</rdfs:label>
+				        <wo:commonName>Tarantulas</wo:commonName>
+        										<wo:scientificName>Theraphosidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Arachnida</wo:className><wo:orderName>Araneae</wo:orderName><wo:familyName>Theraphosidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/tarantula/tarantula_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Tarantula#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ta/tarantula/tarantula_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dlr0s#programme">
+			<dc:title>Snacking on giant spiders</dc:title>
+			<po:subject rdf:resource="/nature/family/Tarantula#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqdfg#programme">
+			<dc:title>Goliath bird-eater</dc:title>
+			<po:subject rdf:resource="/nature/family/Tarantula#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00btpsy#programme">
+			<dc:title>Hair-flicking and fangs</dc:title>
+			<po:subject rdf:resource="/nature/family/Tarantula#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkwxm#programme">
+			<dc:title>Feel the Fear: Tarantula</dc:title>
+			<po:subject rdf:resource="/nature/family/Tarantula#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bfjpl#programme">
+			<dc:title>Speedy spiders</dc:title>
+			<po:subject rdf:resource="/nature/family/Tarantula#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b68c2#programme">
+			<dc:title>Angry arachnid</dc:title>
+			<po:subject rdf:resource="/nature/family/Tarantula#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tarantula">
+		<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Theraphosidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://courses.ttu.edu/thomas/classpet/1999/tarantula/facts.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sdnhm.org/fieldguide/inverts/apho.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thebts.co.uk/old_articles/natural.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.worsleyschool.net/science/files/tarantula/tarantula.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/newsround/22032314">
+			<dc:title>New spider as big as your face found</dc:title>
+			<dc:description>A new species of venomous tarantula is discovered, as big as a human face!</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-oxfordshire-15564864">
+			<dc:title>Coffin and tarantula left at tip</dc:title>
+			<dc:description>A coffin, glass eye, set of false teeth and a live tarantula in its cage are among items recently taken to rubbish tips across Oxfordshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/13989529">
+			<dc:title>Inside a spider's beating heart</dc:title>
+			<dc:description>New scanning techniques reveal the insides of a spider, including a snapshot of its beating heart.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/13382903">
+			<dc:title>Tarantulas eject silk from feet</dc:title>
+			<dc:description>Tarantulas release silk through their feet to stop themselves from slipping on slippery, vertical surfaces, according to scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/food/2011/02/tarantula-kebab-anyone.shtml">
+			<dc:title>BBC Food blog</dc:title>
+			<dc:description>Not many people would go for a toasted tarantula as a snack, let alone the famous Goliath bird-eater spider found in the jungles of South America. This record-defying arachnid is said to reach up to the size of a dinner plate, though it is perhaps the most unlikely addition to any menu.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-lancashire-11457332">
+			<dc:title>Exotic pets found dumped in alley</dc:title>
+			<dc:description>Two scorpions and 15 baby tarantulas are found abandoned in an alleyway in Preston, Lancashire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tarantula#family"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3fy#collection">
+				<dc:title>George's marvellous minibeasts</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Tarantula.gif">
+		<dc:title>Map showing the distribution of the Tarantulas family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Spider#order"><rdfs:label>Araneae</rdfs:label><wo:family rdf:resource="/nature/life/Tarantula#family"/><wo:family rdf:resource="/nature/life/Orb-weaver_spider#family"/><wo:family rdf:resource="/nature/life/Nursery_web_spider#family"/><wo:family rdf:resource="/nature/life/Crab_spider#family"/><wo:family rdf:resource="/nature/life/Jumping_spider#family"/><wo:family rdf:resource="/nature/life/Linyphiidae#family"/><wo:family rdf:resource="/nature/life/Liphistiidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Wolf_spider#family"/><wo:family rdf:resource="/nature/life/Huntsman_spider#family"/></wo:Order><wo:Class rdf:about="/nature/class/Arachnid#class"><rdfs:label>Arachnida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Goliath_birdeater#family"><rdfs:label>Goliath bird-eating spider</rdfs:label><wo:family rdf:resource="/nature/life/Tarantula#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

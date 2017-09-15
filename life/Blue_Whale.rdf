@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Blue_Whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Blue_Whale#species">
+				<rdfs:label>Blue whale</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Blue_Whale#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blue_whale/blue_whale_1.jpg"/>
+
+				<dc:description>Blue whales are the largest animals ever to have lived - bigger even than the largest of the <a href="http://www.bbc.co.uk/nature/life/Dinosaur">dinosaurs</a>. These jumbo-jet-sized giants inhabit the <a href="http://www.bbc.co.uk/nature/habitats/Pelagic">open ocean</a>, where they are found most frequently along the continental shelf edges and near polar ice. A single calf is produced every two to three years, and from birth each calf consumes up to 50 gallons of milk every single day, leading to a colossal weight gain of 90 kilograms per day in its first year of life.
+<br/>
+<br/>
+<b>Did you know?</b><br/> A blue whale's blood vessels are wide enough for a human to swim through.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Blue_Whale"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Blue_Whale.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Balaenoptera#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Rorqual#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Blue_Whale#name">
+				<rdfs:label>Balaenoptera musculus</rdfs:label>
+				        <wo:commonName>Blue whale</wo:commonName>
+        										<wo:scientificName>musculusmusculus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Balaenidae</wo:familyName><wo:genusName>Balaenoptera</wo:genusName><wo:speciesName>musculus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blue_whale/blue_whale_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Blue_Whale#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/blue_whale/blue_whale_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004t0hk#programme">
+			<dc:title>Blue whale breach</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004t035#programme">
+			<dc:title>Inside the blue whale</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004s4ps#programme">
+			<dc:title>Blue whale fluker</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jp7z6#programme">
+			<dc:title>Blue encounter</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Whale#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bl/blue_whale/nhs1344-28.mp3">
+			<dc:title>Blue whale</dc:title>
+			<dc:subject rdf:resource="/nature/species/Blue_Whale#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Blue_Whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Balaenoptera_musculus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://channel.nationalgeographic.com/episode/kingdom-of-the-blue-whale-3302">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/blue-whale/balaenoptera-musculus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/lastchancetosee/sites/animals/bluewhale">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/328574">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/2477/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/measuring-large-amounts-blue-whale-animation/3146.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>An animation of a blue whale with an accompanying song illustrating how enormous things can be measured.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9265000/9265623.stm">
+			<dc:title>Blue whale blubber mouth measured</dc:title>
+			<dc:description>A blue whale's mouth cavity is so vast that it can engulf a volume of water equivalent to its own body mass, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8383000/8383070.stm">
+			<dc:title>Save 'special' carnivores plea</dc:title>
+			<dc:description>Certain carnivores are so unique that special efforts should be made to save them, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8309000/8309555.stm">
+			<dc:title>In pictures: The blue whale</dc:title>
+			<dc:description>Wildlife photographer and writer Mark Carwardine searches for the blue whale, for the BBC series Last Chance to See.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8269126.stm">
+			<dc:title>Seismic bangs 'block' whale calls
+</dc:title>
+			<dc:description>Scientists have turned up new evidence showing that ocean noise can affect the communication of whales.
+</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6710051.stm">
+			<dc:title>Blue whales 'making a comeback'</dc:title>
+			<dc:description>The blue whale, possibly the largest animal ever to live on Earth, is making a comeback, scientists have said.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Whale#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Blue_Whale.gif">
+		<dc:title>Map showing the distribution of the Blue whale species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Balaenoptera#genus"><rdfs:label>Balaenoptera</rdfs:label><wo:species rdf:resource="/nature/life/Blue_Whale#species"/><wo:species rdf:resource="/nature/life/Antarctic_minke_whale#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Rorqual#family"><rdfs:label>Balaenidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

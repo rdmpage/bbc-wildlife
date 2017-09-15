@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Anthozoa">
+		<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Anthozoa#class">
+				<rdfs:label>Corals and sea anemones</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Anthozoa#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/anthozoa/anthozoa_1.jpg"/>
+
+				<dc:description>Corals and sea anemones are related to jellyfish. They live fixed to the seabed instead of swimming free. Sea anemones usually live as single animals in isolation, whilst most corals live in colonies - formed when new polyps bud off the initial founder. Hard corals build a limestone skeleton so that as nearby colonies expand and grow a reef is formed. Both corals and sea anemones catch their prey with stinging tentacles. Sea anemones are able to catch larger prey than corals can.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Anthozoa"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Anthozoa.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Cnidaria#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Anthozoa#name">
+				<rdfs:label>Anthozoa</rdfs:label>
+				        <wo:commonName>Corals and sea anemones</wo:commonName>
+        										<wo:scientificName>Anthozoa</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Cnidaria</wo:phylumName><wo:className>Anthozoa</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/anthozoa/anthozoa_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Anthozoa#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/an/anthozoa/anthozoa_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n6tnv#programme">
+			<dc:title>Superb spawning</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n6tdg#programme">
+			<dc:title>Colourless corals</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00msn8q#programme">
+			<dc:title>Coral turf wars</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00msl9l#programme">
+			<dc:title>Night glow corals</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ms41r#programme">
+			<dc:title>Reef teamwork</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dy148#programme">
+			<dc:title>Small beginnings</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhm3h#programme">
+			<dc:title>Coral anatomy</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bpjs0#programme">
+			<dc:title>Carboniferous corals</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bpjct#programme">
+			<dc:title>Silurian seas</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008r308#programme">
+			<dc:title>Living treasure</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ry42#programme">
+			<dc:title>Skins alive!</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ry1j#programme">
+			<dc:title>Demanding corals</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006rxzj#programme">
+			<dc:title>Border dispute</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ffc0#programme">
+			<dc:title>Coral Spawning</dc:title>
+			<po:subject rdf:resource="/nature/class/Anthozoa#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Anthozoa">
+		<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Anthozoa.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://palaeo.gly.bris.ac.uk/Palaeofiles/Fossilgroups/anthozoa/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/tree?group=Anthozoa&amp;contgroup=Cnidaria">
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.anthozoa.com/">
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/cnidaria/anthozoa.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22044229">
+			<dc:title>Air pollution 'affects coral growth'</dc:title>
+			<dc:description>Researchers find evidence that aerosols from burning fossil fuels are affecting the growth of corals in the Caribbean.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21601006">
+			<dc:title>Fidgeting clownfish benefit anemones</dc:title>
+			<dc:description>Clownfish boost oxygen flow around their anemone hosts at night, scientists find.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-south-west-wales-18558155">
+			<dc:title>Seagrass could help coral reefs</dc:title>
+			<dc:description>Research headed by a Swansea University marine biologist offers a potential solution for endangered coral reefs around the world's oceans.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16843053">
+			<dc:title>Corals inflate to escape the sand</dc:title>
+			<dc:description>Time-lapse footage reveals how mushroom corals inflate and deflate to free themselves from smothering sand. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-14717834">
+			<dc:title>Coral could hold key to sunscreen</dc:title>
+			<dc:description>Scientists hope to harness coral's natural defence against the sun's harmful ultraviolet rays to make a sunscreen pill for humans. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14136316">
+			<dc:title>In pictures: Anemone v sea slug</dc:title>
+			<dc:description>Sea anemones attempting to eat toxic sea slugs are photographed for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9070000/9070148.stm">
+			<dc:title>Toxic algae rapidly kills coral</dc:title>
+			<dc:description>Harmful algal blooms kill coral reefs in just three weeks, suggesting coral communities face a new threat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10646290">
+			<dc:title>Red Sea coral growth 'to halt by 2070'</dc:title>
+			<dc:description>A species of coral in the Red Sea could stop growing by 2070 if the current warming trend continues, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8350000/8350972.stm">
+			<dc:title>Predatory coral eats jellyfish</dc:title>
+			<dc:description>A coral is recorded eating a jellyfish for the first time, in intriguing photographs taken by scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8324954.stm">
+			<dc:title>Freezer plan' bid to save coral</dc:title>
+			<dc:description>The prospects of saving the world's coral reefs now appear so bleak that plans are being made to freeze samples to preserve them for the future.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8233632.stm">
+			<dc:title>Climate targets 'will kill coral'</dc:title>
+			<dc:description>Current climate targets are not enough to save the world's coral reefs - and policymakers urgently need to consider the economic benefits they bring.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Anthozoa#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Anthozoa.gif">
+		<dc:title>Map showing the distribution of the Corals and sea anemones class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Cnidaria#phylum"><rdfs:label>Cnidaria</rdfs:label><wo:class rdf:resource="/nature/life/Anthozoa#class"/><wo:class rdf:resource="/nature/life/Jellyfish#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

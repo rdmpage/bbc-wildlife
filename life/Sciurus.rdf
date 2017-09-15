@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Sciurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Sciurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Sciurus#genus">
+				<rdfs:label>Bushy-tailed squirrels</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Sciurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sc/sciurus/sciurus_1.jpg"/>
+
+				<dc:description>Bushy-tailed squirrels are known for, and named after, their prominent and fluffy tails. Flicking their bushy tails is a method of communication between the squirrels. They also have large ears and possess sharp claws that help them climb. There are 28 species of bushy-tailed squirrel, all in genus Sciurus. They are found in Europe, Asia and the Americas.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sciurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Sciuridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Sciurus#name">
+				<rdfs:label>Sciurus</rdfs:label>
+				        <wo:commonName>Bushy-tailed squirrels</wo:commonName>
+        										<wo:scientificName>Sciurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Sciuridae</wo:familyName><wo:genusName>Sciurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sc/sciurus/sciurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Sciurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sc/sciurus/sciurus_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sciurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Sciurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Sciurus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sciurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bucknell.edu/msw3/browse.asp?id=12400067">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sciurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/34612">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sciurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildlifeonline.me.uk/squirrels.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sciurus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Sciuridae#family"><rdfs:label>Sciuridae</rdfs:label><wo:genus rdf:resource="/nature/life/Sciurus#genus"/><wo:genus rdf:resource="/nature/life/Prairie_dog#genus"/><wo:genus rdf:resource="/nature/life/Marmot#genus"/><wo:genus rdf:resource="/nature/life/Spermophilus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Eastern_gray_squirrel#genus"><rdfs:label>Grey squirrel</rdfs:label><wo:genus rdf:resource="/nature/life/Sciurus#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Red_Squirrel#genus"><rdfs:label>Red squirrel</rdfs:label><wo:genus rdf:resource="/nature/life/Sciurus#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

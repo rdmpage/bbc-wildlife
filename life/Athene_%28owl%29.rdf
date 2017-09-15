@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Athene_(owl)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Athene_(owl)#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Athene_(owl)#genus">
+				<rdfs:label>Athene owls</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Athene_(owl)#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/at/athene_owl/athene_owl_1.jpg"/>
+
+				<dc:description>Athene owls are named after the Greek goddess of civilisation and wisdom, Athena, whose symbol was an owl. Folk tradition on the wisdom of owls survives to this day. There are four species of Athene owls, including the burrowing owl. Some species - such as the little owl - hunt during the day rather than at night. There are several extinct species, including a large flightless owl which once lived on the island of Crete.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Athene_(owl)"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/True_owl#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Owl#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Athene_(owl)#name">
+				<rdfs:label>Athene</rdfs:label>
+				        <wo:commonName>Athene owls</wo:commonName>
+        										<wo:scientificName>Athene</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Strigiformes</wo:orderName><wo:familyName>Strigidae</wo:familyName><wo:genusName>Athene</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/at/athene_owl/athene_owl_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Athene_(owl)#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/at/athene_owl/athene_owl_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Athene_(owl)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Athene_(owl)#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Athene.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Athene_(owl)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/images/Athene/101010">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Athene_(owl)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/14220">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Athene_(owl)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.owls.org/Species/athene/athene.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Athene_(owl)#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/True_owl#family"><rdfs:label>Strigidae</rdfs:label><wo:genus rdf:resource="/nature/life/Athene_(owl)#genus"/><wo:genus rdf:resource="/nature/life/Asio#genus"/><wo:genus rdf:resource="/nature/life/Horned_owl#genus"/><wo:genus rdf:resource="/nature/life/Strix_(genus)#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Owl#order"><rdfs:label>Strigiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Little_Owl#genus"><rdfs:label>Little owl</rdfs:label><wo:genus rdf:resource="/nature/life/Athene_(owl)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Burrowing_Owl#genus"><rdfs:label>Burrowing owl</rdfs:label><wo:genus rdf:resource="/nature/life/Athene_(owl)#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

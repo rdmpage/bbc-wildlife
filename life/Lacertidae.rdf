@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Lacertidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Lacertidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Lacertidae#family">
+				<rdfs:label>Wall lizards</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Lacertidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lacertidae/lacertidae_1.jpg"/>
+
+				<dc:description>Wall lizards come in a myriad of colours and patterns, yet all are similar in shape and size. They all tend to have slender bodies, long thick tails and well-developed limbs. Various methods of reproduction are employed within this reptilian family: some species mate while others can reproduce asexually. Some species lay eggs, others give birth to live young and there is even one species that does both. There are over two hundred species in this family, which are found throughout Europe, Asia and Africa, although a few species have also been introduced to North America.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lacertidae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Lacertidae#name">
+				<rdfs:label>Lacertidae</rdfs:label>
+				        <wo:commonName>Wall lizards</wo:commonName>
+        								<wo:commonName>Lacertids</wo:commonName>
+						<wo:commonName>True lizards</wo:commonName>
+								<wo:scientificName>Lacertidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Lacertidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lacertidae/lacertidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Lacertidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/la/lacertidae/lacertidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Lacertidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Lacertidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://jcvi.org/reptiles/families/lacertidae.php">
+			<foaf:primaryTopic rdf:resource="/nature/family/Lacertidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cyberlizard.plus.com/lacertids.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Lacertidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1708">
+			<foaf:primaryTopic rdf:resource="/nature/family/Lacertidae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label><wo:family rdf:resource="/nature/life/Lacertidae#family"/><wo:family rdf:resource="/nature/life/Agamidae#family"/><wo:family rdf:resource="/nature/life/Anguidae#family"/><wo:family rdf:resource="/nature/life/Chameleon#family"/><wo:family rdf:resource="/nature/life/Cordylidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Gecko#family"/><wo:family rdf:resource="/nature/life/Iguanidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Varanidae#family"/></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Sand_Lizard#family"><rdfs:label>Sand lizard</rdfs:label><wo:family rdf:resource="/nature/life/Lacertidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Viviparous_lizard#family"><rdfs:label>Common Lizard</rdfs:label><wo:family rdf:resource="/nature/life/Lacertidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

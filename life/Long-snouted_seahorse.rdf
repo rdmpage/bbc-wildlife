@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Long-snouted_seahorse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Long-snouted_seahorse#species">
+				<rdfs:label>Spiny seahorse</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Long-snouted_seahorse#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/long-snouted_seahorse/long-snouted_seahorse_1.jpg"/>
+
+				<dc:description>This particularly handsome species is named after prominent fleshy spines which run down the back of the neck. With significant variation in colour, from greenish-yellow to reddish-brown, the spiny seahorse <a href="/nature/adaptations/Camouflage">mimics the colour of the surrounding habitat</a>. The body is also frequently patterned with various dots and splodges. Like other seahorses, the spiny seahorse has a long snout and a prehensile tail. They hunt by waiting <a href="/nature/adaptations/Ambush_predator">motionless in the water </a> until prey passes close by their mouth. With a rapid intake of water, the seahorse sucks the prey into its long snout.
+<br/>
+<br/>
+<b>Did you know?</b><br/> The spiny seahorse has been reported to produce broods of up to 581 young.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Long-snouted_seahorse"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Long-snouted_seahorse.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Seahorse#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Syngnathidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Syngnathiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Long-snouted_seahorse#name">
+				<rdfs:label>Hippocampus guttulatus</rdfs:label>
+				        <wo:commonName>Spiny seahorse</wo:commonName>
+        								<wo:commonName>Europe's seahorse</wo:commonName>
+						<wo:commonName>long-snouted seahorse</wo:commonName>
+						<wo:commonName>maned seahorse</wo:commonName>
+						<wo:commonName>many branched seahorse</wo:commonName>
+						<wo:commonName>speckled seahorse</wo:commonName>
+								<wo:scientificName>guttulatusguttulatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Syngnathiformes</wo:orderName><wo:familyName>Syngnathidae</wo:familyName><wo:genusName>Hippocampus</wo:genusName><wo:speciesName>guttulatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/long-snouted_seahorse/long-snouted_seahorse_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/lo/long-snouted_seahorse/long-snouted_seahorse_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01jds38#programme">
+			<dc:title>Small fry</dc:title>
+			<po:subject rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01jdppt#programme">
+			<dc:title>Fancy finwork</dc:title>
+			<po:subject rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Long-snouted_seahorse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/accounts/Hippocampus_guttulatus/classification/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/994199/overview">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/maned-seahorse/hippocampus-guttulatus">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/41006/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marlin.ac.uk/speciesinformation.php?speciesID=3505">
+			<foaf:primaryTopic rdf:resource="/nature/species/Long-snouted_seahorse#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Long-snouted_seahorse.gif">
+		<dc:title>Map showing the distribution of the Spiny seahorse species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Seahorse#genus"><rdfs:label>Hippocampus</rdfs:label><wo:species rdf:resource="/nature/life/Long-snouted_seahorse#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Syngnathidae#family"><rdfs:label>Syngnathidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Syngnathiformes#order"><rdfs:label>Syngnathiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

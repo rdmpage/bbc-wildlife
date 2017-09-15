@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Arctiidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Arctiidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Arctiidae#family">
+				<rdfs:label>Woolly bear moths</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Arctiidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctiidae/arctiidae_1.jpg"/>
+
+				<dc:description>It is not surprising that this family of <a href="http://www.bbc.co.uk/nature/life/Lepidoptera">moths</a> are commonly called woolly bears or woolly worms, as the caterpillars of many species are really very <a href="http://www.bbc.co.uk/nature/adaptations/Antipredator_adaptation">hairy</a>. The larvae can be full of poisonous chemicals acquired from their host plants, advertising that they are bad to eat with <a href="http://www.bbc.co.uk/nature/adaptations/Aposematism">bright colours</a>, bad odours and unusual shapes. The adult moths have distinctive wing venation and can also be distasteful when eaten. They produce <a href="http://www.bbc.co.uk/nature/adaptations/Ultrasound">ultrasonic sounds</a> to warn off <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predators</a> and confuse <a href="http://www.bbc.co.uk/nature/life/Bat">bats</a>  looking for a tasty treat. There are over 10,000 species worldwide including all the tiger, footmen, wasp and lichen moths. Amazingly, the caterpillars of some species can even survive freezing. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Arctiidae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Arctiidae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Lepidoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Arctiidae#name">
+				<rdfs:label>Arctiidae</rdfs:label>
+				        <wo:commonName>Woolly bear moths</wo:commonName>
+        								<wo:commonName>Tiger and footmen moths</wo:commonName>
+						<wo:commonName>Woolly worm moths</wo:commonName>
+								<wo:scientificName>Arctiidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Lepidoptera</wo:orderName><wo:familyName>Arctiidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctiidae/arctiidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Arctiidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ar/arctiidae/arctiidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l72dn#programme">
+			<dc:title>Freeze-thaw caterpillars</dc:title>
+			<po:subject rdf:resource="/nature/family/Arctiidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Arctiidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Arctiidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Arctiidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Arctiidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/39177">
+			<foaf:primaryTopic rdf:resource="/nature/family/Arctiidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/770/entries/36621620/overview">
+			<foaf:primaryTopic rdf:resource="/nature/family/Arctiidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://lepidoptera.pro/family/arctiidae/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Arctiidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/ellesmereisland/stories/woollybearcaterpillar">
+			<dc:title>The world's coolest caterpillar</dc:title>
+			<dc:description>Only 800 kilometres from the North Pole, a woolly bear caterpillar thaws out for a bite to eat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Arctiidae#family"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Arctiidae.gif">
+		<dc:title>Map showing the distribution of the Woolly bear moths family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Lepidoptera#order"><rdfs:label>Lepidoptera</rdfs:label><wo:family rdf:resource="/nature/life/Arctiidae#family"/><wo:family rdf:resource="/nature/life/Nymphalidae#family"/><wo:family rdf:resource="/nature/life/Lycaenidae#family"/><wo:family rdf:resource="/nature/life/Swallowtail_butterfly#family"/><wo:family rdf:resource="/nature/life/Pieridae#family"/><wo:family rdf:resource="/nature/life/Sphingidae#family"/><wo:family rdf:resource="/nature/life/Zygaenidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

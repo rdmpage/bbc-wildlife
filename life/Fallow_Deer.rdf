@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Fallow_Deer">
+		<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Fallow_Deer#species">
+				<rdfs:label>Fallow deer</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Fallow_Deer#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fa/fallow_deer/fallow_deer_1.jpg"/>
+
+				<dc:description>Fallow deer are a widespread species of deer in <a href="http://www.bbc.co.uk/nature/places/United_Kingdom">Britain</a>. Originally from the <a href="http://www.bbc.co.uk/nature/places/Mediterranean_Basin">Mediterranean</a> and middle east, these deer were spread across <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> by the Romans and introduced to British <a href="http://www.bbc.co.uk/nature/habitats/Park">parks</a> and forests by the Normans in the 11th century. They spend most of the year in single sex <a href="http://www.bbc.co.uk/nature/adaptations/Presociality">herds</a>, only coming together in autumn for the annual <a href="http://www.bbc.co.uk/nature/adaptations/Polygyny">rut</a>, where the males groan, parallel walk and lock antlers. Luckily, injuries are rare although the males sport impressive multi-point antlers. Fallow deer are smaller than <a href="http://www.bbc.co.uk/nature/life/Red_Deer">red deer</a> and have a spotted coat, but in some individuals the spots are not very prominent and may disappear in winter.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Fallow_Deer"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Dama#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Deer#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Fallow_Deer#name">
+				<rdfs:label>Dama dama</rdfs:label>
+				        <wo:commonName>Fallow deer</wo:commonName>
+        										<wo:scientificName>damadama</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Cervidae</wo:familyName><wo:genusName>Dama</wo:genusName><wo:speciesName>dama</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fa/fallow_deer/fallow_deer_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Fallow_Deer#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fa/fallow_deer/fallow_deer_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hxq90#programme">
+			<dc:title>Cosmopolitan eateries</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lmjp2#programme">
+			<dc:title>Bellowing deer</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gn015#programme">
+			<dc:title>A fallow deer's history of Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gmsbk#programme">
+			<dc:title>Sensitive deer</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bzl1s#programme">
+			<dc:title>Norman conservation</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089qh8#programme">
+			<dc:title>Dusky deer</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0088t1z#programme">
+			<dc:title>Rear of the deer</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081tl5#programme">
+			<dc:title>Stag morning</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yf9c#programme">
+			<dc:title>Lazy afternoon</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fgcf#programme">
+			<dc:title>Parallel pacing</dc:title>
+			<po:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/f/fa/fallow_deer/nhs1002-01.mp3">
+			<dc:title>Fallow deer buck chasing female</dc:title>
+			<dc:subject rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Fallow_Deer">
+		<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Dama_dama.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/fallow-deer/dama-dama/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bds.org.uk/fallow.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.blueplanetbiomes.org/fallow_deer.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ypte.org.uk/animal/deer-fallow-/67">
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14804549">
+			<dc:title>Unchecked deer 'harm woodlands'</dc:title>
+			<dc:description>Woodlands without effective widescale management systems in place are more likely to be damaged by the UK's growing deer population, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9459000/9459242.stm">
+			<dc:title>Fallow deer butt-in for dominance</dc:title>
+			<dc:description>Male fallow deer interrupt fights between rivals to assert their dominance, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/northernireland/schools/4_11/tandy/projects/world_around_us/topic_oct.shtml">
+			<dc:title>BBC - TANDY - The World Around Us - October</dc:title>
+			<dc:description>Welcome to our new TANDY site, jam-packed full of loads of cool things. Tune in to BBC Radio Ulster MW 1341 every Tuesday at 11.20am or listen online.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/nature/newsid_8272000/8272689.stm">
+			<dc:title>White buck at home in the Forest 
+</dc:title>
+			<dc:description>I was saddened by the loss of our white stag in the Forest of Dean, Gloucestershire, in 2007 and I thought I would never have the opportunity to see and photograph one of these magnificent beasts in our forest again.
+</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Fallow_Deer#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Dama#genus"><rdfs:label>Dama</rdfs:label><wo:species rdf:resource="/nature/life/Fallow_Deer#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Deer#family"><rdfs:label>Cervidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Pectinidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pectinidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Pectinidae#family">
+				<rdfs:label>Scallops</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Pectinidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pe/pectinidae/pectinidae_1.jpg"/>
+
+				<dc:description>Scallops are fan-shaped bivalves with a pleasing geometric shape, and they are found in all the world's oceans. Most are free-living, active <a href="http://www.bbc.co.uk/nature/adaptations/Aquatic_locomotion">swimmers</a> using jet propulsion to move, but some attach to structures and others bury themselves in the sand using an extensible foot.
+<br />
+<br />
+Scallops have up to 100 eyes around the edge of their mantles. These respond to light and dark allowing them to detect changing patterns of light and motion and thus moving objects. Scallops feed on plankton using a filter mechanism and are themselves predated upon by starfish, crabs, lobsters and fish.
+<br />
+<br />
+<b>Did you know?</b><br/>
+The word "scallop" is derived from the old French "escalope" meaning "shell".</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pectinidae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Pectinidae.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Ostreoida#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bivalvia#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Pectinidae#name">
+				<rdfs:label>Pectinidae</rdfs:label>
+				        <wo:commonName>Scallops</wo:commonName>
+        										<wo:scientificName>Pectinidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Bivalvia</wo:className><wo:orderName>Ostreoida</wo:orderName><wo:familyName>Pectinidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pe/pectinidae/pectinidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Pectinidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pe/pectinidae/pectinidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqcm0#programme">
+			<dc:title>Flowing fresh</dc:title>
+			<po:subject rdf:resource="/nature/family/Pectinidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cq8hv#programme">
+			<dc:title>Coping with currents</dc:title>
+			<po:subject rdf:resource="/nature/family/Pectinidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00br2z8#programme">
+			<dc:title>Great escape</dc:title>
+			<po:subject rdf:resource="/nature/family/Pectinidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pectinidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pectinidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Pectinidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pectinidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/2249/overview">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pectinidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pectinidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pectinidae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Pectinidae.gif">
+		<dc:title>Map showing the distribution of the Scallops family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Ostreoida#order"><rdfs:label>Ostreoida</rdfs:label><wo:family rdf:resource="/nature/life/Pectinidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bivalvia#class"><rdfs:label>Bivalvia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

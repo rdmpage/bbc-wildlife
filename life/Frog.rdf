@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Frog">
+		<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Frog#order">
+				<rdfs:label>Frogs and toads</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Frog#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fr/frog/frog_1.jpg"/>
+
+				<dc:description>Frogs and toads are the most diverse and widespread of the three amphibian orders. Unlike the other amphibians, adult frogs and toads have no tails but they do have many adaptations to jumping, for example long hind legs, elongated ankle bones and a short vertebral column. Many frogs contain mild toxins, but some, such as the poison dart frogs, are deadly.
+<br/>
+<br/>
+<a href="/nature/22120791">How to identify UK amphibians.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Frog"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Amphibian#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Frog#name">
+				<rdfs:label>Anura</rdfs:label>
+				        <wo:commonName>Frogs and toads</wo:commonName>
+        								<wo:commonName>Anurans</wo:commonName>
+								<wo:scientificName>Anura</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Amphibia</wo:className><wo:orderName>Anura</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fr/frog/frog_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Frog#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fr/frog/frog_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p013v9n2#programme">
+			<dc:title>Kung fu frogs</dc:title>
+			<po:subject rdf:resource="/nature/order/Frog#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00zbqrc#programme">
+			<dc:title>Parasite lifecycle</dc:title>
+			<po:subject rdf:resource="/nature/order/Frog#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006fdc0#programme">
+			<dc:title>Desert amphibians</dc:title>
+			<po:subject rdf:resource="/nature/order/Frog#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hgc7#programme">
+			<dc:title>Amphibian locomotion</dc:title>
+			<po:subject rdf:resource="/nature/order/Frog#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003kl7h#programme">
+			<dc:title>Walking on water</dc:title>
+			<po:subject rdf:resource="/nature/order/Frog#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Frog">
+		<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://allaboutfrogs.org/weird/general/frogtoad.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Anura.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Anura/16963">
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1553">
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-17834602">
+			<dc:title>Tree frog found in organic food</dc:title>
+			<dc:description>A European tree frog is to be given a new home at a zoo after hopping out of some organic stock at a business in Devon.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-17130758">
+			<dc:title>Rescuing frogs, so they can rescue us</dc:title>
+			<dc:description>The importance of frogs in the food chain and their surprising role in human medicine is one reason why scientists are hurrying to rescue them from a deadly fungus, and preserve them in "amphibian arks".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-17367664">
+			<dc:title>New frog species spotted in NYC</dc:title>
+			<dc:description>Scientists say they have found a new species of frog living in heavily-populated urban areas of New York.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16491477">
+			<dc:title>World's smallest frog discovered</dc:title>
+			<dc:description>Papua New Guinea has yielded what looks like the smallest frog species ever seen, just 7mm long, along with a marginally bigger relative.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15945014">
+			<dc:title>How animals predict earthquakes</dc:title>
+			<dc:description>Animals may sense earthquakes days before they occur by detecting "chemical changes" in groundwater, say scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15060980">
+			<dc:title>Frog killer immune genes revealed</dc:title>
+			<dc:description>Scientists take a big step toward understanding why some frogs are able to survive the fungal disease chytridiomycosis while others quickly die. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/13630240">
+			<dc:title>Tree-frogs act as Amazon warning</dc:title>
+			<dc:description>Amazon tree-frog biodiversity established over tens of millions of years, suggesting damage to the rainforest could take a similar time to recover.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13616213">
+			<dc:title>Double whammy for the disappearing frogs</dc:title>
+			<dc:description>The global decline of amphibians takes a strange twist, as scientists find disease poses a greater threat in pristine habitat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-nottinghamshire-13047374">
+			<dc:title>Appeal to look out for amphibians</dc:title>
+			<dc:description>People in Nottinghamshire are being asked to look out for amphibians as part of a survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/frogs-and-toads/47.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>What's the difference between a frog and a toad?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/find-out-about-tadpoles/10235.html">
+			<dc:title>Find out about tadpoles</dc:title>
+			<dc:description>Two children return to see what has happened to the frogspawn they saw previously and observe a tadpole.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/frogs/9463.html">
+			<dc:title>Frogs</dc:title>
+			<dc:description>The Green Balloon Club meets to find out about nature and visit a nature reserve to see frogs, newts and toads.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12484316">
+			<dc:title>Frog hunt ends: Most still absent</dc:title>
+			<dc:description>A mission to discover whether 100 amphibian species believed extinct are still alive ends with few successes. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9365000/9365076.stm">
+			<dc:title>Frogs re-evolved lost lower teeth</dc:title>
+			<dc:description>Frogs re-evolved "lost" bottom teeth after more than 200 million years, according to new research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11385774">
+			<dc:title>'Lost' frogs found after decades</dc:title>
+			<dc:description>A mission aimed at re-discovering amphibians believed extinct yields its first positive results. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-11101278">
+			<dc:title>Frog skin may help beat antibiotic resistance</dc:title>
+			<dc:description>Frog skin may be an important source of new antibiotics to treat superbugs say researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11095728">
+			<dc:title>Smallest frog in Asia discovered in Borneo</dc:title>
+			<dc:description>Scientists discover one of the world's tiniest frogs when it crawls out of a pitcher plant in a Borneo national park. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10743038">
+			<dc:title>Bellyflop shows how frogs evolved</dc:title>
+			<dc:description>Frogs evolved the ability to jump before they perfected the art of landing, according to scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10859989">
+			<dc:title>Global hunt begins for 'extinct' species of frogs</dc:title>
+			<dc:description>Conservationists begin a series of expeditions aimed at finding remnants of amphibian species believed to be extinct.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10910291">
+			<dc:title>Conservationists begin hunt for 'extinct' frogs</dc:title>
+			<dc:description>Conservationists are preparing to scout the world for traces of amphibian species that are believed to be extinct, but may just be clinging to existence.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8672000/8672215.stm">
+			<dc:title>Madagascar frog rears tadpoles in dead palm leaves</dc:title>
+			<dc:description>A new species of frog has been discovered that lays its eggs and grows its tadpoles in dead leaves that litter the forest floor.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10090225.stm">
+			<dc:title>Frog genome holds out conservation promise</dc:title>
+			<dc:description>Scientists have published the first genome sequence from an amphibian.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8675828.stm">
+			<dc:title>Unique frog species discovered by scientists in India</dc:title>
+			<dc:description>A new species of "brightly coloured frog" has been discovered in a remote peak in the southern part of India, scientists have told BBC News.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8609000/8609235.stm">
+			<dc:title>Frog tadpoles 'scream' underwater discover scientists</dc:title>
+			<dc:description>Tadpoles of one frog species let out an audible "scream" when they come under attack, scientists have discovered.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8549303.stm">
+			<dc:title>Extinct frog found in Australia </dc:title>
+			<dc:description>A frog species thought to have been extinct for more than three decades has been sighted in farmland in Australia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8483000/8483739.stm">
+			<dc:title>New species of Papua New Guinea frog changes colour</dc:title>
+			<dc:description>A new species of frog undergoes a remarkable transformation as it grows into an adult, report scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8305000/8305320.stm">
+			<dc:title>Noise pollution threatens animals</dc:title>
+			<dc:description>Noise pollution is becoming a major threat to the welfare of wildlife, according to a scientific review.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8443771.stm">
+			<dc:title>Female toads inflate to avoid sex</dc:title>
+			<dc:description>When it comes to choosing a mate, female toads may have more control than previously thought, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8331822.stm">
+			<dc:title>Frog embryos 'smell' predators</dc:title>
+			<dc:description>Frogs learn to recognise the smell of their enemies while they are still developing as embryos, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/south_asia/8233923.stm">
+			<dc:title>Nest-making frogs found in India</dc:title>
+			<dc:description>A scientist in India says he has found three rare species of frogs that make nests in which to lay their eggs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Frog#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Amphibian#class"><rdfs:label>Amphibia</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/><wo:order rdf:resource="/nature/life/Salamander#order"/><wo:order rdf:resource="/nature/life/Caecilian#order"/><wo:order rdf:resource="/nature/life/Temnospondyli#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/True_toad#order"><rdfs:label>True toads</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/></wo:Family><wo:Family rdf:about="/nature/life/Poison_dart_frog#order"><rdfs:label>Poison dart frogs</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/></wo:Family><wo:Genus rdf:about="/nature/life/Litoria#order"><rdfs:label>Australasian tree frogs</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/></wo:Genus><wo:Genus rdf:about="/nature/life/Leptodactylus#order"><rdfs:label>Ditch frogs</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/></wo:Genus><wo:Species rdf:about="/nature/life/Suriname_Toad#order"><rdfs:label>Surinam toad</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/></wo:Species><wo:Family rdf:about="/nature/life/True_frog#order"><rdfs:label>True frogs</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/></wo:Family><wo:Species rdf:about="/nature/life/Darwin's_Frog#order"><rdfs:label>Darwin's frog</rdfs:label><wo:order rdf:resource="/nature/life/Frog#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

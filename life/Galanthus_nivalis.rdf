@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Galanthus_nivalis">
+		<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Galanthus_nivalis#species">
+				<rdfs:label>Snowdrop</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Galanthus_nivalis#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ga/galanthus_nivalis/galanthus_nivalis_1.jpg"/>
+
+				<dc:description>Snowdrops are perennial flowering plants native to large parts of <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a>. Found in many <a href="http://www.bbc.co.uk/nature/habitats/English_Lowlands_beech_forests">woodlands</a>, churchyards, <a href="http://www.bbc.co.uk/nature/habitats/Park">parks</a> and <a href="http://www.bbc.co.uk/nature/habitats/Urban_ecosystem">gardens</a>, snowdrops are some of the first bulbs of the year to bloom. 
+<br />
+<br />
+This early <a href="http://www.bbc.co.uk/nature/adaptations/Flower">flowering</a>, which carpets the ground between January and April, is aided by hardened leaf tips that can push through frozen soil. The downside to flowering in winter is that pollinating <a href="http://www.bbc.co.uk/nature/life/Insect">insects</a> are scarce, so these little drops of snow spread mainly through bulb division.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Galanthus_nivalis"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Galanthus_nivalis.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Alliaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Asparagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Galanthus_nivalis#name">
+				<rdfs:label>Galanthus nivalis</rdfs:label>
+				        <wo:commonName>Snowdrop</wo:commonName>
+        								<wo:commonName>Common snowdrop</wo:commonName>
+								<wo:scientificName>nivalisnivalis</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Asparagales</wo:orderName><wo:familyName>Alliaceae</wo:familyName><wo:genusName>Galanthus</wo:genusName><wo:speciesName>nivalis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ga/galanthus_nivalis/galanthus_nivalis_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/ga/galanthus_nivalis/galanthus_nivalis_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b97p#programme">
+			<dc:title>Snowdrops and bluebells</dc:title>
+			<po:subject rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k0pp#programme">
+			<dc:title>Snowdrop timelapse</dc:title>
+			<po:subject rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Galanthus_nivalis">
+		<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/snowdrop/galanthus-nivalis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/dna/h2g2/A3694728">
+			<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.botanical.com/botanical/mgmh/s/snowdr59.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/o795-snowdrop.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-16789834">
+			<dc:title>Meet the galanthophiles</dc:title>
+			<dc:description>Why is the modest snowdrop creating a "mania" among plant lovers that puts other flowers in the shade?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/northwestwales/hi/people_and_places/nature/newsid_8472000/8472965.stm">
+			<dc:title>Snowdrops score a big hit with winter gardeners</dc:title>
+			<dc:description>Pamela Harris is proud to call herself a galanthophile, a snowdrop enthusiast who was bitten by the bug over 20 years ago.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Galanthus_nivalis#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Galanthus_nivalis.gif">
+		<dc:title>Map showing the distribution of the Snowdrop species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Galanthus</rdfs:label><wo:species rdf:resource="/nature/life/Galanthus_nivalis#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Alliaceae#family"><rdfs:label>Alliaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Asparagales#order"><rdfs:label>Asparagales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Blue_Tit">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Blue_Tit#species">
+				<rdfs:label>Blue tit</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Blue_Tit#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blue_tit/blue_tit_1.jpg"/>
+
+				<dc:description>Blue tits are bright, inquisitive little birds that have been shown to use aromatic leaves from lavender, mint and curry plants to disinfect their nests. They are also infamous for following milkmen to take sneaky sips from milk bottles by tearing through the foil tops. Cosmopolitan foragers, blue tits are found throughout Britain and as far east as Iran.
+<br />
+<br />
+Their <a href="http://www.bbc.co.uk/nature/adaptations/Visual_perception">colourful plumage</a> makes them a cheerful sight on garden feeders, although during spring and summer they mostly feed on invertebrates. The yellowness of a male blue tit's breast is an indication of the number of yellowy-green caterpillars he has eaten, and a brighter breast is more attractive to females.
+<br />
+<br />
+<a href="/nature/19700707">All you need to know about British birds.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Blue_Tit"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Blue_Tit.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Cyanistes#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Tit_(bird)#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Blue_Tit#name">
+				<rdfs:label>Cyanistes caeruleus</rdfs:label>
+				        <wo:commonName>Blue tit</wo:commonName>
+        										<wo:scientificName>caeruleuscaeruleus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Paridae</wo:familyName><wo:genusName>Cyanistes</wo:genusName><wo:speciesName>caeruleus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blue_tit/blue_tit_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Blue_Tit#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/blue_tit/blue_tit_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dvhdv#programme">
+			<dc:title>Tits on the wing</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c4mhl#programme">
+			<dc:title>Family politics</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c4lpz#programme">
+			<dc:title>Birdfeeder fights</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1jjg#programme">
+			<dc:title>Rhythm of nature</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00by6vm#programme">
+			<dc:title>Milk thieves</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085xnx#programme">
+			<dc:title>Fledging blue tits</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085d22#programme">
+			<dc:title>Peeping blue tits</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0084snr#programme">
+			<dc:title>Mint condition</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yg96#programme">
+			<dc:title>Blue tit beauties</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vrwp#programme">
+			<dc:title>Egg extremes</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bl/blue_tit/5057004.mp3">
+			<dc:title>A singing blue tit</dc:title>
+			<dc:subject rdf:resource="/nature/species/Blue_Tit#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Blue_Tit">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Parus_caeruleus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/blue-tit/parus-caeruleus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/blue-tit.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bto.org/nnbw/nesting_birds/blue_tit.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bto.org/volunteer-surveys/nbc/blue-tit-blog">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/b/bluetit/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cambridgeshire-24225216">
+			<dc:title>Urban birds 'cope better in cold'</dc:title>
+			<dc:description>Urban birds bred more successfully than their woodland cousins for the first time, during a cold and wet 2012, research shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/baby-blue-tits-feeding/7544.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>How do baby birds behave when they are being fed?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/blue-tit-fledglings-being-fed-by-their-mother-on-the-ground/7536.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Why are chicks sometimes fed outside the nest?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Tit#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Blue_Tit.gif">
+		<dc:title>Map showing the distribution of the Blue tit species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Cyanistes#genus"><rdfs:label>Cyanistes</rdfs:label><wo:species rdf:resource="/nature/life/Blue_Tit#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Tit_(bird)#family"><rdfs:label>Paridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

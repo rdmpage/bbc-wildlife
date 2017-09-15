@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Japanese_giant_salamander">
+		<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Japanese_giant_salamander#species">
+				<rdfs:label>Japanese giant salamander</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Japanese_giant_salamander#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/j/ja/japanese_giant_salamander/japanese_giant_salamander_1.jpg"/>
+
+				<dc:description>Japanese giant salamanders can grow up to 1.5m long, and are the second largest salamanders in the world. They can survive for weeks without eating, owing to their very slow metabolism.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Japanese_giant_salamander"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Andrias#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Giant_salamander#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Salamander#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Amphibian#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Japanese_giant_salamander#name">
+				<rdfs:label>Andrias japonicus</rdfs:label>
+				        <wo:commonName>Japanese giant salamander</wo:commonName>
+        										<wo:scientificName>japonicusjaponicus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Amphibia</wo:className><wo:orderName>Caudata</wo:orderName><wo:familyName>Cryptobranchidae</wo:familyName><wo:genusName>Andrias</wo:genusName><wo:speciesName>japonicus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/j/ja/japanese_giant_salamander/japanese_giant_salamander_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/j/ja/japanese_giant_salamander/japanese_giant_salamander_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00379vh#programme">
+			<dc:title>Japanese giant salamander</dc:title>
+			<po:subject rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Japanese_giant_salamander">
+		<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Andrias_japonicus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.amphibiaweb.org/cgi-bin/amphib_query?where-genus=Andrias&amp;where-species=japonicus">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/japanese-giant-salamander/andrias-japonicus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/1273">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8498023.stm">
+			<dc:title>Giant salamander: Human threat, human promise</dc:title>
+			<dc:description>As we pull into Toyohira, an unusual and unexpected welcome committee is lined up ready to receive us.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8497330.stm">
+			<dc:title>Close encounters with Japan's 'living fossil'</dc:title>
+			<dc:description>It soon becomes clear that the giant salamander has hit Claude Gascon's enthusiasm button smack on the nose.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_giant_salamander#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Andrias#genus"><rdfs:label>Andrias</rdfs:label><wo:species rdf:resource="/nature/life/Japanese_giant_salamander#species"/><wo:species rdf:resource="/nature/life/Chinese_giant_salamander#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Giant_salamander#family"><rdfs:label>Cryptobranchidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Salamander#order"><rdfs:label>Caudata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Amphibian#class"><rdfs:label>Amphibia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

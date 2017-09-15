@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Pusa">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pusa#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Pusa#genus">
+				<rdfs:label>Pusa seals</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Pusa#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pu/pusa/pusa_1.jpg"/>
+
+				<dc:description>Pusa is a genus of seals that contains the ringed, Baikal and Caspian species. All three are found in freshwater. The <a href="/nature/life/Baikal_Seal">Baikal seal</a> is restricted to its namesake lake, whilst the <a href="/nature/life/Ringed_seal">ringed seal</a> lives in the ocean. The Caspian seal - as its name suggests - is found in the saline waters of the Caspian Sea. In all three species the pups are born on the ice, in sheltered areas or in dens. Newborns are white but develop adult colouration a few weeks later.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pusa"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Pusa.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Earless_seal#family"/>
+                                                        <wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Pusa#name">
+				<rdfs:label>Pusa</rdfs:label>
+				        <wo:commonName>Pusa seals</wo:commonName>
+        										<wo:scientificName>Pusa</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:superfamilyName>Pinnipedia</wo:superfamilyName><wo:familyName>Phocidae</wo:familyName><wo:genusName>Pusa</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pu/pusa/pusa_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Pusa#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pu/pusa/pusa_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pusa">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pusa#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Pusa.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pusa#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Pusa/123810">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pusa#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/78252">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pusa#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Pusa.gif">
+		<dc:title>Map showing the distribution of the Pusa seals genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Earless_seal#family"><rdfs:label>Phocidae</rdfs:label><wo:genus rdf:resource="/nature/life/Pusa#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Monachus#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Superfamily rdf:about="/nature/superfamily/Pinniped#superfamily"><rdfs:label>Pinnipedia</rdfs:label></wo:Superfamily><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Ringed_seal#genus"><rdfs:label>Ringed seal</rdfs:label><wo:genus rdf:resource="/nature/life/Pusa#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Baikal_Seal#genus"><rdfs:label>Baikal seal</rdfs:label><wo:genus rdf:resource="/nature/life/Pusa#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

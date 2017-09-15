@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/European_Hedgehog">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/European_Hedgehog#species">
+				<rdfs:label>Hedgehog</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/European_Hedgehog#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_hedgehog/european_hedgehog_1.jpg"/>
+
+				<dc:description>Hedgehogs are the only British mammal with spines. When threatened they will roll into a <a href="http://www.bbc.co.uk/nature/adaptations/Antipredator_adaptation">tight ball</a>, with the spines providing sharp protection from <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predators</a>. Young hedgehogs are born with soft spines under the skin to protect mum, with a second set of spines emerging within days. One peculiarity to all hedgehogs is the way they cover their spines in foamy saliva, the reason why they do this remains a mystery although it has been suggested it might be a sexual attractant, or be used to reduce parasites, or as additional <a href="http://www.bbc.co.uk/nature/adaptations/Antipredator_adaptation">protection</a>. Hedgehogs aren't fussy when it comes to food: <a href="http://www.bbc.co.uk/nature/life/Lumbricidae">worms</a>, slugs, <a href="http://www.bbc.co.uk/nature/life/Frog">frogs</a> and even bird eggs can be taken during a two kilometre nightly forage, a resistance to <a href="http://www.bbc.co.uk/nature/life/Vipera_berus">adder</a> venom can also put this snake on the menu.
+<br/>
+<br/>
+<b>Did you know?</b><br/> The name for a baby hedgehog is a hoglet.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/European_Hedgehog"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Erinaceus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Erinaceidae#family"/>
+                                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/European_Hedgehog#name">
+				<rdfs:label>Erinaceus europaeus</rdfs:label>
+				        <wo:commonName>Hedgehog</wo:commonName>
+        										<wo:scientificName>europaeuseuropaeus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Erinaceomorpha</wo:orderName><wo:familyName>Erinaceidae</wo:familyName><wo:genusName>Erinaceus</wo:genusName><wo:speciesName>europaeus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_hedgehog/european_hedgehog_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/European_Hedgehog#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/european_hedgehog/european_hedgehog_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01jmbd6#programme">
+			<dc:title>Prickly partnership</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00zd354#programme">
+			<dc:title>A liking for licking</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kshm8#programme">
+			<dc:title>Helping hogs!</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gn1rj#programme">
+			<dc:title>Hedgehog success</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gn1pb#programme">
+			<dc:title>A hedgehog's history of Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gn1dn#programme">
+			<dc:title>Make a hog heaven!</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yfc2#programme">
+			<dc:title>City hogs</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003b0vl#programme">
+			<dc:title>The lighter side of hedgehogs</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/european_hedgehog/mp25222-14.mp3">
+			<dc:title>Hedgehog sniffing</dc:title>
+			<dc:subject rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/European_Hedgehog">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://88.208.205.92/index.php?option=com_content&amp;view=article&amp;id=212&amp;Itemid=245">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Erinaceus_europaeus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/hedgehog/erinaceus-europaeus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.britishhedgehogs.org.uk/FAQS/general.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.hedgehogrescue.org/hibernation.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/o80-hedgehog.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21249195">
+			<dc:title>In Pictures: Hedgehog health survey</dc:title>
+			<dc:description>The health of the UK's hedgehogs is the key concern for a survey launched amid concerns that the spiny mammals are facing a serious decline in the UK.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-tayside-central-21127846">
+			<dc:title>Hedgehogs struggling due to cold</dc:title>
+			<dc:description>The number of hedgehogs being rescued by the animal charity Scottish SPCA increases by almost 10% in 12 months.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16597723">
+			<dc:title>Appeal for hedgehog climate study</dc:title>
+			<dc:description>UK wildlife charities are asking for people's help with a study to see whether hedgehogs are being affected by climate change.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9469000/9469456.stm">
+			<dc:title>GPS backpacks track NZ hedgehogs</dc:title>
+			<dc:description>Hedgehogs are the smallest mammal to ever be tracked by GPS, following a study by scientists in New Zealand.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-10870378">
+			<dc:title>Sniffer dog joins Western Isles hedgehog hunt</dc:title>
+			<dc:description>A golden Labrador is brought in to help search for hedgehogs on the Western Isles.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-10868058">
+			<dc:title>Aberdeen disabled group launches safe hedgehog boxes</dc:title>
+			<dc:description>A council-run project for people with disabilities in Aberdeen creates a special range of hedgehog boxes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8710000/8710604.stm">
+			<dc:title>Male and female hedgehogs prefer different gardens</dc:title>
+			<dc:description>A study of urban hedgehogs has found they prefer certain types of garden.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8592678.stm">
+			<dc:title>The curious case of the Kiwi hedgehog</dc:title>
+			<dc:description>Hugh Warwick was a vocal opponent of the cull of hedgehogs on the Scottish islands known as the Outer Hebrides. However, in this week's Green Room, he argues that sometimes there are compelling reasons to support a cull.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hedgehog#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Erinaceus#genus"><rdfs:label>Erinaceus</rdfs:label><wo:species rdf:resource="/nature/life/European_Hedgehog#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Erinaceidae#family"><rdfs:label>Erinaceidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Erinaceomorpha</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

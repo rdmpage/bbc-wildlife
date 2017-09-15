@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Apodiformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Apodiformes#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Apodiformes#order">
+				<rdfs:label>Swifts and hummingbirds</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Apodiformes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ap/apodiformes/apodiformes_1.jpg"/>
+
+				<dc:description>Apodiformes are one of the most diverse orders of migratory birds on Earth. There are almost 450 species so far identified within three living familes: swifts, tree swifts and hummingbirds. All the birds in this order have very short legs and tiny feet that are only good for perching. Long wings containing short bones allow for some spectacular flying and hovering. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Apodiformes"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Apodiformes#name">
+				<rdfs:label>Apodiformes</rdfs:label>
+				        <wo:commonName>Swifts and hummingbirds</wo:commonName>
+        								<wo:commonName>Apodiformes</wo:commonName>
+						<wo:commonName>Apodimorphae</wo:commonName>
+								<wo:scientificName>Apodiformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Apodiformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ap/apodiformes/apodiformes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Apodiformes#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ap/apodiformes/apodiformes_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Apodiformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Apodiformes#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Apodiformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Apodiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsinfocus.com/show.php?order=Apodiformes">
+			<foaf:primaryTopic rdf:resource="/nature/order/Apodiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmnh.si.edu/BIRDNET/splists/Apodiformescl.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Apodiformes#order"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label><wo:order rdf:resource="/nature/life/Apodiformes#order"/><wo:order rdf:resource="/nature/life/Anseriformes#order"/><wo:order rdf:resource="/nature/life/Caprimulgiformes#order"/><wo:order rdf:resource="/nature/life/Charadriiformes#order"/><wo:order rdf:resource="/nature/life/Ciconiiformes#order"/><wo:order rdf:resource="/nature/life/Columbiformes#order"/><wo:order rdf:resource="/nature/life/Coraciiformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Falconiformes#order"/><wo:order rdf:resource="/nature/life/Galliformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Gruiformes#order"/><wo:order rdf:resource="/nature/life/Passerine#order"/><wo:order rdf:resource="/nature/life/Pelecaniformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Piciformes#order"/><wo:order rdf:resource="/nature/life/Podicipediformes#order"/><wo:order rdf:resource="/nature/life/Procellariiformes#order"/><wo:order rdf:resource="/nature/life/Parrot#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Owl#order"/><wo:order rdf:resource="/nature/life/Ratite#order"/><wo:order rdf:resource="/nature/life/Archaeopterygiformes#order"/><wo:order rdf:resource="/nature/life/Gastornithiformes#order"/><wo:order rdf:resource="/nature/life/Cariamae#order"/><wo:order rdf:resource="/nature/life/Aepyornithiformes#order"/><wo:order rdf:resource="/nature/life/Eurypygiformes#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Common_Swift#order"><rdfs:label>Common swift</rdfs:label><wo:order rdf:resource="/nature/life/Apodiformes#order"/></wo:Species><wo:Family rdf:about="/nature/life/Hummingbird#order"><rdfs:label>Hummingbirds</rdfs:label><wo:order rdf:resource="/nature/life/Apodiformes#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

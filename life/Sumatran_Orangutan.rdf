@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Sumatran_Orangutan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Sumatran_Orangutan#species">
+				<rdfs:label>Sumatran orangutan</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Sumatran_Orangutan#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/su/sumatran_orangutan/sumatran_orangutan_1.jpg"/>
+
+				<dc:description>Sumatran orangutans are even more endangered than their Bornean counterparts, with numbers in the wild estimated at under 8,000. They are only found in the forests of the Indonesian island of Sumatra, and are the largest of the tree-dwelling primates. They rarely venture out of the canopy where they build nests to sleep or nap in. A large appetite for fruit makes these primates very important to forest ecology as dispersers of seeds.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sumatran_Orangutan"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Orangutan#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Hominidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Sumatran_Orangutan#name">
+				<rdfs:label>Pongo abelii</rdfs:label>
+				        <wo:commonName>Sumatran orangutan</wo:commonName>
+        								<wo:commonName>Sumatran orang-utan</wo:commonName>
+								<wo:scientificName>abeliiabelii</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hominidae</wo:familyName><wo:genusName>Pongo</wo:genusName><wo:speciesName>abelii</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/su/sumatran_orangutan/sumatran_orangutan_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/su/sumatran_orangutan/sumatran_orangutan_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005jx1l#programme">
+			<dc:title>Forest education</dc:title>
+			<po:subject rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/su/sumatran_orangutan/5005127.mp3">
+			<dc:title>Long call from an adult male orangutan</dc:title>
+			<dc:subject rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/su/sumatran_orangutan/nhs1303-01.mp3">
+			<dc:title>Sumatran orangutan alarm call</dc:title>
+			<dc:subject rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sumatran_Orangutan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Pongo_abelii.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/sumatran-orang-utan/pongo-abelii/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/39780/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.orangutans-sos.org/orangutans/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sumatranorangutan.org/content-n31-sE.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.worldwildlife.org/who/media/press/2009/WWFPresitem12129.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-jersey-21019564">
+			<dc:title>Two orangutans pregnant in island</dc:title>
+			<dc:description>Two of the Sumatran orangutans at Jersey's Durrell wildlife park are expecting babies this spring.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8171142.stm">
+			<dc:title>Orangutans swing for their dinner</dc:title>
+			<dc:description>The deft way that Sumatran orangutans are able to swing from branches seemingly too weak to take their weight has been described by scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8058000/8058365.stm">
+			<dc:title>Orangutans cannibalise own babies</dc:title>
+			<dc:description>Two female orangutans have been seen cannibalising the bodies of their recently deceased babies.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8000909.stm">
+			<dc:title>Pet trade puts orangutans at risk</dc:title>
+			<dc:description>The trade in Sumatran orangutans for pets shows little sign of decline and is taking the species to the brink of extinction, a report concludes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/merseyside/7932654.stm">
+			<dc:title>Baby orang-utan a 'ray of light'</dc:title>
+			<dc:description>A Sumatran orang-utan baby which was born at Chester Zoo - the second in less than 12 months - has been named by visitors to the Cheshire zoo.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/americas/7166338.stm">
+			<dc:title>'World's oldest' orang-utan dies</dc:title>
+			<dc:description>A 55-year-old Sumatran orang-utan, thought to be the world's oldest in captivity or the wild, has died at a zoo in the US.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sumatran_Orangutan#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Orangutan#genus"><rdfs:label>Pongo</rdfs:label><wo:species rdf:resource="/nature/life/Sumatran_Orangutan#species"/><wo:species rdf:resource="/nature/life/Bornean_Orangutan#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Hominidae#family"><rdfs:label>Hominidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

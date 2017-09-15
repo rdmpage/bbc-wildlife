@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Southern_right_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Southern_right_whale#species">
+				<rdfs:label>Southern right whale</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Southern_right_whale#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/so/southern_right_whale/southern_right_whale_1.jpg"/>
+
+				<dc:description>A southern right whale's head measures one third of its total length. It is one of the easiest <a href="http://www.bbc.co.uk/nature/life/Cetacea">whales</a>
+ to identify as the enormous head is also covered in white-coloured outgrowths of tough skin. These callosities form a unique pattern on each whale, like fingerprints in <a href="http://www.bbc.co.uk/nature/life/Human">humans</a>. Courtship and mating is both tender and graceful, without any animosity between males mating with the same female. Females calve once every three years, giving <a href="http://www.bbc.co.uk/nature/adaptations/Vivipary">birth</a> to a weighty 1,500kg calf. Despite their great size, the young are brought up on a diet of high-fat milk and remain in <a href="http://www.bbc.co.uk/nature/habitats/Neritic_zone">shallow waters</a>, safe from the likes of <a href="http://www.bbc.co.uk/nature/life/Killer_whale">orcas</a> and <a href="http://www.bbc.co.uk/nature/life/Great_white_shark">great white sharks</a>. Southern right whales are only found in the oceans of the southern hemisphere. They inhabit waters close to <a href="http://www.bbc.co.uk/nature/places/Antarctica">Antarctica</a> during the summer and <a href="http://www.bbc.co.uk/nature/adaptations/Animal_migration">migrate</a> northwards to coastal areas in winter.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Southern_right_whale"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Southern_right_whale.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Right_whale#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Balaenidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Southern_right_whale#name">
+				<rdfs:label>Eubalaena australis</rdfs:label>
+				        <wo:commonName>Southern right whale</wo:commonName>
+        										<wo:scientificName>australisaustralis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Balaenidae</wo:familyName><wo:genusName>Eubalaena</wo:genusName><wo:speciesName>australis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/so/southern_right_whale/southern_right_whale_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Southern_right_whale#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/so/southern_right_whale/southern_right_whale_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jp820#programme">
+			<dc:title>Extraordinary courtship</dc:title>
+			<po:subject rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jp81j#programme">
+			<dc:title>Size matters</dc:title>
+			<po:subject rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Southern_right_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Eubalaena_australis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/southern-right-whale/eubalaena-australis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.hermanus.co.za/whales/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=220222">
+			<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/rightwhale_southern.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.whaletrackers.com/southern-right-whales-of-argentina/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Southern_right_whale#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Southern_right_whale.gif">
+		<dc:title>Map showing the distribution of the Southern right whale species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Right_whale#genus"><rdfs:label>Eubalaena</rdfs:label><wo:species rdf:resource="/nature/life/Southern_right_whale#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Balaenidae#family"><rdfs:label>Balaenidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

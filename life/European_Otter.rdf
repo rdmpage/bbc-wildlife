@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/European_Otter">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/European_Otter#species">
+				<rdfs:label>Otter</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/European_Otter#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_otter/european_otter_1.jpg"/>
+
+				<dc:description>Otters are inquisitive, playful and intelligent, often appearing to take childlike enjoyment in sliding around on muddy banks or in snow. They are semi-aquatic mammals and live in holts around water edges. They are fast, agile swimmers. Bubbles of air trapped in their fur give them a silvery appearance underwater.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/European_Otter"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mangrove#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Lutra#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Mustelidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/European_Otter#name">
+				<rdfs:label>Lutra lutra</rdfs:label>
+				        <wo:commonName>Otter</wo:commonName>
+        								<wo:commonName>Common otter</wo:commonName>
+						<wo:commonName>Eurasian otter</wo:commonName>
+						<wo:commonName>Eurasian river otter</wo:commonName>
+						<wo:commonName>European otter</wo:commonName>
+						<wo:commonName>Old world otter</wo:commonName>
+								<wo:scientificName>lutralutra</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Mustelidae</wo:familyName><wo:genusName>Lutra</wo:genusName><wo:speciesName>lutra</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_otter/european_otter_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/European_Otter#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/european_otter/european_otter_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015rvn0#programme">
+			<dc:title>Searching for signs of otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00nq04v#programme">
+			<dc:title>Mull's otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lyqn4#programme">
+			<dc:title>Flourishing otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1p0w#programme">
+			<dc:title>Snoozing otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bhnsv#programme">
+			<dc:title>Playful cubs</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bhnqn#programme">
+			<dc:title>Swimming with otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bhn70#programme">
+			<dc:title>Creatures of habit</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085dpy#programme">
+			<dc:title>Brazen otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008519z#programme">
+			<dc:title>Water slide</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yz31#programme">
+			<dc:title>Beach view</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xw2d#programme">
+			<dc:title>Mull's otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xs1v#programme">
+			<dc:title>Urban otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007g7fv#programme">
+			<dc:title>Industrial age otters</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005766q#programme">
+			<dc:title>Otter family</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k8kr#programme">
+			<dc:title>Otter cubs</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k0lr#programme">
+			<dc:title>Otter life</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/european_otter/mm20-05.mp3">
+			<dc:title>Half-grown otter cubs</dc:title>
+			<dc:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/european_otter/mp15072-06.mp3">
+			<dc:title>River otter whistling</dc:title>
+			<dc:subject rdf:resource="/nature/species/European_Otter#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/European_Otter">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lutra_lutra.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/common-otter/lutra-lutra/">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/328044">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/12419/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mammal.org.uk/index.php?option=com_content&amp;view=article&amp;id=231&amp;Itemid=264">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.otterspecialistgroup.org/Species/Lutra_lutra.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/22286398">
+			<dc:title>Return of the elusive movie star</dc:title>
+			<dc:description>With populations in decline, an otter made an unlikely screen star in 1969 but now spotting opportunities are improving.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21534742">
+			<dc:title>Chemical link to otter penis problem</dc:title>
+			<dc:description>Chemicals may be linked to a decrease in males otters' penis bone weight, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-humber-20640381">
+			<dc:title>Otter family flooded out of home</dc:title>
+			<dc:description>An East Yorkshire nature reserve celebrates a rare breeding success after two otter cubs are spotted with their mother.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-14557381">
+			<dc:title>Otters now in each English county</dc:title>
+			<dc:description>Otters have been spotted in Kent, signalling their return to every English county after once being on the brink of extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-south-east-wales-14222732">
+			<dc:title>Roadkill study 'to help otters'</dc:title>
+			<dc:description>Scientists have shed new light on the social lives of otters by studying roadkill found by the public, research which it says will help the species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-13697395">
+			<dc:title>Otter cull call to protect fish</dc:title>
+			<dc:description>There are calls to allow owners of commercial fisheries to cull otters because they're eating too many fish.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-11562679">
+			<dc:title>Otters come back from the brink</dc:title>
+			<dc:description>The otter has made a remarkable comeback from the brink of extinction in England, the Environment Agency says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9066000/9066425.stm">
+			<dc:title>Swimming with wild otters</dc:title>
+			<dc:description>A BBC presenter has a rare undersea encounter with a wild British otter. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/somerset/hi/people_and_places/nature/newsid_8402000/8402154.stm">
+			<dc:title>Rivers wash otters out of homes</dc:title>
+			<dc:description>A Somerset wildlife charity takes in a record number of otters this winter as higher than normal river levels have threatened their habitat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Otter#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mangrove#habitat">
+					<rdfs:label>Mangroves</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Lutra#genus"><rdfs:label>Lutra</rdfs:label><wo:species rdf:resource="/nature/life/European_Otter#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Mustelidae#family"><rdfs:label>Mustelidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

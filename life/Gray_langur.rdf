@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Gray_langur">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Gray_langur#genus">
+				<rdfs:label>Grey langurs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Gray_langur#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_langur/gray_langur_1.jpg"/>
+
+				<dc:description>Grey langurs are a genus of Old World monkeys once thought to be a single species. Seven distinct species are now recognised, which are widespread throughout south Asia. The most northerly species are generally larger and heavier than the southern langurs and walk with their tails pointing forward, while southern langurs point their tails backwards. Grey langurs, with their black hands and face, are also known as Hanuman langurs after the monkey-god, and so are considered sacred in the Hindu religion.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gray_langur"/>
+		
+		
+									
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Old_World_monkey#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Gray_langur#name">
+				<rdfs:label>Semnopithecus</rdfs:label>
+				        <wo:commonName>Grey langurs</wo:commonName>
+        								<wo:commonName>Common langurs</wo:commonName>
+						<wo:commonName>Gray langurs</wo:commonName>
+						<wo:commonName>Hanuman langurs</wo:commonName>
+								<wo:scientificName>Semnopithecus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Cercopithecidae</wo:familyName><wo:genusName>Semnopithecus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_langur/gray_langur_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Gray_langur#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/gray_langur/gray_langur_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b2nh2#programme">
+			<dc:title>Mountain monkeys</dc:title>
+			<po:subject rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0086gbc#programme">
+			<dc:title>Monsoon mountains</dc:title>
+			<po:subject rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00483ld#programme">
+			<dc:title>Monkey business</dc:title>
+			<po:subject rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k9lm#programme">
+			<dc:title>Friends in need</dc:title>
+			<po:subject rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gray_langur">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Semnopithecus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/entry/gray_langur/cons">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/entry/gray_langur/taxon">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cabrillo.edu/~crsmith/hanumanlangurs.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.theprimata.com/semnopithecus_entellus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-11433539">
+			<dc:title>Monkeys roped in for Delhi Games</dc:title>
+			<dc:description>Delhi deploys large black-faced langur monkeys at Commonwealth Games venues to scare away smaller red-faced simians.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Gray_langur#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Old_World_monkey#family"><rdfs:label>Cercopithecidae</rdfs:label><wo:genus rdf:resource="/nature/life/Gray_langur#genus"/><wo:genus rdf:resource="/nature/life/Erythrocebus#genus"/><wo:genus rdf:resource="/nature/life/Baboon#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Lutung#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Snub-nosed_monkey#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Macaque#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

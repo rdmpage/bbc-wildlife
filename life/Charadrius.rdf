@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Charadrius">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Charadrius#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Charadrius#genus">
+				<rdfs:label>Ringed plovers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Charadrius#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/charadrius/charadrius_1.jpg"/>
+
+				<dc:description>Ringed plovers are a group of small <a href="http://www.bbc.co.uk/nature/life/Charadriiformes">wading birds</a> known for their breast bands or collars. Catching <a href="http://www.bbc.co.uk/nature/life/Insect">insects</a> and other invertebrates by sight they employ a run-and-pause technique; other waders, with longer bills, prefer to feel and probe. Widely distributed throughout the world there are over 30 species of ringed plover.
+<br />
+<br />
+Those of us in the <a href="http://www.bbc.co.uk/nature/places/United_Kingdom">United Kingdom</a> will be most familiar with the <a href="http://www.bbc.co.uk/nature/life/Little_Ringed_Plover">little ringed plover</a>, <a href="http://www.bbc.co.uk/nature/life/Common_Ringed_Plover">common ringed plover</a> and the dotterel. Less familiar species include the Saint Helena plover and <a href="http://www.bbc.co.uk/nature/places/South_America">South America's</a> puna plover.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Charadrius"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Charadriidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Charadriiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Charadrius#name">
+				<rdfs:label>Charadrius</rdfs:label>
+				        <wo:commonName>Ringed plovers</wo:commonName>
+        										<wo:scientificName>Charadrius</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Charadriiformes</wo:orderName><wo:familyName>Charadriidae</wo:familyName><wo:genusName>Charadrius</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/charadrius/charadrius_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Charadrius#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ch/charadrius/charadrius_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Charadrius">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Charadrius#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Charadrius.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Charadrius#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/19938/entries/45607948/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Charadrius#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Charadriidae#family"><rdfs:label>Charadriidae</rdfs:label><wo:genus rdf:resource="/nature/life/Charadrius#genus"/><wo:genus rdf:resource="/nature/life/Vanellus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Charadriiformes#order"><rdfs:label>Charadriiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Common_Ringed_Plover#genus"><rdfs:label>Common ringed plover</rdfs:label><wo:genus rdf:resource="/nature/life/Charadrius#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Little_Ringed_Plover#genus"><rdfs:label>Little ringed plover</rdfs:label><wo:genus rdf:resource="/nature/life/Charadrius#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

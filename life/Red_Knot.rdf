@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Red_Knot">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Red_Knot#species">
+				<rdfs:label>Knot</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Red_Knot#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_knot/red_knot_1.jpg"/>
+
+				<dc:description>Knots, known as red knots in America as a result of their lovely red summer plumage, are stocky wading and shore birds. They undertake one of the longest migrations of any animal from their Arctic breeding grounds to the coasts and estuaries of Europe, Africa and Australia where they spend the winter feasting on invertebrates. They often form large, wheeling flocks that contain in excess of 100,000 birds.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Red_Knot"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Charadriiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Red_Knot#name">
+				<rdfs:label>Calidris canutus</rdfs:label>
+				        <wo:commonName>Knot</wo:commonName>
+        										<wo:scientificName>canutuscanutus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Charadriiformes</wo:orderName><wo:familyName>Scolopacidae</wo:familyName><wo:genusName>Calidris</wo:genusName><wo:speciesName>canutus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_knot/red_knot_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Red_Knot#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/red_knot/red_knot_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hjtv8#programme">
+			<dc:title>Knot in the Wash Estuary</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Knot#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b9dd#programme">
+			<dc:title>Smoke and mirrors</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Knot#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vyhv#programme">
+			<dc:title>The knot spectacular</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Knot#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/r/re/red_knot/5002046.mp3">
+			<dc:title>Flocks of knots leaving their roost</dc:title>
+			<dc:subject rdf:resource="/nature/species/Red_Knot#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Red_Knot">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob4960.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Red_Knot/id">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/red-knot/calidris-canutus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3041">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/k/knot/index.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/local/norfolk/hi/people_and_places/nature/newsid_8322000/8322419.stm">
+			<dc:title>Autumnwatch: Ballet of the knot</dc:title>
+			<dc:description>A spectacular wildlife event takes place in north Norfolk when thousands of migratory birds fly in for their winter roost.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Knot#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Calidris</rdfs:label><wo:species rdf:resource="/nature/life/Red_Knot#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Scolopacidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Charadriiformes#order"><rdfs:label>Charadriiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Pieridae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pieridae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Pieridae#family">
+				<rdfs:label>Sulphurs and whites</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Pieridae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pieridae/pieridae_1.jpg"/>
+
+				<dc:description>Sulphur and white butterflies do not have the <a href="/nature/adaptations/Visual_perception">bright colours</a> and bold patterns of some other <a href="/nature/life/Lepidoptera">butterfly</a> families. Their wings can still be beautiful white, yellow and orange colours, often with black spots. It is a large <a href="/nature/life/Lepidoptera">butterfly</a> family with over one thousand species that are mainly found in <a href="/nature/places/Africa">Africa</a> and <a href="/nature/places/Asia">Asia</a>.
+<br/>
+<br/>
+This group includes a few of the <a href="/nature/places/United_Kingdom">UK’s</a> more common butterflies including the early emerging <a href="/nature/life/Gonepteryx_rhamni">brimstone</a> and the large and small <a href="/nature/life/Large_White">cabbage whites</a>; the latter two are notorious agricultural pests of cabbages and other brassicas. More exotically named species include California’s state insect, the California dogface, and Asia’s psyche butterfly.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pieridae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Pieridae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Lepidoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Pieridae#name">
+				<rdfs:label>Pieridae</rdfs:label>
+				        <wo:commonName>Sulphurs and whites</wo:commonName>
+        										<wo:scientificName>Pieridae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Lepidoptera</wo:orderName><wo:familyName>Pieridae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pieridae/pieridae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Pieridae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pi/pieridae/pieridae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pieridae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pieridae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Pieridae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pieridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/885/overview">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pieridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ukbutterflies.co.uk/species_family.php?name=Pieridae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pieridae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Pieridae.gif">
+		<dc:title>Map showing the distribution of the Sulphurs and whites family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Lepidoptera#order"><rdfs:label>Lepidoptera</rdfs:label><wo:family rdf:resource="/nature/life/Pieridae#family"/><wo:family rdf:resource="/nature/life/Nymphalidae#family"/><wo:family rdf:resource="/nature/life/Lycaenidae#family"/><wo:family rdf:resource="/nature/life/Swallowtail_butterfly#family"/><wo:family rdf:resource="/nature/life/Sphingidae#family"/><wo:family rdf:resource="/nature/life/Arctiidae#family"/><wo:family rdf:resource="/nature/life/Zygaenidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Large_White#family"><rdfs:label>Cabbage white</rdfs:label><wo:family rdf:resource="/nature/life/Pieridae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Gonepteryx_rhamni#family"><rdfs:label>Brimstone</rdfs:label><wo:family rdf:resource="/nature/life/Pieridae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

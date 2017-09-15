@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Haast's_Eagle">
+		<foaf:primaryTopic rdf:resource="/nature/species/Haast's_Eagle#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Haast's_Eagle#species">
+				<rdfs:label>Haast's eagle</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Haast's_Eagle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/haasts_eagle/haasts_eagle_1.jpg"/>
+
+				<dc:description>Haast’s eagle was the largest eagle ever to have lived and the top predator of the time in its ecosystem. Its relatively short wings were designed for flapping flight and not for soaring, allowing for fast, manoeuvrable flight in dense forest. Because of its large size, Haast’s eagle was approaching the upper limit of size for flapping flight – if it had been any bigger it would have had to rely on gliding. It preyed upon the large flightless birds of the time, including various species of moa. Haast's eagle relied upon these flightless birds for food, once they were hunted to extinction then Haast's eagle became extinct soon after.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Haast's_Eagle"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Haast's_Eagle.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Harpagornis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Accipitridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Haast's_Eagle#name">
+				<rdfs:label>Harpagornis moorei</rdfs:label>
+				        <wo:commonName>Haast's eagle</wo:commonName>
+        								<wo:commonName>Haast eagle</wo:commonName>
+								<wo:scientificName>mooreimoorei</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Accipitridae</wo:familyName><wo:genusName>Harpagornis</wo:genusName><wo:speciesName>moorei</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/haasts_eagle/haasts_eagle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Haast's_Eagle#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ha/haasts_eagle/haasts_eagle_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cl8kf#programme">
+			<dc:title>Aerial man-killer</dc:title>
+			<po:subject rdf:resource="/nature/species/Haast's_Eagle#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Haast's_Eagle">
+		<foaf:primaryTopic rdf:resource="/nature/species/Haast's_Eagle#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://nzbirds.com/birds/haasteagle.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Haast's_Eagle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nzconservationtrust.org.nz/nzspecies-details.asp?id=33">
+			<foaf:primaryTopic rdf:resource="/nature/species/Haast's_Eagle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.petermaas.nl/extinct/speciesinfo/haastseagle.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Haast's_Eagle#species"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Haast's_Eagle.gif">
+		<dc:title>Map showing the distribution of the Haast's eagle species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Harpagornis#genus"><rdfs:label>Harpagornis</rdfs:label><wo:species rdf:resource="/nature/life/Haast's_Eagle#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Accipitridae#family"><rdfs:label>Accipitridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

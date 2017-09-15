@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Passalidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Passalidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Passalidae#family">
+				<rdfs:label>Bess beetles</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Passalidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pa/passalidae/passalidae_1.jpg"/>
+
+				<dc:description>Bess beetles, or passalidae, are a family of beetles mostly found in the tropics. These large and dark beetles can produce 14 different sounds by rubbing their wings or legs in a process called stridulation. Adults and larvae live together in family groups inside rotting logs that have been excavated by the adults. Larvae are cared for and fed pre-chewed wood by the adults.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Passalidae"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Passalidae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:superfamily rdf:resource="/nature/life/Dung_beetle#superfamily"/>
+                                                        <wo:order rdf:resource="/nature/life/Beetle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Passalidae#name">
+				<rdfs:label>Passalidae</rdfs:label>
+				        <wo:commonName>Bess beetles</wo:commonName>
+        								<wo:commonName>Bessbugs</wo:commonName>
+						<wo:commonName>Betsy beetles</wo:commonName>
+						<wo:commonName>Horn beetles</wo:commonName>
+						<wo:commonName>Horned passalus beetles</wo:commonName>
+						<wo:commonName>Patent leather beetles</wo:commonName>
+						<wo:commonName>Peg beetles</wo:commonName>
+								<wo:scientificName>Passalidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Coleoptera</wo:orderName><wo:superfamilyName>Scarabaeoidea</wo:superfamilyName><wo:familyName>Passalidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pa/passalidae/passalidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Passalidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pa/passalidae/passalidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004bktf#programme">
+			<dc:title>Talking beetles</dc:title>
+			<po:subject rdf:resource="/nature/family/Passalidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Passalidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Passalidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://bugguide.net/node/view/127">
+			<foaf:primaryTopic rdf:resource="/nature/family/Passalidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Passalidae/9536">
+			<foaf:primaryTopic rdf:resource="/nature/family/Passalidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www-museum.unl.edu/research/entomology/Guide/Scarabaeoidea/Passalidae/Passalidae-Overview/PassalidaeO.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Passalidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Passalidae.gif">
+		<dc:title>Map showing the distribution of the Bess beetles family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Superfamily rdf:about="/nature/superfamily/Dung_beetle#superfamily"><rdfs:label>Scarabaeoidea</rdfs:label><wo:family rdf:resource="/nature/life/Passalidae#family"/><wo:family rdf:resource="/nature/life/Scarabaeidae#family"/><wo:family rdf:resource="/nature/life/Stag_beetle#family"/></wo:Superfamily><wo:Order rdf:about="/nature/order/Beetle#order"><rdfs:label>Coleoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

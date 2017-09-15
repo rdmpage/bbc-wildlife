@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Panthera">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Panthera#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Panthera#genus">
+				<rdfs:label>Roaring cats</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Panthera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pa/panthera/panthera_1.jpg"/>
+
+				<dc:description><a href="/nature/life/Lion">Lions</a>, <a href="/nature/life/Tiger">tigers</a>, <a href="/nature/life/Leopard">leopards</a> and <a href="/nature/life/Jaguar">jaguars</a> are the only cats that can roar. The sound is produced by a specialised larynx and flexible hyoid bone and can be used to stake territory, <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_(sense)">communicate</a> generally or express anger. The four roaring cats are some of the world's most photogenic animals, whose lethal stealth and grace has inspired many film-makers. They feature in many of the classic BBC series from Life of Mammals and Wild Africa to Big Cat Diary and Planet Earth, with such video gems as a <a href="/nature/life/Lion#p00382c5">night-time lion hunt</a> and glimpses of the world's rarest big cat, the <a href="/nature/life/Leopard#p00382tn">Amur leopard</a>.
+<br/>
+<br/>
+<b>Did you know?</b><br/> There are only four species of cat that can roar. This is because they have a specialised larynx and a flexible hyoid bone. 
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Panthera"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Panthera#name">
+				<rdfs:label>Panthera</rdfs:label>
+				        <wo:commonName>Roaring cats</wo:commonName>
+        								<wo:commonName>Great cats</wo:commonName>
+								<wo:scientificName>Panthera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Panthera</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pa/panthera/panthera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Panthera#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pa/panthera/panthera_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Panthera">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Panthera#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Panthera.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Panthera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Panthera/123565">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Panthera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/14134">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Panthera#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label><wo:genus rdf:resource="/nature/life/Panthera#genus"/><wo:genus rdf:resource="/nature/life/Acinonyx#genus"/><wo:genus rdf:resource="/nature/life/Catopuma#genus"/><wo:genus rdf:resource="/nature/life/Felis#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Lynx#genus"/><wo:genus rdf:resource="/nature/life/Neofelis#genus"/><wo:genus rdf:resource="/nature/life/Prionailurus#genus"/><wo:genus rdf:resource="/nature/life/Puma_(genus)#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Smilodon#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Lion#genus"><rdfs:label>Lion</rdfs:label><wo:genus rdf:resource="/nature/life/Panthera#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Jaguar#genus"><rdfs:label>Jaguar</rdfs:label><wo:genus rdf:resource="/nature/life/Panthera#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Leopard#genus"><rdfs:label>Leopard</rdfs:label><wo:genus rdf:resource="/nature/life/Panthera#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Tiger#genus"><rdfs:label>Tiger</rdfs:label><wo:genus rdf:resource="/nature/life/Panthera#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

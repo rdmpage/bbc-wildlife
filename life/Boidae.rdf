@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Boidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Boidae#family">
+				<rdfs:label>Boas and pythons</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Boidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/boidae/boidae_1.jpg"/>
+
+				<dc:description>Pythons and boas are constrictors - snakes which kill their prey by suffocation rather than with venom. Pythons lay eggs whilst boas bear live young.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Boidae"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Boidae#name">
+				<rdfs:label>Boidae</rdfs:label>
+				        <wo:commonName>Boas and pythons</wo:commonName>
+        										<wo:scientificName>Boidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Boidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/boidae/boidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Boidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bo/boidae/boidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f80jv#programme">
+			<dc:title>Relative mystery</dc:title>
+			<po:subject rdf:resource="/nature/family/Boidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Boidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-20509720">
+			<dc:title>Concerns raised over python trade</dc:title>
+			<dc:description>The global trade in python skins is often illegal and is threatening the survival of some species, says a new report.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19261506">
+			<dc:title>Lethal snake viruses identified</dc:title>
+			<dc:description>The cause of a fatal illness that affects captive constrictor snakes such as pythons has been identified, say researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16791094">
+			<dc:title>Pythons link to mammals decline</dc:title>
+			<dc:description>Invasive Burmese pythons are the likely cause of a severe decline in mammals living in Florida's Everglades region, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Boidae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label><wo:family rdf:resource="/nature/life/Boidae#family"/><wo:family rdf:resource="/nature/life/Colubrid#family"/><wo:family rdf:resource="/nature/life/Elapidae#family"/><wo:family rdf:resource="/nature/life/Sea_snake#family"/><wo:family rdf:resource="/nature/life/Viperidae#family"/></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Antaresia_maculosa#family"><rdfs:label>Spotted python</rdfs:label><wo:family rdf:resource="/nature/life/Boidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Boa_constrictor#family"><rdfs:label>Boa constrictor</rdfs:label><wo:family rdf:resource="/nature/life/Boidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Eunectes_notaeus#family"><rdfs:label>Yellow anaconda</rdfs:label><wo:family rdf:resource="/nature/life/Boidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Morelia_amethistina#family"><rdfs:label>Amethystine python</rdfs:label><wo:family rdf:resource="/nature/life/Boidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Python_(genus)#family"><rdfs:label>Pythons</rdfs:label><wo:family rdf:resource="/nature/life/Boidae#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

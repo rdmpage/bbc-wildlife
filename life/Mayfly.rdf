@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Mayfly">
+		<foaf:primaryTopic rdf:resource="/nature/order/Mayfly#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Mayfly#order">
+				<rdfs:label>Mayflies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Mayfly#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/mayfly/mayfly_1.jpg"/>
+
+				<dc:description>Mayflies are famed for their short adult life. Some species have under an hour to mate and lay their eggs before they die. Their pre-adult stage, known as the subimago, may be even shorter - perhaps lasting just lasting a few minutes before they moult into their adult form. So a mayfly spends most of its life as a nymph, hidden from view under the water. Despite their short life, mayflies are a very successful order of insects. There are over 2,000 different species found everywhere except the Arctic, Antarctic and some oceanic islands.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mayfly"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Mayfly.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Mayfly#name">
+				<rdfs:label>Ephemeroptera</rdfs:label>
+				        <wo:commonName>Mayflies</wo:commonName>
+        								<wo:commonName>Dayflies</wo:commonName>
+						<wo:commonName>Lake flies</wo:commonName>
+						<wo:commonName>Shadflies</wo:commonName>
+								<wo:scientificName>Ephemeroptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Ephemeroptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/mayfly/mayfly_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Mayfly#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/mayfly/mayfly_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hjtly#programme">
+			<dc:title>Mayflies on the Bourne River</dc:title>
+			<po:subject rdf:resource="/nature/order/Mayfly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f29lt#programme">
+			<dc:title>Brief encounter</dc:title>
+			<po:subject rdf:resource="/nature/order/Mayfly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007t9x1#programme">
+			<dc:title>Ugly bugs</dc:title>
+			<po:subject rdf:resource="/nature/order/Mayfly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fnfn#programme">
+			<dc:title>Time flies</dc:title>
+			<po:subject rdf:resource="/nature/order/Mayfly#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mayfly">
+		<foaf:primaryTopic rdf:resource="/nature/order/Mayfly#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Ephemeroptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Mayfly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/78">
+			<foaf:primaryTopic rdf:resource="/nature/order/Mayfly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.chebucto.ns.ca/ccn/info/Science/SWCS/ZOOBENTH/BENTHOS/iii.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Mayfly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/arthropoda/uniramia/ephemeroptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Mayfly#order"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Mayfly.gif">
+		<dc:title>Map showing the distribution of the Mayflies order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Mayfly#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Tisza_Mayfly#order"><rdfs:label>Tisza mayfly</rdfs:label><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/American_Bison">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/American_Bison#species">
+				<rdfs:label>American bison</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/American_Bison#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_bison/american_bison_1.jpg"/>
+
+				<dc:description>American bison are the largest land mammals in North America. Massive herds once roamed far and wide across the grasslands and savannas of north America, from Alaska all the way down to Mexico. Nowadays, herds are largely restricted to reserves and parks. Despite the bison's poor eyesight, danger is still detected well in advance, because they have excellent senses of hearing and smell. However, the formidable size and defences of the adults also keep them very safe. Bison calves are capable of walking and even running hours after being born.
+<br/>
+<br/>
+<b>Did you know?</b><br/> American bison are the largest land mammals in North America.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/American_Bison"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/American_Bison.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Bovid#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/American_Bison#name">
+				<rdfs:label>Bison bison</rdfs:label>
+				        <wo:commonName>American bison</wo:commonName>
+        								<wo:commonName>American buffalo</wo:commonName>
+								<wo:scientificName>bisonbison</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Bovidae</wo:familyName><wo:genusName>Bison</wo:genusName><wo:speciesName>bison</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_bison/american_bison_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/American_Bison#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/american_bison/american_bison_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l81n1#programme">
+			<dc:title>Life and death</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Bison#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l4qfs#programme">
+			<dc:title>Wolves get lucky</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Bison#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ry3j#programme">
+			<dc:title>Chewing the cud</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Bison#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006rxz5#programme">
+			<dc:title>Battling bison</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Bison#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006mz8k#programme">
+			<dc:title>Bison weather proofing</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Bison#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0067tfl#programme">
+			<dc:title>Prairie farmers</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Bison#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/am/american_bison/1365-50.mp3">
+			<dc:title>American bison bull chasing a cow</dc:title>
+			<dc:subject rdf:resource="/nature/species/American_Bison#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/American_Bison">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Bison_bison.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/american-bison/bison-bison/">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.defenders.org/programs_and_policy/wildlife_conservation/imperiled_species/bison/background_and_recovery.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=9901">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhptv.org/natureworks/americanbison.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.notitia.com/Bison/AboutBison.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/artiodactyla/Bison_bison.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15385364">
+			<dc:title>Epic wolf hunt caught on camera</dc:title>
+			<dc:description>The extraordinary endurance hunting of grey wolves has been recorded by BBC filmmakers in Alberta, Canada.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-11641559">
+			<dc:title>Farmed bison herd set to expand</dc:title>
+			<dc:description>Scotland's first commercial herd of American bison is going into production, with the first two beasts from a farm near Stonehaven being culled.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Bison#species"/>
+		</foaf:Document>
+			
+											<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/American_Bison.gif">
+		<dc:title>Map showing the distribution of the American bison species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Bison</rdfs:label><wo:species rdf:resource="/nature/life/American_Bison#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bovid#family"><rdfs:label>Bovidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Desert_locust">
+		<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Desert_locust#species">
+				<rdfs:label>Desert locust</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Desert_locust#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/de/desert_locust/desert_locust_1.jpg"/>
+
+				<dc:description>The desert locust is one of about a dozen species of grasshoppers known as locusts which - unlike other grasshoppers - are able to change their behaviour in response to population density. This enables them to form swarms that can migrate over large distances. Locust swarms vary from less than one square kilometre to several hundred square kilometres. There can be from 40 million to as many as 80 million locust adults in each square kilometre of a swarm. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Desert_locust"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Jumping#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3fy#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Schistocerca#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Acrididae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Orthoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Desert_locust#name">
+				<rdfs:label>Schistocerca gregaria</rdfs:label>
+				        <wo:commonName>Desert locust</wo:commonName>
+        										<wo:scientificName>gregariagregaria</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Orthoptera</wo:orderName><wo:familyName>Acrididae</wo:familyName><wo:genusName>Schistocerca</wo:genusName><wo:speciesName>gregaria</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/de/desert_locust/desert_locust_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Desert_locust#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/de/desert_locust/desert_locust_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0037qcc#programme">
+			<dc:title>Swarming locusts</dc:title>
+			<po:subject rdf:resource="/nature/species/Desert_locust#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Desert_locust">
+		<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://ethiopia.ipm-info.org/insect_pests_ethiopia/Schistocerca_gregaria.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/desert-locust/schistocerca-gregaria/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fao.org/ag/locusts/en/info/info/faq/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8956000/8956993.stm">
+			<dc:title>Locust swarm 'secrets' revealed</dc:title>
+			<dc:description>Locust swarms have a unique structure, scientists discover, an insight that may help prevent locust plagues.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8651000/8651148.stm">
+			<dc:title>Monkeys filmed feasting on locust swarm in Ethiopia</dc:title>
+			<dc:description>Geladas have been filmed feasting on a swarm of locusts in the highlands of Ethiopia, behaviour rarely seen before.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/shared/spl/hi/picture_gallery/04/africa_desert_locusts/html/1.stm">
+			<dc:title>Desert locust swarms</dc:title>
+			<dc:description>Swarms of locusts have been darkening skies across north-west Africa in what the UN warns could be the worst plague in 15 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Desert_locust#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Jumping#adaptation">
+					<rdfs:label>Adapted to jumping</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3fy#collection">
+				<dc:title>George's marvellous minibeasts</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Schistocerca#genus"><rdfs:label>Schistocerca</rdfs:label><wo:species rdf:resource="/nature/life/Desert_locust#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Acrididae#family"><rdfs:label>Acrididae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Orthoptera#order"><rdfs:label>Orthoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

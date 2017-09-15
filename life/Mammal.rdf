@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Mammal">
+		<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Mammal#class">
+				<rdfs:label>Mammals</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Mammal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/mammal/mammal_1.jpg"/>
+
+				<dc:description>Mammals are a class of vertebrates characterised by warm-blood, hairy bodies, a four-chambered heart, a single jaw bone, sweat glands and - in females - mammary glands for suckling young. Some mammals, such as naked mole rats and whales have lost some or all of their hair. Almost all mammals give birth to live young, but there are a few that lay eggs. These are known as monotremes, and include the platypus.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mammal"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Mammal#name">
+				<rdfs:label>Mammalia</rdfs:label>
+				        <wo:commonName>Mammals</wo:commonName>
+        										<wo:scientificName>Mammalia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/mammal/mammal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Mammal#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/mammal/mammal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l9hft#programme">
+			<dc:title>Lucky pups</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f2926#programme">
+			<dc:title>Winter warmers</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cgzms#programme">
+			<dc:title>Jurassic mini-mammals</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bnd14#programme">
+			<dc:title>Missing link</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0086g9b#programme">
+			<dc:title>Poo analysis</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l81m#programme">
+			<dc:title>Delay tactic</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005bs1n#programme">
+			<dc:title>Mother's milk</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vvyz#programme">
+			<dc:title>Placental mammals</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vtb0#programme">
+			<dc:title>Mammal success</dc:title>
+			<po:subject rdf:resource="/nature/class/Mammal#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mammal">
+		<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="M">
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="M">
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23932400">
+			<dc:title>Animals carry '320,000 new viruses'</dc:title>
+			<dc:description>There could be at least 320,000 viruses awaiting discovery that are circulating in animals, a study suggests. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23701151">
+			<dc:title>Mammal carnivore is major discovery</dc:title>
+			<dc:description>US scientists describe a new animal living in the cloud forests of Colombia and Ecuador - the first new mammal carnivore species to be identified in the Western hemisphere in 35 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22853482">
+			<dc:title>Deep-diving mammals' secret revealed</dc:title>
+			<dc:description>Study solves the mystery of one of the most extreme adaptations in the animal kingdom: how marine mammals store enough oxygen to hold their breath for up to an hour. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21350900">
+			<dc:title>Earliest mammal ancestor pinpointed</dc:title>
+			<dc:description>Researchers using a vast database of physical and genetic data determine the ancestor of all placental mammals was small, furry and probably ate insects.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18602965">
+			<dc:title>Dinosaurs' cold blood in doubt</dc:title>
+			<dc:description>Growth-related markings on the bones of modern warm-blooded animals similar to those on dinosaur bones challenge the idea dinosaurs were cold-blooded.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15019859">
+			<dc:title>Highs and lows for British mammals</dc:title>
+			<dc:description>After 10 years of monitoring Britain's Mammals, which species are on the rise and which face a gloomy future?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-14807870">
+			<dc:title>Ratty returns to nature reserve</dc:title>
+			<dc:description>A project to return water voles to a Warwickshire nature reserve begins with the release of 200 of the elusive mammals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14651218">
+			<dc:title>Fossil redefines mammal history</dc:title>
+			<dc:description>A small, 160-million-year-old fossil from China shows that placental and marsupial mammals diverged much earlier than previously suggested.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cornwall-14444004">
+			<dc:title>Record marine life seen off coast</dc:title>
+			<dc:description>Scientists monitoring wildlife off Cornwall describe seeing a "staggering" number of seabirds and marine mammals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/schools/ks2bitesize/science/living_things/variation/play.shtml">
+			<dc:title>Variation</dc:title>
+			<dc:description>Science living things exercise - Variation activity</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11820961">
+			<dc:title>Dino death made mammals 'go nuts'</dc:title>
+			<dc:description>After the dinosaurs were wiped out, mammals went from scurrying "vermin" to giant beasts in just 25 million years, a study shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11345432">
+			<dc:title>Camera spots 'new' elephant shrew</dc:title>
+			<dc:description>A mystery animal with a long snout is discovered in a remote African forest, and scientists say it may be a new species of elephant shrew.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10819027">
+			<dc:title>Chernobyl zone shows decline in biodiversity</dc:title>
+			<dc:description>The largest wildlife census of its kind conducted in Chernobyl reveals evidence of mammals declining in the exclusion zone.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10925841">
+			<dc:title>Brain works more like internet than 'top down' company</dc:title>
+			<dc:description>Mammal brains are highly interconnected networks, rather than straight chains of signals, new research suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/8602358.stm">
+			<dc:title>Non-native animals cause rural problems, charity warns</dc:title>
+			<dc:description>A number of non-native mammal species are damaging the UK countryside by eating crops and threatening wildlife, a conservation charity has warned.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/in_depth/sci_tech/green_room/8468163.stm">
+			<dc:title>Mammals 'floated to Madagascar'</dc:title>
+			<dc:description>The ancestors of the current mammals found on the island of Madagascar could have been transported on floating vegetation from Africa, a study says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8452000/8452008.stm">
+			<dc:title>Stingray's 'tool use' revealed</dc:title>
+			<dc:description>Freshwater stingrays use water as a "tool" in problem solving tests, scientists reveal for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8222000/8222370.stm">
+			<dc:title>Intricate bat 'love songs' decoded</dc:title>
+			<dc:description>The love songs of free-tailed bats show a similar level of complexity as whale and bird songs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7651981.stm">
+			<dc:title>Mammals facing extinction threat</dc:title>
+			<dc:description>At least 25% of the world's mammal species are at risk of extinction, according to the first assessment of their status for a decade.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Mammal#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/><wo:class rdf:resource="/nature/life/Amphibian#class"/><wo:class rdf:resource="/nature/life/Bird#class"/><wo:class rdf:resource="/nature/life/Reptile#class"/><wo:class rdf:resource="/nature/life/Chondrichthyes#class"/><wo:class rdf:resource="/nature/life/Cephalaspidomorphi#class"/><wo:class rdf:resource="/nature/life/Synapsid#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Carnivora#class"><rdfs:label>Carnivora</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Order rdf:about="/nature/life/Bat#class"><rdfs:label>Bats</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Species rdf:about="/nature/life/Sunda_Flying_Lemur#class"><rdfs:label>Malayan colugo</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Species><wo:Order rdf:about="/nature/life/Diprotodontia#class"><rdfs:label>Kangaroos, possums and wallabies</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Order rdf:about="/nature/life/Soricomorpha#class"><rdfs:label>Shrews, moles and relatives</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Order rdf:about="/nature/life/Lagomorpha#class"><rdfs:label>Hares, rabbits and pikas</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Family rdf:about="/nature/life/Elephant_shrew#class"><rdfs:label>Elephant shrews</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Family><wo:Species rdf:about="/nature/life/Platypus#class"><rdfs:label>Platypus</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Species><wo:Order rdf:about="/nature/life/Odd-toed_ungulate#class"><rdfs:label>Odd-toed ungulates</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Genus rdf:about="/nature/life/Pangolin#class"><rdfs:label>Pangolins</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Genus><wo:Order rdf:about="/nature/life/Primate#class"><rdfs:label>Primates</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Order rdf:about="/nature/life/Proboscidea#class"><rdfs:label>Proboscidea</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Order rdf:about="/nature/life/Rodent#class"><rdfs:label>Rodents</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Order rdf:about="/nature/life/Sirenia#class"><rdfs:label>Dugongs and manatees</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Species rdf:about="/nature/life/Aardvark#class"><rdfs:label>Aardvark</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Species><wo:Family rdf:about="/nature/life/Tenrecidae#class"><rdfs:label>Tenrecs</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Family><wo:Order rdf:about="/nature/life/Armadillo#class"><rdfs:label>Armadillos</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Family rdf:about="/nature/life/Dasyuridae#class"><rdfs:label>Dasyurid marsupials</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Family><wo:Family rdf:about="/nature/life/Erinaceidae#class"><rdfs:label>Hedgehogs and moonrats</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Family><wo:Order rdf:about="/nature/life/Pilosa#class"><rdfs:label>Anteaters and sloths</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Order><wo:Genus rdf:about="/nature/life/Leptictidium#class"><rdfs:label>Leptictidium</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Genus><wo:Genus rdf:about="/nature/life/Macrauchenia#class"><rdfs:label>Macrauchenia</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Genus><wo:Genus rdf:about="/nature/life/Andrewsarchus#class"><rdfs:label>Andrewsarchus</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Genus><wo:Superorder rdf:about="/nature/life/Cetartiodactyla#class"><rdfs:label>Cetartiodactyla</rdfs:label><wo:class rdf:resource="/nature/life/Mammal#class"/></wo:Superorder>
+	
+	
+		    
+</rdf:RDF>

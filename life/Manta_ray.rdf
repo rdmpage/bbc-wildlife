@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Manta_ray">
+		<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Manta_ray#species">
+				<rdfs:label>Manta ray</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Manta_ray#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/manta_ray/manta_ray_1.jpg"/>
+
+				<dc:description>Manta rays are one of the most easily identified fish off tropical shores, owing to their large, triangular pectoral 'wings' that can span up to nearly 7m. Several fish species, including wrasse and remora, share symbiotic relationships with manta rays, ridding the ray of parasites, dead skin and fallen food and sometimes hitching a ride in the process. Fins at the front of the manta ray's head are said to resemble devils' horns, resulting in the alternative names devilfish or devil ray. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Manta_ray"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ovoviviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Manta_ray.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Reef#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Rajiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Chondrichthyes#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Manta_ray#name">
+				<rdfs:label>Manta birostris</rdfs:label>
+				        <wo:commonName>Manta ray</wo:commonName>
+        								<wo:commonName>Atlantic manta</wo:commonName>
+						<wo:commonName>Devil ray</wo:commonName>
+						<wo:commonName>Devilfish</wo:commonName>
+						<wo:commonName>Manta</wo:commonName>
+						<wo:commonName>Pacific manta</wo:commonName>
+								<wo:scientificName>birostrisbirostris</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Chondrichthyes</wo:className><wo:orderName>Rajiformes</wo:orderName><wo:familyName>Myliobatidae</wo:familyName><wo:genusName>Manta</wo:genusName><wo:speciesName>birostris</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/manta_ray/manta_ray_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Manta_ray#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/manta_ray/manta_ray_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00vl3fj#programme">
+			<dc:title>Chris Packham swims with manta rays</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l27r1#programme">
+			<dc:title>Fulsome filters</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052vy9#programme">
+			<dc:title>Ocean wanderers</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052vxv#programme">
+			<dc:title>Life savers</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052vxl#programme">
+			<dc:title>Formation feeding</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052vx9#programme">
+			<dc:title>Food for thought</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052vwz#programme">
+			<dc:title>Giant mantas</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052vwq#programme">
+			<dc:title>Love chase</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052vw6#programme">
+			<dc:title>Bright rays</dc:title>
+			<po:subject rdf:resource="/nature/species/Manta_ray#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Manta_ray">
+		<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Manta_birostris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://mozmarinescience.googlepages.com/mantarayresearch">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/manta-ray/manta-birostris/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.elasmo-research.org/education/topics/lh_manta_faq.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flmnh.ufl.edu/fish/gallery/Descript/MantaRay/MantaRay.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21161721">
+			<dc:title>In Pictures: Monitoring manta rays</dc:title>
+			<dc:description>The world's largest rays have been tagged and measured in the first phase of a conservation project in the Red Sea.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/programmes/fast_track/9700541.stm">
+			<dc:title>The fragile manta rays of the Maldives</dc:title>
+			<dc:description>The Maldives has one of the largest colonies of manta rays in the world but it needs legal protection, as John McIntyre reports.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8347000/8347024.stm">
+			<dc:title>Manta ray's secret life revealed</dc:title>
+			<dc:description>The once secret life of a huge, recently discovered species of manta ray has been unveiled.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/7843680.stm">
+			<dc:title>Project to save Manta Rays</dc:title>
+			<dc:description>Scientists from the Deep in Hull have joined a major project to save Manta Rays in the Red Sea.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Manta_ray#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Ovoviviparity#adaptation">
+					<rdfs:label>Ovoviviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Reef#habitat">
+					<rdfs:label>Reefs</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Manta_ray.gif">
+		<dc:title>Map showing the distribution of the Manta ray species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Manta</rdfs:label><wo:species rdf:resource="/nature/life/Manta_ray#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Myliobatidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rajiformes#order"><rdfs:label>Rajiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Chondrichthyes#class"><rdfs:label>Chondrichthyes</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

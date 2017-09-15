@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Rhododendron">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Rhododendron#genus">
+				<rdfs:label>Rhododendrons</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Rhododendron#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/rh/rhododendron/rhododendron_1.jpg"/>
+
+				<dc:description>Rhododendrons are a genus of flowering plants found primarily in the northern hemisphere and introduced to Britain in the late 18th century. Some types are now a pest in Britain, because they out-compete many native plants and, because their leaves contain toxins that some animals find inedible, their spread is hard to control. Honey made from rhododendron pollen or nectar can cause hallucinations, loss of co-ordination and vertigo, but only if it has been made by the bees very recently. This is known as mad honey disease!</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rhododendron"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Rhododendron.gif"/>
+		
+										    
+    								
+					
+                                                                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Rhododendron#name">
+				<rdfs:label>Rhododendron</rdfs:label>
+				        <wo:commonName>Rhododendrons</wo:commonName>
+        										<wo:scientificName>Rhododendron</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Ericales</wo:orderName><wo:familyName>Ericaceae</wo:familyName><wo:genusName>Rhododendron</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/rh/rhododendron/rhododendron_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Rhododendron#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/rh/rhododendron/rhododendron_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fgfr4#programme">
+			<dc:title>Valley life</dc:title>
+			<po:subject rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00378n8#programme">
+			<dc:title>Rhododendron time-lapse</dc:title>
+			<po:subject rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rhododendron">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/11194.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flounder.ca/FraserSouth/Goetsch-Eckert-Hall.asp">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kew.org/visit-kew-gardens/garden-attractions-A-Z/rhododendron-dell.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rhodo.citymax.com/page/page/627471.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wfu.edu/~kronka/kakbek/rhododendrons.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-lincolnshire-11522399">
+			<dc:title>Rhododendron bushes to be burned</dc:title>
+			<dc:description>Thousands of pounds are being spent to prevent the spread of a plant at a nature reserve in Lincoln.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11071444">
+			<dc:title>Plant 'biggest threat' to habitat in Scotland</dc:title>
+			<dc:description>An invasive non-native plant poses the biggest threat to natural habitats in Scotland, according to an agency.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8311226.stm">
+			<dc:title>New way of curbing rhododendron</dc:title>
+			<dc:description>Two woodland workers have come up with a low-cost technique for tackling a problematic non-native plant species without using chemicals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhododendron#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Rhododendron.gif">
+		<dc:title>Map showing the distribution of the Rhododendrons genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Ericaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Rhododendron#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Ericales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

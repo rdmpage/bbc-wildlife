@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Rodent">
+		<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Rodent#order">
+				<rdfs:label>Rodents</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Rodent#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ro/rodent/rodent_1.jpg"/>
+
+				<dc:description>Rodents are the largest of the mammalian orders, containing over 2,000 species. Familiar rodents include mice, rats and squirrels, but animals such as the porcupine, the beaver and the agouti are also rodents. All rodents have front teeth specialised for gnawing.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rodent"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Rodent#name">
+				<rdfs:label>Rodentia</rdfs:label>
+				        <wo:commonName>Rodents</wo:commonName>
+        										<wo:scientificName>Rodentia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ro/rodent/rodent_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Rodent#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ro/rodent/rodent_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bng2w#programme">
+			<dc:title>Rodent bones</dc:title>
+			<po:subject rdf:resource="/nature/order/Rodent#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rodent">
+		<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/mammal/rodentia/rodentia.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Rodentia.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Rodentia/15959">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.abdn.ac.uk/~nhi708/classify/animalia/chordata/mammalia/rodentia/rodentia.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24167219">
+			<dc:title>Spiny rat discovered in Indonesia</dc:title>
+			<dc:description>A new genus of rodent is found in the remote forests of Indonesia's Moluccas islands, where Wallace developed his theory of evolution.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18989216">
+			<dc:title>Fossils hint at first grasslands</dc:title>
+			<dc:description>Two of the earliest rodents, including the earliest chinchilla, are discovered in Chile</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18856362">
+			<dc:title>Rodent thieves 'forest saviours'</dc:title>
+			<dc:description>Rodents that steal seeds from each other are filling the seed-dispersing role of extinct giant mammals, research suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15268643">
+			<dc:title>Tiny teeth re-write rodent record</dc:title>
+			<dc:description>Rodent fossils found in Peru are at least 41 million years old - South America's oldest - and indicate an African origin.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-london-15079178">
+			<dc:title>'Rats' cause misery for commuters</dc:title>
+			<dc:description>Network Rail says it is possible rats may have gnawed through a cable which knocked out the power to signals in north London, causing severe delays.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-guernsey-14819920">
+			<dc:title>Hamster warning issued by GSPCA</dc:title>
+			<dc:description>The GSPCA issues an appeal to the Bailiwick's hamster lovers after being inundated by the fast-breeding rodents.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14719784">
+			<dc:title>Brothers make marmots 'tom boys'</dc:title>
+			<dc:description>Female marmots born in litters that are mostly male become "tom boys", behaving in ways that are more typically male, say scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14462733">
+			<dc:title>'Super' mice resist most poisons</dc:title>
+			<dc:description>Scientists say that some European house mice have developed resistance to the strongest poisons. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-11032059">
+			<dc:title>Probe into claims of 'giant rats'</dc:title>
+			<dc:description>Bradford Council has said it can find no evidence of large rats after claims a 30in rodent was found on an estate in the city.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-11023045">
+			<dc:title>Bradford Council investigating 'giant rats' claim</dc:title>
+			<dc:description>Bradford Council says it can find no evidence of large rats after claims a 30in rodent was found on an estate in the city.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10105273.stm">
+			<dc:title>Intensive harvests 'threaten Brazil nut tree future'</dc:title>
+			<dc:description>A study examining the natural dispersal of Brazil nuts has suggested that intensive harvesting could threaten future regeneration of the trees.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8283000/8283736.stm">
+			<dc:title>Saving red squirrels from pox </dc:title>
+			<dc:description>A new study will investigate how red squirrels get the pox, an insight that may help save those left in the UK. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8225000/8225219.stm">
+			<dc:title>Mouse set to be 'evolution icon'</dc:title>
+			<dc:description>A fast-evolving deer mouse is one of the best examples yet studied of natural selection in action, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rodent#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/><wo:order rdf:resource="/nature/life/Carnivora#order"/><wo:order rdf:resource="/nature/life/Bat#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Diprotodontia#order"/><wo:order rdf:resource="/nature/life/Soricomorpha#order"/><wo:order rdf:resource="/nature/life/Lagomorpha#order"/><wo:order rdf:resource="/nature/life/Macroscelidea#order"/><wo:order rdf:resource="/nature/life/Monotreme#order"/><wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Pholidota#order"/><wo:order rdf:resource="/nature/life/Primate#order"/><wo:order rdf:resource="/nature/life/Proboscidea#order"/><wo:order rdf:resource="/nature/life/Sirenia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Afrosoricida#order"/><wo:order rdf:resource="/nature/life/Armadillo#order"/><wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Pilosa#order"/><wo:order rdf:resource="/nature/life/Leptictida#order"/><wo:order rdf:resource="/nature/life/Litopterna#order"/><wo:order rdf:resource="/nature/life/Mesonychid#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Blesmol#order"><rdfs:label>Mole rats</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/></wo:Family><wo:Genus rdf:about="/nature/life/Beaver#order"><rdfs:label>Beavers</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/></wo:Genus><wo:Family rdf:about="/nature/life/Caviidae#order"><rdfs:label>Cavies</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/></wo:Family><wo:Family rdf:about="/nature/life/Muridae#order"><rdfs:label>Old World rats and mice</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/></wo:Family><wo:Family rdf:about="/nature/life/Dormouse#order"><rdfs:label>Dormice</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/></wo:Family><wo:Family rdf:about="/nature/life/Sciuridae#order"><rdfs:label>Squirrels</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/></wo:Family><wo:Family rdf:about="/nature/life/Cricetidae#order"><rdfs:label>New World rats and mice</rdfs:label><wo:order rdf:resource="/nature/life/Rodent#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

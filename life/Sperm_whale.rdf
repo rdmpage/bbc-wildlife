@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Sperm_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Sperm_whale#species">
+				<rdfs:label>Sperm whale</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Sperm_whale#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/sperm_whale/sperm_whale_1.jpg"/>
+
+				<dc:description>The mighty sperm whale is a multiple record-breaker. It is the largest of the toothed whales with some males reaching 20 metres in length. Its enormous box-like head with left-sided blow hole contains the biggest brain of any living animal. It is also the deepest diving <a href="http://www.bbc.co.uk/nature/life/Mammal">mammal</a>, reaching depths of 3,000 metres (nearly two miles) although the average dive is between 300 and 600 metres. These dives can last for a couple of hours before the whale has to come up for breath. A sperm whale’s ability to <a href="http://www.bbc.co.uk/nature/adaptations/Ultrasound">echolocate</a> may aid in its hunt for giant <a href="http://www.bbc.co.uk/nature/life/Squid">squid</a> and <a href="http://www.bbc.co.uk/nature/life/Octopus">octopus</a>. It makes clicks by blowing air that are among the loudest sounds made by any animal, possibly loud enough to stun prey. Sperm whales are found in all the world's <a href="http://www.bbc.co.uk/nature/habitats/Pelagic">oceans</a> in tropical to sub-polar waters.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sperm_whale"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Sperm_whale.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Physeter#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Physeteridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Sperm_whale#name">
+				<rdfs:label>Physeter macrocephalus</rdfs:label>
+				        <wo:commonName>Sperm whale</wo:commonName>
+        								<wo:commonName>Common cachalot</wo:commonName>
+								<wo:scientificName>macrocephalusmacrocephalus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Physeteridae</wo:familyName><wo:genusName>Physeter</wo:genusName><wo:speciesName>macrocephalus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/sperm_whale/sperm_whale_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Sperm_whale#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sp/sperm_whale/sperm_whale_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jz25x#programme">
+			<dc:title>Deep divers</dc:title>
+			<po:subject rdf:resource="/nature/species/Sperm_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jz248#programme">
+			<dc:title>Sound strategy</dc:title>
+			<po:subject rdf:resource="/nature/species/Sperm_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hm7pt#programme">
+			<dc:title>Biggest predator</dc:title>
+			<po:subject rdf:resource="/nature/species/Sperm_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hj497#programme">
+			<dc:title>Whale stranding investigators</dc:title>
+			<po:subject rdf:resource="/nature/species/Sperm_whale#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00drvmx#programme">
+			<dc:title>Breathing deeply</dc:title>
+			<po:subject rdf:resource="/nature/species/Sperm_whale#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/sp/sperm_whale/nhs1170-05.mp3">
+			<dc:title>Sperm whale echolocation</dc:title>
+			<dc:subject rdf:resource="/nature/species/Sperm_whale#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sperm_whale">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Physeter_catodon.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.acsonline.org/factpack/spermwhl.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/sperm-whale/physeter-macrocephalus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.elasmo-research.org/education/evolution/g_sperm_whale.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/spermwhale.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oceanicresearch.org/education/wonders/spermwhales.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-22019068">
+			<dc:title>Sperm whale draws crowds to quay side</dc:title>
+			<dc:description>A sperm whale which has found its way into shallow water in Oban is drawing curious crowds to the bay</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17365736">
+			<dc:title>Squid eye is sperm whale defence</dc:title>
+			<dc:description>The vast eyes of giant and colossal squid have evolved to give them early warning of sperm whales, their only predator, scientists show.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-lincolnshire-17279543">
+			<dc:title>Whale's body removed from beach</dc:title>
+			<dc:description>A dead whale which washed up on a beach in Skegness is taken away.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8530116.stm">
+			<dc:title>Sperm whale groups 'may corral deep squid' </dc:title>
+			<dc:description>Sperm whales may team up and hunt collaboratively, scientists have suggested.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sperm_whale#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Sperm_whale.gif">
+		<dc:title>Map showing the distribution of the Sperm whale species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Physeter#genus"><rdfs:label>Physeter</rdfs:label><wo:species rdf:resource="/nature/life/Sperm_whale#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Physeteridae#family"><rdfs:label>Physeteridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

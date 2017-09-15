@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Wandering_Albatross">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Wandering_Albatross#species">
+				<rdfs:label>Wandering albatross</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Wandering_Albatross#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wa/wandering_albatross/wandering_albatross_1.jpg"/>
+
+				<dc:description>Wandering albatrosses hold the record for the bird with the largest wingspan, with some individuals measuring 3.5 metres. They spend most of their life on the wing, returning to land only to court a mate and to breed.
+<br/>
+<br/>
+<b>Did you know?</b><br/> At a massive 3.5 metres the wandering albatross has the largest recorded wingspan of any living bird.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Wandering_Albatross"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Wandering_Albatross.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Albatross#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Procellariiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Wandering_Albatross#name">
+				<rdfs:label>Diomedea exulans</rdfs:label>
+				        <wo:commonName>Wandering albatross</wo:commonName>
+        										<wo:scientificName>exulansexulans</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Procellariiformes</wo:orderName><wo:familyName>Diomedeidae</wo:familyName><wo:genusName>Diomedea</wo:genusName><wo:speciesName>exulans</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wa/wandering_albatross/wandering_albatross_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wa/wandering_albatross/wandering_albatross_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082g65#programme">
+			<dc:title>Erik spotted at sea</dc:title>
+			<po:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081y17#programme">
+			<dc:title>Erika lost at sea?</dc:title>
+			<po:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007n3p7#programme">
+			<dc:title>All alone on the nest</dc:title>
+			<po:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0073nsn#programme">
+			<dc:title>Introducing Erik the albatross</dc:title>
+			<po:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0073npw#programme">
+			<dc:title>Introducing Erika</dc:title>
+			<po:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0073ngx#programme">
+			<dc:title>Satellite tagging wandering albatrosses</dc:title>
+			<po:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hp48#programme">
+			<dc:title>Weighty wanderers</dc:title>
+			<po:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/w/wa/wandering_albatross/nhc34-02.mp3">
+			<dc:title>Wandering albatross mother and chick</dc:title>
+			<dc:subject rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Wandering_Albatross">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wandering_Albatross#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Diomedea_exulans.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/wandering-albatross/diomedea-exulans/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9421000/9421647.stm">
+			<dc:title>Rare albatross is unique species</dc:title>
+			<dc:description>The world's rarest albatross is confirmed as a separate species by scientists in Canada.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/albatrossadventure/stories/albatrosstagging">
+			<dc:title>About albatross satellite tagging</dc:title>
+			<dc:description>pair of wandering albatrosses, Erik and Erika, are bringing up their chick Eriksson on a remote island in the sub-Antarctic. The chick needs regular feeding to keep it alive in one of the world's most extreme climates.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/birdisland2008/stories/albatrossesmateforlife">
+			<dc:title>Albatrosses – mates for life</dc:title>
+			<dc:description>Cameraman John Aitchison discovers how albatross pairs maintain their enduring bond.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wandering_Albatross#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Wandering_Albatross.gif">
+		<dc:title>Map showing the distribution of the Wandering albatross species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Diomedea</rdfs:label><wo:species rdf:resource="/nature/life/Wandering_Albatross#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Albatross#family"><rdfs:label>Diomedeidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Procellariiformes#order"><rdfs:label>Procellariiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

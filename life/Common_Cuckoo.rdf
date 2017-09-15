@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Common_Cuckoo">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Common_Cuckoo#species">
+				<rdfs:label>Common cuckoo</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Common_Cuckoo#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_cuckoo/common_cuckoo_1.jpg"/>
+
+				<dc:description>Common cuckoos are solitary birds more often heard than seen. The familiar and unforgettable 'cuck-oo cuck-oo' <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_(sense)">call</a> heralds the beginning of spring when they return to <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> from wintering in sub-Saharan <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a> and south east <a href="http://www.bbc.co.uk/nature/places/Asia">Asia</a>. As one of the most infamous brood <a href="http://www.bbc.co.uk/nature/adaptations/Parasitism">parasites</a>, cuckoos lay their eggs in the nests of other birds with precision timing. Once hatched, the chick ejects the legitimate occupants and then gets fed by its new and unsuspecting foster parents - true masters of deception. 
+<br/>
+<br/>
+<b>Did you know?</b><br/> Cuckoos shake the toxins out of hairy caterpillars before eating them. 
+<br />
+<br />
+<a href="/nature/19700707">All you need to know about British birds.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Common_Cuckoo"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Kleptoparasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parasitism#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                                                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Common_Cuckoo#name">
+				<rdfs:label>Cuculus canorus</rdfs:label>
+				        <wo:commonName>Common cuckoo</wo:commonName>
+        								<wo:commonName>Eurasian cuckoo</wo:commonName>
+						<wo:commonName>European cuckoo</wo:commonName>
+								<wo:scientificName>canoruscanorus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Cuculiformes</wo:orderName><wo:familyName>Cuculidae</wo:familyName><wo:genusName>Cuculus</wo:genusName><wo:speciesName>canorus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_cuckoo/common_cuckoo_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/common_cuckoo/common_cuckoo_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p017ygcf#programme">
+			<dc:title>Cuckoo - Male</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kspyh#programme">
+			<dc:title>Cuckoo tracker</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hl61l#programme">
+			<dc:title>Cuckoo dogfight</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dvh87#programme">
+			<dc:title>One flew over the cuckoo's nest</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cbvzn#programme">
+			<dc:title>The first cuckoo of spring</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0084rqs#programme">
+			<dc:title>Cuckoo calling</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007w07r#programme">
+			<dc:title>Harbingers</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007qwbv#programme">
+			<dc:title>Spring signal</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lnwg#programme">
+			<dc:title>Squatter's rights</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lmgh#programme">
+			<dc:title>The blind assassin</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/c/co/common_cuckoo/common_cuckoo.mp3">
+			<dc:title>Territorial call from a common cuckoo</dc:title>
+			<dc:subject rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Common_Cuckoo">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cuculus_canorus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob7240.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/cuckoo/cuculus-canorus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=071014">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bto.org/volunteer-surveys/bbs/research-conservation/cuckoo">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/c/cuckoo/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-22902235">
+			<dc:title>Cuckoos clocked using satellite tags</dc:title>
+			<dc:description>Four cuckoos caught at sites in Lochalsh and Skye are fitted with satellite tags in an effort to track their migrations to Africa.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-surrey-19252645">
+			<dc:title>Cuckoo flown to Italy in plane</dc:title>
+			<dc:description>A dying cuckoo which was nursed back to health in Surrey is flying to Italy by plane to catch up on annual migration.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19112879">
+			<dc:title>Cuckoo's surprise migration route</dc:title>
+			<dc:description>A satellite-tracked cuckoo takes a surprising migration route back to Africa, according to experts.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/">
+			<dc:title>INDEX</dc:title>
+			<dc:description>BBC Nature - telling Life’s amazing story  Where wildlife goes, we follow, telling Life’s story via breaking news, features, opinions, amazing films and photographs of animals and plants.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17895997">
+			<dc:title>Tagged cuckoos complete journey</dc:title>
+			<dc:description>Two cuckoos fitted with satellite tracking devices return to the UK, revealing new information about the threatened birds' migration. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17476645">
+			<dc:title>Tagged cuckoo 'missing in action'</dc:title>
+			<dc:description>One of five cuckoos that scientists had tagged with a satellite tracking device is "missing in action", according to the British Trust for Ornithology. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14507798">
+			<dc:title>Cuckoos' 5,000km journey revealed</dc:title>
+			<dc:description>Scientists from the British Trust for Ornithology track the migration routes of five British cuckoos, using tiny satellite-tracking tags.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/13559202">
+			<dc:title>Cuckoos tagged with GPS trackers</dc:title>
+			<dc:description>Tiny traceable backpacks are being attached to cuckoos to find out where they go, and why their numbers may be declining.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9458000/9458906.stm">
+			<dc:title>Cuckoos copy hawks to scare birds</dc:title>
+			<dc:description>Cuckoos' hawk-like plumage helps them avoid attacks from birds whose nests they are trying to invade, say scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9418000/9418131.stm">
+			<dc:title>Cuckoo in egg pattern 'arms race'</dc:title>
+			<dc:description>Cuckoos' egg forgery skills are increasingly being put to the test, as host birds evolve better defences, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9203000/9203476.stm">
+			<dc:title>Cuckoos no match for local birds</dc:title>
+			<dc:description>There is a limit to how convincingly the common cuckoo can mimic other birds, according to new research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11401254">
+			<dc:title>Cuckoo eggs puzzle 'cracked'</dc:title>
+			<dc:description>A cuckoo has a remarkable ability to hold its egg inside it for an extra 24 hours before releasing it into a host bird's nest, researchers have found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8070021.stm">
+			<dc:title>Cuckoo's call becomes rarer in UK</dc:title>
+			<dc:description>The cuckoo - known for its springtime song - has joined a "red list" of the UK's most threatened bird species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/hereford/worcs/7816597.stm">
+			<dc:title>Birdwatcher gave 1922 cuckoo clue</dc:title>
+			<dc:description>A West Midlands businessman with a passion for part-time bird watching uncovered key clues about the predatory cuckoo in an early nature film.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuckoo#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Kleptoparasitism#adaptation">
+					<rdfs:label>Kleptoparasitic</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Parasitism#adaptation">
+					<rdfs:label>Parasitic</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Cuculus</rdfs:label><wo:species rdf:resource="/nature/life/Common_Cuckoo#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Cuculidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Cuculiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

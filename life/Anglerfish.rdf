@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Anglerfish">
+		<foaf:primaryTopic rdf:resource="/nature/order/Anglerfish#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Anglerfish#order">
+				<rdfs:label>Anglerfish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Anglerfish#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/anglerfish/anglerfish_1.jpg"/>
+
+				<dc:description>The anglerfish is so called because of its method of predation. This is the <a href="/nature/animals/by/fish">fish</a> that goes fishing. It has a long, modified dorsal fin spine sprouting from the middle of its head that ends in a fleshy growth that can move and wiggle to resemble another animal. In some deep sea anglerfish this deadly bait can even emit light (<a href="/nature/adaptations/Bioluminescence">bioluminescence</a>). Passing predators who think they've found an easy meal only need to touch the bait to find out they're the main course. Having been lured inside the anglerfish's wide mouth, the long pointed teeth snap shut and the creature is devoured whole. There are more than 300 species of anglerfish worldwide. They are found in <a href="/nature/habitats/Pelagic">open water</a> and on the <a href="/nature/habitats/Benthic_zone">sea bed</a>. Some of the bottom dwellers have modified fins that let them walk along the <a href="/nature/habitats/Benthic_zone">ocean floor</a>.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Anglerfish"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Bioluminescence#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Mimicry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Anglerfish.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Anglerfish#name">
+				<rdfs:label>Lophiiformes</rdfs:label>
+				        <wo:commonName>Anglerfish</wo:commonName>
+        										<wo:scientificName>Lophiiformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Lophiiformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/anglerfish/anglerfish_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Anglerfish#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/an/anglerfish/anglerfish_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhhdq#programme">
+			<dc:title>Partner for life</dc:title>
+			<po:subject rdf:resource="/nature/order/Anglerfish#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006v47r#programme">
+			<dc:title>Light lures</dc:title>
+			<po:subject rdf:resource="/nature/order/Anglerfish#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Anglerfish">
+		<foaf:primaryTopic rdf:resource="/nature/order/Anglerfish#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Lophiiformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Anglerfish#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Lophiiformes">
+			<foaf:primaryTopic rdf:resource="/nature/order/Anglerfish#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/anglerfish/lophius-piscatorius/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Anglerfish#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.frogfish.ch/deepsea-anglerfish.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Anglerfish#order"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Bioluminescence#adaptation">
+					<rdfs:label>Bioluminescence</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Mimicry#adaptation">
+					<rdfs:label>Mimicry</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Anglerfish.gif">
+		<dc:title>Map showing the distribution of the Anglerfish order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label><wo:order rdf:resource="/nature/life/Anglerfish#order"/><wo:order rdf:resource="/nature/life/Perciformes#order"/><wo:order rdf:resource="/nature/life/Clupeiformes#order"/><wo:order rdf:resource="/nature/life/Osteoglossiformes#order"/><wo:order rdf:resource="/nature/life/Catfish#order"/><wo:order rdf:resource="/nature/life/Salmoniformes#order"/><wo:order rdf:resource="/nature/life/Characiformes#order"/><wo:order rdf:resource="/nature/life/Syngnathiformes#order"/><wo:order rdf:resource="/nature/life/Gasterosteiformes#order"/><wo:order rdf:resource="/nature/life/Beloniformes#order"/></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Frogfish#order"><rdfs:label>Frogfish</rdfs:label><wo:order rdf:resource="/nature/life/Anglerfish#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

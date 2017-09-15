@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Boa_constrictor">
+		<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Boa_constrictor#species">
+				<rdfs:label>Boa constrictor</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Boa_constrictor#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/boa_constrictor/boa_constrictor_1.jpg"/>
+
+				<dc:description>Boa constrictors have neither fangs nor venom, but are very effective killers. They're often thought of as one of the world's largest snakes, but they're actually comparatively modest in size, reaching 2-3 metres long when fully grown. Suspended from branches in the Central and South American forests, they ambush unsuspecting animals as they pass by. Coiling around their prey, they literally squeeze the life out, before swallowing the body whole. To digest this meal fully can take up to six days. Boa constrictors give birth to live young that are fully developed and ready to go within minutes. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Boa_constrictor"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ovoviviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Boa_constrictor.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Boa_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Boidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Boa_constrictor#name">
+				<rdfs:label>Boa constrictor</rdfs:label>
+				        <wo:commonName>Boa constrictor</wo:commonName>
+        										<wo:scientificName>constrictorconstrictor</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Boidae</wo:familyName><wo:genusName>Boa</wo:genusName><wo:speciesName>constrictor</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/boa_constrictor/boa_constrictor_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Boa_constrictor#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bo/boa_constrictor/boa_constrictor_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0095r56#programme">
+			<dc:title>Deadly Squeeze</dc:title>
+			<po:subject rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Boa_constrictor">
+		<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://nationalzoo.si.edu/Animals/ReptilesAmphibians/Facts/FactSheets/Boaconstrictor.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/treehouses/?treehouse_id=5001">
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/Animal-info/animal-bytes/animalia/eumetazoa/coelomates/deuterostomes/chordata/craniata/reptilia/squamata/boa-constrictor.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16580969">
+			<dc:title>Snakes sense prey's fading heart</dc:title>
+			<dc:description>Constrictor snakes are able to sense the heartbeats of their victims and release them only when the heart stops, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9139000/9139971.stm">
+			<dc:title>Snake has unique 'virgin birth'</dc:title>
+			<dc:description>A boa constrictor has a "virgin birth", resulting in an extraordinary litter of babies, unlike any seen before among vertebrates. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11203270">
+			<dc:title>Jail for Malaysian snake smuggler</dc:title>
+			<dc:description>Malaysian wildlife trafficker Anson Wong, nicknamed the "Lizard King", is jailed for trying to smuggle 95 boa constrictors in his luggage.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-london-11099128">
+			<dc:title>Woman leaves pillow case with 4ft boa at Barnet home</dc:title>
+			<dc:description>A woman who left a pillow case containing a 4ft-long snake at a north London home is being sought by police.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-essex-11074024">
+			<dc:title>Escaped 6ft boa returns to home in Wickford, Essex</dc:title>
+			<dc:description>A 6ft (1.8m) snake which escaped through a bathroom window at a house in Essex returns home.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-gloucestershire-11029539">
+			<dc:title>Arrest after snake seen in canal in Stroud</dc:title>
+			<dc:description>A 42-year-old man from Gloucestershire is arrested after allegedly throwing a snake into a canal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-gloucestershire-10968870">
+			<dc:title>Boa constrictor 'thrown into Gloucestershire canal'</dc:title>
+			<dc:description>Witnesses are sought after a man is believed to have thrown a boa constrictor into a Gloucestershire canal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-essex-10826439">
+			<dc:title>Search for 6ft boa on the loose in Wickford, Essex</dc:title>
+			<dc:description>Police are searching for a 6ft (1.8m) long snake which escaped through a bathroom window at a house in Essex.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Boa_constrictor#species"/>
+		</foaf:Document>
+			
+											<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Ovoviviparity#adaptation">
+					<rdfs:label>Ovoviviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Boa_constrictor.gif">
+		<dc:title>Map showing the distribution of the Boa constrictor species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Boa_(genus)#genus"><rdfs:label>Boa</rdfs:label><wo:species rdf:resource="/nature/life/Boa_constrictor#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Boidae#family"><rdfs:label>Boidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

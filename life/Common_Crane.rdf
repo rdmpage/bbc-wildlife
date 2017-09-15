@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Common_Crane">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Common_Crane#species">
+				<rdfs:label>Common crane</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Common_Crane#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_crane/common_crane_1.jpg"/>
+
+				<dc:description>Common cranes are the most widely distributed of all the cranes, breeding from Western Europe to Siberia. Monogamous pairs reinforce their bond with a series of calls and elaborate head jerks. Together the pair builds a ground nest within their wetland habitat from a mound of swampy vegetation. The job of incubating their two eggs is also shared, and during this time adults embark on the fascinating behaviour of ‘painting’ their upper bodies and wings with reddish mud, which is though to provide camouflage.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Common_Crane"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Bog#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Grus_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Crane_(bird)#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Gruiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Common_Crane#name">
+				<rdfs:label>Grus grus</rdfs:label>
+				        <wo:commonName>Common crane</wo:commonName>
+        								<wo:commonName>Eurasian crane</wo:commonName>
+								<wo:scientificName>grusgrus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Gruiformes</wo:orderName><wo:familyName>Gruidae</wo:familyName><wo:genusName>Grus</wo:genusName><wo:speciesName>grus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_crane/common_crane_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Common_Crane#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/common_crane/common_crane_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fny7t#programme">
+			<dc:title>Crane comeback</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085t32#programme">
+			<dc:title>Return of the native</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008595z#programme">
+			<dc:title>Supply teaching</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00857hs#programme">
+			<dc:title>School days</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00856lk#programme">
+			<dc:title>Fostering the future</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0084s2k#programme">
+			<dc:title>Best days</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0084r2v#programme">
+			<dc:title>Last lesson</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082k4n#programme">
+			<dc:title>Back - and big</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/c/co/common_crane/LISC10273895.mp3">
+			<dc:title>Common crane calling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Common_Crane#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Common_Crane">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Grus_grus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/common-crane/grus-grus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arthurgrosset.com/europebirds/crane.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=039001">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oiseaux-birds.com/article-common-cranes.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.savingcranes.org/eurasian-crane.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-gloucestershire-22593559">
+			<dc:title>First crane egg in 400 years laid</dc:title>
+			<dc:description>A nesting crane lays the first egg laid by that breed of bird in southern Britain in more than 400 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21944173">
+			<dc:title>Why do 'single' birds dance?</dc:title>
+			<dc:description>Scientists have investigated whether young and unpaired adult cranes are 'playing around' when they put on a show.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-20067666">
+			<dc:title>Riot shields used against birds</dc:title>
+			<dc:description>Staff at a Devon zoo defend themselves from aggressive birds by using riot shields donated by police.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-gloucestershire-10894554">
+			<dc:title>Young cranes are prepared for the wild in Somerset</dc:title>
+			<dc:description>Young cranes at Slimbridge are prepared for their release into the wild on the Somerset Levels and Moors. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10089022.stm">
+			<dc:title>Cranes set to return to skies after 400-year absence</dc:title>
+			<dc:description>They have been described as "herons on steroids".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/6659827.stm">
+			<dc:title>Birds breed again after 400 years</dc:title>
+			<dc:description>Cranes have been found breeding in the fens of East Anglia after 400 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Crane#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Bog#habitat">
+					<rdfs:label>Bog</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Grus_(genus)#genus"><rdfs:label>Grus</rdfs:label><wo:species rdf:resource="/nature/life/Common_Crane#species"/><wo:species rdf:resource="/nature/life/Red-crowned_Crane#species"/><wo:species rdf:resource="/nature/life/Siberian_Crane#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Crane_(bird)#family"><rdfs:label>Gruidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Gruiformes#order"><rdfs:label>Gruiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

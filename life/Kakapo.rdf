@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Kakapo">
+		<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Kakapo#species">
+				<rdfs:label>Kakapo</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Kakapo#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ka/kakapo/kakapo_1.jpg"/>
+
+				<dc:description>Kakapos are very unusual parrots. They're flightless, very large - sometimes reaching 4kg in weight - and their courtship system is one known as 'lekking', where the males gather together to display to the females. Kakapos are native to New Zealand, but now only exists on specially protected islands, where their nests are safe from introduced vermin such as rats, stoats and feral cats.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Kakapo"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Kakapo.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/New_Zealand_parrot#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Parrot#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Kakapo#name">
+				<rdfs:label>Strigops habroptila</rdfs:label>
+				        <wo:commonName>Kakapo</wo:commonName>
+        								<wo:commonName>Owl parrot</wo:commonName>
+								<wo:scientificName>habroptilahabroptila</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Psittaciformes</wo:orderName><wo:familyName>Nestoridae</wo:familyName><wo:genusName>Strigops</wo:genusName><wo:speciesName>habroptila</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ka/kakapo/kakapo_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Kakapo#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/k/ka/kakapo/kakapo_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004m51l#programme">
+			<dc:title>New kakapo life</dc:title>
+			<po:subject rdf:resource="/nature/species/Kakapo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004m511#programme">
+			<dc:title>Lonely caller</dc:title>
+			<po:subject rdf:resource="/nature/species/Kakapo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00486zm#programme">
+			<dc:title>The last refuge</dc:title>
+			<po:subject rdf:resource="/nature/species/Kakapo#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Kakapo">
+		<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Strigops_habroptila.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/kakapo/strigops-habroptila/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/lastchancetosee/sites/animals/kakapo">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kakapo.net/en/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kakaporecovery.org.nz/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7999568.stm">
+			<dc:title>Big brood of rotund rare parrots</dc:title>
+			<dc:description>One of the world's rarest birds, New Zealand's kakapo, is now not quite so rare thanks to the arrival of 34 kakapo chicks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/codfishisland2007/stories/jamesandthegiantparrot">
+			<dc:title>James and the giant parrot</dc:title>
+			<dc:description>The kakapo may just look like an enormous budgie, but it smells like sweet meadows. James Mair travels to Codfish island to sniff one out</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/4384813.stm">
+			<dc:title>Breeding success for rare kakapo</dc:title>
+			<dc:description>Down on a lonely island off the southern tip of New Zealand, three new kakapo have just hatched.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/3889775.stm">
+			<dc:title>Rare birds killed by deadly bug</dc:title>
+			<dc:description>Three of the world's most endangered birds have been killed by a severe bout of blood poisoning in New Zealand.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Kakapo#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Kakapo.gif">
+		<dc:title>Map showing the distribution of the Kakapo species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Strigops</rdfs:label><wo:species rdf:resource="/nature/life/Kakapo#species"/></wo:Genus><wo:Family rdf:about="/nature/family/New_Zealand_parrot#family"><rdfs:label>Nestoridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Parrot#order"><rdfs:label>Psittaciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Saxicola">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Saxicola#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Saxicola#genus">
+				<rdfs:label>Chats</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Saxicola#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/saxicola/saxicola_1.jpg"/>
+
+				<dc:description>Chats are a small group of slender <a href="/nature/life/Passerine">perching birds</a> once thought to belong to the <a href="/nature/life/True_thrush">thrush family</a>. However, they were found to be more closely related to the <a href="/nature/life/Old_World_flycatcher">Old World flycatchers</a> and have now been placed into that family. The 15 species are mostly insectivores and favour open <a href="/nature/habitats/Temperate_grasslands%2C_savannas%2C_and_shrublands">grassland</a> with scattered shrubs and bushes for cover. The <a href="/nature/life/Whinchat">whinchat</a> and <a href="/nature/life/European_Stonechat">stonechat</a> will be the most familiar species in the UK and a wider Europe. Island chat species, such as those found on Reunion and <a href="/nature/places/Madagascar">Madagascar</a>, have smaller ranges.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Saxicola"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Old_World_flycatcher#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Saxicola#name">
+				<rdfs:label>Saxicola</rdfs:label>
+				        <wo:commonName>Chats</wo:commonName>
+        								<wo:commonName>Stonechats</wo:commonName>
+								<wo:scientificName>Saxicola</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Muscicapidae</wo:familyName><wo:genusName>Saxicola</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/saxicola/saxicola_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Saxicola#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sa/saxicola/saxicola_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Saxicola">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Saxicola#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Saxicola.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Saxicola#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/34792/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Saxicola#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Old_World_flycatcher#family"><rdfs:label>Muscicapidae</rdfs:label><wo:genus rdf:resource="/nature/life/Saxicola#genus"/><wo:genus rdf:resource="/nature/life/Erithacus#genus"/><wo:genus rdf:resource="/nature/life/Ficedula#genus"/><wo:genus rdf:resource="/nature/life/Luscinia#genus"/><wo:genus rdf:resource="/nature/life/Muscicapa#genus"/><wo:genus rdf:resource="/nature/life/Phoenicurus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Whinchat#genus"><rdfs:label>Whinchat</rdfs:label><wo:genus rdf:resource="/nature/life/Saxicola#genus"/></wo:Species><wo:Species rdf:about="/nature/life/European_Stonechat#genus"><rdfs:label>Stonechat</rdfs:label><wo:genus rdf:resource="/nature/life/Saxicola#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

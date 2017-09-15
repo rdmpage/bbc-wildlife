@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Blue_Wildebeest">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Blue_Wildebeest#species">
+				<rdfs:label>Blue wildebeest</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Blue_Wildebeest#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blue_wildebeest/blue_wildebeest_1.jpg"/>
+
+				<dc:description>Blue wildebeest form part of the largest remaining aggregation of large land mammals. The need to follow seasonal rains and fresh grazing leads to the famously vast Serengeti-Masai Mara migration. The rains also signal a brief period when nearly all blue wildebeest calves are born. The calves can stand within six minutes of birth and follow their mother within 15 - a necessary survival strategy, as having this many young in one place makes a bountiful feast for savannah predators. The spectacular migration can be followed in video clips from series such as Big Cat Diary and Wild Africa.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> Blue wildebeest young can stand within six minutes of being born.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Blue_Wildebeest"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3b8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Wildebeest#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bovid#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Blue_Wildebeest#name">
+				<rdfs:label>Connochaetes taurinus</rdfs:label>
+				        <wo:commonName>Blue wildebeest</wo:commonName>
+        								<wo:commonName>Brindled gnu</wo:commonName>
+						<wo:commonName>White-bearded wildebeest</wo:commonName>
+								<wo:scientificName>taurinustaurinus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Bovidae</wo:familyName><wo:genusName>Connochaetes</wo:genusName><wo:speciesName>taurinus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blue_wildebeest/blue_wildebeest_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/blue_wildebeest/blue_wildebeest_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f86p4#programme">
+			<dc:title>Elephant safari</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4kgn#programme">
+			<dc:title>Safety in numbers</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c5gs#programme">
+			<dc:title>Migration fever</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vvyz#programme">
+			<dc:title>Placental mammals</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c3dv#programme">
+			<dc:title>Mating on the move</dc:title>
+			<po:subject rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bl/blue_wildebeest/nhc26-08.mp3">
+			<dc:title>Blue wildebeest snorting in alarm</dc:title>
+			<dc:subject rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Blue_Wildebeest">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Connochaetes_taurinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.antelopetag.com/assets/docs/Antelope/Common%20Wildebeest.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/blue-wildebeest/connochaetes-taurinus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pbs.org/wnet/nature/animal-guides/animal-guide-blue-wildebeest/3255/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Artiodactyla/Connochaetes_taurinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildwatch.com/great_migration">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-africa-25129171">
+			<dc:title>Wildebeest make 'rare' early return</dc:title>
+			<dc:description>Thousands of wildebeest cut short their annual migration from Kenya - dubbed the greatest show on Earth - following a drought in Tanzania.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blue_Wildebeest#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3b8#collection">
+				<dc:title>Jonathan Scott: a wild life in Africa</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Wildebeest#genus"><rdfs:label>Connochaetes</rdfs:label><wo:species rdf:resource="/nature/life/Blue_Wildebeest#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bovid#family"><rdfs:label>Bovidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

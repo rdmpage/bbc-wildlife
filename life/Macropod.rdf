@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Macropod">
+		<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Macropod#family">
+				<rdfs:label>Kangaroos and wallabies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Macropod#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macropod/macropod_1.jpg"/>
+
+				<dc:description>This family of marsupials includes the kangaroos, tree kangaroos, wallabies and quokka. When they need to move quickly, they adopt a bipedal hopping gait and use their tail for balance.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Macropod"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Diprotodontia#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Macropod#name">
+				<rdfs:label>Macropodidae</rdfs:label>
+				        <wo:commonName>Kangaroos and wallabies</wo:commonName>
+        								<wo:commonName>Macropods</wo:commonName>
+								<wo:scientificName>Macropodidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Diprotodontia</wo:orderName><wo:familyName>Macropodidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macropod/macropod_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Macropod#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/macropod/macropod_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Macropod">
+		<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Macropodidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bird.net.au/bird/index.php?title=Macropod">
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rootourism.com/f_facts.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Macropodidae_Family.asp">
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14591267">
+			<dc:title>How the kangaroo got its bounce</dc:title>
+			<dc:description>The newly sequenced DNA of the kangaroo reveals some of the genetic secrets behind its remarkable biology.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12688654">
+			<dc:title>Kangaroo bounce mechanics snapped</dc:title>
+			<dc:description>The precise details of how kangaroos bounce are now being laid bare, thanks to new technology. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10774536">
+			<dc:title>Australia's marsupials 'have American roots'</dc:title>
+			<dc:description>The characteristic koalas, kangaroos and wombats of Australia share a common American ancestor, according to genetic research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8520268.stm">
+			<dc:title>Kidnap a joey to save a species </dc:title>
+			<dc:description>Australian scientists are kidnapping babies from the pouches of endangered marsupial mothers in a bid to save their species from imminent extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Macropod#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Diprotodontia#order"><rdfs:label>Diprotodontia</rdfs:label><wo:family rdf:resource="/nature/life/Macropod#family"/><wo:family rdf:resource="/nature/life/Petauridae#family"/><wo:family rdf:resource="/nature/life/Phalangeridae#family"/><wo:family rdf:resource="/nature/life/Phascolarctidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Tree-kangaroo#family"><rdfs:label>Tree-Kangaroos</rdfs:label><wo:family rdf:resource="/nature/life/Macropod#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Macropus#family"><rdfs:label>Kangaroos, wallabies and wallaroos</rdfs:label><wo:family rdf:resource="/nature/life/Macropod#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Rock-wallaby#family"><rdfs:label>Rock wallabies</rdfs:label><wo:family rdf:resource="/nature/life/Macropod#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

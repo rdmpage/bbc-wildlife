@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Catfish">
+		<foaf:primaryTopic rdf:resource="/nature/order/Catfish#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Catfish#order">
+				<rdfs:label>Catfish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Catfish#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/catfish/catfish_1.jpg"/>
+
+				<dc:description>Catfish (Siluriformes) are a large order of fish, with over 2,400 species in it. Most catfish live in freshwater, but there are a few marine species. They are found on every continent except Antarctica.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Catfish have more than 100,000 taste buds covering their bodies.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Catfish"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Catfish.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Catfish#name">
+				<rdfs:label>Siluriformes</rdfs:label>
+				        <wo:commonName>Catfish</wo:commonName>
+        								<wo:commonName>Catfishes</wo:commonName>
+						<wo:commonName>Siluriformes</wo:commonName>
+								<wo:scientificName>Siluriformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Siluriformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/catfish/catfish_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Catfish#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/catfish/catfish_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01my4b3#programme">
+			<dc:title>New catfish found</dc:title>
+			<po:subject rdf:resource="/nature/order/Catfish#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zkf1#programme">
+			<dc:title>World's rarest fish?</dc:title>
+			<po:subject rdf:resource="/nature/order/Catfish#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00x55n3#programme">
+			<dc:title>New catfish found</dc:title>
+			<po:subject rdf:resource="/nature/order/Catfish#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0065m6g#programme">
+			<dc:title>Top scavengers</dc:title>
+			<po:subject rdf:resource="/nature/order/Catfish#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Catfish">
+		<foaf:primaryTopic rdf:resource="/nature/order/Catfish#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Siluriformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Catfish#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/5083">
+			<foaf:primaryTopic rdf:resource="/nature/order/Catfish#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tolweb.org/Siluriformes/15065">
+			<foaf:primaryTopic rdf:resource="/nature/order/Catfish#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-20661661">
+			<dc:title>Blind cat fish species discovered</dc:title>
+			<dc:description>A new species of blind cat fish has been discovered by scientists working in south India.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Catfish#order"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Catfish.gif">
+		<dc:title>Map showing the distribution of the Catfish order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label><wo:order rdf:resource="/nature/life/Catfish#order"/><wo:order rdf:resource="/nature/life/Perciformes#order"/><wo:order rdf:resource="/nature/life/Clupeiformes#order"/><wo:order rdf:resource="/nature/life/Osteoglossiformes#order"/><wo:order rdf:resource="/nature/life/Salmoniformes#order"/><wo:order rdf:resource="/nature/life/Characiformes#order"/><wo:order rdf:resource="/nature/life/Syngnathiformes#order"/><wo:order rdf:resource="/nature/life/Gasterosteiformes#order"/><wo:order rdf:resource="/nature/life/Beloniformes#order"/><wo:order rdf:resource="/nature/life/Anglerfish#order"/></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Vandellia#order"><rdfs:label>Candirus</rdfs:label><wo:order rdf:resource="/nature/life/Catfish#order"/></wo:Genus><wo:Family rdf:about="/nature/life/Eeltail_catfish#order"><rdfs:label>Eeltail catfish</rdfs:label><wo:order rdf:resource="/nature/life/Catfish#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

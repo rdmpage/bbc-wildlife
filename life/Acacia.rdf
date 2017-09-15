@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Acacia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Acacia#genus">
+				<rdfs:label>Acacias</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Acacia#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ac/acacia/acacia_1.jpg"/>
+
+				<dc:description>Acacias are shrubs and trees found in warm and tropical regions, from the Americas and Europe to Asia and Africa, however, the vast majority of species are native to Australia. Belonging to the pea family, acacias have pods, and acacia beans are on the menu in Mexico. If their sharp spines aren't enough to keep the grazers away, their leaves are also loaded with some very nasty compounds. This genus contains some incredibly useful species, utilised by the food and perfume industries and traditional medicine as well as providing wood for furniture. The Ark of the Covenant is said to be made out of acacia wood.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Acacia"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Acacia.gif"/>
+		
+										    
+    								
+					
+                                                                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Acacia#name">
+				<rdfs:label>Acacia</rdfs:label>
+				        <wo:commonName>Acacias</wo:commonName>
+        								<wo:commonName>Thorntrees</wo:commonName>
+						<wo:commonName>Wattles</wo:commonName>
+						<wo:commonName>Whistling thorns</wo:commonName>
+								<wo:scientificName>Acacia</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Fabales</wo:orderName><wo:familyName>Fabaceae</wo:familyName><wo:genusName>Acacia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ac/acacia/acacia_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Acacia#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ac/acacia/acacia_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00699ds#programme">
+			<dc:title>Thorn tree of Africa</dc:title>
+			<po:subject rdf:resource="/nature/genus/Acacia#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006999s#programme">
+			<dc:title>Saving the seeds</dc:title>
+			<po:subject rdf:resource="/nature/genus/Acacia#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Acacia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://waynesword.palomar.edu/plaug99.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.2020site.org/trees/acacia.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/13650">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildwatch.com/living_library/plants-1/acacias-thorn-trees-of-africa">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13767255">
+			<dc:title>Trees 'help stem desertification'</dc:title>
+			<dc:description>A UN-led pilot scheme highlights how trees can help protect people in drylands, considered to be one of the most hostile habitats on the planet. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11168039">
+			<dc:title>Ants protect trees from elephants</dc:title>
+			<dc:description>A species of acacia tree found in Eastern Africa seems to be protected from elephant damage - by the ants that live on it.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8383577.stm">
+			<dc:title>Acacia plant controls ants with chemical</dc:title>
+			<dc:description>In Africa and in the tropics, armies of tiny creatures make the twisting stems of acacia plants their homes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Acacia#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Acacia.gif">
+		<dc:title>Map showing the distribution of the Acacias genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Fabaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Acacia#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Fabales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

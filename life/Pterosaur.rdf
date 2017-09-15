@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Pterosaur">
+		<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Pterosaur#order">
+				<rdfs:label>Pterosaurs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Pterosaur#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pt/pterosaur/pterosaur_1.jpg"/>
+
+				<dc:description>More commonly known as pterodactyls, pterosaurs were winged reptiles - the first vertebrates to evolve powered flight. The evidence for flight comes from their light hollow bones, large brains and an extremely long fourth digit providing wing support. The discovery of large numbers of fossil species indicates that pterosaurs were initially highly successful.
+<br />
+<br />
+Species ranged from the size of sparrows to the largest known flying creature of all time with a 12 metre wingspan. Towards the end of their reign, only the larger species remained as the smaller species were out-competed by early birds. Birds evolved flight separately to pterosaurs in a classic example of convergent evolution. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pterosaur"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Gliding_(flight)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Pterosaur.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Pterosaur#name">
+				<rdfs:label>Pterosauria</rdfs:label>
+				        <wo:commonName>Pterosaurs</wo:commonName>
+        								<wo:commonName>Pterodactyls</wo:commonName>
+						<wo:commonName>winged lizard</wo:commonName>
+								<wo:scientificName>Pterosauria</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Pterosauria</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pt/pterosaur/pterosaur_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Pterosaur#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pt/pterosaur/pterosaur_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ckq4h#programme">
+			<dc:title>Flying reptiles</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9d24#programme">
+			<dc:title>Sea crossing</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9crm#programme">
+			<dc:title>Cretaceous colonies</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9cgy#programme">
+			<dc:title>Danger on the beach</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9bzx#programme">
+			<dc:title>Catching breakfast</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9bnr#programme">
+			<dc:title>Great grazers</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b99cl#programme">
+			<dc:title>Flying reptile</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00486xw#programme">
+			<dc:title>Birds, bats and pterosaurs</dc:title>
+			<po:subject rdf:resource="/nature/order/Pterosaur#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pterosaur">
+		<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://pterosaur.net/myths.php">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=category&amp;sectionid=40&amp;id=264&amp;Itemid=147">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossilmuseum.net/fossilpictures-wpd/Pteronodon/Pterosaur.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pterosaur.co.uk/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/diapsids/pterosauria.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-latin-america-21899635">
+			<dc:title>Giant pterosaur fossil unveiled in Brazil</dc:title>
+			<dc:description>Palaeontologists unveil the reconstructed skeleton and fossilised remains of a giant pterosaur which used to rule the skies over Brazil millions of years ago. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17276531">
+			<dc:title>Velociraptor's last meal revealed</dc:title>
+			<dc:description>The bone of a large flying reptile has been found in the gut of a Velociraptor, sparking fresh discussion among palaeontologists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15150591">
+			<dc:title>Fossil is 'largest toothy pterosaur'</dc:title>
+			<dc:description>A fossilised section of beak found in the UK belonged to the world's largest toothed pterosaur, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8306060.stm">
+			<dc:title>New flying reptile fossils found</dc:title>
+			<dc:description>Fossils of a new type of flying reptile which lived 160 million years ago are found in China, bridging an evolutionary gap.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/3227513.stm">
+			<dc:title>Pterosaurs 'flew like birds'</dc:title>
+			<dc:description>Pterosaurs were not cumbersome gliding dinosaurs, but nimble and athletic flyers, scientists now believe.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8209505.stm">
+			<dc:title>Runway found for flying reptiles</dc:title>
+			<dc:description>An ancient runway for flying reptiles called pterosaurs has been found in France, say researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11815320">
+			<dc:title>'Wings key' to size of pterosaurs</dc:title>
+			<dc:description>New research on pterosaurs suggests their wing function may have been key to the creatures' large size.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11756858">
+			<dc:title>Winged reptile's pole vault trick</dc:title>
+			<dc:description>A new study claims that the ancient winged reptiles known as pterosaurs used a "pole-vaulting" action to take to the air.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Pterosaur#order"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Gliding_(flight)#adaptation">
+					<rdfs:label>Adapted to gliding</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Pterosaur.gif">
+		<dc:title>Map showing the distribution of the Pterosaurs order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label><wo:order rdf:resource="/nature/life/Pterosaur#order"/><wo:order rdf:resource="/nature/life/Squamata#order"/><wo:order rdf:resource="/nature/life/Turtle#order"/><wo:order rdf:resource="/nature/life/Crocodilia#order"/><wo:order rdf:resource="/nature/life/Rauisuchia#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Hatzegopteryx#order"><rdfs:label>Hatzegopteryx</rdfs:label><wo:order rdf:resource="/nature/life/Pterosaur#order"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

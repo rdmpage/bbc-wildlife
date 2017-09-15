@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Arctic_Tern">
+		<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Arctic_Tern#species">
+				<rdfs:label>Arctic tern</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Arctic_Tern#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctic_tern/arctic_tern_1.jpg"/>
+
+				<dc:description>Arctic terns are famous for undertaking the longest migration of any bird. Some individuals travel from the Arctic to the Antarctic and back again over the course of a year. Their migration means that they never feel the full effects of winter - when the northern hemisphere experiences its winter months, the birds are in the southern hemisphere, and vice versa. Arctic terns breed in northern latitudes such as the UK, as well as in the Arctic circle.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Arctic terns fly the equivalent of three round trips to the Moon in its lifetime.
+<br/> </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Arctic_Tern"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Arctic_Tern.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Sterna#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Tern#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Charadriiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Arctic_Tern#name">
+				<rdfs:label>Sterna paradisaea</rdfs:label>
+				        <wo:commonName>Arctic tern</wo:commonName>
+        										<wo:scientificName>paradisaeaparadisaea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Charadriiformes</wo:orderName><wo:familyName>Sternidae</wo:familyName><wo:genusName>Sterna</wo:genusName><wo:speciesName>paradisaea</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctic_tern/arctic_tern_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Arctic_Tern#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ar/arctic_tern/arctic_tern_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00xjv8s#programme">
+			<dc:title>The Arctic tern</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00xhzjk#programme">
+			<dc:title>The Arctic tern</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l9hqy#programme">
+			<dc:title>Arctic to Antarctic</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vdtr#programme">
+			<dc:title>More than a job</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006cbv3#programme">
+			<dc:title>Tern attack</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/ar/arctic_tern/nhs1239-03.mp3">
+			<dc:title>Arctic tern alarm call</dc:title>
+			<dc:subject rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/ar/arctic_tern/nhs711-07.mp3">
+			<dc:title>Arctic tern colony</dc:title>
+			<dc:subject rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Arctic_Tern">
+		<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Sterna_paradisaea.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Arctic_Tern/lifehistory">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arctictern.info/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/arctic-tern/sterna-paradisaea/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=279953">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/a/arctictern/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seabird.org/birds-arctic-tern.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/apps/ifl/learningzone/clips/showrecord?Id=10807;Config=main_clipid.cfg">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, The Earth</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11375618">
+			<dc:title>Arctic bird sets new age record</dc:title>
+			<dc:description>A sea-bird has officially become the UK's oldest recorded Arctic Tern - at the age of 30 years, two months and 23 days.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8451908.stm">
+			<dc:title>Arctic tern's epic journey mapped</dc:title>
+			<dc:description>The Arctic tern's extraordinary pole-to-pole migration has been detailed by an international team of scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Tern#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Arctic_Tern.gif">
+		<dc:title>Map showing the distribution of the Arctic tern species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Sterna#genus"><rdfs:label>Sterna</rdfs:label><wo:species rdf:resource="/nature/life/Arctic_Tern#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Tern#family"><rdfs:label>Sternidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Charadriiformes#order"><rdfs:label>Charadriiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

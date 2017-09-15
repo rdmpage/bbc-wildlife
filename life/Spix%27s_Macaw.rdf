@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Spix's_Macaw">
+		<foaf:primaryTopic rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Spix's_Macaw#species">
+				<rdfs:label>Spix's macaw</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Spix's_Macaw#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/spixs_macaw/spixs_macaw_1.jpg"/>
+
+				<dc:description>The Spix's macaw is critically endangered. There have been no sightings in the woodlands and creeks of north east Brazil since 2000. Indicating they are probably extinct in the wild. This extremely rare and protected <a href="http://www.bbc.co.uk/nature/life/Parrot">parrot</a> is being saved by a number of important captive breeding programs. 
+<br/>
+<br/>
+There are a number of reasons for its plight in the wild. It is dependant on the Caribbean trumpet tree for nesting and perching. These trees are part of a unique habitat in Brazil found nowhere else on Earth. Illegal trapping for the bird trade has also had an impact. Spix's macaws are elegant <a href="http://www.bbc.co.uk/nature/life/Parrot">parrots</a> to look at with their various shades of blue and striking deep blue wings and tail. They are also <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_(sense)">noisy</a> and lively birds.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Spix's_Macaw"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Mimicry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Spix's_Macaw.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Cyanopsitta#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/True_parrots#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Parrot#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Spix's_Macaw#name">
+				<rdfs:label>Cyanopsitta spixii</rdfs:label>
+				        <wo:commonName>Spix's macaw</wo:commonName>
+        								<wo:commonName>Little blue macaw</wo:commonName>
+								<wo:scientificName>spixiispixii</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Psittaciformes</wo:orderName><wo:familyName>Psittacidae</wo:familyName><wo:genusName>Cyanopsitta</wo:genusName><wo:speciesName>spixii</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sp/spixs_macaw/spixs_macaw_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sp/spixs_macaw/spixs_macaw_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kjq43#programme">
+			<dc:title>Priceless birds</dc:title>
+			<po:subject rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kjppr#programme">
+			<dc:title>Blue for a boy?</dc:title>
+			<po:subject rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kjpfv#programme">
+			<dc:title>Parrot politics</dc:title>
+			<po:subject rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kjpf2#programme">
+			<dc:title>Unnatural selection</dc:title>
+			<po:subject rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Spix's_Macaw">
+		<foaf:primaryTopic rdf:resource="/nature/species/Spix's_Macaw#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cyanopsitta_spixii.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/spixs-macaw/cyanopsitta-spixii/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdlife.org/datazone/speciesfactsheet.php?id=1546">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bluemacaws.org/Lexicon_spixii.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/142578/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Spix's_Macaw#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Mimicry#adaptation">
+					<rdfs:label>Mimicry</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Spix's_Macaw.gif">
+		<dc:title>Map showing the distribution of the Spix's macaw species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Cyanopsitta#genus"><rdfs:label>Cyanopsitta</rdfs:label><wo:species rdf:resource="/nature/life/Spix's_Macaw#species"/></wo:Genus><wo:Family rdf:about="/nature/family/True_parrots#family"><rdfs:label>Psittacidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Parrot#order"><rdfs:label>Psittaciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

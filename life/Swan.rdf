@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Swan">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Swan#genus">
+				<rdfs:label>Swans</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Swan#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sw/swan/swan_1.jpg"/>
+
+				<dc:description>Swans are the largest members of the duck and goose family. With mute swans weighing as much as 15kg. There are six species in the genus. All the swans native to Britain have white plumage, whereas those from the Southern hemisphere have all black or partly black feathers.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Swan"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Anatidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Anseriformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Swan#name">
+				<rdfs:label>Cygnus</rdfs:label>
+				        <wo:commonName>Swans</wo:commonName>
+        										<wo:scientificName>Cygnus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Anseriformes</wo:orderName><wo:familyName>Anatidae</wo:familyName><wo:genusName>Cygnus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sw/swan/swan_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Swan#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sw/swan/swan_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Swan">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Cygnus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Cygnus/89156">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/20156">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-gloucestershire-17843893">
+			<dc:title>Police taught how to catch swans</dc:title>
+			<dc:description>A lesson in swan handling is given to a group of police officers at a wildfowl centre in Gloucestershire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-17736292">
+			<dc:title>How dangerous are swans?</dc:title>
+			<dc:description>A man in suburban Chicago has died when he came under attack by a swan, fell out of his kayak and drowned. How dangerous are these graceful white birds?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-dorset-13280382">
+			<dc:title>First cygnet 'two weeks early'</dc:title>
+			<dc:description>The first cygnet of the year arrives at Abbotsbury Swannery, nearly two weeks earlier than usual, according to the head swanherd.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9421000/9421133.stm">
+			<dc:title>Swan bottoms sized up for science</dc:title>
+			<dc:description>Researchers at the Wildfowl and Wetlands Trust are measuring the size of Bewick's swans' behinds in the name of conservation.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-sussex-11558274">
+			<dc:title>Swans rescued from polluted lake</dc:title>
+			<dc:description>Volunteers rescue birds from an East Sussex lake following a major sewage leak.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-11353269">
+			<dc:title>'Killer swan' causes mayhem</dc:title>
+			<dc:description>A rogue swan has been causing mayhem on what was a quiet pond in Pembroke.  The bird has been attacking and killing other swans in an attempt to keep them off his patch.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-south-west-wales-11331964">
+			<dc:title>Eviction threat for swan Hannibal</dc:title>
+			<dc:description>A swan dubbed Hannibal after killing and injuring more than 30 other swans could be removed from a Pembrokeshire lake.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-11119466">
+			<dc:title>Norfolk RSPCA cleans oil-covered swans</dc:title>
+			<dc:description>An RSPCA wildlife hospital in Norfolk cleans up 27 swans found covered in oil on a river in Cambridgeshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-hereford-worcester-11092018">
+			<dc:title>Swan knocks motorcyclist off bike in Worcestershire</dc:title>
+			<dc:description>A man suffers a broken collarbone when he is struck by a low-flying swan and knocked off his motorbike in Worcestershire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-somerset-11052579">
+			<dc:title>Injured swan rescued from Somerset lake</dc:title>
+			<dc:description>A swan, which had been trampled by cattle, is rescued from a lake in Somerset after getting into difficulty in the water.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-somerset-11003934">
+			<dc:title>Distressed swan rescued from Bridgwater Canal</dc:title>
+			<dc:description>A distressed swan is rescued from a canal in Somerset after it partially swallowed a fishing hook and line.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Swan#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Anatidae#family"><rdfs:label>Anatidae</rdfs:label><wo:genus rdf:resource="/nature/life/Swan#genus"/><wo:genus rdf:resource="/nature/life/Aix_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Anas#genus"/><wo:genus rdf:resource="/nature/life/Anser_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Branta#genus"/><wo:genus rdf:resource="/nature/life/Goldeneye_(duck)#genus"/><wo:genus rdf:resource="/nature/life/Chen_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Eider#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Anseriformes#order"><rdfs:label>Anseriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Mute_Swan#genus"><rdfs:label>Mute swan</rdfs:label><wo:genus rdf:resource="/nature/life/Swan#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Whooper_Swan#genus"><rdfs:label>Whooper swan</rdfs:label><wo:genus rdf:resource="/nature/life/Swan#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Tundra_Swan#genus"><rdfs:label>Bewick's swan</rdfs:label><wo:genus rdf:resource="/nature/life/Swan#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

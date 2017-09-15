@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Northern_Gannet">
+		<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Northern_Gannet#species">
+				<rdfs:label>Northern gannet</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Northern_Gannet#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/northern_gannet/northern_gannet_1.jpg"/>
+
+				<dc:description>Gannets are magnificent seabirds, whose British population occupies many of Scotland’s offshore islands during the breeding season. Between March and September Britain is in fact home to nearly 70% of the world's breeding gannet population, making their habitat internationally important. Gannets feed on shoaling fish such as mackerel and herring and execute high speed, plunging dives from great heights, breaking the surface of the water like bullets. Within breeding colonies, adults and chicks are tightly packed together. Those who wander mistakenly into neighbouring patches are fiercely attacked.   
+<br/>
+<br/>
+<a href="/nature/22644348">See a summer’s seabird ‘city’ spectacular.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Northern_Gannet"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Gannet#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sulidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pelecaniformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Northern_Gannet#name">
+				<rdfs:label>Morus bassanus</rdfs:label>
+				        <wo:commonName>Northern gannet</wo:commonName>
+        								<wo:commonName>Gannet</wo:commonName>
+								<wo:scientificName>bassanusbassanus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Pelecaniformes</wo:orderName><wo:familyName>Sulidae</wo:familyName><wo:genusName>Morus</wo:genusName><wo:speciesName>bassanus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/northern_gannet/northern_gannet_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Northern_Gannet#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/no/northern_gannet/northern_gannet_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00nshy4#programme">
+			<dc:title>Body language</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqdpd#programme">
+			<dc:title>Nature's harpoons</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bxcjn#programme">
+			<dc:title>Colonial Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008drwm#programme">
+			<dc:title>Feeding time</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008drfz#programme">
+			<dc:title>Body language</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yyly#programme">
+			<dc:title>Vertical torpedo</dc:title>
+			<po:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/n/no/northern_gannet/nhc23-03.mp3">
+			<dc:title>Gannet calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/n/no/northern_gannet/nhc23-06.mp3">
+			<dc:title>A gannet colony</dc:title>
+			<dc:subject rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Northern_Gannet">
+		<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Morus_bassanus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Northern_Gannet/id">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/gannet/morus-bassanus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=16001">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/g/gannet/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seabird.org/birds-gannet.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/24898391">
+			<dc:title>Gannet cam captures bird's eye view</dc:title>
+			<dc:description>Miniature video cameras attached to birds have revealed life from a gannet's perspective.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18927786">
+			<dc:title>Teen gannets flirt with flowers</dc:title>
+			<dc:description>Adolescent gannets have been photographed "flirting" with flowers at Bempton Cliffs in Yorkshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18832953">
+			<dc:title>Big picture: Secret bird survey</dc:title>
+			<dc:description>Scientists survey wildlife "in secret" from hundreds of metres up in the air thanks to super high resolution photography.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/scotland/nature/the_guga_hunters_of_ness_creating_the_programme.shtml">
+			<dc:title>The Guga Hunters of Ness: creating the programme</dc:title>
+			<dc:description>Director Mike Day on the making of the The Guga Hunters of Ness.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/8235925.stm">
+			<dc:title>Gannet colony's population spurt</dc:title>
+			<dc:description>The number of gannets breeding on an island off the Pembrokeshire coast is continuing to increase, a new survey has revealed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Northern_Gannet#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Gannet#genus"><rdfs:label>Morus</rdfs:label><wo:species rdf:resource="/nature/life/Northern_Gannet#species"/><wo:species rdf:resource="/nature/life/Cape_Gannet#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sulidae#family"><rdfs:label>Sulidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Pelecaniformes#order"><rdfs:label>Pelecaniformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

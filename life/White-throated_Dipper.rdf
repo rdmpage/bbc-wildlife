@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/White-throated_Dipper">
+		<foaf:primaryTopic rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/White-throated_Dipper#species">
+				<rdfs:label>Dipper</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/White-throated_Dipper#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/white-throated_dipper/white-throated_dipper_1.jpg"/>
+
+				<dc:description>Dippers have evolved a superb ability to hunt underwater. Holding their wings outstretched, they stabilize their weight and walk along the bottom of fast running <a href="http://www.bbc.co.uk/nature/habitats/River">rivers or streams</a>. Dippers feed on a wide range of aquatic invertebrates and fish and are found throughout most of <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> and the Middle East.
+<br />
+<br />
+Dippers are named for the bobbing and dipping movements they make whilst perched. They have a distinctive white throat and breast against their dark brown-black <a href="http://www.bbc.co.uk/nature/adaptations/Flight">plumage</a>. A flash of their specialised white eyelids, used to protect the eyes when submerged, provides further identification if needed.
+<br />
+<br />
+<b>Did you know?</b><br />
+Dippers can remain under water for up to 30 seconds.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/White-throated_Dipper"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Dipper#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Cinclidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/White-throated_Dipper#name">
+				<rdfs:label>Cinclus cinclus</rdfs:label>
+				        <wo:commonName>Dipper</wo:commonName>
+        								<wo:commonName>European dipper</wo:commonName>
+						<wo:commonName>White-throated dipper </wo:commonName>
+								<wo:scientificName>cincluscinclus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Cinclidae</wo:familyName><wo:genusName>Cinclus</wo:genusName><wo:speciesName>cinclus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/white-throated_dipper/white-throated_dipper_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wh/white-throated_dipper/white-throated_dipper_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00brd05#programme">
+			<dc:title>Dipper debut</dc:title>
+			<po:subject rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082wb3#programme">
+			<dc:title>Graceful dippers</dc:title>
+			<po:subject rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082hz3#programme">
+			<dc:title>Dipper dale</dc:title>
+			<po:subject rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xs09#programme">
+			<dc:title>Tough love</dc:title>
+			<po:subject rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xrx5#programme">
+			<dc:title>A dip too far</dc:title>
+			<po:subject rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xr0s#programme">
+			<dc:title>Dipping and diving</dc:title>
+			<po:subject rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/w/wh/white-throated_dipper/5016007.mp3">
+			<dc:title>Dipper chicks in nest</dc:title>
+			<dc:subject rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/White-throated_Dipper">
+		<foaf:primaryTopic rdf:resource="/nature/species/White-throated_Dipper#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cinclus_cinclus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/dipper/cinclus-cinclus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=126001">
+			<foaf:primaryTopic rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bto.org/birdtrends2009/wcrdippe.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/d/dipper/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/White-throated_Dipper#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Dipper#genus"><rdfs:label>Cinclus</rdfs:label><wo:species rdf:resource="/nature/life/White-throated_Dipper#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Cinclidae#family"><rdfs:label>Cinclidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

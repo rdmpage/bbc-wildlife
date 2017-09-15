@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Droseraceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Droseraceae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Droseraceae#family">
+				<rdfs:label>Sundew family</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Droseraceae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/dr/droseraceae/droseraceae_1.jpg"/>
+
+				<dc:description>Sundews and their relatives are a family of plants that, in addition to a few hundred species of sundews, include the Venus flytrap and the waterwheel plant. All the plants in this family are carnivorous, attracting, catching and consuming insects, slugs and other small invertebrates in different ways.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Droseraceae"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Droseraceae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Nepenthales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Droseraceae#name">
+				<rdfs:label>Droseraceae</rdfs:label>
+				        <wo:commonName>Sundew family</wo:commonName>
+        										<wo:scientificName>Droseraceae</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Nepenthales</wo:orderName><wo:familyName>Droseraceae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/dr/droseraceae/droseraceae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Droseraceae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/dr/droseraceae/droseraceae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Droseraceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Droseraceae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://botany.csdl.tamu.edu/FLORA/imaxxdrs.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Droseraceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://botany.csdl.tamu.edu/FLORA/Wilson/tfp/dil/neporder2.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Droseraceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kew.org/blogs/in-the-gardens/carnivorous-plants-at-kew">
+			<foaf:primaryTopic rdf:resource="/nature/family/Droseraceae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Droseraceae.gif">
+		<dc:title>Map showing the distribution of the Sundew family family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Nepenthales#order"><rdfs:label>Nepenthales</rdfs:label><wo:family rdf:resource="/nature/life/Droseraceae#family"/><wo:family rdf:resource="/nature/life/Nepenthaceae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Drosera#family"><rdfs:label>Sundews</rdfs:label><wo:family rdf:resource="/nature/life/Droseraceae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Venus_Flytrap#family"><rdfs:label>Venus flytrap</rdfs:label><wo:family rdf:resource="/nature/life/Droseraceae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

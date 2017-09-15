@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Asparagales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Asparagales#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Asparagales#order">
+				<rdfs:label>Asparagus and orchids</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Asparagales#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/as/asparagales/asparagales_1.jpg"/>
+
+				<dc:description>Asparagus, orchids and relatives are an order of monocotyledonous flowering plants. Almost every habitat on Earth has species from within this order. This is not surprising as it contains the world's largest flowering plant family, orchids, which comprises more than 22,000 species. Several agriculturally and horticulturally important families are contained within this order, from the onion and asparagus to crocuses and gladioli.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Asparagales"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Asparagales#name">
+				<rdfs:label>Asparagales</rdfs:label>
+				        <wo:commonName>Asparagus and orchids</wo:commonName>
+        										<wo:scientificName>Asparagales</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Asparagales</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/as/asparagales/asparagales_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Asparagales#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/as/asparagales/asparagales_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Asparagales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Asparagales#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/Asparagales/21333">
+			<foaf:primaryTopic rdf:resource="/nature/order/Asparagales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/4175">
+			<foaf:primaryTopic rdf:resource="/nature/order/Asparagales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/monocots/liliflorae/asparagales.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Asparagales#order"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label><wo:order rdf:resource="/nature/life/Asparagales#order"/><wo:order rdf:resource="/nature/life/Alismatales#order"/><wo:order rdf:resource="/nature/life/Poales#order"/><wo:order rdf:resource="/nature/life/Liliales#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Asparagaceae#order"><rdfs:label>Asparagus family</rdfs:label><wo:order rdf:resource="/nature/life/Asparagales#order"/></wo:Family><wo:Family rdf:about="/nature/life/Alliaceae#order"><rdfs:label>Onion family</rdfs:label><wo:order rdf:resource="/nature/life/Asparagales#order"/></wo:Family><wo:Genus rdf:about="/nature/life/Ophrys#order"><rdfs:label>Bee orchids</rdfs:label><wo:order rdf:resource="/nature/life/Asparagales#order"/></wo:Genus><wo:Species rdf:about="/nature/life/Narcissus_pseudonarcissus#order"><rdfs:label>Daffodil</rdfs:label><wo:order rdf:resource="/nature/life/Asparagales#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

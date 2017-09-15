@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Moa">
+		<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Moa#family">
+				<rdfs:label>Moas</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Moa#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/moa/moa_1.jpg"/>
+
+				<dc:description>Moas were unique among flightless birds, having lost any trace that they once had wings. Not even tiny wing bones or a wishbone were left. As well as bones, mummified moas and well preserved feathers have been found. The moa became extinct when people discovered and colonised New Zealand in the 13th century and began to hunt them. Fragments have been found at many sites, including prehistoric Maori settlements, where the eggs had been cooked and eaten. Related to the ostriches and emus, there were 11 species of moa, from the turkey-sized Euryapteryx curtus to the huge Dinornis giganteus.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Moa"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Moa.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Ratite#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Moa#name">
+				<rdfs:label>Dinornithidae</rdfs:label>
+				        <wo:commonName>Moas</wo:commonName>
+        										<wo:scientificName>Dinornithidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Struthioniformes</wo:orderName><wo:familyName>Dinornithidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/moa/moa_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Moa#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/moa/moa_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p010v303#programme">
+			<dc:title>Resurrecting the moa</dc:title>
+			<po:subject rdf:resource="/nature/family/Moa#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bm2hq#programme">
+			<dc:title>Giants of New Zealand</dc:title>
+			<po:subject rdf:resource="/nature/family/Moa#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Moa">
+		<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://sciblogs.co.nz/the-atavism/2010/02/04/did-the-moas-ancestor-fly-to-new-zealand/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://terranature.org/moa.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.messybeast.com/extinct/moa.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nzbirds.com/birds/moa.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/4096032.stm">
+			<dc:title>Slow growth 'helped wipe out' moa</dc:title>
+			<dc:description>The slow growth period of New Zealand's ancient moa birds may have hastened their extinction at the hands of human colonists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7826251.stm">
+			<dc:title>Poo clue to ancient bird's diet</dc:title>
+			<dc:description>The preserved faeces of a family of extinct birds have yielded up surprising clues about what the birds ate.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Moa#family"/>
+		</foaf:Document>
+			
+											<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Moa.gif">
+		<dc:title>Map showing the distribution of the Moas family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Ratite#order"><rdfs:label>Struthioniformes</rdfs:label><wo:family rdf:resource="/nature/life/Moa#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

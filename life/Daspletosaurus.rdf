@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Daspletosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Daspletosaurus#genus">
+				<rdfs:label>Daspletosaurus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Daspletosaurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/da/daspletosaurus/daspletosaurus_1.jpg"/>
+
+				<dc:description>The name <a href="http://www.bbc.co.uk/nature/life/Tyrannosaurus">Tyrannosaurus rex</a> or 'tyrant lizard king' would have been equally appropriate for Daspletosaurus. This terrifying <a href="http://www.bbc.co.uk/nature/life/Tyrannosauridae">tyrannosaur</a> preceded <a href="http://www.bbc.co.uk/nature/life/Tyrannosaurus">T-rex</a> by ten million years, being top of the food chain in North America's vast flood plains 75 million years ago. A formidable <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predator</a>, it was nine metres long and weighed as much as three tonnes. 
+<br />
+<br />
+Like the <a href="http://www.bbc.co.uk/nature/life/Tyrannosauridae">tyrannosaurs</a> that were to follow, it relied on smell and hearing as much as sight. Bite marks in Daspletosaurus skulls suggest they fought each other over food, <a href="http://www.bbc.co.uk/nature/adaptations/Territory_(animal)">territory</a> or <a href="http://www.bbc.co.uk/nature/adaptations/Dominance_hierarchy">dominance</a> in a group. A remarkable discovery of a group of Daspletosaurus near some <a href="http://www.bbc.co.uk/nature/life/Hadrosaurid">Hadrosaurs</a> raised some interesting questions. Did these tyrannosaurs <a href="http://www.bbc.co.uk/nature/adaptations/Pack_hunter">hunt in packs</a> or come together to <a href="http://www.bbc.co.uk/nature/adaptations/Carnivore">feast</a> on the carcasses?</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Daspletosaurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Daspletosaurus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Tyrannosauridae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Daspletosaurus#name">
+				<rdfs:label>Daspletosaurus</rdfs:label>
+												<wo:commonName>frightful lizard</wo:commonName>
+								<wo:scientificName>Daspletosaurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName><wo:familyName>Tyrannosauridae</wo:familyName><wo:genusName>Daspletosaurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/da/daspletosaurus/daspletosaurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/da/daspletosaurus/daspletosaurus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00krlln#programme">
+			<dc:title>Daspletosaurus</dc:title>
+			<po:subject rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kpcvx#programme">
+			<dc:title>Hunting by smell</dc:title>
+			<po:subject rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kpctq#programme">
+			<dc:title>Effective killers</dc:title>
+			<po:subject rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Daspletosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=881">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://paleodb.org/cgi-bin/bridge.pl?a=basicTaxonInfo&amp;taxon_no=57258">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rareresource.com/daspletosaurus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Daspletosaurus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Daspletosaurus.gif">
+		<dc:title>Map showing the distribution of the Daspletosaurus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Tyrannosauridae#family"><rdfs:label>Tyrannosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Daspletosaurus#genus"/><wo:genus rdf:resource="/nature/life/Tarbosaurus#genus"/><wo:genus rdf:resource="/nature/life/Tyrannosaurus#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Theropoda#suborder"><rdfs:label>Theropoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

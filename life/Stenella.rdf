@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Stenella">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Stenella#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Stenella#genus">
+				<rdfs:label>Spotted dolphins</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Stenella#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/stenella/stenella_1.jpg"/>
+
+				<dc:description>There are five species of spotted dolphin. They are known for their acrobatic displays, leaping out of the water and flying through the air. They're also very intelligent and <a href="http://www.bbc.co.uk/nature/adaptations/Presociality">social</a> animals, travelling in large groups and often mixing with other species of <a href="http://www.bbc.co.uk/nature/life/Oceanic_dolphin">dolphin</a>. Despite the name, species such as the <a href="http://www.bbc.co.uk/nature/life/Atlantic_spotted_dolphin">Atlantic spotted dolphin</a> begin life without markings, only acquiring the characteristic spots as they get older. The introduction of 'dolphin-friendly' tuna capture methods reversed a population decline. The subsequent rise in numbers has helped make the <a href="http://www.bbc.co.uk/nature/life/Pantropical_Spotted_Dolphin">pantropical spotted dolphin</a> one of the most numerous dolphins in the world. This change in fishing practice may have less beneficial consequences for other marine life.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Stenella"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Stenella.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Oceanic_dolphin#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Stenella#name">
+				<rdfs:label>Stenella</rdfs:label>
+				        <wo:commonName>Spotted dolphins</wo:commonName>
+        								<wo:commonName>Bridled dolphins</wo:commonName>
+						<wo:commonName>Spinner dolphins</wo:commonName>
+						<wo:commonName>Striped dolphins</wo:commonName>
+								<wo:scientificName>Stenella</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Delphinidae</wo:familyName><wo:genusName>Stenella</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/stenella/stenella_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Stenella#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/st/stenella/stenella_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Stenella">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Stenella#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Stenella.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stenella#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.conservenature.org/learn_about_wildlife/marine_mammals/stenella_dolphins.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stenella#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/15603">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stenella#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Stenella.gif">
+		<dc:title>Map showing the distribution of the Spotted dolphins genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Oceanic_dolphin#family"><rdfs:label>Delphinidae</rdfs:label><wo:genus rdf:resource="/nature/life/Stenella#genus"/><wo:genus rdf:resource="/nature/life/Common_dolphin#genus"/><wo:genus rdf:resource="/nature/life/Lagenorhynchus#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Bottlenose_dolphin#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Pantropical_Spotted_Dolphin#genus"><rdfs:label>Pantropical spotted dolphin</rdfs:label><wo:genus rdf:resource="/nature/life/Stenella#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Atlantic_spotted_dolphin#genus"><rdfs:label>Atlantic spotted dolphin</rdfs:label><wo:genus rdf:resource="/nature/life/Stenella#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

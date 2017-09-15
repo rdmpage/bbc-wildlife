@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Owl">
+		<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Owl#order">
+				<rdfs:label>Owls</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Owl#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/ow/owl/owl_1.jpg"/>
+
+				<dc:description>Owls vary greatly in size, from the tiny elf owl to the huge eagle-owls. There are over 200 species and they are found on all continents except Antarctica. Owls are predators. Their prey varies from insects to fish to small mammals, and they rely on hearing rather than vision to locate it. Many species specialise in hunting at night, with feathers specially adapted for silent flight.
+<br/>
+<br/>
+<b>Did you know?</b><br/> An owl can swivel its head through 270 degrees because of its 14 neck vertebrae. 
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Owl"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Owl#name">
+				<rdfs:label>Strigiformes</rdfs:label>
+				        <wo:commonName>Owls</wo:commonName>
+        										<wo:scientificName>Strigiformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Strigiformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/ow/owl/owl_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Owl#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/ow/owl/owl_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Owl">
+		<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Strigiformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birding.in/orders/strigiformes.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturephoto-cz.eu/aves/strigiformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tolweb.org/Strigiformes/26388">
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21279609">
+			<dc:title>How owls swivel their heads</dc:title>
+			<dc:description>Scientists detail the smart bone and vascular structures that enable an owl to turn its head almost a full circle.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-hereford-worcester-15059096">
+			<dc:title>Eagle owl night of freedom ends</dc:title>
+			<dc:description>The hunt for a rare giant owl in Worcester ends with the bird being recaptured in the car park of a retail estate.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/owls-hunting-petrels-by-stealth/10540.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Owls are seen stalking and catching petrels as they leave or return to their nests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/pat-hutchins-good-night-owl/1086.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Owl cannot sleep in the daytime thanks to the noises from other birds but there is a twist in the tale when darkness descends.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/barn-owls/9454.html">
+			<dc:title>Barn owls</dc:title>
+			<dc:description>The Green Balloon Club meet to find out about barn owls.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9125000/9125617.stm">
+			<dc:title>Lords of the Twilight Zone</dc:title>
+			<dc:description>As twilight descends, a battle for supremacy begins between the animals of the half light.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-11381267">
+			<dc:title>'Birdie' on liner's golf course</dc:title>
+			<dc:description>A rare burrowing owl is rescued from the fake grass of a golf course on board the world's largest cruise ship.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-10970718">
+			<dc:title>Owl man told not to walk by road</dc:title>
+			<dc:description>A 74-year-old Devon man is "gutted" after being asked to stop walking his owls by a busy Plymouth road.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-10967700">
+			<dc:title>Man forced to stop walking owls by busy Plymouth road</dc:title>
+			<dc:description>A 74-year-old Devon man is "gutted" after being asked to stop walking his owls by a busy Plymouth road.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Owl#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label><wo:order rdf:resource="/nature/life/Owl#order"/><wo:order rdf:resource="/nature/life/Anseriformes#order"/><wo:order rdf:resource="/nature/life/Apodiformes#order"/><wo:order rdf:resource="/nature/life/Caprimulgiformes#order"/><wo:order rdf:resource="/nature/life/Charadriiformes#order"/><wo:order rdf:resource="/nature/life/Ciconiiformes#order"/><wo:order rdf:resource="/nature/life/Columbiformes#order"/><wo:order rdf:resource="/nature/life/Coraciiformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Falconiformes#order"/><wo:order rdf:resource="/nature/life/Galliformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Gruiformes#order"/><wo:order rdf:resource="/nature/life/Passerine#order"/><wo:order rdf:resource="/nature/life/Pelecaniformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Piciformes#order"/><wo:order rdf:resource="/nature/life/Podicipediformes#order"/><wo:order rdf:resource="/nature/life/Procellariiformes#order"/><wo:order rdf:resource="/nature/life/Parrot#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Ratite#order"/><wo:order rdf:resource="/nature/life/Archaeopterygiformes#order"/><wo:order rdf:resource="/nature/life/Gastornithiformes#order"/><wo:order rdf:resource="/nature/life/Cariamae#order"/><wo:order rdf:resource="/nature/life/Aepyornithiformes#order"/><wo:order rdf:resource="/nature/life/Eurypygiformes#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/True_owl#order"><rdfs:label>True owls</rdfs:label><wo:order rdf:resource="/nature/life/Owl#order"/></wo:Family><wo:Species rdf:about="/nature/life/Barn_Owl#order"><rdfs:label>Barn owl</rdfs:label><wo:order rdf:resource="/nature/life/Owl#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

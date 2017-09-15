@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Marine_Iguana">
+		<foaf:primaryTopic rdf:resource="/nature/species/Marine_Iguana#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Marine_Iguana#species">
+				<rdfs:label>Marine iguana</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Marine_Iguana#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/marine_iguana/marine_iguana_1.jpg"/>
+
+				<dc:description>Marine iguanas are the only marine lizards on Earth. They are usually grey or black, but develop red or green patches in the mating season, probably from eating particular types of seaweed which are available then.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Marine_Iguana"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Iguanidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Marine_Iguana#name">
+				<rdfs:label>Amblyrhynchus cristatus</rdfs:label>
+				        <wo:commonName>Marine iguana</wo:commonName>
+        								<wo:commonName>Galápagos marine iguana</wo:commonName>
+								<wo:scientificName>cristatuscristatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Iguanidae</wo:familyName><wo:genusName>Amblyrhynchus</wo:genusName><wo:speciesName>cristatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/marine_iguana/marine_iguana_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Marine_Iguana#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/marine_iguana/marine_iguana_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhmzy#programme">
+			<dc:title>Galapagos lizards</dc:title>
+			<po:subject rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004h6hn#programme">
+			<dc:title>Warm up</dc:title>
+			<po:subject rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003b9cb#programme">
+			<dc:title>Iconic island reptiles</dc:title>
+			<po:subject rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039bl7#programme">
+			<dc:title>Marine iguanas diving</dc:title>
+			<po:subject rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/ma/marine_iguana/5006055.mp3">
+			<dc:title>A colony of marine iguana</dc:title>
+			<dc:subject rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Marine_Iguana">
+		<foaf:primaryTopic rdf:resource="/nature/species/Marine_Iguana#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Amblyrhynchus_cristatus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/galapagos-marine-iguana/amblyrhynchus-cristatus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/1086">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/marine-iguanas-diving-for-food/10535.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Marine iguanas from the Galapagos Islands are seen diving for red and green algae to eat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8077000/8077609.stm">
+			<dc:title>Mosquito threat to Galapagos icons</dc:title>
+			<dc:description>A tiny mosquito is threatening giant tortoises and other iconic reptiles living on the Galapagos Islands.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Marine_Iguana#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Amblyrhynchus</rdfs:label><wo:species rdf:resource="/nature/life/Marine_Iguana#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Iguanidae#family"><rdfs:label>Iguanidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Bythograeidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Bythograeidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Bythograeidae#family">
+				<rdfs:label>Hot vent crabs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Bythograeidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/by/bythograeidae/bythograeidae_1.jpg"/>
+
+				<dc:description>Hot vent crabs are only found around hydrothermal vents, hydrothermal seeps and submarine volcanoes on the ocean floor. They have evolved to deal with the extreme conditions found in these hostile environments, such as very high temperature, high acidity in the water and potentially toxic levels of metals and gases. They were first scientifically described in 1980. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bythograeidae"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Bythograeidae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Decapoda#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Malacostraca#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Bythograeidae#name">
+				<rdfs:label>Bythograeidae</rdfs:label>
+				        <wo:commonName>Hot vent crabs</wo:commonName>
+        								<wo:commonName>Vent crabs</wo:commonName>
+								<wo:scientificName>Bythograeidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Malacostraca</wo:className><wo:orderName>Decapoda</wo:orderName><wo:familyName>Bythograeidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/by/bythograeidae/bythograeidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Bythograeidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/by/bythograeidae/bythograeidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004htvq#programme">
+			<dc:title>Deep surprises</dc:title>
+			<po:subject rdf:resource="/nature/family/Bythograeidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bythograeidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Bythograeidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.ceoe.udel.edu/deepsea/level-2/creature/crab.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bythograeidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.deepseaphotography.com/vent_animals.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bythograeidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sciencedaily.com/releases/2009/05/090519111550.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bythograeidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Bythograeidae.gif">
+		<dc:title>Map showing the distribution of the Hot vent crabs family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Decapoda#order"><rdfs:label>Decapoda</rdfs:label><wo:family rdf:resource="/nature/life/Bythograeidae#family"/><wo:family rdf:resource="/nature/life/Majidae#family"/><wo:family rdf:resource="/nature/life/Astacidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Malacostraca#class"><rdfs:label>Malacostraca</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

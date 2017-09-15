@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Capra_(genus)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Capra_(genus)#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Capra_(genus)#genus">
+				<rdfs:label>Ibex and goats</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Capra_(genus)#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/capra_genus/capra_genus_1.jpg"/>
+
+				<dc:description>Ibex and goats form a genus of bovine animals that contains fewer than 10 species. They are agile and skillful climbers among the steep cliffs of mountainous habitats and survive on the sparse vegetation that grows there. There is very little geographical overlap of the different species and where they do meet they don't interbreed. Species range from the alpine ibex of the Alps and the Caucasian turs of the Caucasus mountains, to the more widely distributed wild goat.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Capra_(genus)"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Bovid#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Capra_(genus)#name">
+				<rdfs:label>Capra</rdfs:label>
+				        <wo:commonName>Ibex and goats</wo:commonName>
+        										<wo:scientificName>Capra</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Bovidae</wo:familyName><wo:genusName>Capra</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/capra_genus/capra_genus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Capra_(genus)#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/capra_genus/capra_genus_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Capra_(genus)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Capra_(genus)#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Capra.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Capra_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Capra">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Capra_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/42403">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Capra_(genus)#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Bovid#family"><rdfs:label>Bovidae</rdfs:label><wo:genus rdf:resource="/nature/life/Capra_(genus)#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Antilope#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Bos#genus"/><wo:genus rdf:resource="/nature/life/Bubalus#genus"/><wo:genus rdf:resource="/nature/life/Wildebeest#genus"/><wo:genus rdf:resource="/nature/life/Damaliscus#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Ovis#genus"/><wo:genus rdf:resource="/nature/life/Procapra#genus"/><wo:genus rdf:resource="/nature/life/Pseudois#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Nanger#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Markhor#genus"><rdfs:label>Markhor</rdfs:label><wo:genus rdf:resource="/nature/life/Capra_(genus)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Nubian_Ibex#genus"><rdfs:label>Nubian ibex</rdfs:label><wo:genus rdf:resource="/nature/life/Capra_(genus)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Walia_Ibex#genus"><rdfs:label>Walia ibex</rdfs:label><wo:genus rdf:resource="/nature/life/Capra_(genus)#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

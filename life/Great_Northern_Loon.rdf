@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Great_Northern_Loon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Great_Northern_Loon#species">
+				<rdfs:label>Great northern diver</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Great_Northern_Loon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_northern_loon/great_northern_loon_1.jpg"/>
+
+				<dc:description>Great northern divers, or common loons as they are known in north America, are one of the largest species of diver. Like the other divers they are specialised and powerful underwater swimmers, catching fish with thick, dagger-like bills by sight. The chicks are able to dive only two days after hatching and will often sit on a parent's back for a ride around their territory. An adult can be host to 40 different body parasites.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Great_Northern_Loon"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Loon#genus"/>
+                                                                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Great_Northern_Loon#name">
+				<rdfs:label>Gavia immer</rdfs:label>
+				        <wo:commonName>Great northern diver</wo:commonName>
+        								<wo:commonName>Common loon</wo:commonName>
+						<wo:commonName>Great northern loon</wo:commonName>
+								<wo:scientificName>immerimmer</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Gaviiformes</wo:orderName><wo:familyName>Gaviidae</wo:familyName><wo:genusName>Gavia</wo:genusName><wo:speciesName>immer</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_northern_loon/great_northern_loon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/great_northern_loon/great_northern_loon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m724q#programme">
+			<dc:title>Taxi and takeaway</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/great_northern_loon/5027098.mp3">
+			<dc:title>A great northern diver singing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Great_Northern_Loon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Gavia_immer.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Gavia_immer/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Common_Loon/id">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/common-loon/gavia-immer/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=008004">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wcs.org/saving-wildlife/birds/common-loon.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Northern_Loon#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Loon#genus"><rdfs:label>Gavia</rdfs:label><wo:species rdf:resource="/nature/life/Great_Northern_Loon#species"/><wo:species rdf:resource="/nature/life/Black-throated_Loon#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Gaviidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Gaviiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

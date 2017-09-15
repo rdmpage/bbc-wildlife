@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Reindeer">
+		<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Reindeer#species">
+				<rdfs:label>Reindeer</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Reindeer#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/reindeer/reindeer_1.jpg"/>
+
+				<dc:description>Reindeer, or caribou, can outperform all other land animals in their energy efficiency - so are a fitting choice as the legendary Christmas sleigh-pullers! They're more usually seen on their mammoth annual migration to the Arctic during which the North American herds might travel for more than 5,000km - an extraordinary feat that takes them further than any other land mammal. A warm, insulating coat and large hooves are vital to their survival strategy against the extreme cold and snow of the Arctic. Reindeer are the only deer where both males and females sport antlers, complex structures that can reach epic proportions in males.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Reindeer"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Deer#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Reindeer#name">
+				<rdfs:label>Rangifer tarandus</rdfs:label>
+				        <wo:commonName>Reindeer</wo:commonName>
+        								<wo:commonName>Caribou</wo:commonName>
+								<wo:scientificName>tarandustarandus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Cervidae</wo:familyName><wo:genusName>Rangifer</wo:genusName><wo:speciesName>tarandus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/reindeer/reindeer_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Reindeer#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/reindeer/reindeer_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p02d9xkc#programme">
+			<dc:title>Caribou resilience</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lbwpp#programme">
+			<dc:title>Heading south</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lbwm0#programme">
+			<dc:title>Arctic feast</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dbrsm#programme">
+			<dc:title>Reindeer migration</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctt59#programme">
+			<dc:title>Caribou calving</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctstb#programme">
+			<dc:title>Wanderlust</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctp17#programme">
+			<dc:title>Synchronised caribou calving</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctnwh#programme">
+			<dc:title>Pregnant pause</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctnrq#programme">
+			<dc:title>Caribou death traps</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctnbw#programme">
+			<dc:title>Born to run</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctn5x#programme">
+			<dc:title>Mothers on migration</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ct0vn#programme">
+			<dc:title>Caribou rut</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0098bs5#programme">
+			<dc:title>Herding reindeer</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0036v3x#programme">
+			<dc:title>Wolf hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/r/re/reindeer/nhs866-13.mp3">
+			<dc:title>Reindeer calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Reindeer#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Reindeer">
+		<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Rangifer_tarandus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/reindeer/rangifer-tarandus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/29742">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Artiodactyla/Rangifer_tarandus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-20962250">
+			<dc:title>South Georgia to cull reindeer</dc:title>
+			<dc:description>The world's mostly southerly herd of reindeer is to be culled in an attempt to save the environment of the tiny island of South Georgia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19635308">
+			<dc:title>Reindeer at risk from snow sport</dc:title>
+			<dc:description>Wild reindeer may face a new threat from the growing popularity of snow-kiting, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-south-west-wales-18648683">
+			<dc:title>Reindeer is oldest UK rock art</dc:title>
+			<dc:description>A reindeer engraved on the wall of a cave in south Wales has been confirmed as the oldest known rock art in the British Isles.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15446089">
+			<dc:title>Reindeer stay cool in fur coats</dc:title>
+			<dc:description>Reindeer pant to lower their brain temperatures when running in fur coats, according to research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13529152">
+			<dc:title>Arctic reindeer 'can see in UV'</dc:title>
+			<dc:description>Arctic reindeer can see into the ultra-violet spectrum, according to new research by an international team.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/wear/hi/front_page/newsid_9295000/9295611.stm">
+			<dc:title>Reindeer bolts from Mowbray Park</dc:title>
+			<dc:description>A reindeer flees a Christmas attraction in Sunderland after being scared by a dog.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8565233.stm">
+			<dc:title>Reindeer body clock switched off </dc:title>
+			<dc:description>Reindeer have no internal body clock, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8314000/8314558.stm">
+			<dc:title>Eagles filmed hunting reindeer</dc:title>
+			<dc:description>Extraordinary camera footage taken by a BBC crew proves that golden eagles do hunt and kill reindeer.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8094000/8094036.stm">
+			<dc:title>Reindeer herds in global decline</dc:title>
+			<dc:description>Reindeer and caribou numbers are plummeting around the world.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Reindeer#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Rangifer</rdfs:label><wo:species rdf:resource="/nature/life/Reindeer#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Deer#family"><rdfs:label>Cervidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

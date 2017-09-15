@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/House_Sparrow">
+		<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/House_Sparrow#species">
+				<rdfs:label>House sparrow</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/House_Sparrow#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ho/house_sparrow/house_sparrow_1.jpg"/>
+
+				<dc:description>House sparrows are perhaps the most cosmopolitan of all birds, and have lived alongside <a href="http://www.bbc.co.uk/nature/life/Human">humans</a> since the Stone Age. These small, streaky-brown birds were once a very common sight in the <a href="http://www.bbc.co.uk/nature/places/United_Kingdom">United Kingdom</a>. Sadly, they are now rather rare, their numbers having declined at an alarming rate over the past 25 years. House sparrows are very <a href="http://www.bbc.co.uk/nature/adaptations/Presociality">sociable</a>, nesting <a href="http://www.bbc.co.uk/nature/adaptations/Colony_%28biology%29">colonially</a> in crevices, holes and boxes, and even evicting <a href="http://www.bbc.co.uk/nature/life/Swallow">swallows</a> and <a href="http://www.bbc.co.uk/nature/life/Sand_Martin">martins</a> from their nests. They breed so rapidly, their <a href="http://www.bbc.co.uk/nature/adaptations/Oviparity">eggs</a> were once believed to be a powerful aphrodisiac.  
+<br/>
+<br/>
+<b>Did you know?</b><br/> A house sparrow's retina has 400,000 photoreceptors per square millimetre.
+<br />
+<br />
+<a href="/nature/19700707">All you need to know about British birds.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/House_Sparrow"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Passer#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sparrow#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/House_Sparrow#name">
+				<rdfs:label>Passer domesticus</rdfs:label>
+				        <wo:commonName>House sparrow</wo:commonName>
+        								<wo:commonName>English sparrow</wo:commonName>
+								<wo:scientificName>domesticusdomesticus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Passeridae</wo:familyName><wo:genusName>Passer</wo:genusName><wo:speciesName>domesticus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ho/house_sparrow/house_sparrow_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/House_Sparrow#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ho/house_sparrow/house_sparrow_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fndv1#programme">
+			<dc:title>Anti-sparrow clubs</dc:title>
+			<po:subject rdf:resource="/nature/species/House_Sparrow#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00by6xk#programme">
+			<dc:title>Unfortunate neighbours</dc:title>
+			<po:subject rdf:resource="/nature/species/House_Sparrow#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082tss#programme">
+			<dc:title>Bibs on for lunch</dc:title>
+			<po:subject rdf:resource="/nature/species/House_Sparrow#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081txh#programme">
+			<dc:title>Cockney sparrer</dc:title>
+			<po:subject rdf:resource="/nature/species/House_Sparrow#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/h/ho/house_sparrow/5017195.mp3">
+			<dc:title>Chirruping calls from a male house sparrow</dc:title>
+			<dc:subject rdf:resource="/nature/species/House_Sparrow#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/House_Sparrow">
+		<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Passer_domesticus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/House_Sparrow/id">
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/house-sparrow/passer-domesticus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/house-sparrow.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bto.org/nnbw/nesting_birds/house_sparrow.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.zsl.org/conservation/regions/uk-europe/native-birds/house-sparrow-decline-research,243,AR.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-india-19921112">
+			<dc:title>India bid to save house sparrow</dc:title>
+			<dc:description>Authorities in the Indian capital, Delhi, adopt the house sparrow as the "state bird" in a bid to halt any further decline in their numbers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18784607">
+			<dc:title>Urban noise 'killing baby birds'</dc:title>
+			<dc:description>Noise in urban areas could stop adult house sparrows hearing their young, resulting in a rise in the mortality rate of baby birds, a study shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14947902">
+			<dc:title>New sparrow species pinned down</dc:title>
+			<dc:description>Genetic analysis confirms that the Italian sparrow is a distinct third species of this group of common birds, say scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/uk/indepth/help-house-sparrows.shtml">
+			<dc:title>How to help house sparrows</dc:title>
+			<dc:description>Find out how you can help house sparrows in your garden</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7739645.stm">
+			<dc:title>Making a garden sparrow-friendly</dc:title>
+			<dc:description>A new report suggests that modern garden design, urban development and paving over front gardens to use them as parking spaces could all be contributing to the catastrophic decline in the numbers of sparrows in our towns and cities.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/7738798.stm">
+			<dc:title>Sparrow numbers 'plummet by 68%'</dc:title>
+			<dc:description>The population of house sparrows in Britain has fallen by 68% in the past three decades, according to the RSPB.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/House_Sparrow#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Passer#genus"><rdfs:label>Passer</rdfs:label><wo:species rdf:resource="/nature/life/House_Sparrow#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sparrow#family"><rdfs:label>Passeridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

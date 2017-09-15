@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Tawny_Owl">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Tawny_Owl#species">
+				<rdfs:label>Tawny owl</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Tawny_Owl#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/tawny_owl/tawny_owl_1.jpg"/>
+
+				<dc:description>Tawny owls are the most common and widespread of British owls. They emit the characteristic courtship ‘twit-twooo’ which is actually a duet between male and female. Typically, tawny owls occupy a favourite perch in broadleaf woodlands, from which they drop on to unsuspecting small mammals, such as voles. The inedible remains are regurgitated in the form of a pellet. Labour is divided between breeding pairs since the female incubates the clutch of eggs, and the male is responsible for feeding the chicks once they hatch.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tawny_Owl"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Strix_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/True_owl#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Owl#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Tawny_Owl#name">
+				<rdfs:label>Strix aluco</rdfs:label>
+				        <wo:commonName>Tawny owl</wo:commonName>
+        										<wo:scientificName>alucoaluco</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Strigiformes</wo:orderName><wo:familyName>Strigidae</wo:familyName><wo:genusName>Strix</wo:genusName><wo:speciesName>aluco</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/tawny_owl/tawny_owl_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Tawny_Owl#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ta/tawny_owl/tawny_owl_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f9rwl#programme">
+			<dc:title>What owls can teach us about moles</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m144g#programme">
+			<dc:title>City owls</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lyphc#programme">
+			<dc:title>Tawny release</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lml4q#programme">
+			<dc:title>Noisy owls</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bbhq9#programme">
+			<dc:title>Talking to Tawny Owls</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089qdz#programme">
+			<dc:title>Egg chatter</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xx0s#programme">
+			<dc:title>Killing with kindness</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vccy#programme">
+			<dc:title>Real estate</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007hrnn#programme">
+			<dc:title>Night fishing</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007hrlx#programme">
+			<dc:title>Pre-flight chicks</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052htd#programme">
+			<dc:title>On the look-out for tawny owls</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c1v3#programme">
+			<dc:title>Tawny owl troubles</dc:title>
+			<po:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/ta/tawny_owl/nhs1291-02.mp3">
+			<dc:title>Tawny owl call</dc:title>
+			<dc:subject rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tawny_Owl">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Strix_aluco.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/tawny-owl/strix-aluco/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.hawkandowl.org/Species/Owls/TawnyOwl.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.lincstrust.org.uk/factsheets/nestbox/tawnyowl.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.raptorfoundation.org.uk/tawnyowl.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildowl.co.uk/tawnyowls.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-suffolk-26110515">
+			<dc:title>Town centre owl's 'unique behaviour'</dc:title>
+			<dc:description>An owl that has become a tourist attraction in a town centre park is displaying "unique behaviour", experts say. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9401000/9401733.stm">
+			<dc:title>Owls turn brown as climate warms</dc:title>
+			<dc:description>Tawny owls turn brown to survive in warmer climates, say scientists, with the once dominant grey feathers becoming a thing of the past.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-10967700">
+			<dc:title>Man forced to stop walking owls by busy Plymouth road</dc:title>
+			<dc:description>A 74-year-old Devon man is "gutted" after being asked to stop walking his owls by a busy Plymouth road.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tawny_Owl#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Strix_(genus)#genus"><rdfs:label>Strix</rdfs:label><wo:species rdf:resource="/nature/life/Tawny_Owl#species"/><wo:species rdf:resource="/nature/life/Great_Grey_Owl#species"/></wo:Genus><wo:Family rdf:about="/nature/family/True_owl#family"><rdfs:label>Strigidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Owl#order"><rdfs:label>Strigiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

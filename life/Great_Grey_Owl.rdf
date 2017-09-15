@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Great_Grey_Owl">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Great_Grey_Owl#species">
+				<rdfs:label>Great grey owl</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Great_Grey_Owl#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_grey_owl/great_grey_owl_1.jpg"/>
+
+				<dc:description>The great grey owl is a large, reclusive <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predator</a>
+ of the <a href="http://www.bbc.co.uk/nature/habitats/Taiga">taiga's</a> coniferous forests. Plunge marks in the snow are usually the only evidence for its presence. Distinctive extra-large facial disks direct sound to feather covered ear openings, providing super-sensitive hearing. This enables the great grey owl to accurately locate prey, even under two feet of snow or in a tunnel. With soft feathers, it can <a href="http://www.bbc.co.uk/nature/adaptations/Gliding_(flight)">glide</a> unheard from its perch to dispatch an unfortunate <a href="http://www.bbc.co.uk/nature/life/Rodent">rodent</a> with its sharp talons. The abundance of food, especially voles, is crucial for the number of <a href="http://www.bbc.co.uk/nature/adaptations/Oviparity">eggs</a> a female will lay. Great grey owls will travel vast distances when local prey is scarce.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Great_Grey_Owl"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Gliding_(flight)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Great_Grey_Owl.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Strix_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/True_owl#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Owl#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Great_Grey_Owl#name">
+				<rdfs:label>Strix nebulosa</rdfs:label>
+				        <wo:commonName>Great grey owl</wo:commonName>
+        								<wo:commonName>Lapland owl</wo:commonName>
+								<wo:scientificName>nebulosanebulosa</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Strigiformes</wo:orderName><wo:familyName>Strigidae</wo:familyName><wo:genusName>Strix</wo:genusName><wo:speciesName>nebulosa</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_grey_owl/great_grey_owl_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/great_grey_owl/great_grey_owl_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l81bm#programme">
+			<dc:title>Underground living</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ffmnh#programme">
+			<dc:title>Hungry owl</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Great_Grey_Owl">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Strix_nebulosa.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob7660.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Great_Gray_Owl/lifehistory">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/great-grey-owl/strix-nebulosa/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.owls.org/Archive/greatgrey.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.theowlfoundation.ca/SpeciesInfo/speciesggow.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Grey_Owl#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Gliding_(flight)#adaptation">
+					<rdfs:label>Adapted to gliding</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Great_Grey_Owl.gif">
+		<dc:title>Map showing the distribution of the Great grey owl species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Strix_(genus)#genus"><rdfs:label>Strix</rdfs:label><wo:species rdf:resource="/nature/life/Great_Grey_Owl#species"/><wo:species rdf:resource="/nature/life/Tawny_Owl#species"/></wo:Genus><wo:Family rdf:about="/nature/family/True_owl#family"><rdfs:label>Strigidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Owl#order"><rdfs:label>Strigiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

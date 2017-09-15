@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Ulmus_procera">
+		<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Ulmus_procera#species">
+				<rdfs:label>English elm</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Ulmus_procera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/u/ul/ulmus_procera/ulmus_procera_1.jpg"/>
+
+				<dc:description>English elms were once a very common sight in the countryside of Europe, North America and Asia. However, this majestic tree was devastated by Dutch elm disease, a fungal infection that claimed an estimated 25 million trees in Britain alone. Sadly this iconic tree has now all but disappeared from the landscape. It will be remembered on rich farmland soils and parklands throughout the country, it is also a classic hedgerow tree of English lowlands. Mature English elms can grow to over 30 metres tall, producing a fine wood that has great strength and durability. They are deciduous trees that lose their leaves in the winter and the small winged seeds are dispersed by the wind in autumn.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ulmus_procera"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Ulmus_procera.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Elm#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Ulmaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Urticales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Ulmus_procera#name">
+				<rdfs:label>Ulmus procera</rdfs:label>
+				        <wo:commonName>English elm</wo:commonName>
+        								<wo:commonName>Atinian elm</wo:commonName>
+								<wo:scientificName>proceraprocera</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Urticales</wo:orderName><wo:familyName>Ulmaceae</wo:familyName><wo:genusName>Ulmus</wo:genusName><wo:speciesName>procera</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/u/ul/ulmus_procera/ulmus_procera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Ulmus_procera#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/u/ul/ulmus_procera/ulmus_procera_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008dv33#programme">
+			<dc:title>Vanishing elms</dc:title>
+			<po:subject rdf:resource="/nature/species/Ulmus_procera#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Ulmus_procera">
+		<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://hedgerowmobile.com/elm.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.british-trees.com/treeguide/elms/nbnsys0000003812.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.first-nature.com/trees/ulmus_procera.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/local/surrey/hi/tv_and_radio/newsid_8246000/8246046.stm">
+			<dc:title>Are elm trees making a comeback?</dc:title>
+			<dc:description>Elm trees were an important part of the British landscape until the '70's when they were decimated by disease.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/magazine/8668587.stm">
+			<dc:title>BBC News Magazine</dc:title>
+			<dc:description>As the House of Commons prepares to welcome hundreds of new MPs, its oak-panelled surfaces are a reminder of the significance of one tree to national identity, says Simon Schama.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/programmes/newsnight/8912727.stm">
+			<dc:title>Newsnight</dc:title>
+			<dc:description>Mark Seddon investigates the history and decline of the great English elm tree, which once graced the British countryside. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ulmus_procera#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Ulmus_procera.gif">
+		<dc:title>Map showing the distribution of the English elm species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Elm#genus"><rdfs:label>Ulmus</rdfs:label><wo:species rdf:resource="/nature/life/Ulmus_procera#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Ulmaceae#family"><rdfs:label>Ulmaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Urticales#order"><rdfs:label>Urticales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

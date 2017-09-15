@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Eriophorum">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Eriophorum#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Eriophorum#genus">
+				<rdfs:label>Cottongrass</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Eriophorum#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/er/eriophorum/eriophorum_1.jpg"/>
+
+				<dc:description>Cottongrasses are not grasses at all, although they are close relatives. They are in fact sedges. There are about 25 species of cottongrass, all of which grow in boggy conditions. The cottongrasses get their name from the fluffy white fruiting heads which - in UK species - appear in May and June. This fluffy white 'cotton' was once used to stuff pillows, as an alternative to goose down. However, the strands are not long enough to spin into thread or weave into cloth.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eriophorum"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Eriophorum.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Bog#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Cyperaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Poales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Eriophorum#name">
+				<rdfs:label>Eriophorum</rdfs:label>
+				        <wo:commonName>Cottongrass</wo:commonName>
+        								<wo:commonName>Cottonsedge</wo:commonName>
+								<wo:scientificName>Eriophorum</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Poales</wo:orderName><wo:familyName>Cyperaceae</wo:familyName><wo:genusName>Eriophorum</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/er/eriophorum/eriophorum_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Eriophorum#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/er/eriophorum/eriophorum_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vyyv#programme">
+			<dc:title>Botanical treasures</dc:title>
+			<po:subject rdf:resource="/nature/genus/Eriophorum#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eriophorum">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Eriophorum#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.eol.org/pages/29149">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eriophorum#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pfaf.org/database/plants.php?Eriophorum+angustifolium">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eriophorum#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plant-identification.co.uk/skye/cyperaceae/eriophorum-angustifolium.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Eriophorum#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Bog#habitat">
+					<rdfs:label>Bog</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Eriophorum.gif">
+		<dc:title>Map showing the distribution of the Cottongrass genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Cyperaceae#family"><rdfs:label>Cyperaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Eriophorum#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Poales#order"><rdfs:label>Poales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

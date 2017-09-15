@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Loon">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Loon#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Loon#genus">
+				<rdfs:label>Divers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Loon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/loon/loon_1.jpg"/>
+
+				<dc:description>Divers, also commonly known as loons, are water birds found in north America, Europe and Asia. There are five living species all in the same family (gaviidae) and order (gaviiformes). All divers sit low in the water and have a body shape that's streamlined for diving. They are also powerful underwater swimmers. Their distinctive calls include hoots, tremoloes, yodels and a wail that sounds oddly similar to a wolf's howl.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Loon"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Loon#name">
+				<rdfs:label>Gavia</rdfs:label>
+				        <wo:commonName>Divers</wo:commonName>
+        								<wo:commonName>Loons</wo:commonName>
+								<wo:scientificName>Gavia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Gaviiformes</wo:orderName><wo:familyName>Gaviidae</wo:familyName><wo:genusName>Gavia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/loon/loon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Loon#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/lo/loon/loon_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Loon">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Loon#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Gavia.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Loon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://ibc.lynxeds.com/family/divers-gaviidae">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Loon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.learner.org/jnorth/tm/loon/identification.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Loon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.loon.org/about-loons.php">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Loon#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Gaviidae</rdfs:label><wo:genus rdf:resource="/nature/life/Loon#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Gaviiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Black-throated_Loon#genus"><rdfs:label>Black-throated diver</rdfs:label><wo:genus rdf:resource="/nature/life/Loon#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Great_Northern_Loon#genus"><rdfs:label>Great northern diver</rdfs:label><wo:genus rdf:resource="/nature/life/Loon#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Armadillo">
+		<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Armadillo#order">
+				<rdfs:label>Armadillos</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Armadillo#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/armadillo/armadillo_1.jpg"/>
+
+				<dc:description>Armadillos as a group include not just the modern armadillos, but their extinct relatives, the Pampatheres and giant Glyptodonts. They evolved in South America, but several species spread into North America when the Isthmus of Panama was formed. Their main protection from predators is a casing of armour, constructed of bone and horn. In the Glyptodonts this defence was sometimes supplemented by a heavy club-like tail, which could be wielded as a weapon.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Armadillo"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Armadillo#name">
+				<rdfs:label>Cingulata</rdfs:label>
+				        <wo:commonName>Armadillos</wo:commonName>
+        										<wo:scientificName>Cingulata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Cingulata</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/armadillo/armadillo_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Armadillo#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ar/armadillo/armadillo_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Armadillo">
+		<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Cingulata.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://thewildlifemuseum.org/exhibits/armadillos/images/lrg/what.are.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/treehouses/?treehouse_id=4288">
+			<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7629">
+			<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/24670137">
+			<dc:title>Giant armadillos provide for others</dc:title>
+			<dc:description>The burrows of giant armadillos in Brazil are used by a further 24 different species, remote cameras reveal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21498108">
+			<dc:title>Rare giant armadillo birth recorded</dc:title>
+			<dc:description>The birth of a rare giant armadillo has been recorded for the first time in Brazil.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14993426">
+			<dc:title>Rare giant armadillo photographed</dc:title>
+			<dc:description>A rare giant armadillo is caught on a camera trap by researchers in the wetlands of central Brazil.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Armadillo#order"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:order rdf:resource="/nature/life/Armadillo#order"/><wo:order rdf:resource="/nature/life/Carnivora#order"/><wo:order rdf:resource="/nature/life/Bat#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Diprotodontia#order"/><wo:order rdf:resource="/nature/life/Soricomorpha#order"/><wo:order rdf:resource="/nature/life/Lagomorpha#order"/><wo:order rdf:resource="/nature/life/Macroscelidea#order"/><wo:order rdf:resource="/nature/life/Monotreme#order"/><wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Pholidota#order"/><wo:order rdf:resource="/nature/life/Primate#order"/><wo:order rdf:resource="/nature/life/Proboscidea#order"/><wo:order rdf:resource="/nature/life/Rodent#order"/><wo:order rdf:resource="/nature/life/Sirenia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Afrosoricida#order"/><wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Pilosa#order"/><wo:order rdf:resource="/nature/life/Leptictida#order"/><wo:order rdf:resource="/nature/life/Litopterna#order"/><wo:order rdf:resource="/nature/life/Mesonychid#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Southern_Three-banded_Armadillo#order"><rdfs:label>Southern three-banded armadillo</rdfs:label><wo:order rdf:resource="/nature/life/Armadillo#order"/></wo:Species><wo:Family rdf:about="/nature/life/Glyptodontidae#order"><rdfs:label>Glyptodonts</rdfs:label><wo:order rdf:resource="/nature/life/Armadillo#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

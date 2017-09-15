@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/habitats/Calcareous_grassland">
+		<foaf:primaryTopic rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		<rdfs:seeAlso rdf:resource="/nature/habitats"/>
+	</rdf:Description>
+
+		<wo:TerrestrialHabitat rdf:about="/nature/habitats/Calcareous_grassland#habitat">
+				<rdfs:label>Chalk grassland</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/calcareous_grassland/calcareous_grassland_1.jpg"/>
+
+				<dc:description>Chalk grasslands support an incredibly rich and diverse flora. Originally created when the woodlands were cleared, this grassland now relies on grazing and cutting to maintain biodiversity. The thin, lime-rich soils of this grassland habitat are derived from the underlying chalk or limestone rocks, and attract plants that don't grow in other soils. Home to many beautiful orchids and wildflowers, and the insects they attract including rare blue butterflies, chalk grasslands have been in decline in the UK for the last 50 years. The best examples are found in Wiltshire, Dorset and the South Downs.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Calcareous_grassland"/>
+		
+		
+									
+									
+				
+				
+        
+
+					</wo:TerrestrialHabitat>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/calcareous_grassland/calcareous_grassland_1.jpg">
+		<foaf:depicts rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/calcareous_grassland/calcareous_grassland_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cft5k#programme">
+			<dc:title>Creating chalklands</dc:title>
+			<po:subject rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008fc35#programme">
+			<dc:title>Beautiful blues</dc:title>
+			<po:subject rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00887sk#programme">
+			<dc:title>Sounds like skylarks </dc:title>
+			<po:subject rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vz34#programme">
+			<dc:title>Hill and dale</dc:title>
+			<po:subject rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fn92#programme">
+			<dc:title>Nature's nightshift</dc:title>
+			<po:subject rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Calcareous_grassland">
+		<foaf:primaryTopic rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/humanplanetexplorer/environments/grasslands">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/nature-online/british-natural-history/british-habitats/chalk-downland/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/sussex/7537893.stm">
+			<dc:title>Orchids return to grassland site</dc:title>
+			<dc:description>Rare orchids have returned to chalk downland in East Sussex after sheep were brought in to graze the land.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+		</foaf:Document>
+			
+					
+		
+	
+								
+		
+
+
+
+
+	
+	
+					    		    		<wo:Species rdf:about="/nature/life/Acer_pseudoplatanus#species">
+    			<rdfs:label>Sycamore</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Adonis_Blue#species">
+    			<rdfs:label>Adonis blue</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Aesculus_hippocastanum#species">
+    			<rdfs:label>Horse chestnut</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Black_garden_ant#species">
+    			<rdfs:label>Black garden ant</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Bombus_terrestris#species">
+    			<rdfs:label>Buff-tailed bumblebee</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Carrion_Crow#species">
+    			<rdfs:label>Carrion crow</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Chaffinch#species">
+    			<rdfs:label>Chaffinch</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Coccinella_septempunctata#species">
+    			<rdfs:label>Seven-spot ladybird </rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_Kestrel#species">
+    			<rdfs:label>Kestrel</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Crataegus_monogyna#species">
+    			<rdfs:label>Hawthorn</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Dark_Green_Fritillary#species">
+    			<rdfs:label>Dark green fritillary</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/European_garden_spider#species">
+    			<rdfs:label>Garden spider</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/European_honey_bee#species">
+    			<rdfs:label>European honey bee</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/European_Magpie#species">
+    			<rdfs:label>Magpie</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/European_Rabbit#species">
+    			<rdfs:label>Rabbit</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Field_Vole#species">
+    			<rdfs:label>Field vole</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Gonepteryx_rhamni#species">
+    			<rdfs:label>Brimstone</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Human#species">
+    			<rdfs:label>Human</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Inachis_io#species">
+    			<rdfs:label>Peacock butterfly</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Large_Blue_(butterfly)#species">
+    			<rdfs:label>Large blue butterfly</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Marbled_White#species">
+    			<rdfs:label>Marbled white</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Marsh_Fritillary#species">
+    			<rdfs:label>Marsh fritillary</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Myodes_glareolus#species">
+    			<rdfs:label>Bank vole</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Old_World_Swallowtail#species">
+    			<rdfs:label>Swallowtail</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    						    						    		    		<wo:Species rdf:about="/nature/life/Red_Fox#species">
+    			<rdfs:label>Red fox</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Stinging_nettle#species">
+    			<rdfs:label>Stinging nettle</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/St_John's_wort#species">
+    			<rdfs:label>St John's wort</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    						    						    		    		<wo:Species rdf:about="/nature/life/Turtle_Dove#species">
+    			<rdfs:label>Turtle dove</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Vanessa_cardui#species">
+    			<rdfs:label>Painted lady</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/White_Wagtail#species">
+    			<rdfs:label>Pied wagtail</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Winter_Wren#species">
+    			<rdfs:label>Wren</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Yellow_meadow_ant#species">
+    			<rdfs:label>Yellow meadow ant</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Calcareous_grassland#habitats"/>
+    		</wo:Species>
+    					
+		    
+</rdf:RDF>

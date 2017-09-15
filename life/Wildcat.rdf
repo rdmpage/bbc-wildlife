@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Wildcat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Wildcat#species">
+				<rdfs:label>Wildcat</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Wildcat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wi/wildcat/wildcat_1.jpg"/>
+
+				<dc:description>One of the ancestors of our pet cats, wildcats are thought to be the most abundant cat species across their range, which stretches from Western Europe to India. They are very rare in the UK however, with fewer than 400 remaining in the Scottish Highlands. Human encroachment on their habitat and interbreeding with domestic cats has reduced numbers and replaced the pure genetic line. Thousands of wildcats were killed as pests by farmers and gamekeepers in the 1800s and 1900s. Wildcats feed mainly on rodents, but also hunt other larger mammals, birds, lizards, frogs and fish. They sometimes scavenge and cache prey, returning to it later.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Wildcat"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Felis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Wildcat#name">
+				<rdfs:label>Felis silvestris</rdfs:label>
+				        <wo:commonName>Wildcat</wo:commonName>
+        								<wo:commonName>European wild cat</wo:commonName>
+						<wo:commonName>Wild-cat</wo:commonName>
+								<wo:scientificName>silvestrissilvestris</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Felis</wo:genusName><wo:speciesName>silvestris</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wi/wildcat/wildcat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Wildcat#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wi/wildcat/wildcat_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bmc0d#programme">
+			<dc:title>Wildcat challenge</dc:title>
+			<po:subject rdf:resource="/nature/species/Wildcat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bmbzd#programme">
+			<dc:title>Wealth of wildcats</dc:title>
+			<po:subject rdf:resource="/nature/species/Wildcat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00blbn9#programme">
+			<dc:title>Wildcat kittens</dc:title>
+			<po:subject rdf:resource="/nature/species/Wildcat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085c17#programme">
+			<dc:title>Wild cats </dc:title>
+			<po:subject rdf:resource="/nature/species/Wildcat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085byd#programme">
+			<dc:title>Wild cat ID</dc:title>
+			<po:subject rdf:resource="/nature/species/Wildcat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00859hh#programme">
+			<dc:title>Little big cat</dc:title>
+			<po:subject rdf:resource="/nature/species/Wildcat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fgjn#programme">
+			<dc:title>Sylvan sanctuary</dc:title>
+			<po:subject rdf:resource="/nature/species/Wildcat#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Wildcat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Felis_silvestris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/european-wildcat/felis-silvestris-grampia/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.catsurvivaltrust.org/forest.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cougarhill.info/cats/europeanwildcat.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.highlandtiger.com/where_to_see_wildcats.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-24613855">
+			<dc:title>Breeding hope for wildcat kittens</dc:title>
+			<dc:description>Two new kittens born at a zoo could have a future role in a project to breed Scottish wildcats in captivity for possible release into the wild.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-22610869">
+			<dc:title>Wildcat extinction 'in 24 months'</dc:title>
+			<dc:description>A scientist who has developed a genetic test to identify pure Scottish wildcats says the species could be extinct within two years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-19569538">
+			<dc:title>Wildcats 'extinct within months'</dc:title>
+			<dc:description>Numbers of pure Scottish wildcats have fallen to about 35 individuals and the species will be extinct within months, conservationists are warning.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/education-19411647">
+			<dc:title>Genetic test to identify wildcats</dc:title>
+			<dc:description>With claims that big cats are stalking the countryside, researchers are developing a DNA test to identify Scotland's pure-bred wildcats.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-17820001">
+			<dc:title>Cameras capture new wildcat sites</dc:title>
+			<dc:description>Previously unknown populations of Scottish wildcats are living in the Cairngorms National Park, conservationists discover.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-14663911">
+			<dc:title>Dolly scientist in wildcat move</dc:title>
+			<dc:description>A scientist who was part of the Dolly the sheep cloning team is working on a technique to clone endangered wildcats.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11540846">
+			<dc:title>Black kitten among wildcat litter</dc:title>
+			<dc:description>A black kitten is spotted among a litter of Scottish wildcats filmed for BBC Autumnwatch.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9085000/9085644.stm">
+			<dc:title>Elusive Scottish wildcats filmed</dc:title>
+			<dc:description>Two Scottish wildcat kittens are filmed by a BBC crew at night in the highlands of Scotland.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9028000/9028491.stm">
+			<dc:title>Why lions roar and wildcats miaow</dc:title>
+			<dc:description>The low roar of a lion, or the miaow of a wildcat, is more to do with where a cat lives than its size.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11213394">
+			<dc:title>Zoo licence objection 'unlikely'</dc:title>
+			<dc:description>A mountaineering body says it does not expect to protest against an estate's plans to introduce wild animals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8628434.stm">
+			<dc:title>Cameras capture secret life of the 'Highland tiger'</dc:title>
+			<dc:description>A new research project in the Highlands has provided a rare insight into the secret world of one of Britain's most endangered and elusive species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8026731.stm">
+			<dc:title>New project to protect wildcats</dc:title>
+			<dc:description>A new project has been launched with the aim of giving the endangered Scottish wildcat greater protection.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/6255912.stm">
+			<dc:title>DNA could help Scottish wildcats</dc:title>
+			<dc:description>A genetic discovery could help save the Scottish wildcat from extinction, scientists have suggested.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wildcat#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Felis#genus"><rdfs:label>Felis</rdfs:label><wo:species rdf:resource="/nature/life/Wildcat#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

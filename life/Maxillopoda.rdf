@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Maxillopoda">
+		<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Maxillopoda#class">
+				<rdfs:label>Barnacles and copepods</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Maxillopoda#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/maxillopoda/maxillopoda_1.jpg"/>
+
+				<dc:description>Barnacles, copepods and their relatives are all crustaceans, with the copepods and ostracods (seed shrimps) being the most numerous species. Most are tiny - only a millimeter or so in size. Some have adopted a parasitic way of life.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Maxillopoda"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Maxillopoda.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Maxillopoda#name">
+				<rdfs:label>Maxillopoda</rdfs:label>
+				        <wo:commonName>Barnacles and copepods</wo:commonName>
+        								<wo:commonName>Maxillopods</wo:commonName>
+								<wo:scientificName>Maxillopoda</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Maxillopoda</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/maxillopoda/maxillopoda_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Maxillopoda#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/maxillopoda/maxillopoda_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Maxillopoda">
+		<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Maxillopoda.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mesa.edu.au/friends/seashores/barnacles.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pznow.co.uk/marine/barnacles.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/arthropoda/crustacea/maxillopoda.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9449000/9449070.stm">
+			<dc:title>Boat turbulence kills zooplankton</dc:title>
+			<dc:description>Turbulence produced by motor boats kills significant numbers of zooplankton, creating previously unrecognised ecological impacts.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8309000/8309466.stm">
+			<dc:title>Barnacles' sticky secret revealed</dc:title>
+			<dc:description>Scientists discover that barnacle glue binds in the same way as clotting human blood.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Maxillopoda#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Maxillopoda.gif">
+		<dc:title>Map showing the distribution of the Barnacles and copepods class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label><wo:class rdf:resource="/nature/life/Maxillopoda#class"/><wo:class rdf:resource="/nature/life/Arachnid#class"/><wo:class rdf:resource="/nature/life/Insect#class"/><wo:class rdf:resource="/nature/life/Malacostraca#class"/><wo:class rdf:resource="/nature/life/Millipede#class"/><wo:class rdf:resource="/nature/life/Merostomata#class"/><wo:class rdf:resource="/nature/life/Trilobite#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Goose_barnacle#class"><rdfs:label>Goose barnacles</rdfs:label><wo:class rdf:resource="/nature/life/Maxillopoda#class"/></wo:Order>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Smilodon">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Smilodon#genus">
+				<rdfs:label>Smilodon</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Smilodon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sm/smilodon/smilodon_1.jpg"/>
+
+				<dc:description>Smilodon, was one of the few sabre-toothed cats that would have encountered humans. Whilst sabre-tooths in Africa and Europe became extinct before our species had evolved, Smilodon survived until the end of the ice age. Three species lived in the Americas over time. The ancestors of the Native Americans might have met two of these, Smilodon fatalis and Smilodon populator. The latter was a heavily built animal, weighing more than a Siberian tiger. Smilodon's ancestor was probably another sabre-tooth species, Megantereon, that lived in Africa, Eurasia and North America.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Smilodon"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Smilodon.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Smilodon#name">
+				<rdfs:label>Smilodon</rdfs:label>
+												<wo:commonName>chisel, knife tooth</wo:commonName>
+						<wo:commonName>Sabre-toothed cats</wo:commonName>
+						<wo:commonName>Sabre-tooths</wo:commonName>
+								<wo:scientificName>Smilodon</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Smilodon</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sm/smilodon/smilodon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Smilodon#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sm/smilodon/smilodon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p018szvy#programme">
+			<dc:title>Predator by design</dc:title>
+			<po:subject rdf:resource="/nature/genus/Smilodon#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dsdrr#programme">
+			<dc:title>Tar pit evidence</dc:title>
+			<po:subject rdf:resource="/nature/genus/Smilodon#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cknt2#programme">
+			<dc:title>Fossil analysis</dc:title>
+			<po:subject rdf:resource="/nature/genus/Smilodon#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk811#programme">
+			<dc:title>Evolutionary arms race</dc:title>
+			<po:subject rdf:resource="/nature/genus/Smilodon#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk4jx#programme">
+			<dc:title>Pack tactics</dc:title>
+			<po:subject rdf:resource="/nature/genus/Smilodon#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk3kh#programme">
+			<dc:title>Out clubbing</dc:title>
+			<po:subject rdf:resource="/nature/genus/Smilodon#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk2r6#programme">
+			<dc:title>Pride before a fall</dc:title>
+			<po:subject rdf:resource="/nature/genus/Smilodon#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Smilodon">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bris.ac.uk/centenary/look/cabinet/smilodon.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/mammal/carnivora/sabretooth.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/quaternary/labrea.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9399000/9399605.stm">
+			<dc:title>How a sabretooth cat 'bit down'</dc:title>
+			<dc:description>An analysis of sabretoothed cat's jaws has shown how it evolved to cope with its enormous canine teeth. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11979934">
+			<dc:title>Ancestor faced sabretooth threat</dc:title>
+			<dc:description>Humankind's oldest known ancestor probably lived in fear of large sabretooth cats, new fossil finds suggest.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7023644.stm">
+			<dc:title>Sabretooth's surprising weak bite</dc:title>
+			<dc:description>The sabretooth tiger may have had fearsome canines but its bite was relatively weak, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7698601.stm">
+			<dc:title>Sabretooth tigers hunted in packs</dc:title>
+			<dc:description>Forget their ferocious fangs - sabretooth "tigers" were social animals who lived in family prides, like lions today, according to UK and US experts.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Smilodon#genus"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Smilodon.gif">
+		<dc:title>Map showing the distribution of the Smilodon genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label><wo:genus rdf:resource="/nature/life/Smilodon#genus"/><wo:genus rdf:resource="/nature/life/Acinonyx#genus"/><wo:genus rdf:resource="/nature/life/Catopuma#genus"/><wo:genus rdf:resource="/nature/life/Felis#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Lynx#genus"/><wo:genus rdf:resource="/nature/life/Neofelis#genus"/><wo:genus rdf:resource="/nature/life/Panthera#genus"/><wo:genus rdf:resource="/nature/life/Prionailurus#genus"/><wo:genus rdf:resource="/nature/life/Puma_(genus)#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

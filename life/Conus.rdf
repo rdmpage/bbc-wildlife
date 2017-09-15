@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Conus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Conus#genus">
+				<rdfs:label>Cone snails</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Conus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/conus/conus_1.jpg"/>
+
+				<dc:description>Intricately patterned and brightly coloured shells give the cone snails an attractive appearance. But beneath all the glamour they are <a href="/nature/adaptations/Predation">predatory</a> and <a href="/nature/adaptations/Venom">venomous</a> sea snails. What makes these quite beautiful snails so dangerous to <a href="/nature/animals/by/fish">fish</a>, worms or <a href="/nature/life/Mollusca">molluscs</a> is their fusion of different neurotoxins, a mix that is unique to each species. This deadly cocktail is delivered by a harpoon-like strike from a modified tooth that is propelled out of the extended proboscis. Once the prey has been immobilised it is swallowed whole. Cone snails have a remarkable ability to rapidly modify their venom for different prey: some of which are of great interest to the biomedical industry. There are over 600 species of cone snail and most of them are found among coral <a href="/nature/habitats/Reef">reefs</a> in tropical coastal regions.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Conus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Conus.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Reef#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Conidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Neogastropoda#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Gastropoda#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Conus#name">
+				<rdfs:label>Conus</rdfs:label>
+				        <wo:commonName>Cone snails</wo:commonName>
+        								<wo:commonName>Cone shells</wo:commonName>
+						<wo:commonName>Cones</wo:commonName>
+								<wo:scientificName>Conus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Gastropoda</wo:className><wo:orderName>Neogastropoda</wo:orderName><wo:familyName>Conidae</wo:familyName><wo:genusName>Conus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/conus/conus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Conus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/conus/conus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00msm0v#programme">
+			<dc:title>Silent assassin</dc:title>
+			<po:subject rdf:resource="/nature/genus/Conus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Conus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Conus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://biology.burke.washington.edu/conus/catalogue/index.php">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://grimwade.biochem.unimelb.edu.au/cone/feeding.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmr-pics.nl/Conidae%20%28Conus%29/album/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.theconesnail.com/explore-cone-snails/body-anatomy">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16222577">
+			<dc:title>How a cone snail catches its prey</dc:title>
+			<dc:description>A venomous cone snail engulfs its prey before spearing it with a harpoon-like barb and paralysing it, footage shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/4846504.stm">
+			<dc:title>Venomous snails aid medical science</dc:title>
+			<dc:description>Scientists are learning how the venom of deadly cone snails may hold a library of medical cures.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Conus#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Reef#habitat">
+					<rdfs:label>Reefs</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Conus.gif">
+		<dc:title>Map showing the distribution of the Cone snails genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Conidae#family"><rdfs:label>Conidae</rdfs:label><wo:genus rdf:resource="/nature/life/Conus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Neogastropoda#order"><rdfs:label>Neogastropoda</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Gastropoda#class"><rdfs:label>Gastropoda</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Blackberry">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Blackberry#species">
+				<rdfs:label>Blackberry</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Blackberry#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blackberry/blackberry_1.jpg"/>
+
+				<dc:description>Blackberries - also known as brambles - are related to raspberries and the two plants have been crossed to produce hybrids such as the loganberry. Wild blackberries are a common feature of British hedgerows, woodlands and waste ground. In autumn their fruits are a source of food for thrushes, blackbirds and other animals.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Blackberry"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Blackberry.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Rosaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rosales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Blackberry#name">
+				<rdfs:label>Rubus fruticosus</rdfs:label>
+				        <wo:commonName>Blackberry</wo:commonName>
+        								<wo:commonName>Bramble</wo:commonName>
+								<wo:scientificName>fruticosusfruticosus</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Rosales</wo:orderName><wo:familyName>Rosaceae</wo:familyName><wo:genusName>Rubus</wo:genusName><wo:speciesName>fruticosus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/blackberry/blackberry_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Blackberry#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/blackberry/blackberry_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lxv9z#programme">
+			<dc:title>Berry delicious</dc:title>
+			<po:subject rdf:resource="/nature/species/Blackberry#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008lx29#programme">
+			<dc:title>Wild harvest</dc:title>
+			<po:subject rdf:resource="/nature/species/Blackberry#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004gx5p#programme">
+			<dc:title>Bramble scramble</dc:title>
+			<po:subject rdf:resource="/nature/species/Blackberry#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Blackberry">
+		<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://plants.usda.gov/java/profile?symbol=RUFR80">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bramble/rubus-fruticosus-agg/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/795.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pfaf.org/database/plants.php?Rubus+fruticosus">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/o636-bramble.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/blackberries/9461.html">
+			<dc:title>Blackberries</dc:title>
+			<dc:description>The Green Balloon Club go blackberry picking.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Blackberry#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Blackberry.gif">
+		<dc:title>Map showing the distribution of the Blackberry species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Rubus</rdfs:label><wo:species rdf:resource="/nature/life/Blackberry#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Rosaceae#family"><rdfs:label>Rosaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rosales#order"><rdfs:label>Rosales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

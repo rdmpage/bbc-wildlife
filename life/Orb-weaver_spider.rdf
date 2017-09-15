@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Orb-weaver_spider">
+		<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Orb-weaver_spider#family">
+				<rdfs:label>Orb weavers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Orb-weaver_spider#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/or/orb-weaver_spider/orb-weaver_spider_1.jpg"/>
+
+				<dc:description>Orb weaver spiders are the makers of the classic orb webs frequently seen in gardens, fields and forests. Their wheel-shaped webs consist of concentric circles with spokes radiating out from the centre and can measure a metre wide - plenty of space to trap hapless <a href="http://www.bbc.co.uk/nature/life/Insect">insects</a> in the sticky silk. A beautifully coloured large abdomen and small head is noticeable in the females of most species. The males are generally smaller, don't usually build webs and spend most of their time wandering in search of a mate. Of the 3,500 species or weaver, many are well known, and none more so than the <a href="http://www.bbc.co.uk/nature/life/European_garden_spider">common garden spider</a> of <a href="http://www.bbc.co.uk/nature/places/North_America">North America</a> and <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a>.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Orb-weaver_spider"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predator_trap#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Orb-weaver_spider.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Spider#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Arachnid#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Orb-weaver_spider#name">
+				<rdfs:label>Araneidae</rdfs:label>
+				        <wo:commonName>Orb weavers</wo:commonName>
+        								<wo:commonName>Orb spiders</wo:commonName>
+						<wo:commonName>Orb weaver spiders</wo:commonName>
+						<wo:commonName>Orbweavers</wo:commonName>
+								<wo:scientificName>Araneidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Arachnida</wo:className><wo:orderName>Araneae</wo:orderName><wo:familyName>Araneidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/or/orb-weaver_spider/orb-weaver_spider_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/or/orb-weaver_spider/orb-weaver_spider_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bmbb9#programme">
+			<dc:title>Spider spotting</dc:title>
+			<po:subject rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008cp2h#programme">
+			<dc:title>September spiders</dc:title>
+			<po:subject rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0074tjy#programme">
+			<dc:title>Sticky end</dc:title>
+			<po:subject rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004kkn5#programme">
+			<dc:title>Extracting spider silk</dc:title>
+			<po:subject rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Orb-weaver_spider">
+		<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Araneidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/1972">
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tenczar.net/midwest/Araneidae/Araneidae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.xs4all.nl/~ednieuw/Spiders/Araneidae/Araneidae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21877948">
+			<dc:title>Wasp spiders move north explained</dc:title>
+			<dc:description>Temperature tolerance is key to the spread of wasp spiders into northern Europe, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-london-21107807">
+			<dc:title>Rare spiders found in cemetery</dc:title>
+			<dc:description>A rare species of spider which lives in darkness is found in the vaults of Highgate Cemetery in north London.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19639387">
+			<dc:title>Decorative webs attract dinner</dc:title>
+			<dc:description>Spiders attract insects to their webs with UV decorations, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17339041">
+			<dc:title>Non-stick spiders' delicate steps</dc:title>
+			<dc:description>Orb-weaving spiders avoid sticking to their own webs because of the way they move, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16809642">
+			<dc:title>Spider web's strength explained</dc:title>
+			<dc:description>Spider silk's adaptability and the "clever design" of webs are key to the remarkable strength of these structures, experiments reveal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/13521021">
+			<dc:title>Decorations protect spider webs</dc:title>
+			<dc:description>An orb weaving spider spins decorations to protect its web from damage, according to researchers. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13134505">
+			<dc:title>Fossil spider 'biggest on record'</dc:title>
+			<dc:description>Scientists describe a 15cm-long Chinese spider that lived 165 million years ago - the biggest fossilised arachnid yet found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Orb-weaver_spider#family"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predator_trap#adaptation">
+					<rdfs:label>Trapping predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Orb-weaver_spider.gif">
+		<dc:title>Map showing the distribution of the Orb weavers family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Spider#order"><rdfs:label>Araneae</rdfs:label><wo:family rdf:resource="/nature/life/Orb-weaver_spider#family"/><wo:family rdf:resource="/nature/life/Tarantula#family"/><wo:family rdf:resource="/nature/life/Nursery_web_spider#family"/><wo:family rdf:resource="/nature/life/Crab_spider#family"/><wo:family rdf:resource="/nature/life/Jumping_spider#family"/><wo:family rdf:resource="/nature/life/Linyphiidae#family"/><wo:family rdf:resource="/nature/life/Liphistiidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Wolf_spider#family"/><wo:family rdf:resource="/nature/life/Huntsman_spider#family"/></wo:Order><wo:Class rdf:about="/nature/class/Arachnid#class"><rdfs:label>Arachnida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/European_garden_spider#family"><rdfs:label>Garden spider</rdfs:label><wo:family rdf:resource="/nature/life/Orb-weaver_spider#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

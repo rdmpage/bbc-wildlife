@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Atlantic_spotted_dolphin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Atlantic_spotted_dolphin#species">
+				<rdfs:label>Atlantic spotted dolphin</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Atlantic_spotted_dolphin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/at/atlantic_spotted_dolphin/atlantic_spotted_dolphin_1.jpg"/>
+
+				<dc:description>Atlantic spotted dolphins are acrobatic animals that enjoy riding the bow waves of boats and leaping out of the water. Underneath all this playfulness they are highly intelligent and <a href="http://www.bbc.co.uk/nature/adaptations/Presociality">social</a>
+ animals with complex relationships and behaviours. They will school with spinner dolphins and hunt <a href="http://www.bbc.co.uk/nature/animals/by/fish">fish</a> and <a href="http://www.bbc.co.uk/nature/life/Squid">squid</a> with <a href="http://www.bbc.co.uk/nature/life/Bottlenose_dolphin">bottlenose dolphins</a>. The young are <a href="http://www.bbc.co.uk/nature/adaptations/Vivipary">born</a> spotless, acquiring the characteristic patterning during weaning. Thereafter the number of spots increases with age. Some individuals are so completely covered with spots they appear white. These dolphins inhabit the warm and tropical latitudes of the Atlantic and are best seen in the crystal clear water off the Bahamas.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Atlantic_spotted_dolphin"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Pack_hunter#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Atlantic_spotted_dolphin.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Stenella#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Oceanic_dolphin#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Atlantic_spotted_dolphin#name">
+				<rdfs:label>Stenella frontalis</rdfs:label>
+				        <wo:commonName>Atlantic spotted dolphin</wo:commonName>
+        										<wo:scientificName>frontalisfrontalis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Delphinidae</wo:familyName><wo:genusName>Stenella</wo:genusName><wo:speciesName>frontalis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/at/atlantic_spotted_dolphin/atlantic_spotted_dolphin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/at/atlantic_spotted_dolphin/atlantic_spotted_dolphin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jtfyp#programme">
+			<dc:title>Communicate to intimidate</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Atlantic_spotted_dolphin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Stenella_frontalis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.acsonline.org/factpack/SpottedDolphin.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/atlantic-spotted-dolphin/stenella-frontalis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cms.int/reports/small_cetaceans/data/S_frontalis/s_frontalis.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/20732/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/spotteddolphin_atlantic.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_spotted_dolphin#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Pack_hunter#adaptation">
+					<rdfs:label>Pack-hunter</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Atlantic_spotted_dolphin.gif">
+		<dc:title>Map showing the distribution of the Atlantic spotted dolphin species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Stenella#genus"><rdfs:label>Stenella</rdfs:label><wo:species rdf:resource="/nature/life/Atlantic_spotted_dolphin#species"/><wo:species rdf:resource="/nature/life/Pantropical_Spotted_Dolphin#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Oceanic_dolphin#family"><rdfs:label>Delphinidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

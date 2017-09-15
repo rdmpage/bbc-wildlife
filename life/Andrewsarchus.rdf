@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Andrewsarchus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Andrewsarchus#genus">
+				<rdfs:label>Andrewsarchus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Andrewsarchus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/andrewsarchus/andrewsarchus_1.jpg"/>
+
+				<dc:description>The life and habits of Andrewsarchus have been inferred from study of a colossal 83cm skull fossil and a few other pieces of bone. If its body was proportioned to its skull like its nearest relatives, the mesonychids, Andrewsarchus would have measured 5 metres from nose to tail, making it a contender for the title of largest ever carnivorous land mammal. Its teeth and jaws were very strong, indicating a diet that incorporated a lot of hard items such as bone and turtle shell. Andrewsarchus was related to the cloven-hoofed animals, such as pigs and deer, so probably had hooves rather than paws.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Andrewsarchus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Andrewsarchus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Triisodontidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Mesonychid#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Andrewsarchus#name">
+				<rdfs:label>Andrewsarchus</rdfs:label>
+												<wo:commonName>Andrews' ruler</wo:commonName>
+								<wo:scientificName>Andrewsarchus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Mesonychia</wo:orderName><wo:familyName>Triisodontidae</wo:familyName><wo:genusName>Andrewsarchus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/andrewsarchus/andrewsarchus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/an/andrewsarchus/andrewsarchus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bfwyy#programme">
+			<dc:title>Fruitless vigil</dc:title>
+			<po:subject rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bfvlx#programme">
+			<dc:title>Sheep in wolf's clothing</dc:title>
+			<po:subject rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Andrewsarchus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://scienceblogs.com/laelaps/2009/03/wherefore_art_thou_andrewsarch.php">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bluelion.org/andrewsarchus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.funwithln2.com/?p=435">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrewsarchus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Andrewsarchus.gif">
+		<dc:title>Map showing the distribution of the Andrewsarchus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Triisodontidae#family"><rdfs:label>Triisodontidae</rdfs:label><wo:genus rdf:resource="/nature/life/Andrewsarchus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Mesonychid#order"><rdfs:label>Mesonychia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

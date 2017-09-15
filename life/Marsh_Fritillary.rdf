@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Marsh_Fritillary">
+		<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Marsh_Fritillary#species">
+				<rdfs:label>Marsh fritillary</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Marsh_Fritillary#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/marsh_fritillary/marsh_fritillary_1.jpg"/>
+
+				<dc:description>Marsh fritillaries are the UK's most colourful fritillary species though the bright, chequer-board pattern on the upper wings does fade. After emerging from the chrysalis, the adults rarely fly further afield than 100 metres, to set up small territories around their plant of choice. Marsh fritillaries are always found close to their larval food plant, devil's bit scabious, which grows well on damp heath and calcareous grasslands. A number of populations linked by dispersal is called a metapopulation. As some populations die out, new ones are founded nearby.
+<br/>
+<br/>
+<a href="/nature/22907171">How to identify common garden butterflies.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Marsh_Fritillary"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Marsh_Fritillary.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Euphydryas#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Nymphalidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Lepidoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Marsh_Fritillary#name">
+				<rdfs:label>Euphydryas  aurinia</rdfs:label>
+				        <wo:commonName>Marsh fritillary</wo:commonName>
+        										<wo:scientificName>auriniaaurinia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Lepidoptera</wo:orderName><wo:familyName>Nymphalidae</wo:familyName><wo:genusName>Euphydryas </wo:genusName><wo:speciesName>aurinia</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/marsh_fritillary/marsh_fritillary_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/marsh_fritillary/marsh_fritillary_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01d9rq1#programme">
+			<dc:title>Life on a battlefield</dc:title>
+			<po:subject rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007k38j#programme">
+			<dc:title>Insect Eden</dc:title>
+			<po:subject rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Marsh_Fritillary">
+		<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/marsh-fritillary/euphydryas-aurinia/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.butterfly-conservation.org/Butterfly/32/Butterfly.html?ButterflyId=10">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.butterfly-conservation.org/uploads/marsh_fritillary%281%29.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturalengland.org.uk/ourwork/conservation/biodiversity/iyb/marshfritillary.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ukbutterflies.co.uk/species.php?species=aurinia">
+			<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-gloucestershire-13362545">
+			<dc:title>Butterfly thriving in Cotswolds</dc:title>
+			<dc:description>Conservationists say one of Europe's rarest butterflies, the marsh fritillary, is thriving in Gloucestershire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Marsh_Fritillary#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Calcareous_grassland#habitat">
+					<rdfs:label>Chalk grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Marsh_Fritillary.gif">
+		<dc:title>Map showing the distribution of the Marsh fritillary species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Euphydryas#genus"><rdfs:label>Euphydryas </rdfs:label><wo:species rdf:resource="/nature/life/Marsh_Fritillary#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Nymphalidae#family"><rdfs:label>Nymphalidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Lepidoptera#order"><rdfs:label>Lepidoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

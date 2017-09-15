@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Water_monitor">
+		<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Water_monitor#species">
+				<rdfs:label>Water monitor</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Water_monitor#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wa/water_monitor/water_monitor_1.jpg"/>
+
+				<dc:description>Extreme canivores, water monitors will eat just about any other animal and escaping one is no mean feat. Powerful leg muscles bestow a quick turn of speed for their size. Aquatic prey fare no better, as water monitors can pursue them underwater for 30 minutes or more. When the hunter becomes the hunted, water monitors will skillfully climb trees to escape, jumping from branch to branch, until they reach the safety of water. In fact, this common south Asian monitor lizard relies on water and is capable of crossing large bodies.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Water_monitor"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Water_monitor.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Monitor_lizard#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Varanidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Water_monitor#name">
+				<rdfs:label>Varanus salvator</rdfs:label>
+				        <wo:commonName>Water monitor</wo:commonName>
+        								<wo:commonName>Asian water monitor</wo:commonName>
+						<wo:commonName>Malayan water monitor</wo:commonName>
+								<wo:scientificName>salvatorsalvator</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Varanidae</wo:familyName><wo:genusName>Varanus</wo:genusName><wo:speciesName>salvator</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wa/water_monitor/water_monitor_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Water_monitor#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wa/water_monitor/water_monitor_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bdg8s#programme">
+			<dc:title>Taste test</dc:title>
+			<po:subject rdf:resource="/nature/species/Water_monitor#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00484y7#programme">
+			<dc:title>Cuckoo reptile</dc:title>
+			<po:subject rdf:resource="/nature/species/Water_monitor#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Water_monitor">
+		<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Varanus_salvator.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://mohanpaisarticles.blogspot.com/2009/02/vanishing-species-varanus-salvator.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/asian-water-monitor-lizard/varanus-salvator/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ecologyasia.com/verts/lizards/malayan_water_monitor.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturia.per.sg/buloh/verts/monitor_lizard.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.waza.org/en/zoo/choose-a-species/reptiles/lizards-and-tuatara/varanus-salvator">
+			<foaf:primaryTopic rdf:resource="/nature/species/Water_monitor#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Water_monitor.gif">
+		<dc:title>Map showing the distribution of the Water monitor species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Monitor_lizard#genus"><rdfs:label>Varanus</rdfs:label><wo:species rdf:resource="/nature/life/Water_monitor#species"/><wo:species rdf:resource="/nature/life/Perentie#species"/><wo:species rdf:resource="/nature/life/Sand_goanna#species"/><wo:species rdf:resource="/nature/life/Komodo_dragon#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Varanidae#family"><rdfs:label>Varanidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Beluga_(whale)">
+		<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Beluga_(whale)#species">
+				<rdfs:label>Beluga whale</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Beluga_(whale)#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/beluga_whale/beluga_whale_1.jpg"/>
+
+				<dc:description>Belugas come together in pods of hundreds and even thousands of individuals in the shallow waters of the arctic and sub-arctic seas. For insulation in these cold waters these whales have 10cm thick blubber and half their weight is fat. Beluga whales are very vocal: their chirps, squeaks and clicks are so distinctive they're nicknamed 'sea canaries'.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Beluga_(whale)"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ultrasound#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Beluga_(whale).gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Monodontidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Beluga_(whale)#name">
+				<rdfs:label>Delphinapterus leucas</rdfs:label>
+				        <wo:commonName>Beluga whale</wo:commonName>
+        								<wo:commonName>Sea canary</wo:commonName>
+						<wo:commonName>White whale</wo:commonName>
+								<wo:scientificName>leucasleucas</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Monodontidae</wo:familyName><wo:genusName>Delphinapterus</wo:genusName><wo:speciesName>leucas</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/beluga_whale/beluga_whale_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/be/beluga_whale/beluga_whale_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7xfr#programme">
+			<dc:title>Beluga body scrub</dc:title>
+			<po:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l274q#programme">
+			<dc:title>Sea canaries</dc:title>
+			<po:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7xfr#programme">
+			<dc:title>Beluga body scrub</dc:title>
+			<po:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l274q#programme">
+			<dc:title>Sea canaries</dc:title>
+			<po:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7xfr#programme">
+			<dc:title>Beluga body scrub</dc:title>
+			<po:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l274q#programme">
+			<dc:title>Sea canaries</dc:title>
+			<po:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0055y1s#programme">
+			<dc:title>Listening in on a beluga back scrub</dc:title>
+			<po:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/be/beluga_whale/nhs1342-04.mp3">
+			<dc:title>Beluga squeaks and clicks</dc:title>
+			<dc:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/be/beluga_whale/nhs1342-05.mp3">
+			<dc:title>Beluga calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Beluga_(whale)">
+		<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Delphinapterus_leucas.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.acsonline.org/factpack/BelugaWhale.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/beluga-whale/delphinapterus-leucas/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mnh.si.edu/ARCTIC/html/beluga_whale.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/mammals/cetaceans/belugawhale.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/infobooks/Beluga/behabitat.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/arcticicewhales/stories/seacanaries">
+			<dc:title>The tundra comes alive</dc:title>
+			<dc:description></dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/americas/7447994.stm">
+			<dc:title>Whale birth captured on video</dc:title>
+			<dc:description>After 15 months of pregnancy, Qila the Vancouver Aquarium's 12-year-old beluga whale has given birth to her first calf.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Beluga_(whale)#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Ultrasound#adaptation">
+					<rdfs:label>Echolocation and ultrasound</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Beluga_(whale).gif">
+		<dc:title>Map showing the distribution of the Beluga whale species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Delphinapterus</rdfs:label><wo:species rdf:resource="/nature/life/Beluga_(whale)#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Monodontidae#family"><rdfs:label>Monodontidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

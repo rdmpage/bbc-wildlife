@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Skua">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Skua#genus">
+				<rdfs:label>Skuas and jaegers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Skua#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sk/skua/skua_1.jpg"/>
+
+				<dc:description>Skuas look rather like gulls, but are in a family of their own. Like gulls, they often attack other seabirds, steal fish from them, they also eat carrion.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Skua"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                                        <wo:order rdf:resource="/nature/life/Charadriiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Skua#name">
+				<rdfs:label>Stercorarius</rdfs:label>
+				        <wo:commonName>Skuas and jaegers</wo:commonName>
+        										<wo:scientificName>Stercorarius</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Charadriiformes</wo:orderName><wo:familyName>Stercorariidae</wo:familyName><wo:genusName>Stercorarius</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sk/skua/skua_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Skua#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sk/skua/skua_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Skua">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="S">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="S">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9447000/9447159.stm">
+			<dc:title>Shock decline of Falkland skuas</dc:title>
+			<dc:description>The number of Falkland skuas has declined by almost half in just five years, a survey of the bird's largest breeding ground reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8033000/8033782.stm">
+			<dc:title>Penguin kidnaps mortal enemy</dc:title>
+			<dc:description>A king penguin has been observed trying to adopt the baby of its mortal enemy.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Skua#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Stercorariidae</rdfs:label><wo:genus rdf:resource="/nature/life/Skua#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Charadriiformes#order"><rdfs:label>Charadriiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Arctic_Skua#genus"><rdfs:label>Arctic skua</rdfs:label><wo:genus rdf:resource="/nature/life/Skua#genus"/></wo:Species><wo:Species rdf:about="/nature/life/South_Polar_Skua#genus"><rdfs:label>South polar skua</rdfs:label><wo:genus rdf:resource="/nature/life/Skua#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

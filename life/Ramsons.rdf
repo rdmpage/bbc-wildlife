@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Ramsons">
+		<foaf:primaryTopic rdf:resource="/nature/species/Ramsons#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Ramsons#species">
+				<rdfs:label>Wild garlic</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Ramsons#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/ramsons/ramsons_1.jpg"/>
+
+				<dc:description>A woodland walk in spring is not complete without the sights and scents from the carpets of wild garlic. The smell from these flowers can be quite overpowering from a colony in full bloom, but is just as strong if the plants are picked or bruised.
+<br />
+<br />
+Wild garlic does have other attractions for the <a href="http://www.bbc.co.uk/nature/habitats/Temperate_broadleaf_and_mixed_forests">woodland</a> walker: the clusters of delicate starry <a href="http://www.bbc.co.uk/nature/adaptations/Flower">white flowers</a> and bright green leaves. These leaves have a mildly garlic taste, but they can easily be mistaken for the <a href="http://www.bbc.co.uk/nature/adaptations/Poison">poisonous</a> lily of the valley. Wild garlic, or ramsons as they are also known, are vigorous growers and can dominate <a href="http://www.bbc.co.uk/nature/habitats/Temperate_broadleaf_and_mixed_forests">woodland</a> floors and shady places in <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> and <a href="http://www.bbc.co.uk/nature/places/Asia">Asia</a>.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ramsons"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Ramsons.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Alliums#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Alliaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Asparagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Ramsons#name">
+				<rdfs:label>Allium ursinum</rdfs:label>
+				        <wo:commonName>Wild garlic</wo:commonName>
+        								<wo:commonName>Bear leek</wo:commonName>
+						<wo:commonName>Bear's garlic</wo:commonName>
+						<wo:commonName>Broad-leaved garlic</wo:commonName>
+						<wo:commonName>Buckrams</wo:commonName>
+						<wo:commonName>Ramsons</wo:commonName>
+						<wo:commonName>Wood garlic</wo:commonName>
+								<wo:scientificName>ursinumursinum</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Asparagales</wo:orderName><wo:familyName>Alliaceae</wo:familyName><wo:genusName>Allium</wo:genusName><wo:speciesName>ursinum</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/ramsons/ramsons_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Ramsons#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ra/ramsons/ramsons_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007ppwr#programme">
+			<dc:title>Boars and blooms</dc:title>
+			<po:subject rdf:resource="/nature/species/Ramsons#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Ramsons">
+		<foaf:primaryTopic rdf:resource="/nature/species/Ramsons#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.naturescalendar.org.uk/wildlife/factfiles/flowers/wildgarlic.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ramsons#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ramsdale.org/ramsons.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ramsons#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildlifetrusts.org/species/ramsons">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ramsons#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Ramsons.gif">
+		<dc:title>Map showing the distribution of the Wild garlic species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Alliums#genus"><rdfs:label>Allium</rdfs:label><wo:species rdf:resource="/nature/life/Ramsons#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Alliaceae#family"><rdfs:label>Alliaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Asparagales#order"><rdfs:label>Asparagales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

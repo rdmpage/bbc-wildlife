@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Crocodilia">
+		<foaf:primaryTopic rdf:resource="/nature/order/Crocodilia#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Crocodilia#order">
+				<rdfs:label>Crocodiles, alligators and caimans</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Crocodilia#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crocodilia/crocodilia_1.jpg"/>
+
+				<dc:description>Crocodiles, alligators, caimans and the related gharials - are reptiles adapted for an aquatic way of life. They are powerful swimmers, but also spend some of their time on land, basking in the sun. By moving back and forth between water and land, they can keep their bodies at an optimum temperature as the day heats up or the night cools down.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Crocodilia"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Crocodilia#name">
+				<rdfs:label>Crocodilia</rdfs:label>
+				        <wo:commonName>Crocodiles, alligators and caimans</wo:commonName>
+        										<wo:scientificName>Crocodilia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Crocodilia</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crocodilia/crocodilia_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Crocodilia#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/cr/crocodilia/crocodilia_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Crocodilia">
+		<foaf:primaryTopic rdf:resource="/nature/order/Crocodilia#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Crocodylia.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Crocodilia#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://crocodilian.com/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Crocodilia#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/20222022">
+			<dc:title>Crocs have super-sensitive jaws</dc:title>
+			<dc:description>Thick-skinned crocodilians are more touch-sensitive than humans, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Crocodilia#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9264000/9264546.stm">
+			<dc:title>Crocs dispel 'living fossil' myth</dc:title>
+			<dc:description>Modern crocodilians evolved from a diverse ancient group and can no longer be referred to as unchanged "living fossils", according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Crocodilia#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10260382.stm">
+			<dc:title>Crocodiles 'surf' long distance on ocean currents</dc:title>
+			<dc:description>Saltwater crocodiles enjoy catching a wave and can travel hundreds of kilometres by "surfing" on ocean currents, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Crocodilia#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label><wo:order rdf:resource="/nature/life/Crocodilia#order"/><wo:order rdf:resource="/nature/life/Squamata#order"/><wo:order rdf:resource="/nature/life/Turtle#order"/><wo:order rdf:resource="/nature/life/Pterosaur#order"/><wo:order rdf:resource="/nature/life/Rauisuchia#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Crocodylus#order"><rdfs:label>Crocodiles</rdfs:label><wo:order rdf:resource="/nature/life/Crocodilia#order"/></wo:Genus><wo:Family rdf:about="/nature/life/Alligatoridae#order"><rdfs:label>Alligators and caimans</rdfs:label><wo:order rdf:resource="/nature/life/Crocodilia#order"/></wo:Family><wo:Species rdf:about="/nature/life/Gharial#order"><rdfs:label>Gharial</rdfs:label><wo:order rdf:resource="/nature/life/Crocodilia#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

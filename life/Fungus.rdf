@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/kingdom/Fungus">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		<rdfs:seeAlso rdf:resource="/nature/kingdom"/>
+	</rdf:Description>
+
+		<wo:Kingdom rdf:about="/nature/life/Fungus#kingdom">
+				<rdfs:label>Fungi</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/kingdom/Fungus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fu/fungus/fungus_1.jpg"/>
+
+				<dc:description>Fungi are a diverse kingdom, with members ranging from the familiar mushrooms to brewer's yeasts, the mould that grows on rotting fruit and the infection that causes athlete's foot. Fungi are found in every habitat, although they play a bigger role in terrestrial ecosystems than in aquatic ones. The vast majority of plants have a symbiotic relationship with fungal species that grow on their roots.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Fungus"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/kingdom/Fungus.gif"/>
+		
+										    
+    								
+					
+                                
+
+					</wo:Kingdom>
+
+			<wo:TaxonName rdf:about="/nature/kingdom/Fungus#name">
+				<rdfs:label>fungi</rdfs:label>
+				        <wo:commonName>Fungi</wo:commonName>
+        										<wo:scientificName>fungi</wo:scientificName>
+		<wo:kingdomName>fungi</wo:kingdomName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fu/fungus/fungus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fu/fungus/fungus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lx5jh#programme">
+			<dc:title>Beautiful fungi</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bwdfv#programme">
+			<dc:title>Fungal fruits</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089vbb#programme">
+			<dc:title>Dead wood</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087njv#programme">
+			<dc:title>Fungal foray</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fn68#programme">
+			<dc:title>Fungus time</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ry75#programme">
+			<dc:title>Seeds in need</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ry61#programme">
+			<dc:title>Fungal friends</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c1t1#programme">
+			<dc:title>Fungi time lapse</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Fungus">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/fungi">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://waynesword.palomar.edu/ww0504.htm">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kew.org/plants-fungi/plant-fungi-groups/fungi-kingdom/index.htm">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mycolog.com/fungi.htm">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16029977">
+			<dc:title>Rare strangler fungi in UK garden</dc:title>
+			<dc:description>A very rare fungus, the powdercap strangler, is discovered in a Worcestershire garden by a local scientist.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15726717">
+			<dc:title>The weird world of fungi</dc:title>
+			<dc:description>How scientists are attempting the first genetic library of the UK's fungi to try and find out more about this diverse kingdom of life.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/walesnature/2011/10/from_another_kingdom_fungi.html">
+			<dc:title>BBC - Wales Nature: From another kingdom: Fungi</dc:title>
+			<dc:description>Despite a chill in the air, autumn is a great time for nature and not everything migrates or runs for cover. Beneath the damp, decaying leaves lie fungi in a...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-15305048">
+			<dc:title>The disease killing Europe's plane trees</dc:title>
+			<dc:description>Europe's plane trees are being killed by a fungus - it is already in France, Italy and Germany, and is heading north.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14294283">
+			<dc:title>Giant fungus discovered in China</dc:title>
+			<dc:description>The largest fruiting body of any fungus yet documented is found growing on a tree in China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/2011/04/celebrating-fungi-why-mushroom.shtml">
+			<dc:title>Celebrating fungi: Why mushrooms and their relatives matter</dc:title>
+			<dc:description>This is a nod to the humble mushroom. It is a celebration of fungi. Mushrooms are one of my least liked foods, and perhaps because of that, I don’t have...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/fungal-time-lapse/10485.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Accelerated footage of tropical fungi.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/apps/ifl/learningzone/clips/showrecord?Id=10815;Config=main_clipid.cfg">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, Evolution and Environment</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/what-caused-the-irish-famine/7807.html">
+			<dc:title>What Caused the Irish Famine?</dc:title>
+			<dc:description>The causes of the potato blight and Irish famine.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/uk/indepth/fungi-facts.shtml">
+			<dc:title>Fascinating fungi facts</dc:title>
+			<dc:description>Top ten mushroom facts</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/schools/ks2bitesize/science/living_things/microorganisms/read2.shtml">
+			<dc:title>What are microorganisms?</dc:title>
+			<dc:description>A key stage 2 revision and recap resource for science covering harmful and useful microorgansims.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-surrey-11643139">
+			<dc:title>Rare fungus discovered in Surrey</dc:title>
+			<dc:description>A rare fungus named after its white and hairy appearance is discovered in Surrey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-11600352">
+			<dc:title>'Comeback' of rare ancient fungus</dc:title>
+			<dc:description>A group that records the wildlife of Norfolk asks for sightings of a rare tree fungus.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11455863">
+			<dc:title>Survey of isle's fungi and lichen</dc:title>
+			<dc:description>Naturalists are making a survey of a Hebridean island's less well-known wildlife.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/northampton/hi/people_and_places/nature/newsid_8924000/8924994.stm">
+			<dc:title>Rare red fungi found</dc:title>
+			<dc:description>A rare species of fungi that smells like rotting flesh has been found in Oundle.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8732000/8732421.stm">
+			<dc:title>Rare fungus discovered in England for first time</dc:title>
+			<dc:description>A rare fungus has been sighted in England for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8401000/8401745.stm">
+			<dc:title>Secret of mushroom shape revealed</dc:title>
+			<dc:description>Scientists have worked out just what a perfectly designed mushroom would look like.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/manchester/hi/people_and_places/nature/newsid_8285000/8285690.stm">
+			<dc:title>Autumnwatch: foraging for fungi</dc:title>
+			<dc:description>The start of autumn may be writ large in the changing colours of the leaves but it also brings plenty of small wonders with the arrival of the mushroom season.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7823970.stm">
+			<dc:title>UK fungi get protection strategy</dc:title>
+			<dc:description>A strategy to protect the UK's fungi species has been set up by 16 of the nation's leading conservation and research organisations.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/magazine/7754338.stm">
+			<dc:title>10 things fungi have done for us</dc:title>
+			<dc:description>Mycologists are a rare breed, and scientists worry the UK will miss out lucrative fungus-based discoveries. Like what?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/7660405.stm">
+			<dc:title>New fungi species unearthed in UK</dc:title>
+			<dc:description>Several species of fungi new to the UK have been unearthed by mushroom experts at the National Trust's Clumber Park.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/south_of_scotland/7616872.stm">
+			<dc:title>Wild fungi: delicious or deadly?</dc:title>
+			<dc:description>There used to be only a few hardy souls who braved the Scottish countryside in search of woodland mushrooms.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Fungus#kingdom"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/kingdom/Fungus.gif">
+		<dc:title>Map showing the distribution of the Fungi kingdom</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Species rdf:about="/nature/life/Phallus_indusiatus#kingdom"><rdfs:label>Bridal veil stinkhorn</rdfs:label><wo:kingdom rdf:resource="/nature/life/Fungus#kingdom"/></wo:Species><wo:Genus rdf:about="/nature/life/Cordyceps#kingdom"><rdfs:label>Cordyceps</rdfs:label><wo:kingdom rdf:resource="/nature/life/Fungus#kingdom"/></wo:Genus><wo:Species rdf:about="/nature/life/Pilobolus_crystallinus#kingdom"><rdfs:label>Hat thrower fungus</rdfs:label><wo:kingdom rdf:resource="/nature/life/Fungus#kingdom"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

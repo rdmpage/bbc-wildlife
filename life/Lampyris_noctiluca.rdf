@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Lampyris_noctiluca">
+		<foaf:primaryTopic rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Lampyris_noctiluca#species">
+				<rdfs:label>Common glow-worm</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Lampyris_noctiluca#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lampyris_noctiluca/lampyris_noctiluca_1.jpg"/>
+
+				<dc:description>Common glow-worms are actually bioluminescent beetles. It is the females which glow most noticeably - the larvae and adult males produce only a faint glow. The larvae are predatory and hunt slugs and snails, but as adults they rarely feed. Females have only a few weeks in which to attract a mate and lay eggs. After this, they die. As well as attracting a mate, the glowing abdomen is a warning to predators to stay away - glow-worms taste bad and contain chemicals that cause vomiting.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lampyris_noctiluca"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Bioluminescence#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Lampyris_noctiluca.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Lampyris#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Firefly#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Beetle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Lampyris_noctiluca#name">
+				<rdfs:label>Lampyris noctiluca</rdfs:label>
+				        <wo:commonName>Common glow-worm</wo:commonName>
+        								<wo:commonName>European glow-worm</wo:commonName>
+						<wo:commonName>Firefly glow-worm</wo:commonName>
+								<wo:scientificName>noctilucanoctiluca</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Coleoptera</wo:orderName><wo:familyName>Lampyridae</wo:familyName><wo:genusName>Lampyris</wo:genusName><wo:speciesName>noctiluca</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lampyris_noctiluca/lampyris_noctiluca_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/la/lampyris_noctiluca/lampyris_noctiluca_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00by6s6#programme">
+			<dc:title>Neon nymphomaniacs</dc:title>
+			<po:subject rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008hv4k#programme">
+			<dc:title>Light in the dark</dc:title>
+			<po:subject rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fn92#programme">
+			<dc:title>Nature's nightshift</dc:title>
+			<po:subject rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Lampyris_noctiluca">
+		<foaf:primaryTopic rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lampyris_noctiluca.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.galaxypix.com/glowworms/#Survey">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.galaxypix.com/glowworms/Tylerbookpt1.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Lampyris_noctiluca#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Bioluminescence#adaptation">
+					<rdfs:label>Bioluminescence</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Lampyris_noctiluca.gif">
+		<dc:title>Map showing the distribution of the Common glow-worm species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Lampyris#genus"><rdfs:label>Lampyris</rdfs:label><wo:species rdf:resource="/nature/life/Lampyris_noctiluca#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Firefly#family"><rdfs:label>Lampyridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Beetle#order"><rdfs:label>Coleoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

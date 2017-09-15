@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Bongo_(antelope)">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Bongo_(antelope)#species">
+				<rdfs:label>Bongo</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Bongo_(antelope)#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bongo_antelope/bongo_antelope_1.jpg"/>
+
+				<dc:description>Bongos are the largest and most spectacular of the African forest antelopes. The main population is in west Africa, however, a much smaller and critically endangered subspecies is found in the mountain forests of Kenya. Bongos are well equipped for a life in the forest - impressive, long, spiralling horns can be used to break branches and a long flexible tongue can grasp leaves with ease. Despite their bold appearance, bongos are shy and reclusive animals that stay out of sight in the cover of the forest during the day. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bongo_(antelope)"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Bovid#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Bongo_(antelope)#name">
+				<rdfs:label>Tragelaphus eurycerus</rdfs:label>
+				        <wo:commonName>Bongo</wo:commonName>
+        										<wo:scientificName>euryceruseurycerus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Bovidae</wo:familyName><wo:genusName>Tragelaphus</wo:genusName><wo:speciesName>eurycerus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bongo_antelope/bongo_antelope_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bo/bongo_antelope/bongo_antelope_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639n3#programme">
+			<dc:title>Mountain bongo</dc:title>
+			<po:subject rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bongo_(antelope)">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Tragelaphus_eurycerus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.animalorphanagekenya.org/bongo_repatriation.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bongo/tragelaphus-eurycerus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.internationalbongofoundation.org/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rarespecies.org/bongo.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Artiodactyla/Tragelaphus_eurycerus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bongo_(antelope)#species"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Tragelaphus</rdfs:label><wo:species rdf:resource="/nature/life/Bongo_(antelope)#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bovid#family"><rdfs:label>Bovidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

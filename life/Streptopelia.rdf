@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Streptopelia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Streptopelia#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Streptopelia#genus">
+				<rdfs:label>Turtle doves</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Streptopelia#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/streptopelia/streptopelia_1.jpg"/>
+
+				<dc:description>Turtle doves are a common enough sight in their African and Asian heartlands, from where they've gone on to colonise much of Europe. When introduced to places in which they don't naturally occur, notably North America, population expands rapidly, making turtle doves a highly successful group of birds. The collared dove and turtle dove are just two species from this group, and you can click on the images below to watch video or just find out more about these very typical doves. Listen out for the monotonous cooing and purring of these common and widespread birds.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Streptopelia"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Streptopelia.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Columbidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Columbiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Streptopelia#name">
+				<rdfs:label>Streptopelia</rdfs:label>
+				        <wo:commonName>Turtle doves</wo:commonName>
+        										<wo:scientificName>Streptopelia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Columbiformes</wo:orderName><wo:familyName>Columbidae</wo:familyName><wo:genusName>Streptopelia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/streptopelia/streptopelia_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Streptopelia#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/st/streptopelia/streptopelia_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Streptopelia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Streptopelia#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Streptopelia.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Streptopelia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/20038">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Streptopelia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.inhs.uiuc.edu/~kjohnson/kpj_pdfs/Auk.2001.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Streptopelia#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Streptopelia.gif">
+		<dc:title>Map showing the distribution of the Turtle doves genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Columbidae#family"><rdfs:label>Columbidae</rdfs:label><wo:genus rdf:resource="/nature/life/Streptopelia#genus"/><wo:genus rdf:resource="/nature/life/Columba_(genus)#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Columbiformes#order"><rdfs:label>Columbiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Turtle_Dove#genus"><rdfs:label>Turtle dove</rdfs:label><wo:genus rdf:resource="/nature/life/Streptopelia#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Eurasian_Collared_Dove#genus"><rdfs:label>Collared dove</rdfs:label><wo:genus rdf:resource="/nature/life/Streptopelia#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

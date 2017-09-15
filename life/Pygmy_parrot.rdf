@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Pygmy_parrot">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Pygmy_parrot#genus">
+				<rdfs:label>Pygmy parrots</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Pygmy_parrot#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/pygmy_parrot/pygmy_parrot_1.jpg"/>
+
+				<dc:description>Pygmy parrots, as their name suggests, are the smallest members of the parrot family and are even smaller than budgerigars. There are six species which are found in the Solomon Islands and Papua New Guinea. Unusually for birds, pygmy parrots eat a lot of lichen and fungus as well as some seeds, fruit and insects. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pygmy_parrot"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/True_parrots#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Parrot#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Pygmy_parrot#name">
+				<rdfs:label>Micropsitta</rdfs:label>
+				        <wo:commonName>Pygmy parrots</wo:commonName>
+        								<wo:commonName>Micropsitta</wo:commonName>
+								<wo:scientificName>Micropsitta</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Psittaciformes</wo:orderName><wo:familyName>Psittacidae</wo:familyName><wo:genusName>Micropsitta</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/pygmy_parrot/pygmy_parrot_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/py/pygmy_parrot/pygmy_parrot_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004bkwt#programme">
+			<dc:title>Pygmy parrot inspection</dc:title>
+			<po:subject rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004bkwg#programme">
+			<dc:title>Pygmy parrot</dc:title>
+			<po:subject rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pygmy_parrot">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Micropsitta.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.parrots.org/index.php/encyclopedia/wildstatus/finschs_pygmy_parrot/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.parrots.org/index.php/encyclopedia/wildstatus/geelvink_pygmy_parrot/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8236000/8236410.stm">
+			<dc:title>World's smallest parrot filmed</dc:title>
+			<dc:description>The world's smallest parrot has been filmed in the wild for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygmy_parrot#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/True_parrots#family"><rdfs:label>Psittacidae</rdfs:label><wo:genus rdf:resource="/nature/life/Pygmy_parrot#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Cyanopsitta#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Parrot#order"><rdfs:label>Psittaciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

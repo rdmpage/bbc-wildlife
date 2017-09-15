@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Tettigoniidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Tettigoniidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Tettigoniidae#family">
+				<rdfs:label>Bush crickets</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Tettigoniidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/te/tettigoniidae/tettigoniidae_1.jpg"/>
+
+				<dc:description>Bush crickets, which number over 6,000 species, can be found on every continent except Antarctica. They are usually spotted amongst vegetation, where they can mimic leaves and sticks or just hide away. The males rub modified front wings to produce the loud sound (called stridulation) that begins the mating process. Females are usually silent. On rare occasions swarms of bush crickets can cause serious damage to crops.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tettigoniidae"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Tettigoniidae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Orthoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Tettigoniidae#name">
+				<rdfs:label>Tettigoniidae</rdfs:label>
+				        <wo:commonName>Bush crickets</wo:commonName>
+        								<wo:commonName>Katydids</wo:commonName>
+						<wo:commonName>Long-horned grasshoppers</wo:commonName>
+								<wo:scientificName>Tettigoniidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Orthoptera</wo:orderName><wo:familyName>Tettigoniidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/te/tettigoniidae/tettigoniidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Tettigoniidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/te/tettigoniidae/tettigoniidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/te/tettigoniidae/mp25445-04.mp3">
+			<dc:title>Male bush cricket stridulating</dc:title>
+			<dc:subject rdf:resource="/nature/family/Tettigoniidae#family"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tettigoniidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Tettigoniidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://bugguide.net/node/view/164">
+			<foaf:primaryTopic rdf:resource="/nature/family/Tettigoniidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tolweb.org/Tettigoniidae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Tettigoniidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16878292">
+			<dc:title>Jurassic cricket's song recreated</dc:title>
+			<dc:description>The "love song" of a 165-million-year-old insect is recreated from a tiny and remarkably intact fossil, say scientists.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tettigoniidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/newguineasforestsecrets/stories/bushcricket">
+			<dc:title>Biting bush cricket</dc:title>
+			<dc:description>A bush cricket bites off more than it can chew when it meets insect expert George McGavin.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Tettigoniidae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Tettigoniidae.gif">
+		<dc:title>Map showing the distribution of the Bush crickets family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Orthoptera#order"><rdfs:label>Orthoptera</rdfs:label><wo:family rdf:resource="/nature/life/Tettigoniidae#family"/><wo:family rdf:resource="/nature/life/Acrididae#family"/><wo:family rdf:resource="/nature/life/Anostostomatidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

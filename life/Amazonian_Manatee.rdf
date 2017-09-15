@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Amazonian_Manatee">
+		<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Amazonian_Manatee#species">
+				<rdfs:label>Amazonian manatee</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Amazonian_Manatee#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/amazonian_manatee/amazonian_manatee_1.jpg"/>
+
+				<dc:description>Amazonian manatees live in freshwater and are found, as their name suggests, in the Amazon River and its tributaries. They eat prodigious amounts of aquatic plants, consuming up to 8% of their own body weight every day. In the dry season, when manatees are forced to leave smaller watercourses as they shrink, they may fast for several weeks, surviving on fat reserves.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Amazonian_Manatee"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Amazonian_Manatee.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Manatee#genus"/>
+                                                                                <wo:order rdf:resource="/nature/life/Sirenia#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Amazonian_Manatee#name">
+				<rdfs:label>Trichechus inunguis</rdfs:label>
+				        <wo:commonName>Amazonian manatee</wo:commonName>
+        								<wo:commonName>South American manatee</wo:commonName>
+								<wo:scientificName>inunguisinunguis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Sirenia</wo:orderName><wo:familyName>Trichechidae</wo:familyName><wo:genusName>Trichechus</wo:genusName><wo:speciesName>inunguis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/amazonian_manatee/amazonian_manatee_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/amazonian_manatee/amazonian_manatee_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004pqbj#programme">
+			<dc:title>Human help</dc:title>
+			<po:subject rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004pqbb#programme">
+			<dc:title>Manatee magic</dc:title>
+			<po:subject rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004m37j#programme">
+			<dc:title>Orphaned manatees</dc:title>
+			<po:subject rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Amazonian_Manatee">
+		<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Trichechus_inunguis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/amazonian-manatee/trichechus-inunguis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/lastchancetosee/sites/animals/manatees">
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/328646">
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/22102/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=9777">
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sirenian.org/amazonian.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8426000/8426287.stm">
+			<dc:title>Manatee migration mystery solved</dc:title>
+			<dc:description>Amazonian manatees migrate during low water season to avoid being hunted, solving a mystery about why the secretive animals make such a perilous journey. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Amazonian_Manatee#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Amazonian_Manatee.gif">
+		<dc:title>Map showing the distribution of the Amazonian manatee species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Manatee#genus"><rdfs:label>Trichechus</rdfs:label><wo:species rdf:resource="/nature/life/Amazonian_Manatee#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Trichechidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Sirenia#order"><rdfs:label>Sirenia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

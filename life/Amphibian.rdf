@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Amphibian">
+		<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Amphibian#class">
+				<rdfs:label>Amphibians</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Amphibian#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/amphibian/amphibian_1.jpg"/>
+
+				<dc:description>Amphibians include frogs, salamanders and caecilians. A typical amphibian has a larval stage spent in water during which it breathes through gills, and an adult stage that is less tied to water when they rely on lungs. However, there are some species that skip the tadpole stage and others that keep their gills throughout their life.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Amphibian"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Amphibian.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Amphibian#name">
+				<rdfs:label>Amphibia</rdfs:label>
+				        <wo:commonName>Amphibians</wo:commonName>
+        										<wo:scientificName>Amphibia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Amphibia</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/amphibian/amphibian_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Amphibian#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/amphibian/amphibian_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006fcpt#programme">
+			<dc:title>Stalking salamander</dc:title>
+			<po:subject rdf:resource="/nature/class/Amphibian#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b3kv#programme">
+			<dc:title>Amphibian characteristics</dc:title>
+			<po:subject rdf:resource="/nature/class/Amphibian#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Amphibian">
+		<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-25341164">
+			<dc:title>Synthetic gel mimics amphibians</dc:title>
+			<dc:description>A man-made material able to re-grow parts previously removed could be used to make armour, self-healing paint or tyres, researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17100578">
+			<dc:title>Amphibian family first for India</dc:title>
+			<dc:description>A new family of caecilians, the most enigmatic branch of the amphibians, has been discovered in northeastern India.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16491477">
+			<dc:title>World's smallest frog discovered</dc:title>
+			<dc:description>Papua New Guinea has yielded what looks like the smallest frog species ever seen, just 7mm long, along with a marginally bigger relative.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15060980">
+			<dc:title>Frog killer immune genes revealed</dc:title>
+			<dc:description>Scientists take a big step toward understanding why some frogs are able to survive the fungal disease chytridiomycosis while others quickly die. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-nottinghamshire-13047374">
+			<dc:title>Appeal to look out for amphibians</dc:title>
+			<dc:description>People in Nottinghamshire are being asked to look out for amphibians as part of a survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/frogs-and-toads/47.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>What's the difference between a frog and a toad?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/01/another-bad-winter-for-amphibi.shtml">
+			<dc:title>Another bad winter for amphibians?</dc:title>
+			<dc:description>This is a blog about</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/can-you-spot-the-differences-between-a-frog-and-a-toad/3010.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Frogs and toads are seen side by side for easy comparison. Bill Oddie explains how to tell them apart and the key features to look for when identifying them.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12484316">
+			<dc:title>Frog hunt ends: Most still absent</dc:title>
+			<dc:description>A mission to discover whether 100 amphibian species believed extinct are still alive ends with few successes. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12581100">
+			<dc:title>Eco-engineering hopes for frogs</dc:title>
+			<dc:description>An international team of researchers table a range of engineering ideas that could help protect amphibians from future climate change.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11607299">
+			<dc:title>Elephant damage 'good for frogs'</dc:title>
+			<dc:description>Areas heavily damaged by elephants are home to more species of amphibians and reptiles than areas when the beasts are excluded, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11385774">
+			<dc:title>'Lost' frogs found after decades</dc:title>
+			<dc:description>A mission aimed at re-discovering amphibians believed extinct yields its first positive results. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10910291">
+			<dc:title>Conservationists begin hunt for 'extinct' frogs</dc:title>
+			<dc:description>Conservationists are preparing to scout the world for traces of amphibian species that are believed to be extinct, but may just be clinging to existence.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8524000/8524558.stm">
+			<dc:title>Peru poison frog reveals secret of monogamy </dc:title>
+			<dc:description>The first monogamous amphibian has been discovered living in the rainforest of South America.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8319467.stm">
+			<dc:title>Secrets of frog killer laid bare</dc:title>
+			<dc:description>Scientists have unravelled the mechanism by which the fungal disease chytridiomycosis kills its victims.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8292690.stm">
+			<dc:title>Crisis for the world’s amphibians</dc:title>
+			<dc:description>It is a time of crisis for the world's amphibians, says Helen Meredith. In this week's Green Room she says we may be facing our last chance to save this important group of animals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8222549.stm">
+			<dc:title>Launch for amphibian 'life raft'</dc:title>
+			<dc:description>Conservationists have launched a new initiative aimed at safeguarding the world's amphibians from extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Amphibian#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Amphibian.gif">
+		<dc:title>Map showing the distribution of the Amphibians class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label><wo:class rdf:resource="/nature/life/Amphibian#class"/><wo:class rdf:resource="/nature/life/Bird#class"/><wo:class rdf:resource="/nature/life/Mammal#class"/><wo:class rdf:resource="/nature/life/Reptile#class"/><wo:class rdf:resource="/nature/life/Chondrichthyes#class"/><wo:class rdf:resource="/nature/life/Cephalaspidomorphi#class"/><wo:class rdf:resource="/nature/life/Synapsid#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Frog#class"><rdfs:label>Frogs and toads</rdfs:label><wo:class rdf:resource="/nature/life/Amphibian#class"/></wo:Order><wo:Order rdf:about="/nature/life/Salamander#class"><rdfs:label>Salamanders</rdfs:label><wo:class rdf:resource="/nature/life/Amphibian#class"/></wo:Order><wo:Order rdf:about="/nature/life/Caecilian#class"><rdfs:label>Caecilians</rdfs:label><wo:class rdf:resource="/nature/life/Amphibian#class"/></wo:Order><wo:Genus rdf:about="/nature/life/Koolasuchus#class"><rdfs:label>Koolasuchus</rdfs:label><wo:class rdf:resource="/nature/life/Amphibian#class"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

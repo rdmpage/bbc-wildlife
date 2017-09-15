@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Therizinosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Therizinosaurus#genus">
+				<rdfs:label>Therizinosaurus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Therizinosaurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/th/therizinosaurus/therizinosaurus_1.jpg"/>
+
+				<dc:description>Therizinosaurus had huge claws on its forelimbs that measured up to 70cm long, so would have been a fearsome sight. It was originally described from only a few bones discovered in Mongolia which were at first thought to belong to a turtle-like reptile and not a huge theropod dinosaur! As a Therizinosaurus skull has never been found, there is no definitive evidence as to what this clawed beast ate. However, since it had close relatives known to be herbivorous, it's likely that Therizinosaurus too was a plant-eater. Its terrible claws were probably used to strip bark from trees or fend off predators and rivals.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Therizinosaurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Therizinosaurus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Therizinosauridae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Therizinosaurus#name">
+				<rdfs:label>Therizinosaurus</rdfs:label>
+												<wo:commonName>scythe lizard</wo:commonName>
+								<wo:scientificName>Therizinosaurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName><wo:familyName>Therizinosauridae</wo:familyName><wo:genusName>Therizinosaurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/th/therizinosaurus/therizinosaurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/th/therizinosaurus/therizinosaurus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9wkf#programme">
+			<dc:title>Clash of titans</dc:title>
+			<po:subject rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Therizinosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1467">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cmstudio.com/therizinosaurus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=7662&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genus=Therizinosaurus">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thedinosaurs.org/dinosaurs/therizinosaurus.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Therizinosaurus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Therizinosaurus.gif">
+		<dc:title>Map showing the distribution of the Therizinosaurus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Therizinosauridae#family"><rdfs:label>Therizinosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Therizinosaurus#genus"/><wo:genus rdf:resource="/nature/life/Nothronychus#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Theropoda#suborder"><rdfs:label>Theropoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Loranthaceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Loranthaceae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Loranthaceae#family">
+				<rdfs:label>Mistletoes (loranthid)</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Loranthaceae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/loranthaceae/loranthaceae_1.jpg"/>
+
+				<dc:description>Plants are rarely thought of as parasites, but the majority of mistletoes have a very bad habit - they steal water and nutrients from other plants, while using their own green leaves to make food. This large family of mistletoes has over a thousand species, but does not include the traditional Christmas mistletoes of Europe and North America. Australia's  mistletoe bird virtually lives on mistletoe berries, passing the seed rapidly through its system and helping these parasites to spread.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Loranthaceae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Loranthaceae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Santalales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Loranthaceae#name">
+				<rdfs:label>Loranthaceae</rdfs:label>
+				        <wo:commonName>Mistletoes (loranthid)</wo:commonName>
+        										<wo:scientificName>Loranthaceae</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Santalales</wo:orderName><wo:familyName>Loranthaceae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/lo/loranthaceae/loranthaceae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Loranthaceae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/lo/loranthaceae/loranthaceae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00crfc4#programme">
+			<dc:title>Mistletoe partnerships</dc:title>
+			<po:subject rdf:resource="/nature/family/Loranthaceae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Loranthaceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Loranthaceae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://delta-intkey.com/angio/www/lorantha.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Loranthaceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/4404">
+			<foaf:primaryTopic rdf:resource="/nature/family/Loranthaceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.parasiticplants.siu.edu/Loranthaceae/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Loranthaceae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Parasitism#adaptation">
+					<rdfs:label>Parasitic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Loranthaceae.gif">
+		<dc:title>Map showing the distribution of the Mistletoes (loranthid) family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Santalales#order"><rdfs:label>Santalales</rdfs:label><wo:family rdf:resource="/nature/life/Loranthaceae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

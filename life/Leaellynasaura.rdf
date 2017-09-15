@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Leaellynasaura">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Leaellynasaura#genus">
+				<rdfs:label>Leaellynasaura</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Leaellynasaura#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/leaellynasaura/leaellynasaura_1.jpg"/>
+
+				<dc:description>The tail of the small, plant-eating Leaellynasaura dinosaur was three times as long as its body. Described in 1989 after skull fragments and bones were found in Australia's Dinosaur Cove - one of the few dinosaurs ever found in Australia - they were named after the discoverer's daughter (Leallyn). Large eye sockets and optic nerve casings may have given leaellynasaura enhanced vision to cope with the long, dark winter months. Odd to think of Australia having such winters, but during the early Cretaceous some 110 million years ago, this part of the world fell within the Antarctic circle.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Leaellynasaura"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Leaellynasaura.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Hypsilophodont#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Ornithopod#infraorder"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Cerapoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Ornithischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Leaellynasaura#name">
+				<rdfs:label>Leaellynasaura</rdfs:label>
+												<wo:commonName>Leaellyn's lizard</wo:commonName>
+								<wo:scientificName>Leaellynasaura</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Ornithischia</wo:orderName><wo:suborderName>Cerapoda</wo:suborderName><wo:infraorderName>Ornithopoda</wo:infraorderName><wo:familyName>Hypsilophodontidae</wo:familyName><wo:genusName>Leaellynasaura</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/leaellynasaura/leaellynasaura_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/le/leaellynasaura/leaellynasaura_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9qmd#programme">
+			<dc:title>One in the eye</dc:title>
+			<po:subject rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9p66#programme">
+			<dc:title>Speedy escape</dc:title>
+			<po:subject rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9p0y#programme">
+			<dc:title>Polar prehistory</dc:title>
+			<po:subject rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Leaellynasaura">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://australianmuseum.net.au/Leaellynasaura-amicagraphica">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1604">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.abc.net.au/dinosaurs/fact_files/forest/leaellyna.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=6810&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nationaldinosaurmuseum.com.au/Leaellynasaura.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genus=Leaellynasaura">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Leaellynasaura#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Leaellynasaura.gif">
+		<dc:title>Map showing the distribution of the Leaellynasaura genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Hypsilophodont#family"><rdfs:label>Hypsilophodontidae</rdfs:label><wo:genus rdf:resource="/nature/life/Leaellynasaura#genus"/></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Ornithopod#infraorder"><rdfs:label>Ornithopoda</rdfs:label></wo:Infraorder><wo:Suborder rdf:about="/nature/suborder/Cerapoda#suborder"><rdfs:label>Cerapoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Ornithischia#order"><rdfs:label>Ornithischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

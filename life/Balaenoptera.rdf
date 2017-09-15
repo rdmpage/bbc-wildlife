@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Balaenoptera">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Balaenoptera#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Balaenoptera#genus">
+				<rdfs:label>Rorquals</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Balaenoptera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/ba/balaenoptera/balaenoptera_1.jpg"/>
+
+				<dc:description>The rorquals are a genus of baleen whales containing eight species, the only other species in the <a href="http://www.bbc.co.uk/nature/life/Rorqual">rorqual family</a> is the <a href="http://www.bbc.co.uk/nature/life/Humpback_whale">humpback whale</a>. They range in size from the 150 tonne <a href="http://www.bbc.co.uk/nature/life/Blue_Whale">blue whale</a>, the largest animal to have ever lived, to the relatively small nine tonne <a href="http://www.bbc.co.uk/nature/life/Antarctic_minke_whale">minke whale</a>. Rorquals use baleen plates to filter out krill and small fish from large gulps of water. They sometimes use an extreme lunge feeding technique on bait balls of fish. They are found in all the world's oceans.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Balaenoptera"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Balaenoptera.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Rorqual#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Balaenoptera#name">
+				<rdfs:label>Balaenoptera</rdfs:label>
+				        <wo:commonName>Rorquals</wo:commonName>
+        										<wo:scientificName>Balaenoptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Balaenidae</wo:familyName><wo:genusName>Balaenoptera</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/ba/balaenoptera/balaenoptera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Balaenoptera#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/ba/balaenoptera/balaenoptera_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Balaenoptera">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Balaenoptera#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Balaenoptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Balaenoptera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/41255/entries/36789198/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Balaenoptera#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Balaenoptera.gif">
+		<dc:title>Map showing the distribution of the Rorquals genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Rorqual#family"><rdfs:label>Balaenidae</rdfs:label><wo:genus rdf:resource="/nature/life/Balaenoptera#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Blue_Whale#genus"><rdfs:label>Blue whale</rdfs:label><wo:genus rdf:resource="/nature/life/Balaenoptera#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Antarctic_minke_whale#genus"><rdfs:label>Antarctic minke whale</rdfs:label><wo:genus rdf:resource="/nature/life/Balaenoptera#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

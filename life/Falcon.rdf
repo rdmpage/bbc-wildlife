@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Falcon">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Falcon#genus">
+				<rdfs:label>Falcons, hobbies and kestrels</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Falcon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fa/falcon/falcon_1.jpg"/>
+
+				<dc:description>Falcons, hobbies and kestrels are all in the genus Falco. In general terms, the larger birds are falcons; the smaller swift ones possessing long, narrow wings are hobbies and; those that hover while hunting for prey are the kestrels.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Falcon"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Falconidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Falcon#name">
+				<rdfs:label>Falco</rdfs:label>
+				        <wo:commonName>Falcons, hobbies and kestrels</wo:commonName>
+        										<wo:scientificName>Falco</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Falconidae</wo:familyName><wo:genusName>Falco</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fa/falcon/falcon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Falcon#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fa/falcon/falcon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f9wvl#programme">
+			<dc:title>Falcons save Dubai</dc:title>
+			<po:subject rdf:resource="/nature/genus/Falcon#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Falcon">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="F">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="F">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-11293540">
+			<dc:title>Falcons boost Champagne harvest</dc:title>
+			<dc:description>Farmers in the Champagne region of France are hoping for a bumper crop of grapes for a sixth year after introducing falcons to ward off pests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11086707">
+			<dc:title>Halting illegal bird trade to Gulf</dc:title>
+			<dc:description>Long-term efforts aim to stem the flow of illegal eggs and birds into the Gulf states.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Falcon#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Falconidae#family"><rdfs:label>Falconidae</rdfs:label><wo:genus rdf:resource="/nature/life/Falcon#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Common_Kestrel#genus"><rdfs:label>Kestrel</rdfs:label><wo:genus rdf:resource="/nature/life/Falcon#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Eleonora's_Falcon#genus"><rdfs:label>Eleonora's falcon</rdfs:label><wo:genus rdf:resource="/nature/life/Falcon#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Merlin_(bird)#genus"><rdfs:label>Merlin</rdfs:label><wo:genus rdf:resource="/nature/life/Falcon#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Eurasian_Hobby#genus"><rdfs:label>Hobby</rdfs:label><wo:genus rdf:resource="/nature/life/Falcon#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Peregrine_Falcon#genus"><rdfs:label>Peregrine falcon</rdfs:label><wo:genus rdf:resource="/nature/life/Falcon#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

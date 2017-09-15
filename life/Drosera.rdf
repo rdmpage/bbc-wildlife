@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Drosera">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Drosera#genus">
+				<rdfs:label>Sundews</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Drosera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/dr/drosera/drosera_1.jpg"/>
+
+				<dc:description>Sundews are a genus of carnivorous plants which usually live in wet habitats where the acidic conditions limit the amount of nutrients they can extract from the soil. These plants therefore supplement their diet by catching and digesting small creatures such as insects. Some species of sundew are very long-lived. Sundews can be found growing on every continent except Antarctica.
+
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Drosera"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Drosera.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Droseraceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Nepenthales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Drosera#name">
+				<rdfs:label>Drosera</rdfs:label>
+				        <wo:commonName>Sundews</wo:commonName>
+        								<wo:commonName>Drosera</wo:commonName>
+								<wo:scientificName>Drosera</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Nepenthales</wo:orderName><wo:familyName>Droseraceae</wo:familyName><wo:genusName>Drosera</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/dr/drosera/drosera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Drosera#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/dr/drosera/drosera_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lx1rr#programme">
+			<dc:title>Sticky end</dc:title>
+			<po:subject rdf:resource="/nature/genus/Drosera#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007z97x#programme">
+			<dc:title>Hungry plants</dc:title>
+			<po:subject rdf:resource="/nature/genus/Drosera#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vyyv#programme">
+			<dc:title>Botanical treasures</dc:title>
+			<po:subject rdf:resource="/nature/genus/Drosera#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005fq51#programme">
+			<dc:title>Meat-eating plants</dc:title>
+			<po:subject rdf:resource="/nature/genus/Drosera#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Drosera">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/11098.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.botany.org/carnivorous_plants/Drosera.php">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.carnivorousplants.org/gallery/gallerymain.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sarracenia.com/faq/faq5240.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="https://www.carnivorousplants.co.uk/blog/how-did-carnivorous-plants-evolve/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18416601">
+			<dc:title>Pollutant turns fly-traps veggie</dc:title>
+			<dc:description>Predator plants may cut back on flies if they can access key nutrients elsewhere, researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13000505">
+			<dc:title>Risky time for carnivorous plants</dc:title>
+			<dc:description>The collection of specimens from the wild is one of the main threats facing the world's carnivorous plants, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Drosera#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Drosera.gif">
+		<dc:title>Map showing the distribution of the Sundews genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Droseraceae#family"><rdfs:label>Droseraceae</rdfs:label><wo:genus rdf:resource="/nature/life/Drosera#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Nepenthales#order"><rdfs:label>Nepenthales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

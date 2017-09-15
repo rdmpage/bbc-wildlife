@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Great_Crested_Grebe">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Great_Crested_Grebe#species">
+				<rdfs:label>Great crested grebe</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Great_Crested_Grebe#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_crested_grebe/great_crested_grebe_1.jpg"/>
+
+				<dc:description>Great crested grebes are the largest grebes in Europe, with a range spanning from Britain to Russia. Once persecuted for their feathers, their population was devastated during the Victorian period. Following excellent conservation measures, numbers have since greatly increased. These grebes are well known for their elaborate courtship displays where pairs raise and shake their heads and approach each other with weed in their bills. After hatching, the stripy chicks are carried around on the backs of their parents.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Great_Crested_Grebe"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Podiceps#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Grebe#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Podicipediformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Great_Crested_Grebe#name">
+				<rdfs:label>Podiceps cristatus</rdfs:label>
+				        <wo:commonName>Great crested grebe</wo:commonName>
+        										<wo:scientificName>cristatuscristatus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Podicipediformes</wo:orderName><wo:familyName>Podicipedidae</wo:familyName><wo:genusName>Podiceps</wo:genusName><wo:speciesName>cristatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/great_crested_grebe/great_crested_grebe_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/great_crested_grebe/great_crested_grebe_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hxpqg#programme">
+			<dc:title>Gifted grebes</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m2pfr#programme">
+			<dc:title>Feather food</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g3l8b#programme">
+			<dc:title>Great crested grebe courtship display</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fnh2t#programme">
+			<dc:title>Analysing behaviour</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c2ryl#programme">
+			<dc:title>Courting fashion</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089wnx#programme">
+			<dc:title>Plastic fantastic</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zgsg#programme">
+			<dc:title>Neighbourhood spat</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fn31#programme">
+			<dc:title>Industrial fallout</dc:title>
+			<po:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/great_crested_grebe/5025113.mp3">
+			<dc:title>Grebe courtship and threatening  calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Great_Crested_Grebe">
+		<foaf:primaryTopic rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Podiceps_cristatus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob90.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/great-crested-grebe/podiceps-cristatus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/g-c-grebe.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/g/greatcrestedgrebe/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Great_Crested_Grebe#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Podiceps#genus"><rdfs:label>Podiceps</rdfs:label><wo:species rdf:resource="/nature/life/Great_Crested_Grebe#species"/><wo:species rdf:resource="/nature/life/Black-necked_Grebe#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Grebe#family"><rdfs:label>Podicipedidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Podicipediformes#order"><rdfs:label>Podicipediformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

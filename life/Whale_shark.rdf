@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Whale_shark">
+		<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Whale_shark#species">
+				<rdfs:label>Whale shark</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Whale_shark#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/whale_shark/whale_shark_1.jpg"/>
+
+				<dc:description>Whale sharks are the largest fish in the world, with the longest ever recorded at over 13.5m. Fortunately, they are harmless filter feeders that suck in plankton and small fish. Curiously, there are rows of tiny teeth within the whale shark's impressively large mouth that, as yet, serve no known function. These distinctively yellow-spotted sharks are migratory and found throughout the world's oceans, preferring the warm and tropical waters around the equator.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Whale_shark"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ovoviviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Whale_shark.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Carpet_sharks#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Shark#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Chondrichthyes#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Whale_shark#name">
+				<rdfs:label>Rhincodon typus</rdfs:label>
+				        <wo:commonName>Whale shark</wo:commonName>
+        										<wo:scientificName>typustypus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Chondrichthyes</wo:className><wo:superorderName>Selachimorpha</wo:superorderName><wo:orderName>Orectolobiformes</wo:orderName><wo:familyName>Rhincodontidae</wo:familyName><wo:genusName>Rhincodon</wo:genusName><wo:speciesName>typus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/whale_shark/whale_shark_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Whale_shark#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wh/whale_shark/whale_shark_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0162237#programme">
+			<dc:title>Arabian giants</dc:title>
+			<po:subject rdf:resource="/nature/species/Whale_shark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009cpqk#programme">
+			<dc:title>Speckled spaceship</dc:title>
+			<po:subject rdf:resource="/nature/species/Whale_shark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0065m7p#programme">
+			<dc:title>Ocean giants</dc:title>
+			<po:subject rdf:resource="/nature/species/Whale_shark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00650gr#programme">
+			<dc:title>Life on Ningaloo Reef</dc:title>
+			<po:subject rdf:resource="/nature/species/Whale_shark#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038vdd#programme">
+			<dc:title>Whale shark feeding</dc:title>
+			<po:subject rdf:resource="/nature/species/Whale_shark#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Whale_shark">
+		<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Rhincodon_typus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/whale-shark/rhincodon-typus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flmnh.ufl.edu/fish/Gallery/Descript/whaleshark/whaleshark.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.whaleshark.org/photographing.jsp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.whalesharkproject.org/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.whalesharkproject.org/v.asp?level2=6385&amp;depth=2&amp;level3=6385&amp;level2id=6385&amp;rootid=6336&amp;nextlevel=6385">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21687023">
+			<dc:title>In pictures: The world's biggest fish</dc:title>
+			<dc:description>Spanning 12m in length and weighing 18.7 tonnes, the formidable whale shark is the world’s largest fish. But surprisingly little is known about the mysterious lives of these gentle giants.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/whale-shark-feeding/10502.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>A whale shark and tuna feed on a shoal of small fish.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/apps/ifl/learningzone/clips/showrecord?Id=10832;Config=main_clipid.cfg">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, Evolution and Environment</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9370000/9370031.stm">
+			<dc:title>Biggest fish could be even bigger</dc:title>
+			<dc:description>Whale sharks, the world's biggest fish, could be even bigger than previously recorded, a new study reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Whale_shark#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Ovoviviparity#adaptation">
+					<rdfs:label>Ovoviviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Whale_shark.gif">
+		<dc:title>Map showing the distribution of the Whale shark species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Rhincodon</rdfs:label><wo:species rdf:resource="/nature/life/Whale_shark#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Rhincodontidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carpet_sharks#order"><rdfs:label>Orectolobiformes</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Shark#superorder"><rdfs:label>Selachimorpha</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Chondrichthyes#class"><rdfs:label>Chondrichthyes</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

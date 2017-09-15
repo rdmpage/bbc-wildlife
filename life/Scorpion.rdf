@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Scorpion">
+		<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Scorpion#order">
+				<rdfs:label>Scorpions</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Scorpion#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sc/scorpion/scorpion_1.jpg"/>
+
+				<dc:description>Scorpions were among the first animals to adapt to life on land 420 million years ago. They are the oldest <a href="http://www.bbc.co.uk/nature/life/Arachnid">arachnids</a> for which <a href="http://www.bbc.co.uk/nature/fossils">fossils</a> are known. Scorpions are particularly recognisable by their spectacularly large, powerful pincers, which are enlarged appendages used to grasp and subdue prey. The famous <a href="http://www.bbc.co.uk/nature/adaptations/Venom">stinging tail</a> contains a pair of poison glands and is used to paralyse prey. Hated and admired since ancient times, they still strike fear into people though few are deadly. Around 2,000 species have been described in 13 families with species found on every continent except <a href="http://www.bbc.co.uk/nature/places/Antarctica">Antarctica</a>, and not just under rocks in the <a href="http://www.bbc.co.uk/nature/habitats/Deserts_and_xeric_shrublands">desert</a>!    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Scorpion"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Scorpion.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Arachnid#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Scorpion#name">
+				<rdfs:label>Scorpiones</rdfs:label>
+				        <wo:commonName>Scorpions</wo:commonName>
+        										<wo:scientificName>Scorpiones</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Arachnida</wo:className><wo:orderName>Scorpiones</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sc/scorpion/scorpion_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Scorpion#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sc/scorpion/scorpion_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015g6zf#programme">
+			<dc:title>Early warning system</dc:title>
+			<po:subject rdf:resource="/nature/order/Scorpion#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l3k75#programme">
+			<dc:title>Snare of silk</dc:title>
+			<po:subject rdf:resource="/nature/order/Scorpion#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cfs6m#programme">
+			<dc:title>Coal forest land grab</dc:title>
+			<po:subject rdf:resource="/nature/order/Scorpion#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008py5k#programme">
+			<dc:title>Scorpion city</dc:title>
+			<po:subject rdf:resource="/nature/order/Scorpion#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Scorpion">
+		<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Scorpiones.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/2441">
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://museumvictoria.com.au/discoverycentre/infosheets/scorpion-facts-and-fallacies/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sandiegozoo.org/animalbytes/t-scorpion.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/arthropoda/arachnida/scorpiones.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/25683544">
+			<dc:title>How the scorpion got its sting</dc:title>
+			<dc:description>The sting in a scorpion's tail has been traced back to a single defensive protein, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-11598602">
+			<dc:title>Scorpion sting 'heart bypass aid'</dc:title>
+			<dc:description>An ingredient in a scorpion's venom could be used to prevent heart bypasses failing, researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-11275962">
+			<dc:title>Police baffled by scorpion find</dc:title>
+			<dc:description>The discovery of a two-inch long scorpion on a Harrogate street prompts a police appeal for information.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-lancashire-11457332">
+			<dc:title>Exotic pets found dumped in alley</dc:title>
+			<dc:description>Two scorpions and 15 baby tarantulas are found abandoned in an alleyway in Preston, Lancashire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Scorpion#order"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Scorpion.gif">
+		<dc:title>Map showing the distribution of the Scorpions order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Arachnid#class"><rdfs:label>Arachnida</rdfs:label><wo:order rdf:resource="/nature/life/Scorpion#order"/><wo:order rdf:resource="/nature/life/Spider#order"/><wo:order rdf:resource="/nature/life/Solifugae#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/European_Hare">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/European_Hare#species">
+				<rdfs:label>Hare</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/European_Hare#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_hare/european_hare_1.jpg"/>
+
+				<dc:description>Hares are much longer-limbed and swifter than <a href="http://www.bbc.co.uk/nature/life/European_Rabbit">rabbits</a>. They use their powerful hind legs to <a href="http://www.bbc.co.uk/nature/adaptations/Antipredator_adaptation">escape predation</a> by outrunning their enemies, and have been known to reach speeds of 72kph (45mph). Brown hares are widespread throughout central and western <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a>, including most of the <a href="http://www.bbc.co.uk/nature/places/United_Kingdom">UK</a>, where they were introduced by the Romans. Courtship involves boxing, and this well-known 'mad March hare' behaviour actually involves unreceptive females fending off passionate males. 
+<br/>
+<br/>
+<b>Did you know?</b><br/> The European hare is the fastest land mammal in the UK. 
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/European_Hare"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Coprophagia#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Jumping#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Hare#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Leporidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Lagomorpha#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/European_Hare#name">
+				<rdfs:label>Lepus europaeus</rdfs:label>
+				        <wo:commonName>Hare</wo:commonName>
+        								<wo:commonName>Brown hare</wo:commonName>
+						<wo:commonName>European hare</wo:commonName>
+								<wo:scientificName>europaeuseuropaeus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Lagomorpha</wo:orderName><wo:familyName>Leporidae</wo:familyName><wo:genusName>Lepus</wo:genusName><wo:speciesName>europaeus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_hare/european_hare_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/European_Hare#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/european_hare/european_hare_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00tgpx2#programme">
+			<dc:title>March hare madness</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hare#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gfxfj#programme">
+			<dc:title>Brown hare close up</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hare#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008clk2#programme">
+			<dc:title>Farmland fauna</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hare#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081fcf#programme">
+			<dc:title>Vanishing trick</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hare#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039rhz#programme">
+			<dc:title>Farmland hares</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Hare#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/European_Hare">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lepus_europaeus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/brown-hare/lepus-europaeus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ccw.gov.uk/about-ccw/newsroom/latest-news/the-rise-and-fall-of-the-brown.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.hare-preservation-trust.co.uk/history.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mammal.org.uk/index.php?option=com_content&amp;view=article&amp;id=224&amp;Itemid=257">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildaboutbritain.co.uk/brown-hare">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Hare#species"/>
+		</foaf:Document>
+			
+					
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Coprophagia#adaptation">
+					<rdfs:label>Dung eater</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Jumping#adaptation">
+					<rdfs:label>Adapted to jumping</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Hare#genus"><rdfs:label>Lepus</rdfs:label><wo:species rdf:resource="/nature/life/European_Hare#species"/><wo:species rdf:resource="/nature/life/Mountain_Hare#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Leporidae#family"><rdfs:label>Leporidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Lagomorpha#order"><rdfs:label>Lagomorpha</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

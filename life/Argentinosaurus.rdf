@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Argentinosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Argentinosaurus#genus">
+				<rdfs:label>Argentinosaurus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Argentinosaurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/argentinosaurus/argentinosaurus_1.jpg"/>
+
+				<dc:description>Argentinosaurus currently holds the record for being both the heaviest land animal ever, and the longest. Despite its huge size, Argentinosaurus laid eggs about the size of a rugby ball, so its young had a lot of growing to do to reach the 37 metre adult size which would probably have taken 40 years or more. For the most part, the giant sauropods perished at the end of the Jurassic, but in South America giants like Argentinosaurus and its relatives lived on.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Argentinosaurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Argentinosaurus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Titanosauridae#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Sauropoda#infraorder"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Sauropodomorpha#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Argentinosaurus#name">
+				<rdfs:label>Argentinosaurus</rdfs:label>
+												<wo:commonName>Argentina's lizard</wo:commonName>
+								<wo:scientificName>Argentinosaurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Sauropodomorpha</wo:suborderName><wo:infraorderName>Sauropoda</wo:infraorderName><wo:familyName>Titanosauridae</wo:familyName><wo:genusName>Argentinosaurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/argentinosaurus/argentinosaurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ar/argentinosaurus/argentinosaurus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l3gzf#programme">
+			<dc:title>Argentinosaurus feeding</dc:title>
+			<po:subject rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l3gwd#programme">
+			<dc:title>Argentinosaurus</dc:title>
+			<po:subject rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00clbmb#programme">
+			<dc:title>Patagonian giants</dc:title>
+			<po:subject rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cl9kv#programme">
+			<dc:title>World's biggest dinosaur?</dc:title>
+			<po:subject rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Argentinosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=733">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=5932&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.interpatagonia.com/paleontologia/hallazgos_i.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genus=Argentinosaurus">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Argentinosaurus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Argentinosaurus.gif">
+		<dc:title>Map showing the distribution of the Argentinosaurus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Titanosauridae#family"><rdfs:label>Titanosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Argentinosaurus#genus"/></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Sauropoda#infraorder"><rdfs:label>Sauropoda</rdfs:label></wo:Infraorder><wo:Suborder rdf:about="/nature/suborder/Sauropodomorpha#suborder"><rdfs:label>Sauropodomorpha</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

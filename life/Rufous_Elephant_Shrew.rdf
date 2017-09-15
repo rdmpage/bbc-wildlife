@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Rufous_Elephant_Shrew">
+		<foaf:primaryTopic rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Rufous_Elephant_Shrew#species">
+				<rdfs:label>Rufous elephant shrew</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Rufous_Elephant_Shrew#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ru/rufous_elephant_shrew/rufous_elephant_shrew_1.jpg"/>
+
+				<dc:description>Rufous elephant shrews are small mouse-like animals found on the plains, savannas and forest floors of east Africa. Their long mobile snouts can be moved around much like an elephant's trunk in their endless search for ants, termites and worms. These shrews are escape specialists: they make a series of pathways away from their nests which they shoot down rapidly at the first signs of a predator. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rufous_Elephant_Shrew"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Elephant_shrew#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Macroscelidea#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Rufous_Elephant_Shrew#name">
+				<rdfs:label>Elephantulus rufescens</rdfs:label>
+				        <wo:commonName>Rufous elephant shrew</wo:commonName>
+        								<wo:commonName>East African long-eared elephant shrew</wo:commonName>
+						<wo:commonName>Rufous sengi</wo:commonName>
+								<wo:scientificName>rufescensrufescens</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Macroscelidea</wo:orderName><wo:familyName>Macroscelididae</wo:familyName><wo:genusName>Elephantulus</wo:genusName><wo:speciesName>rufescens</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ru/rufous_elephant_shrew/rufous_elephant_shrew_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ru/rufous_elephant_shrew/rufous_elephant_shrew_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01pn7l1#programme">
+			<dc:title>Sengi racetrack</dc:title>
+			<po:subject rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004v9sm#programme">
+			<dc:title>Mental maps</dc:title>
+			<po:subject rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rufous_Elephant_Shrew">
+		<foaf:primaryTopic rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Elephantulus_rufescens.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/rufous-elephant-shrew/elephantulus-rufescens/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fieldmuseum.org/tanzania/species.asp?ID=7">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/42664/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rufous_Elephant_Shrew#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Elephantulus</rdfs:label><wo:species rdf:resource="/nature/life/Rufous_Elephant_Shrew#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Elephant_shrew#family"><rdfs:label>Macroscelididae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Macroscelidea#order"><rdfs:label>Macroscelidea</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Giant_tube_worm">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Giant_tube_worm#species">
+				<rdfs:label>Giant tube worm</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Giant_tube_worm#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giant_tube_worm/giant_tube_worm_1.jpg"/>
+
+				<dc:description>Giant tube worms grow to over 2 metres long and inhabit the hot waters around hydrothermal vents on the Pacific Ocean bed. Like their cool water relatives, giant tube worms do not have a digestive tract. Their food is manufactured by bacteria that live symbiotically inside each worm's body. In return for their energy producing services, the bacteria are provided with a safe place to live and supplied with oxygen, carbon dioxide and hydrogen sulphide gathered by the worm's 'tentacles'. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Giant_tube_worm"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sessility_(zoology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Symbiosis#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Giant_tube_worm.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Hydrothermal_vent#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Canalipalpata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Polychaete#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Annelid#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Giant_tube_worm#name">
+				<rdfs:label>Riftia pachyptila</rdfs:label>
+				        <wo:commonName>Giant tube worm</wo:commonName>
+        										<wo:scientificName>pachyptilapachyptila</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Annelida</wo:phylumName><wo:className>Polychaeta</wo:className><wo:orderName>Canalipalpata</wo:orderName><wo:familyName>Siboglinidae</wo:familyName><wo:genusName>Riftia</wo:genusName><wo:speciesName>pachyptila</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giant_tube_worm/giant_tube_worm_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gi/giant_tube_worm/giant_tube_worm_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fff1y#programme">
+			<dc:title>Black smokers</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004htvq#programme">
+			<dc:title>Deep surprises</dc:title>
+			<po:subject rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Giant_tube_worm">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giant_tube_worm#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Riftia_pachyptila.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.accessexcellence.org/BF/bf01/arp/bf01p2.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/giant-tube-worm/riftia-pachyptila/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ceoe.udel.edu/deepsea/level-2/creature/tube.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.deepseaphotography.com/vent_animals.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giant_tube_worm#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Sessility_(zoology)#adaptation">
+					<rdfs:label>Sessile</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Symbiosis#adaptation">
+					<rdfs:label>Symbiotic</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Hydrothermal_vent#habitat">
+					<rdfs:label>Hydrothermal vents</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Giant_tube_worm.gif">
+		<dc:title>Map showing the distribution of the Giant tube worm species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Riftia</rdfs:label><wo:species rdf:resource="/nature/life/Giant_tube_worm#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Siboglinidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Canalipalpata#order"><rdfs:label>Canalipalpata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Polychaete#class"><rdfs:label>Polychaeta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Annelid#phylum"><rdfs:label>Annelida</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

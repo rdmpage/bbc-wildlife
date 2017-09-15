@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Harmonia_axyridis">
+		<foaf:primaryTopic rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Harmonia_axyridis#species">
+				<rdfs:label>Harlequin ladybird</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Harmonia_axyridis#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/harmonia_axyridis/harmonia_axyridis_1.jpg"/>
+
+				<dc:description>Harlequin ladybirds were introduced to north America and mainland Europe as a biological control for aphids. However, with their populations spreading rapidly the tables have turned on these ladybirds. Their voracious apetites and the subsequent decline of native ladybird species has focused attention on them as a subject for control. Large numbers hibernate indoors and in wall cavities during cool winter weather, which doesn't help their cause.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Harmonia_axyridis"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aposematism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Harmonia_axyridis.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Coccinellidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Beetle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Harmonia_axyridis#name">
+				<rdfs:label>Harmonia axyridis</rdfs:label>
+				        <wo:commonName>Harlequin ladybird</wo:commonName>
+        								<wo:commonName>Asian lady beetle</wo:commonName>
+						<wo:commonName>Halloween lady beetle</wo:commonName>
+						<wo:commonName>Multicolored Asian lady beetle</wo:commonName>
+								<wo:scientificName>axyridisaxyridis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Coleoptera</wo:orderName><wo:familyName>Coccinellidae</wo:familyName><wo:genusName>Harmonia</wo:genusName><wo:speciesName>axyridis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/harmonia_axyridis/harmonia_axyridis_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ha/harmonia_axyridis/harmonia_axyridis_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vcyt#programme">
+			<dc:title>Harlequin invasion</dc:title>
+			<po:subject rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Harmonia_axyridis">
+		<foaf:primaryTopic rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/harlequin-ladybird/harmonia-axyridis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.harlequin-survey.org/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rhs.org.uk/advice/profiles0108/harlequinladybird.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.uksafari.com/ladybirdharlequin2.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16916726">
+			<dc:title>'Invader' drives ladybird decline</dc:title>
+			<dc:description>Fast declines in some UK and European ladybirds are being caused by the spread of the invasive harlequin species, scientists show.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harmonia_axyridis#species"/>
+		</foaf:Document>
+			
+											<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Aposematism#adaptation">
+					<rdfs:label>Warning colours</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Harmonia_axyridis.gif">
+		<dc:title>Map showing the distribution of the Harlequin ladybird species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Harmonia</rdfs:label><wo:species rdf:resource="/nature/life/Harmonia_axyridis#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Coccinellidae#family"><rdfs:label>Coccinellidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Beetle#order"><rdfs:label>Coleoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

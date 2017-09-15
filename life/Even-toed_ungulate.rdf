@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Even-toed_ungulate">
+		<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Even-toed_ungulate#order">
+				<rdfs:label>Even-toed ungulates</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Even-toed_ungulate#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ev/even-toed_ungulate/even-toed_ungulate_1.jpg"/>
+
+				<dc:description>The even-toed ungulates have two weight-bearing toes on each foot, and may have lost the other toes entirely (as in antelope), or have another two much smaller toes (as in pigs). Hippopotamuses, camels and giraffes are all Artiodactyls.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Even-toed_ungulate"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Even-toed_ungulate#name">
+				<rdfs:label>Artiodactyla</rdfs:label>
+				        <wo:commonName>Even-toed ungulates</wo:commonName>
+        								<wo:commonName>Cloven-hoofed mammals</wo:commonName>
+						<wo:commonName>Cloven-hoofed ungulates</wo:commonName>
+								<wo:scientificName>Artiodactyla</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ev/even-toed_ungulate/even-toed_ungulate_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/ev/even-toed_ungulate/even-toed_ungulate_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Even-toed_ungulate">
+		<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="E">
+			<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="E">
+			<foaf:primaryTopic rdf:resource="/nature/order/Even-toed_ungulate#order"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Cetacea#order"/></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Pronghorn#order"><rdfs:label>Pronghorn antelope</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Species><wo:Family rdf:about="/nature/life/Bovid#order"><rdfs:label>Cattle family</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Family><wo:Family rdf:about="/nature/life/Camelid#order"><rdfs:label>Camel and llama family</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Family><wo:Family rdf:about="/nature/life/Deer#order"><rdfs:label>Deer</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Family><wo:Species rdf:about="/nature/life/Giraffe#order"><rdfs:label>Giraffe</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Species><wo:Species rdf:about="/nature/life/Hippopotamus#order"><rdfs:label>Hippopotamus</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Species><wo:Family rdf:about="/nature/life/Suidae#order"><rdfs:label>Hogs and pigs</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Family><wo:Family rdf:about="/nature/life/Entelodont#order"><rdfs:label>Entelodonts</rdfs:label><wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

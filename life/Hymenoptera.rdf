@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Hymenoptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Hymenoptera#order">
+				<rdfs:label>Ants, bees and wasps</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Hymenoptera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hy/hymenoptera/hymenoptera_1.jpg"/>
+
+				<dc:description>The ants, bees, wasps, horntails and sawflies are all in the order Hymenoptera. The group is very diverse with solitary and social species, herbivores and carnivores, and parasitic and non-parasitic lifestyles. All species hatch out as grubs, then later pupate into their adult shape. Females usually have a long, thin, egg-laying organ called an ovipositor. In some species this has developed into a sting.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hymenoptera"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Hymenoptera.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Hymenoptera#name">
+				<rdfs:label>Hymenoptera</rdfs:label>
+				        <wo:commonName>Ants, bees and wasps</wo:commonName>
+        										<wo:scientificName>Hymenoptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hymenoptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/hy/hymenoptera/hymenoptera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Hymenoptera#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/hy/hymenoptera/hymenoptera_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bmbng#programme">
+			<dc:title>Buzzless bees</dc:title>
+			<po:subject rdf:resource="/nature/order/Hymenoptera#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hymenoptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="H">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="H">
+			<foaf:primaryTopic rdf:resource="/nature/order/Hymenoptera#order"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Hymenoptera.gif">
+		<dc:title>Map showing the distribution of the Ants, bees and wasps order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Ant#order"><rdfs:label>Ants</rdfs:label><wo:order rdf:resource="/nature/life/Hymenoptera#order"/></wo:Family><wo:Family rdf:about="/nature/life/Vespidae#order"><rdfs:label>Wasps</rdfs:label><wo:order rdf:resource="/nature/life/Hymenoptera#order"/></wo:Family><wo:Family rdf:about="/nature/life/Apidae#order"><rdfs:label>Bees </rdfs:label><wo:order rdf:resource="/nature/life/Hymenoptera#order"/></wo:Family><wo:Genus rdf:about="/nature/life/Mason_bee#order"><rdfs:label>Mason bees</rdfs:label><wo:order rdf:resource="/nature/life/Hymenoptera#order"/></wo:Genus><wo:Family rdf:about="/nature/life/Spider_wasp#order"><rdfs:label>Spider wasps</rdfs:label><wo:order rdf:resource="/nature/life/Hymenoptera#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

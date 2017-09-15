@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Woolly_mammoth">
+		<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Woolly_mammoth#species">
+				<rdfs:label>Woolly mammoth</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Woolly_mammoth#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wo/woolly_mammoth/woolly_mammoth_1.jpg"/>
+
+				<dc:description>A great deal has been found out about woolly mammoths from analysis of carcasses frozen in the Siberian permafrost and from depictions in ancient art. They were built like elephants, but with adaptations to prevent heat loss - tiny ears, short tails and a thick coat of dark brown hair. On the underbelly, the hair grew up to a metre long and was probably shed in the summer. Their trunks ended with two 'fingers' that helped pluck grass. Humps of hair and fat behind the head made the shoulders seem higher than the pelvis. However, the front and back legs were actually about the same length.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Woolly_mammoth"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Woolly_mammoth.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Mammoth#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Elephantidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Proboscidea#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Woolly_mammoth#name">
+				<rdfs:label>Mammuthus primigenius</rdfs:label>
+				        <wo:commonName>Woolly mammoth</wo:commonName>
+        								<wo:commonName>Tundra mammoth</wo:commonName>
+								<wo:scientificName>primigeniusprimigenius</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Proboscidea</wo:orderName><wo:familyName>Elephantidae</wo:familyName><wo:genusName>Mammuthus</wo:genusName><wo:speciesName>primigenius</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wo/woolly_mammoth/woolly_mammoth_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wo/woolly_mammoth/woolly_mammoth_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00qqhpq#programme">
+			<dc:title>The Yuka Mammoth</dc:title>
+			<po:subject rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00qqhll#programme">
+			<dc:title>Virtual time travel</dc:title>
+			<po:subject rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00qqgw2#programme">
+			<dc:title>Lyuba</dc:title>
+			<po:subject rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00qqgb8#programme">
+			<dc:title>Born of the permafrost</dc:title>
+			<po:subject rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bpmc7#programme">
+			<dc:title>Woolly beasts</dc:title>
+			<po:subject rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk5vl#programme">
+			<dc:title>Mammoth hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk50p#programme">
+			<dc:title>Big freeze</dc:title>
+			<po:subject rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Woolly_mammoth">
+		<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://scienceblogs.com/laelaps/2009/10/woolly_mammoths_vacationed_in.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ansp.org/museum/jefferson/otherFossils/mammuthus.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/about-us/news/2009/june/woolly-mammoth-was-recent-resident33139.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/about-us/news/2010/august/woolly-mammoth-extinction-due-to-climate-change78775.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24034954">
+			<dc:title>'Climate change' killed off mammoths</dc:title>
+			<dc:description>Researchers have found the strongest evidence yet that climate change rather than humans was the main factor that drove the woolly mammoth to extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23602142">
+			<dc:title>De-extinction: Mammoth prospect, or just woolly?</dc:title>
+			<dc:description>Some scientists are seriously considering the possibility of resurrecting extinct animals. Can it be done?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19848109">
+			<dc:title>Mammoth carcass found in Siberia</dc:title>
+			<dc:description>A well-preserved mammoth carcass has been found by an 11-year-old boy in the permafrost of northern Siberia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-19580558">
+			<dc:title>Arctic hunt finds mammoth remains</dc:title>
+			<dc:description>A Russian-led expedition finds well preserved mammoth remains in Siberia but downplays reports that the material could be used to clone the ancient beast.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-china-17687174">
+			<dc:title>In Pictures: Baby mammoth</dc:title>
+			<dc:description>Images as the remains of Lyuba - the world‘s most well-preserved baby mammoth - go on display in Hong Kong.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17525070">
+			<dc:title>Woolly mammoth 'cut by hunters'</dc:title>
+			<dc:description>Scientists say that cut marks on the body of a woolly mammoth were made by human hunters who "stole" its body from the lions that killed it.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17525074">
+			<dc:title>Woolly mammoth: Secrets from the ice</dc:title>
+			<dc:description>Finding a frozen mammoth to film in the icy tundra of Siberia is similar to finding a "needle in a haystack", explains BBC producer Tim Walker.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17457561">
+			<dc:title>Inbreeding did not kill mammoths</dc:title>
+			<dc:description>The last known population of woolly mammoths did not "inevitably" die out because of inbreeding and lack of genetic diversity, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/12839452">
+			<dc:title>Elephant extinction</dc:title>
+			<dc:description>Africa's forest elephants are going the way of the woolly mammoth. This time, scientists say, it is entirely our fault. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/whats-the-earliest-type-of-writing-in-ireland/7812.html">
+			<dc:title>What can an archaeologist learn from animal teeth?</dc:title>
+			<dc:description>The importance of animal teeth to an archaeologist</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/what-can-an-archaeologist-learn-from-animal-teeth/7812.html">
+			<dc:title>What can an archaeologist learn from animal teeth?</dc:title>
+			<dc:description>The importance of animal teeth to an archaeologist</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/4535190.stm">
+			<dc:title>Extinct mammoth DNA decoded</dc:title>
+			<dc:description>Scientists piece together part of the genetic recipe of the extinct woolly mammoth, revealing its relationship to modern elephants.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7592668.stm">
+			<dc:title>Mammoths moved 'out of America'</dc:title>
+			<dc:description>Ancient DNA evidence points to the last Siberian woolly mammoths having originated in North America.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7738062.stm">
+			<dc:title>Mammoth's genome pieced together</dc:title>
+			<dc:description>A US-Russian team announces that it has sequenced most of the genome of a woolly mammoth found in Siberia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8106090.stm">
+			<dc:title>Mammoths survived late in Britain</dc:title>
+			<dc:description>Woolly mammoths lived in Britain longer than scientists thought - until about 14,000 years ago, according to new evidence.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11000635">
+			<dc:title>Woolly mammoth extinction 'not linked to humans'</dc:title>
+			<dc:description>A new study suggests that woolly mammoths died out because of dwindling grasslands - rather than being hunted to extinction by humans. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-dorset-11056723">
+			<dc:title>Woolly mammoth tusks found in sea on show in Dorchester</dc:title>
+			<dc:description>A pair of 20,000-year-old woolly mammoth tusks found by a fishing boat at the bottom of the North Sea go on display at a Dorset museum.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8657464.stm">
+			<dc:title>Mammoths had 'anti-freeze blood', gene study finds</dc:title>
+			<dc:description>Mammoths had a form of "anti-freeze" blood to keep their bodies supplied with oxygen at freezing temperatures.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Woolly_mammoth#species"/>
+		</foaf:Document>
+			
+											<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Woolly_mammoth.gif">
+		<dc:title>Map showing the distribution of the Woolly mammoth species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Mammoth#genus"><rdfs:label>Mammuthus</rdfs:label><wo:species rdf:resource="/nature/life/Woolly_mammoth#species"/><wo:species rdf:resource="/nature/life/Columbian_Mammoth#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Elephantidae#family"><rdfs:label>Elephantidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Proboscidea#order"><rdfs:label>Proboscidea</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

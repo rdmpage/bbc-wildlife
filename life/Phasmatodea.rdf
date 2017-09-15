@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Phasmatodea">
+		<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Phasmatodea#order">
+				<rdfs:label>Stick insects</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Phasmatodea#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phasmatodea/phasmatodea_1.jpg"/>
+
+				<dc:description>Stick insects use camouflage and mimicry to great effect. As their name suggests, they look so much like sticks or other bits of plant that they blend effortlessly into their backgrounds as a form of defence. In some species the mimicry starts even before they are born, as their eggs resemble seeds.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Measuring more than half a metre, the Chan's megastick is the world's longest insect. It was discovered in 2008.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Phasmatodea"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Phasmatodea.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Phasmatodea#name">
+				<rdfs:label>Phasmatodea</rdfs:label>
+				        <wo:commonName>Stick insects</wo:commonName>
+        								<wo:commonName>Phasmids</wo:commonName>
+						<wo:commonName>Stick-bugs</wo:commonName>
+						<wo:commonName>Walking sticks</wo:commonName>
+								<wo:scientificName>Phasmatodea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Phasmatodea</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phasmatodea/phasmatodea_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Phasmatodea#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/ph/phasmatodea/phasmatodea_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqcsm#programme">
+			<dc:title>Chan's megastick</dc:title>
+			<po:subject rdf:resource="/nature/order/Phasmatodea#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008cn8z#programme">
+			<dc:title>Prickly stick insect</dc:title>
+			<po:subject rdf:resource="/nature/order/Phasmatodea#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004bksz#programme">
+			<dc:title>Giant stick insect</dc:title>
+			<po:subject rdf:resource="/nature/order/Phasmatodea#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003x6zx#programme">
+			<dc:title>Handy disguise</dc:title>
+			<po:subject rdf:resource="/nature/order/Phasmatodea#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Phasmatodea">
+		<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.amentsoc.org/insects/fact-files/orders/phasmatodea.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cals.ncsu.edu/course/ent425/compendium/stick.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.phasmatodea.org/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-23903861">
+			<dc:title>Stick insect leads antibiotic hunt</dc:title>
+			<dc:description>A microbe in the gut of a stick insect could help scientists to unravel the puzzle of antibiotic resistance.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19399735">
+			<dc:title>'Mystery' stick insect discovered</dc:title>
+			<dc:description>A mysterious and bizarre multicoloured, smelly new species of stick insect is discovered in The Philippines.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14122050">
+			<dc:title>Insect's million sex-free years</dc:title>
+			<dc:description>Stick insects have lived and reproduced for one million years without sex, genetic research reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Phasmatodea#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Phasmatodea.gif">
+		<dc:title>Map showing the distribution of the Stick insects order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

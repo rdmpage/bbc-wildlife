@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Inland_Taipan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Inland_Taipan#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Inland_Taipan#species">
+				<rdfs:label>Inland taipan</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Inland_Taipan#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/i/in/inland_taipan/inland_taipan_1.jpg"/>
+
+				<dc:description><a href="http://www.bbc.co.uk/nature/places/Australia">Australia's</a> inland taipan is considered to be the most <a href="http://www.bbc.co.uk/nature/adaptations/Venom">venomous</a> snake in the world. The venom from one bite is enough to kill 100 fully grown men. It is, however, very rare for humans to be bitten and in the few cases that have occurred, anti-venom treatment has been successful. Small <a href="http://www.bbc.co.uk/nature/life/Rodent">rodents</a>, <a href="http://www.bbc.co.uk/nature/life/Mammal">mammals</a> and <a href="http://www.bbc.co.uk/nature/life/Bird">birds</a> are not so lucky. The inland taipan has a rapid accurate strike, delivering the extremely toxic venom deep into its prey. The taipan just has to wait for its victim to die before returning to consume the meal. This <a href="http://www.bbc.co.uk/nature/life/Snake">snake</a> exhibits dramatic seasonal changes in skin colour. It is light in summer and dark in winter and this helps regulate its body temperature.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Inland_Taipan"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Inland_Taipan.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Taipan#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Elapidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Inland_Taipan#name">
+				<rdfs:label>Oxyuranus microlepidotus</rdfs:label>
+				        <wo:commonName>Inland taipan</wo:commonName>
+        								<wo:commonName>Fierce snake</wo:commonName>
+						<wo:commonName>Small scaled snake</wo:commonName>
+								<wo:scientificName>microlepidotusmicrolepidotus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Elapidae</wo:familyName><wo:genusName>Oxyuranus</wo:genusName><wo:speciesName>microlepidotus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/i/in/inland_taipan/inland_taipan_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Inland_Taipan#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/i/in/inland_taipan/inland_taipan_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hm6p1#programme">
+			<dc:title>Angry snake</dc:title>
+			<po:subject rdf:resource="/nature/species/Inland_Taipan#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Inland_Taipan">
+		<foaf:primaryTopic rdf:resource="/nature/species/Inland_Taipan#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Oxyuranus_microlepidotus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Inland_Taipan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.australiazoo.com.au/our-animals/amazing-animals/reptiles/?reptile=venomous_snakes&amp;animal=fierce_snake">
+			<foaf:primaryTopic rdf:resource="/nature/species/Inland_Taipan#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.reptilepark.com.au/animalprofile.asp?ID=112">
+			<foaf:primaryTopic rdf:resource="/nature/species/Inland_Taipan#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Inland_Taipan.gif">
+		<dc:title>Map showing the distribution of the Inland taipan species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Taipan#genus"><rdfs:label>Oxyuranus</rdfs:label><wo:species rdf:resource="/nature/life/Inland_Taipan#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Elapidae#family"><rdfs:label>Elapidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

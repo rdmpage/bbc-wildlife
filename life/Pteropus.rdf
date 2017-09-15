@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Pteropus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Pteropus#genus">
+				<rdfs:label>Fruit bats (Pteropus)</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Pteropus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pt/pteropus/pteropus_1.jpg"/>
+
+				<dc:description>Fruit bats in the genus Pteropus include the world's largest bat - the greater flying fox - which can have a wingspan of 180cm. They cannot echolocate, but don't really need to as their food (fruit and nectar) doesn't try to escape and because they roost in trees not in the pitch black of caves. Their eyesight alone is perfectly good enough for navigation. Fruit bats also have a very good sense of smell for detecting flowers and fruit.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pteropus"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Megabat#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Bat#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Pteropus#name">
+				<rdfs:label>Pteropus</rdfs:label>
+				        <wo:commonName>Fruit bats (Pteropus)</wo:commonName>
+        								<wo:commonName>Flying foxes</wo:commonName>
+								<wo:scientificName>Pteropus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Chiroptera</wo:orderName><wo:familyName>Pteropodidae</wo:familyName><wo:genusName>Pteropus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pt/pteropus/pteropus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Pteropus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pt/pteropus/pteropus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004dzvq#programme">
+			<dc:title>Flying foxes</dc:title>
+			<po:subject rdf:resource="/nature/genus/Pteropus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004bky6#programme">
+			<dc:title>Fruity firing line</dc:title>
+			<po:subject rdf:resource="/nature/genus/Pteropus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pteropus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Pteropus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bellingen.com/flyingfoxes/bats_or_flying_foxes.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flyingfoxconservationfund.com/fruit-bats/fruit-bats.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18971346">
+			<dc:title>In pictures: Biggest bat survey</dc:title>
+			<dc:description>Conservationists are undertaking the largest survey yet of the giant, endangered Livingstone's fruit bat in the Comoros islands.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8221132.stm">
+			<dc:title>Extinction threat' to flying fox</dc:title>
+			<dc:description>Scientists are urging the government of Malaysia to ban the hunting of the world's largest fruit bat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8208381.stm">
+			<dc:title>How a flying fox keeps his harem</dc:title>
+			<dc:description>Researchers have discovered a secret of sexual success for flying foxes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pteropus#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Megabat#family"><rdfs:label>Pteropodidae</rdfs:label><wo:genus rdf:resource="/nature/life/Pteropus#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Syconycteris#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Bat#order"><rdfs:label>Chiroptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Stegosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Stegosaurus#genus">
+				<rdfs:label>Stegosaurus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Stegosaurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/stegosaurus/stegosaurus_1.jpg"/>
+
+				<dc:description>Although nowhere near the largest of the Jurassic dinosaurs, Stegosaurus were still about the size of a bus. Distinctive and heavily built, they were herbivores with short forelimbs and would have walked with their small head close to the ground and the four-spiked tail held high. The double row of plates running along the back helped control body temperature and were probably used in display or possibly in defence against carnivorous Allosaurs. Most fossils for the three known species, including some complete skeletons, have come from the USA, although a recent discovery in Portugal suggests a wider distribution.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Stegosaurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Stegosaurus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Stegosauridae#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Stegosauria#infraorder"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Thyreophora#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Ornithischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Stegosaurus#name">
+				<rdfs:label>Stegosaurus</rdfs:label>
+												<wo:commonName>roof-lizard</wo:commonName>
+								<wo:scientificName>Stegosaurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Ornithischia</wo:orderName><wo:suborderName>Thyreophora</wo:suborderName><wo:infraorderName>Stegosauria</wo:infraorderName><wo:familyName>Stegosauridae</wo:familyName><wo:genusName>Stegosaurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/stegosaurus/stegosaurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/st/stegosaurus/stegosaurus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kv3b1#programme">
+			<dc:title>Giants of the Jurassic</dc:title>
+			<po:subject rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkws3#programme">
+			<dc:title>Why even the vegetarian dinosaurs were gigantic</dc:title>
+			<po:subject rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9bsc#programme">
+			<dc:title>Confrontation</dc:title>
+			<po:subject rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Stegosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Stegosaurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1401">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.abc.net.au/dinosaurs/fact_files/scrub/stegosaurus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=7401&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinosauriainternational.com/content/Stegosaurus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genus=Stegosaurus">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Stegosaurus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Stegosaurus.gif">
+		<dc:title>Map showing the distribution of the Stegosaurus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Stegosauridae#family"><rdfs:label>Stegosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Stegosaurus#genus"/></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Stegosauria#infraorder"><rdfs:label>Stegosauria</rdfs:label></wo:Infraorder><wo:Suborder rdf:about="/nature/suborder/Thyreophora#suborder"><rdfs:label>Thyreophora</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Ornithischia#order"><rdfs:label>Ornithischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Oak">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Oak#genus">
+				<rdfs:label>Oaks</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Oak#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/oa/oak/oak_1.jpg"/>
+
+				<dc:description>Oak trees provide habitats of great biodiversity and are particularly rich in insects, spiders and fungi. They grow relatively slowly, but are very long-lived, with some specimens surviving for over 1,000 years. There are around 600 species of oak tree, some evergreen and some deciduous, native to the northern hemisphere and widely distributed in woodland and countryside. The leaves of oak trees are arranged spirally, often with lobed or serrated edges. Flowers, called catkins, are produced in spring and the acorn nuts in autumn. Oak wood has been heavily used by humans because of its great strength and durability.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Oak"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Oak.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Fagaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Fagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Oak#name">
+				<rdfs:label>Quercus</rdfs:label>
+				        <wo:commonName>Oaks</wo:commonName>
+        										<wo:scientificName>Quercus</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Fagales</wo:orderName><wo:familyName>Fagaceae</wo:familyName><wo:genusName>Quercus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/oa/oak/oak_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Oak#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/oa/oak/oak_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bxmrw#programme">
+			<dc:title>Ancient oaks</dc:title>
+			<po:subject rdf:resource="/nature/genus/Oak#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0050lhy#programme">
+			<dc:title>Millennium oak mini-epic</dc:title>
+			<po:subject rdf:resource="/nature/genus/Oak#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Oak">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bealepark.co.uk/gardens_detail.php?id=28">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.treesforlife.org.uk/forest/species/oak.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-19722595">
+			<dc:title>Huge 5,000-year-old oak unearthed</dc:title>
+			<dc:description>The trunk of a giant oak tree thought by experts to be more than 5,000 years old is unearthed in a field in west Norfolk.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-wiltshire-19417051">
+			<dc:title>Oak tree declared UK's tallest</dc:title>
+			<dc:description>A 200-year-old tree on a Wiltshire estate has been officially named as the tallest oak in the UK.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/what-might-derry-have-looked-like-when-it-was-an-oak-grove/7813.html">
+			<dc:title>What might Derry have looked like when it was an oak grove?</dc:title>
+			<dc:description>Blueprint clip about Northern Ireland's ancient oak woodlands.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/whats-the-earliest-type-of-writing-in-ireland/7813.html">
+			<dc:title>What might Derry have looked like when it was an oak grove?</dc:title>
+			<dc:description>Blueprint clip about Northern Ireland's ancient oak woodlands.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/magazine/8668587.stm">
+			<dc:title>BBC News Magazine</dc:title>
+			<dc:description>As the House of Commons prepares to welcome hundreds of new MPs, its oak-panelled surfaces are a reminder of the significance of one tree to national identity, says Simon Schama.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Oak#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Oak.gif">
+		<dc:title>Map showing the distribution of the Oaks genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Fagaceae#family"><rdfs:label>Fagaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Oak#genus"/><wo:genus rdf:resource="/nature/life/Beech#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Fagales#order"><rdfs:label>Fagales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Quercus_robur#genus"><rdfs:label>English oak</rdfs:label><wo:genus rdf:resource="/nature/life/Oak#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

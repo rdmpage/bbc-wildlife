@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Laticauda_colubrina">
+		<foaf:primaryTopic rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Laticauda_colubrina#species">
+				<rdfs:label>Banded sea krait</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Laticauda_colubrina#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/laticauda_colubrina/laticauda_colubrina_1.jpg"/>
+
+				<dc:description>Banded sea kraits are venomous sea snakes, but are generally not aggressive and therefore don't necessarily pose a danger to divers. Although they feed in the sea, they return to land to mate.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Laticauda_colubrina"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aposematism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mangrove#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Laticauda#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sea_snake#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Laticauda_colubrina#name">
+				<rdfs:label>Laticauda colubrina</rdfs:label>
+				        <wo:commonName>Banded sea krait</wo:commonName>
+        								<wo:commonName>Colubrine sea krait</wo:commonName>
+						<wo:commonName>Yellow-lipped sea krait</wo:commonName>
+								<wo:scientificName>colubrinacolubrina</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Hydrophiidae</wo:familyName><wo:genusName>Laticauda</wo:genusName><wo:speciesName>colubrina</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/laticauda_colubrina/laticauda_colubrina_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/la/laticauda_colubrina/laticauda_colubrina_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bktxg#programme">
+			<dc:title>Toxic sea snake</dc:title>
+			<po:subject rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038t09#programme">
+			<dc:title>Sea krait hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Laticauda_colubrina">
+		<foaf:primaryTopic rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Laticauda_colubrina.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/banded-sea-krait/laticauda-colubrina/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marinebio.com/species.asp?id=1315">
+			<foaf:primaryTopic rdf:resource="/nature/species/Laticauda_colubrina#species"/>
+		</foaf:Document>
+			
+					
+											<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Aposematism#adaptation">
+					<rdfs:label>Warning colours</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mangrove#habitat">
+					<rdfs:label>Mangroves</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Laticauda#genus"><rdfs:label>Laticauda</rdfs:label><wo:species rdf:resource="/nature/life/Laticauda_colubrina#species"/><wo:species rdf:resource="/nature/life/Black-banded_sea_krait#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sea_snake#family"><rdfs:label>Hydrophiidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

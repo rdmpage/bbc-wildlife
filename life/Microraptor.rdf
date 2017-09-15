@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Microraptor">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Microraptor#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Microraptor#genus">
+				<rdfs:label>Microraptor</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Microraptor#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mi/microraptor/microraptor_1.jpg"/>
+
+				<dc:description>Microraptor is a small feathered dinosaur with a big story to tell. It is one of the 300 fossils found to date that hint at the evolutionary link between <a href="http://www.bbc.co.uk/nature/life/Bird">birds</a> and <a href="http://www.bbc.co.uk/nature/life/Dinosaur">dinosaurs</a>. Its fore and hind legs were covered in long feathers designed for <a href="http://www.bbc.co.uk/nature/adaptations/Flight">flight</a>. These are true flight feathers as seen in modern <a href="http://www.bbc.co.uk/nature/life/Bird">birds</a>. Less than a metre long and possessing a claw designed for <a href="http://www.bbc.co.uk/nature/adaptations/Climbing">climbing</a>, Microraptor was at home in the forests of China.
+<br/>
+<br/>
+Having climbed high into a tree, Microraptor would only have been capable of <a href="http://www.bbc.co.uk/nature/adaptations/Gliding_(flight)">gliding</a> from tree to tree by spreading its limbs to form two pairs of rudimentary wings. This ability would have helped it pursue prey or escape an enemy. Microraptor didn't have things all its own way, however, as its long feathers would have made it clumsy on the ground and therefore vulnerable to <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predators</a>. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Microraptor"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Gliding_(flight)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Microraptor.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Dromaeosauridae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Microraptor#name">
+				<rdfs:label>Microraptor</rdfs:label>
+												<wo:commonName>small one who seizes</wo:commonName>
+								<wo:scientificName>Microraptor</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName><wo:familyName>Dromaeosauridae</wo:familyName><wo:genusName>Microraptor</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mi/microraptor/microraptor_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Microraptor#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mi/microraptor/microraptor_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00klzx5#programme">
+			<dc:title>Microraptor</dc:title>
+			<po:subject rdf:resource="/nature/genus/Microraptor#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Microraptor">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Microraptor#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1163">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Microraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=8941&amp;Itemid=157">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Microraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=9516&amp;Itemid=103">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Microraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/nature-online/life/dinosaurs-other-extinct-creatures/dino-directory/detail.dsml?Genus=Microraptor&amp;showTaxonomy=yes&amp;identifier=Microraptor&amp;&amp;beginIndex=&amp;section=home">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Microraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0009223">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Microraptor#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Gliding_(flight)#adaptation">
+					<rdfs:label>Adapted to gliding</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Microraptor.gif">
+		<dc:title>Map showing the distribution of the Microraptor genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Dromaeosauridae#family"><rdfs:label>Dromaeosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Microraptor#genus"/><wo:genus rdf:resource="/nature/life/Utahraptor#genus"/><wo:genus rdf:resource="/nature/life/Velociraptor#genus"/><wo:genus rdf:resource="/nature/life/Sinornithosaurus#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Theropoda#suborder"><rdfs:label>Theropoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

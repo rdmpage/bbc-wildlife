@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Black_Grouse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Black_Grouse#species">
+				<rdfs:label>Black grouse</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Black_Grouse#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/black_grouse/black_grouse_1.jpg"/>
+
+				<dc:description>Black grouse are distinctive looking gamebirds of northern Europe's <a href="/nature/habitats/Temperate_broadleaf_and_mixed_forests">woodland</a> and <a href="/nature/habitats/Moorland">moorland</a>. Like their close relatives, <a href="/nature/life/Western_Capercaillie">capercaillies</a>, male black grouse put on an impressive <a href="/nature/adaptations/Courtship_display">display</a> in the breeding season. At dawn, the males gather to inflate their necks, raise their tails and make a bubbling 'rookooing' sound. At stake is the chance to <a href="/nature/adaptations/Polygyny">mate</a> with more of the watching females than any of the other males. Black grouse are also known as blackcocks and greyhens, because of the colour of the male and female birds respectively.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Young black grouse eat spiders and insects; adult birds are primarily vegetarian.  
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Black_Grouse"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Tetrao#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Phasianidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Galliformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Black_Grouse#name">
+				<rdfs:label>Tetrao tetrix</rdfs:label>
+				        <wo:commonName>Black grouse</wo:commonName>
+        								<wo:commonName>Black cock</wo:commonName>
+						<wo:commonName>Blackgame</wo:commonName>
+						<wo:commonName>Grey hen</wo:commonName>
+								<wo:scientificName>tetrixtetrix</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Galliformes</wo:orderName><wo:familyName>Phasianidae</wo:familyName><wo:genusName>Tetrao</wo:genusName><wo:speciesName>tetrix</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/black_grouse/black_grouse_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Black_Grouse#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/black_grouse/black_grouse_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m5ykw#programme">
+			<dc:title>Autumn grouse lek</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Grouse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dvh72#programme">
+			<dc:title>Lekking at dawn</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Grouse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vzhz#programme">
+			<dc:title>Fighting dance</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Grouse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l8jk#programme">
+			<dc:title>Centre court champ</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Grouse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003wf3b#programme">
+			<dc:title>Black grouse: Scandinavia's samurai warriors</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Grouse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k8wl#programme">
+			<dc:title>Dance for the ladies</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Grouse#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bl/black_grouse/020206.mp3">
+			<dc:title>Male black grouse courtship display calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Black_Grouse#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Black_Grouse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Lyrurus_tetrix.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/black-grouse/tetrao-tetrix/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/webzine/article.asp?a=625">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.blackgrouse.info/about/identification.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.forestry.gov.uk/forestry/Blackgrouse">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/b/blackgrouse/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-20928042">
+			<dc:title>Tree planting to boost bird life</dc:title>
+			<dc:description>Thousands of trees are being planted on a Cumbrian fell as part of a project to boost numbers of black grouse.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17450761">
+			<dc:title>Why are black grouse numbers rising?</dc:title>
+			<dc:description>The black grouse population is booming in Scotland and Wales, but why has the mating season been so successful there and not in other parts of the UK?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/north_east/8114704.stm">
+			<dc:title>Black grouse initiative takes off </dc:title>
+			<dc:description>One of Scotland's rarest birds, the black grouse, has won further support for its survival through a new alliance of Deeside estates.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/talesfromthetaigaforest/stories/blackgrouse">
+			<dc:title>Black grouse: slow motion samurai</dc:title>
+			<dc:description>Black grouse combat is a strange mixture of Tom and Jerry and martial arts as cameraman Barrie Britton discovers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/7374803.stm">
+			<dc:title>Black grouse boost spreads wings </dc:title>
+			<dc:description>A coalition of charities is hoping the black grouse will soon be spreading its wings after the success of a project to save the endangered birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/7218867.stm">
+			<dc:title>Grouse decline 'can be reversed' </dc:title>
+			<dc:description>A huge decline in the black grouse population can be reversed, experts involved in a major conservation project believe.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Grouse#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Tetrao#genus"><rdfs:label>Tetrao</rdfs:label><wo:species rdf:resource="/nature/life/Black_Grouse#species"/><wo:species rdf:resource="/nature/life/Western_Capercaillie#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Phasianidae#family"><rdfs:label>Phasianidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Galliformes#order"><rdfs:label>Galliformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

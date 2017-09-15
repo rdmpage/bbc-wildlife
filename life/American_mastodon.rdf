@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/American_mastodon">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_mastodon#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/American_mastodon#species">
+				<rdfs:label>American mastodon</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/American_mastodon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_mastodon/american_mastodon_1.jpg"/>
+
+				<dc:description>The elephant-like American mastodon was a distant relative of the mammoth, with whom it shared its ice age home. There have been over 200 mastodon fossil finds across North America, but they seem to have been most common along the eastern seaboard and in an area immediately south of the Great Lakes. In 1977, a unique find of a complete mastodon was made in Washington State. A human-made spear point was found embedded in the ribs and further investigation showed that the bones had healed around the spear point. This suggested that humans had attacked this animal, but that it had survived and died much later of old age.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/American_mastodon"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/American_mastodon.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Mastodon#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Mammutidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Proboscidea#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/American_mastodon#name">
+				<rdfs:label>Mammut americanum</rdfs:label>
+				        <wo:commonName>American mastodon</wo:commonName>
+        								<wo:commonName>American breast-tooth</wo:commonName>
+								<wo:scientificName>americanumamericanum</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Proboscidea</wo:orderName><wo:familyName>Mammutidae</wo:familyName><wo:genusName>Mammut</wo:genusName><wo:speciesName>americanum</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_mastodon/american_mastodon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/American_mastodon#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/american_mastodon/american_mastodon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ckqz5#programme">
+			<dc:title>Ice-age Americans</dc:title>
+			<po:subject rdf:resource="/nature/species/American_mastodon#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/American_mastodon">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_mastodon#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.carnivoraforum.com/index.cgi?board=dinosaur&amp;action=display&amp;thread=7200">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_mastodon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.museum.state.il.us/exhibits/larson/mammut.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_mastodon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sdnhm.org/exhibits/mystery/fg_mastodon.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_mastodon#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15391388">
+			<dc:title>Old American theory is 'speared'</dc:title>
+			<dc:description>An ancient bone with a projectile point lodged within it appears to up-end - once and for all - a long-held theory of how the Americas were populated.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_mastodon#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/American_mastodon.gif">
+		<dc:title>Map showing the distribution of the American mastodon species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Mastodon#genus"><rdfs:label>Mammut</rdfs:label><wo:species rdf:resource="/nature/life/American_mastodon#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Mammutidae#family"><rdfs:label>Mammutidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Proboscidea#order"><rdfs:label>Proboscidea</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

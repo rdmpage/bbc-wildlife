@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Vespidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Vespidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Vespidae#family">
+				<rdfs:label>Wasps</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Vespidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/ve/vespidae/vespidae_1.jpg"/>
+
+				<dc:description>Wasps of the vespidae family contain all the social wasps and many of the solitary species. Familar examples from this family include the common wasp (Vespula vulgaris) and the hornet. The bold black and yellow markings of some aggressive species has been copied in nature by other insects to warn off potential predators, this is known as Batesian mimicry.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Vespidae"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Vespidae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Hymenoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Vespidae#name">
+				<rdfs:label>Vespidae</rdfs:label>
+				        <wo:commonName>Wasps</wo:commonName>
+        										<wo:scientificName>Vespidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hymenoptera</wo:orderName><wo:familyName>Vespidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/ve/vespidae/vespidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Vespidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/v/ve/vespidae/vespidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b1z0w#programme">
+			<dc:title>Master builders</dc:title>
+			<po:subject rdf:resource="/nature/family/Vespidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b1yy2#programme">
+			<dc:title>Hexagonal homes</dc:title>
+			<po:subject rdf:resource="/nature/family/Vespidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003lcxv#programme">
+			<dc:title>Paper colony</dc:title>
+			<po:subject rdf:resource="/nature/family/Vespidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Vespidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Vespidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Vespidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Vespidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/5242">
+			<foaf:primaryTopic rdf:resource="/nature/family/Vespidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Vespidae_Family.asp">
+			<foaf:primaryTopic rdf:resource="/nature/family/Vespidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-23356578">
+			<dc:title>Where are all the wasps?</dc:title>
+			<dc:description>It's summer, the sun is out, but there don't seem to be many wasps around. Why? </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Vespidae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Vespidae.gif">
+		<dc:title>Map showing the distribution of the Wasps family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Hymenoptera#order"><rdfs:label>Hymenoptera</rdfs:label><wo:family rdf:resource="/nature/life/Vespidae#family"/><wo:family rdf:resource="/nature/life/Ant#family"/><wo:family rdf:resource="/nature/life/Apidae#family"/><wo:family rdf:resource="/nature/life/Megachilidae#family"/><wo:family rdf:resource="/nature/life/Spider_wasp#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Vespula_vulgaris#family"><rdfs:label>Common wasp</rdfs:label><wo:family rdf:resource="/nature/life/Vespidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/European_hornet#family"><rdfs:label>Hornet</rdfs:label><wo:family rdf:resource="/nature/life/Vespidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/True_owl">
+		<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/True_owl#family">
+				<rdfs:label>True owls</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/True_owl#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tr/true_owl/true_owl_1.jpg"/>
+
+				<dc:description>There are two families of owls, and this one is the larger of the two, with over ten times more species in it than the Tytonidae or barn owl family. Most of those species live in forests.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/True_owl"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Owl#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/True_owl#name">
+				<rdfs:label>Strigidae</rdfs:label>
+				        <wo:commonName>True owls</wo:commonName>
+        								<wo:commonName>Typical owls</wo:commonName>
+								<wo:scientificName>Strigidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Strigiformes</wo:orderName><wo:familyName>Strigidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tr/true_owl/true_owl_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/True_owl#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/tr/true_owl/true_owl_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/True_owl">
+		<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="T">
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="T">
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21443913">
+			<dc:title>New owl species is described</dc:title>
+			<dc:description>A new species of owl discovered in Lombok, Indonesia, has been formally described by scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8305000/8305320.stm">
+			<dc:title>Noise pollution threatens animals</dc:title>
+			<dc:description>Noise pollution is becoming a major threat to the welfare of wildlife, according to a scientific review.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/True_owl#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Owl#order"><rdfs:label>Strigiformes</rdfs:label><wo:family rdf:resource="/nature/life/True_owl#family"/><wo:family rdf:resource="/nature/life/Tytonidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Asio#family"><rdfs:label>Eared owls</rdfs:label><wo:family rdf:resource="/nature/life/True_owl#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Athene_(owl)#family"><rdfs:label>Athene owls</rdfs:label><wo:family rdf:resource="/nature/life/True_owl#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Horned_owl#family"><rdfs:label>Horned owls</rdfs:label><wo:family rdf:resource="/nature/life/True_owl#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Strix_(genus)#family"><rdfs:label>Earless owls</rdfs:label><wo:family rdf:resource="/nature/life/True_owl#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

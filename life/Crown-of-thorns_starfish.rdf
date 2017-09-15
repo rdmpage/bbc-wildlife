@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Crown-of-thorns_starfish">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Crown-of-thorns_starfish#species">
+				<rdfs:label>Crown-of-thorns starfish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Crown-of-thorns_starfish#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crown-of-thorns_starfish/crown-of-thorns_starfish_1.jpg"/>
+
+				<dc:description>Crown-of-thorns starfish are one of the most damaging creatures of tropical coral reefs, particularly Australia's Great Barrier Reef. They are voracious predators that release the contents of their stomach on to the coral. Digestive juices then liquify the coral ready for consumption. A single individual can wipe out large areas in this way. They are almost completely covered in protective venomous spines capable of causing great pain in humans. Yet the crown-of-thorns starfish does have predators of its own, including molluscs, fish and worms.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Crown-of-thorns_starfish"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crown-of-thorns_starfish.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Reef#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Acanthaster#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Acanthasteridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Valvatida#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Sea_star#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Crown-of-thorns_starfish#name">
+				<rdfs:label>Acanthaster planci</rdfs:label>
+				        <wo:commonName>Crown-of-thorns starfish</wo:commonName>
+        										<wo:scientificName>planciplanci</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Echinodermata</wo:phylumName><wo:className>Asteroidea</wo:className><wo:orderName>Valvatida</wo:orderName><wo:familyName>Acanthasteridae</wo:familyName><wo:genusName>Acanthaster</wo:genusName><wo:speciesName>planci</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cr/crown-of-thorns_starfish/crown-of-thorns_starfish_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/cr/crown-of-thorns_starfish/crown-of-thorns_starfish_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Crown-of-thorns_starfish">
+		<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Acanthaster_planci.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/crown-of-thorns-starfish/acanthaster-planci/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.reef.crc.org.au/discover/plantsanimals/cots/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sbg.ac.at/ipk/avstudio/pierofun/planci/planci.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.stanford.edu/group/microdocs/crownofthorns.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www3.aims.gov.au/pages/reflib/cot-starfish/pages/cot-000.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-26183209">
+			<dc:title>Killer starfish threatens Great Barrier Reef</dc:title>
+			<dc:description>Waves of carnivorous starfish are eating their way through Australia's Great Barrier Reef - and sugar cane farming is being blamed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Crown-of-thorns_starfish#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Reef#habitat">
+					<rdfs:label>Reefs</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Crown-of-thorns_starfish.gif">
+		<dc:title>Map showing the distribution of the Crown-of-thorns starfish species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Acanthaster#genus"><rdfs:label>Acanthaster</rdfs:label><wo:species rdf:resource="/nature/life/Crown-of-thorns_starfish#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Acanthasteridae#family"><rdfs:label>Acanthasteridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Valvatida#order"><rdfs:label>Valvatida</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Sea_star#class"><rdfs:label>Asteroidea</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Echinoderm#phylum"><rdfs:label>Echinodermata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

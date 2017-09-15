@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Atlantic_salmon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Atlantic_salmon#species">
+				<rdfs:label>Atlantic salmon</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Atlantic_salmon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/at/atlantic_salmon/atlantic_salmon_1.jpg"/>
+
+				<dc:description>Atlantic salmon are truly magnificent fish. They ooze power and strength as they make the spectacular leaps up raging rivers to their spawning grounds. They are accomplished navigators too, able to return to the exact spot they were born from thousands of miles away. Unlike their Pacific cousins, many Atlantic salmon survive the spawning season and return to the sea, possibly repeating the arduous migration three times in a lifetime. Out at sea, they stay in the surface waters, venturing no deeper than 10 metres down. Their diet consists of other fish, squid and shrimp.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Atlantic_salmon"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00mr6nq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Atlantic_salmon.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Salmo#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Salmonidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Salmoniformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Atlantic_salmon#name">
+				<rdfs:label>Salmo salar</rdfs:label>
+				        <wo:commonName>Atlantic salmon</wo:commonName>
+        										<wo:scientificName>salarsalar</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Salmoniformes</wo:orderName><wo:familyName>Salmonidae</wo:familyName><wo:genusName>Salmo</wo:genusName><wo:speciesName>salar</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/at/atlantic_salmon/atlantic_salmon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/at/atlantic_salmon/atlantic_salmon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m5z5f#programme">
+			<dc:title>Speyside salmon spawning </dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l6xsb#programme">
+			<dc:title>Slow motion salmon</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l6xpx#programme">
+			<dc:title>Quality not quantity</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l6xkb#programme">
+			<dc:title>Swimming with salmon</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqcm0#programme">
+			<dc:title>Flowing fresh</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087mvn#programme">
+			<dc:title>Salmon leap</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087f98#programme">
+			<dc:title>Revitalised river</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052hqm#programme">
+			<dc:title>Salmon leaping</dc:title>
+			<po:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/at/atlantic_salmon/5090052.mp3">
+			<dc:title>Jumping and splashing Atlantic salmon</dc:title>
+			<dc:subject rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Atlantic_salmon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Salmo_salar.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/atlantic-salmon/salmo-salar/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.atlanticsalmontrust.org/information/salmon-anatomy.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.atlanticsalmontrust.org/salmon-life-cycle-habitat-threats-and-concerns.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nasco.int/atlanticsalmon.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/fish/atlanticsalmon.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-26067065">
+			<dc:title>Salmon born with 'magnetic map'</dc:title>
+			<dc:description>Scientists believe that Pacific salmon sense changes in intensity and angle of the Earth's magnetic field to find their way in the ocean.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22151865">
+			<dc:title>Genetic study finds salmon refuge</dc:title>
+			<dc:description>An area of coastal waters around North-West France is identified as a site for a previously unknown ice-free refuge for salmon during the Ice Age. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/10/charlie-hamilton-james-swimmin.shtml">
+			<dc:title>Charlie Hamilton James: Swimming with salmon</dc:title>
+			<dc:description>Autumnwatch guest presenter and wildlife cameraman Charlie Hamilton James on the challenges of filming salmon on their epic journey to spawn.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-south-west-wales-14969549">
+			<dc:title>Uni research on salmon survival</dc:title>
+			<dc:description>Salmon can sense predators because they can tell whether they have eaten salmon before, according to Swansea University research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14719203">
+			<dc:title>Healthy Thames 'attracts salmon'</dc:title>
+			<dc:description>Salmon in the Thames are more likely to be fish that have "strayed" from nearby rivers rather than a result of a multi-million pound restocking effort, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11525087">
+			<dc:title>Salmon 'losing genetic character'</dc:title>
+			<dc:description>The distinct genetic characteristics of salmon populations in Spain are being lost as a result of climate change and human interference, a study warns.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/north_east/7810616.stm">
+			<dc:title>Deadly salmon infection detected</dc:title>
+			<dc:description>An infectious disease which can devastate farmed Atlantic salmon stocks has been detected on Shetland, the Scottish government has confirmed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Atlantic_salmon#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00mr6nq#collection">
+				<dc:title>Nature: Behind the Scenes</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Atlantic_salmon.gif">
+		<dc:title>Map showing the distribution of the Atlantic salmon species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Salmo#genus"><rdfs:label>Salmo</rdfs:label><wo:species rdf:resource="/nature/life/Atlantic_salmon#species"/><wo:species rdf:resource="/nature/life/Brown_trout#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Salmonidae#family"><rdfs:label>Salmonidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Salmoniformes#order"><rdfs:label>Salmoniformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

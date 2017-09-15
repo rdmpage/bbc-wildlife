@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Ophthalmosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Ophthalmosaurus#genus">
+				<rdfs:label>Ophthalmosaurus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Ophthalmosaurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/op/ophthalmosaurus/ophthalmosaurus_1.jpg"/>
+
+				<dc:description>Ophthalmosaurus were a group of marine reptiles belonging to the famous Ichthyosaurs. A powerful tail propelled the long, barrel-shaped yet streamlined body through the water with broad front paddles providing steering. The largest eyes in the animal kingdom, after which they are named, allowed Ophthalmosaurus to see in the dim and murky depths. A ring of bone protected these large eyes from the effects of pressure during deep dives. The long, sparsely toothed jaws were perfect for catching fish and the squid-like animals of the time. Major fossil finds have been from Europe, North America and Argentina. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ophthalmosaurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Ophthalmosaurus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Ophthalmosauridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Ichthyosaur#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Ichthyopterygia#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Ophthalmosaurus#name">
+				<rdfs:label>Ophthalmosaurus</rdfs:label>
+												<wo:commonName>eye lizard</wo:commonName>
+								<wo:scientificName>Ophthalmosaurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Ichthyopterygia</wo:superorderName><wo:orderName>Ichthyosauria</wo:orderName><wo:familyName>Ophthalmosauridae</wo:familyName><wo:genusName>Ophthalmosaurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/op/ophthalmosaurus/ophthalmosaurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/op/ophthalmosaurus/ophthalmosaurus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9ccx#programme">
+			<dc:title>Master night hunters</dc:title>
+			<po:subject rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9c99#programme">
+			<dc:title>Breath of air</dc:title>
+			<po:subject rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9c3b#programme">
+			<dc:title>Life at sea</dc:title>
+			<po:subject rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Ophthalmosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.abc.net.au/dinosaurs/fact_files/sea/ophthalmo.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/nature-online/species-of-the-day/evolution/ophthalmosaurus-icenicus/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Ophthalmosaurus#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Ophthalmosaurus.gif">
+		<dc:title>Map showing the distribution of the Ophthalmosaurus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Ophthalmosauridae#family"><rdfs:label>Ophthalmosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Ophthalmosaurus#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Ichthyosaur#order"><rdfs:label>Ichthyosauria</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Ichthyopterygia#superorder"><rdfs:label>Ichthyopterygia</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

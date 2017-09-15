@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Bat">
+		<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Bat#order">
+				<rdfs:label>Bats</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Bat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/ba/bat/bat_1.jpg"/>
+
+				<dc:description>Bats are the only mammals that truly fly, rather than just gliding. The bats are very numerous, there being well over 900 recognised species. They are divided into two types - the megabats, which mainly eat fruit, and the microbats, which mainly eat insects.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bat"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Bat#name">
+				<rdfs:label>Chiroptera</rdfs:label>
+				        <wo:commonName>Bats</wo:commonName>
+        										<wo:scientificName>Chiroptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Chiroptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/ba/bat/bat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Bat#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/ba/bat/bat_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01jdqx2#programme">
+			<dc:title>Midnight feast</dc:title>
+			<po:subject rdf:resource="/nature/order/Bat#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vxt2#programme">
+			<dc:title>Hands on flying</dc:title>
+			<po:subject rdf:resource="/nature/order/Bat#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bat">
+		<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9372000/9372874.stm">
+			<dc:title>Bats roost in meat-eating plants</dc:title>
+			<dc:description>Bats in Borneo have been found roosting in carnivorous pitcher plants.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/devon/hi/people_and_places/nature/newsid_9286000/9286552.stm">
+			<dc:title>Hedgerow boost for Devon's bats</dc:title>
+			<dc:description>Devon Wildlife Trust is awarded £25,000 to help conserve hedgerows for Devon's bats. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9194000/9194186.stm">
+			<dc:title>Traffic noise is 'bad for bats'</dc:title>
+			<dc:description>Highways can make it difficult for greater mouse-eared bats to find their prey, according to a new study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9185000/9185699.stm">
+			<dc:title>New bat species found in Ecuador</dc:title>
+			<dc:description>A tiny new species of bat is discovered in the western slopes of the Andes in northwestern Ecuador.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9125000/9125617.stm">
+			<dc:title>Lords of the Twilight Zone</dc:title>
+			<dc:description>As twilight descends, a battle for supremacy begins between the animals of the half light.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9067000/9067721.stm">
+			<dc:title>Wind turbines 'lure in' animals</dc:title>
+			<dc:description>Wind turbines attract insects, which may explain why their blades strike and kill significant numbers of insect-eating bats and birds. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-11462150">
+			<dc:title>Steps to boost forest bat numbers</dc:title>
+			<dc:description>Artificial roost are set up in a Cumbrian forest to try to increase the bat population.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-leeds-11346728">
+			<dc:title>Colony of bats stall bridge work</dc:title>
+			<dc:description>A colony of bats stalls gas pipe improvement works at a bridge in Leeds, West Yorkshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11010458">
+			<dc:title>Bat and moth arms race revealed</dc:title>
+			<dc:description>A pair of studies cast light on a new strategy one bat uses to catch moths, and the way one moth deals with the threat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/nature/newsid_8921000/8921775.stm">
+			<dc:title>In pictures: Bat surveying in the Forest of Dean</dc:title>
+			<dc:description>Members of the Gloucestershire Bat Group have been recording Bechstein's bats in the county.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/nature/newsid_8921000/8921532.stm">
+			<dc:title>Bat surveying takes place in Gloucestershire</dc:title>
+			<dc:description>A team of volunteers is carrying out a survey of rare Bechstein's bats in Gloucestershire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-south-scotland-10999401">
+			<dc:title>National Trust opens first bat reserve</dc:title>
+			<dc:description>The National Trust for Scotland launches the country's first dedicated bat reserve at its estate near Castle Douglas.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-berkshire-10924310">
+			<dc:title>Herschel Park get bat boxes during restoration project</dc:title>
+			<dc:description>A Grade II listed Berkshire park which is being restored to its former Victorian glory is having bat nesting boxes installed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10114969.stm">
+			<dc:title>Night-time creatures 'in crisis'</dc:title>
+			<dc:description>Two of the UK's nocturnal creatures are "in crisis", say conservation groups, who are asking the public to take part in a national survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8478566.stm">
+			<dc:title>'Echoes' in bat and dolphin DNA</dc:title>
+			<dc:description>Scientists have found a striking similarity in the DNA that enables some bats and dolphins to echolocate.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8305000/8305320.stm">
+			<dc:title>Noise pollution threatens animals</dc:title>
+			<dc:description>Noise pollution is becoming a major threat to the welfare of wildlife, according to a scientific review.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Bat#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:order rdf:resource="/nature/life/Bat#order"/><wo:order rdf:resource="/nature/life/Carnivora#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Diprotodontia#order"/><wo:order rdf:resource="/nature/life/Soricomorpha#order"/><wo:order rdf:resource="/nature/life/Lagomorpha#order"/><wo:order rdf:resource="/nature/life/Macroscelidea#order"/><wo:order rdf:resource="/nature/life/Monotreme#order"/><wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Pholidota#order"/><wo:order rdf:resource="/nature/life/Primate#order"/><wo:order rdf:resource="/nature/life/Proboscidea#order"/><wo:order rdf:resource="/nature/life/Rodent#order"/><wo:order rdf:resource="/nature/life/Sirenia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Afrosoricida#order"/><wo:order rdf:resource="/nature/life/Armadillo#order"/><wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Pilosa#order"/><wo:order rdf:resource="/nature/life/Leptictida#order"/><wo:order rdf:resource="/nature/life/Litopterna#order"/><wo:order rdf:resource="/nature/life/Mesonychid#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Mexican_Free-tailed_Bat#order"><rdfs:label>Mexican free-tailed bat</rdfs:label><wo:order rdf:resource="/nature/life/Bat#order"/></wo:Species><wo:Species rdf:about="/nature/life/Greater_Bulldog_Bat#order"><rdfs:label>Greater bulldog bat</rdfs:label><wo:order rdf:resource="/nature/life/Bat#order"/></wo:Species><wo:Species rdf:about="/nature/life/Common_Vampire_Bat#order"><rdfs:label>Common vampire bat</rdfs:label><wo:order rdf:resource="/nature/life/Bat#order"/></wo:Species><wo:Family rdf:about="/nature/life/Megabat#order"><rdfs:label>Megabats</rdfs:label><wo:order rdf:resource="/nature/life/Bat#order"/></wo:Family><wo:Species rdf:about="/nature/life/Lesser_horseshoe_bat#order"><rdfs:label>Lesser horseshoe bat</rdfs:label><wo:order rdf:resource="/nature/life/Bat#order"/></wo:Species><wo:Family rdf:about="/nature/life/Vesper_bat#order"><rdfs:label>Vesper bats</rdfs:label><wo:order rdf:resource="/nature/life/Bat#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

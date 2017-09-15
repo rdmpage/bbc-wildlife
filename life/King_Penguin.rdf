@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/King_Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/King_Penguin#species">
+				<rdfs:label>King penguin</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/King_Penguin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ki/king_penguin/king_penguin_1.jpg"/>
+
+				<dc:description>King penguins are extraordinary parents. While one parent is guarding the chick, the other makes a trip of up to 400km (250 miles) in search of food. When the young are old enough, they are left with other juveniles so both parents can search for food. The adults return to the sea during the winter, leaving the chicks alone, and they are rarely fed during this time.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/King_Penguin"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/King_Penguin.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Aptenodytes#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Penguin#family"/>
+                                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/King_Penguin#name">
+				<rdfs:label>Aptenodytes patagonicus</rdfs:label>
+				        <wo:commonName>King penguin</wo:commonName>
+        										<wo:scientificName>patagonicuspatagonicus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Sphenisciformes</wo:orderName><wo:familyName>Spheniscidae</wo:familyName><wo:genusName>Aptenodytes</wo:genusName><wo:speciesName>patagonicus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ki/king_penguin/king_penguin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/King_Penguin#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/k/ki/king_penguin/king_penguin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7swz#programme">
+			<dc:title>Hot sun</dc:title>
+			<po:subject rdf:resource="/nature/species/King_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7sqz#programme">
+			<dc:title>Penguin spa</dc:title>
+			<po:subject rdf:resource="/nature/species/King_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kwgzv#programme">
+			<dc:title>Alone in a crowd</dc:title>
+			<po:subject rdf:resource="/nature/species/King_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005g745#programme">
+			<dc:title>Penguins dodge beachmasters</dc:title>
+			<po:subject rdf:resource="/nature/species/King_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038tmh#programme">
+			<dc:title>Seals hunting penguins</dc:title>
+			<po:subject rdf:resource="/nature/species/King_Penguin#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/k/ki/king_penguin/nhc29-10.mp3">
+			<dc:title>King penguin 'sky-pointing'</dc:title>
+			<dc:subject rdf:resource="/nature/species/King_Penguin#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/k/ki/king_penguin/nhs1096-02.mp3">
+			<dc:title>Adult and chick king penguins</dc:title>
+			<dc:subject rdf:resource="/nature/species/King_Penguin#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/King_Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Aptenodytes_patagonicus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.antarctica.ac.uk/about_antarctica/wildlife/birds/penguins/king.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/king-penguin/aptenodytes-patagonicus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.britishmuseum.org/explore/highlights/highlight_objects/loan_in/k/king_penguin.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15592477">
+			<dc:title>Penguins 'visit spa' to keep cool</dc:title>
+			<dc:description>Kind penguin chicks are filmed bathing in a mud "spa" to keep their large, fluffy bodies cool in the Antarctic summer. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14884727">
+			<dc:title>How penguins find a perfect partner</dc:title>
+			<dc:description>How DNA sampling and hair dye are helping researchers to work out "what makes a sexy penguin".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12162725">
+			<dc:title>Flipper tags 'damage' penguins</dc:title>
+			<dc:description>The standard way of tagging penguins for science affects their survival and reproduction, scientists find.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9093000/9093531.stm">
+			<dc:title>Penguins flirt with homosexuality</dc:title>
+			<dc:description>King penguins do not form long-term homosexual pairs despite same-sex "flirting", one of the first evidence-based studies shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8470000/8470133.stm">
+			<dc:title>King penguins become fast food for Antarctic fur seals</dc:title>
+			<dc:description>Antarctic fur seals have been filmed catching and eating king penguins in the open ocean, behaviour not seen before.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/surfingsubantarcticstyle/stories/sealandpenguin">
+			<dc:title>Penguins dodge blubbery beach-masters</dc:title>
+			<dc:description></dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8033000/8033782.stm">
+			<dc:title>Penguin kidnaps mortal enemy</dc:title>
+			<dc:description>A king penguin has been observed trying to adopt the baby of its mortal enemy.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/surfingsubantarcticstyle/stories/kingpenguinscatchawave">
+			<dc:title>King penguins catch a wave</dc:title>
+			<dc:description></dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/King_Penguin#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/King_Penguin.gif">
+		<dc:title>Map showing the distribution of the King penguin species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Aptenodytes#genus"><rdfs:label>Aptenodytes</rdfs:label><wo:species rdf:resource="/nature/life/King_Penguin#species"/><wo:species rdf:resource="/nature/life/Emperor_Penguin#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Penguin#family"><rdfs:label>Spheniscidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Sphenisciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

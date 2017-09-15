@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Brown_trout">
+		<foaf:primaryTopic rdf:resource="/nature/species/Brown_trout#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Brown_trout#species">
+				<rdfs:label>Brown trout</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Brown_trout#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brown_trout/brown_trout_1.jpg"/>
+
+				<dc:description>Brown trout start life on a diet of invertebrates, but later on some of them switch to eating fish. These larger, predatory individuals are sometimes known as ferox trout, and were once thought to be a different species. Sea trout are also the same species as the brown trout, but sea trout are migratory, heading out to sea for most of their life and returning to rivers to spawn. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Brown_trout"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Brown_trout.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Salmo#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Salmonidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Salmoniformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Actinopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Brown_trout#name">
+				<rdfs:label>Salmo trutta</rdfs:label>
+				        <wo:commonName>Brown trout</wo:commonName>
+        								<wo:commonName>Ferox trout</wo:commonName>
+						<wo:commonName>Sea trout</wo:commonName>
+								<wo:scientificName>truttatrutta</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className><wo:orderName>Salmoniformes</wo:orderName><wo:familyName>Salmonidae</wo:familyName><wo:genusName>Salmo</wo:genusName><wo:speciesName>trutta</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/br/brown_trout/brown_trout_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Brown_trout#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/br/brown_trout/brown_trout_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c8m26#programme">
+			<dc:title>Trout sea change</dc:title>
+			<po:subject rdf:resource="/nature/species/Brown_trout#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c8lyb#programme">
+			<dc:title>Sea trout search</dc:title>
+			<po:subject rdf:resource="/nature/species/Brown_trout#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c8lvv#programme">
+			<dc:title>Tracking sea trout</dc:title>
+			<po:subject rdf:resource="/nature/species/Brown_trout#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008ff0x#programme">
+			<dc:title>River of gold</dc:title>
+			<po:subject rdf:resource="/nature/species/Brown_trout#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003b0pb#programme">
+			<dc:title>Ferox trout</dc:title>
+			<po:subject rdf:resource="/nature/species/Brown_trout#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Brown_trout">
+		<foaf:primaryTopic rdf:resource="/nature/species/Brown_trout#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Salmo_trutta.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_trout#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/brown-trout/salmo-trutta-fario/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_trout#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.frs-scotland.gov.uk/FRS.Web/Delivery/display_standalone_with_child_menu.aspx?contentid=741">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_trout#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.issg.org/database/species/ecology.asp?fr=1&amp;si=78&amp;sts=">
+			<foaf:primaryTopic rdf:resource="/nature/species/Brown_trout#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Brown_trout.gif">
+		<dc:title>Map showing the distribution of the Brown trout species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Salmo#genus"><rdfs:label>Salmo</rdfs:label><wo:species rdf:resource="/nature/life/Brown_trout#species"/><wo:species rdf:resource="/nature/life/Atlantic_salmon#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Salmonidae#family"><rdfs:label>Salmonidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Salmoniformes#order"><rdfs:label>Salmoniformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Actinopterygii#class"><rdfs:label>Actinopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Arctic_Fox">
+		<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Arctic_Fox#species">
+				<rdfs:label>Arctic fox</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Arctic_Fox#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctic_fox/arctic_fox_1.jpg"/>
+
+				<dc:description>Arctic foxes live in some of the planet's most extreme conditions. An arsenal of cold-conquering adaptations helps them survive temperatures that plummet below -50 degrees Celsius. These include the animal kingdom's best insulating fur and increased blood circulation to the feet which stops the fox's paws freezing to the ice. They range far and wide in the arctic and alpine tundra, but home dens are important and may be used for centuries by subsequent generations. Lemmings are such an important part of their diet that arctic fox populations can be greatly affected by their availability.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Arctic_Fox"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Coprophagia#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Arctic_Fox.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Polar_region#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Canidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Arctic_Fox#name">
+				<rdfs:label>Alopex lagopus</rdfs:label>
+				        <wo:commonName>Arctic fox</wo:commonName>
+        								<wo:commonName>Polar fox</wo:commonName>
+						<wo:commonName>Snow fox</wo:commonName>
+						<wo:commonName>White fox</wo:commonName>
+								<wo:scientificName>lagopuslagopus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Canidae</wo:familyName><wo:genusName>Alopex</wo:genusName><wo:speciesName>lagopus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctic_fox/arctic_fox_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Arctic_Fox#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ar/arctic_fox/arctic_fox_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00btvxm#programme">
+			<dc:title>Deadly hearing</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l8hc#programme">
+			<dc:title>Jackals of the north</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l8bt#programme">
+			<dc:title>Summer of plenty</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vtb0#programme">
+			<dc:title>Mammal success</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00485vh#programme">
+			<dc:title>Fox fight</dc:title>
+			<po:subject rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/ar/arctic_fox/nhs1253-08.mp3">
+			<dc:title>Arctic fox calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Arctic_Fox">
+		<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Vulpes_lagopus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/arctic-fox/alopex-lagopus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.canids.org/species/Alopex_lagopus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mnh.si.edu/mna/image_info.cfm?species_id=2">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturalworlds.org/wolf/canids/Alopex_lagopus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=494514">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.zoologi.su.se/research/alopex/sefalo/the_arctic_fox.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22425219">
+			<dc:title>Mercury link to Arctic fox decline</dc:title>
+			<dc:description>A dramatic decline in the number of Arctic foxes on one island is being linked to levels of mercury in their food.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/20892310">
+			<dc:title>The rise and fall of foxes</dc:title>
+			<dc:description>Is the elusive Arctic fox being driven out by invading red relatives?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19046136">
+			<dc:title>Operation Iceberg diary: Part 3</dc:title>
+			<dc:description>Chris Packham discovers that encounters with arctic foxes are brief yet intimate moments during an expedition to Greenland.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9455000/9455661.stm">
+			<dc:title>Fox species clash in the Arctic</dc:title>
+			<dc:description>Russia's Arctic foxes are under threat from an expanding population of red foxes, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/apps/ifl/learningzone/clips/showrecord?Id=10807;Config=main_clipid.cfg">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, The Earth</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/24-hour-sunlight-in-arctic-summer/10477.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>24 hour sunlight in Arctic summer</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8605000/8605112.stm">
+			<dc:title>In pictures: Arctic foxes go the distance</dc:title>
+			<dc:description>Arctic foxes are able to travel distances similar to the width of Canada, in the first study to track the animals for a whole year.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Arctic_Fox#species"/>
+		</foaf:Document>
+			
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Coprophagia#adaptation">
+					<rdfs:label>Dung eater</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Polar_region#habitat">
+					<rdfs:label>Polar</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Arctic_Fox.gif">
+		<dc:title>Map showing the distribution of the Arctic fox species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Alopex</rdfs:label><wo:species rdf:resource="/nature/life/Arctic_Fox#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Canidae#family"><rdfs:label>Canidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

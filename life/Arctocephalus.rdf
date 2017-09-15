@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Arctocephalus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Arctocephalus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Arctocephalus#genus">
+				<rdfs:label>Southern fur seals</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Arctocephalus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctocephalus/arctocephalus_1.jpg"/>
+
+				<dc:description>There are eight species of fur seal in this genus. Although they are called southern fur seals, one species is found off Mexico and California, and another in the Galápagos.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Arctocephalus"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Arctocephalus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Eared_seal#family"/>
+                                                        <wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Arctocephalus#name">
+				<rdfs:label>Arctocephalus</rdfs:label>
+				        <wo:commonName>Southern fur seals</wo:commonName>
+        										<wo:scientificName>Arctocephalus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:superfamilyName>Pinnipedia</wo:superfamilyName><wo:familyName>Otariidae</wo:familyName><wo:genusName>Arctocephalus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ar/arctocephalus/arctocephalus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Arctocephalus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ar/arctocephalus/arctocephalus_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Arctocephalus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Arctocephalus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Arctocephalus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Arctocephalus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/42388">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Arctocephalus#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Arctocephalus.gif">
+		<dc:title>Map showing the distribution of the Southern fur seals genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Eared_seal#family"><rdfs:label>Otariidae</rdfs:label><wo:genus rdf:resource="/nature/life/Arctocephalus#genus"/><wo:genus rdf:resource="/nature/life/Eumetopias#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Superfamily rdf:about="/nature/superfamily/Pinniped#superfamily"><rdfs:label>Pinnipedia</rdfs:label></wo:Superfamily><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Galápagos_Fur_Seal#genus"><rdfs:label>Galápagos fur seal</rdfs:label><wo:genus rdf:resource="/nature/life/Arctocephalus#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Antarctic_Fur_Seal#genus"><rdfs:label>Antarctic fur seal</rdfs:label><wo:genus rdf:resource="/nature/life/Arctocephalus#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Brown_Fur_Seal#genus"><rdfs:label>Brown fur seal</rdfs:label><wo:genus rdf:resource="/nature/life/Arctocephalus#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

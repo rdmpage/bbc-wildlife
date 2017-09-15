@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Rüppell's_Vulture">
+		<foaf:primaryTopic rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Rüppell's_Vulture#species">
+				<rdfs:label>Ruppell's vulture</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Rüppell's_Vulture#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ru/ruppells_vulture/ruppells_vulture_1.jpg"/>
+
+				<dc:description>Ruppell's vultures, named after a German explorer, are large African vultures. Much of their day is spent soaring in the air on thermal currents, at some surprisingly high altitudes, and using their keen eyesight to spot long forgotten carcasses. They home in on the carcass in flocks and with all the tasty flesh gone, these scavengers will eat what's left over, using their powerful hooked beaks to tear skin and break bones with ease. A decline in the range of these very social birds is partly a result of their being used in black magic.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rüppell's_Vulture"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Accipitridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Rüppell's_Vulture#name">
+				<rdfs:label>Gyps rueppellii</rdfs:label>
+				        <wo:commonName>Ruppell's vulture</wo:commonName>
+        								<wo:commonName>Rueppell's vulture</wo:commonName>
+						<wo:commonName>Ruppell's griffon</wo:commonName>
+						<wo:commonName>Ruppell's griffon vulture</wo:commonName>
+								<wo:scientificName>rueppelliirueppellii</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Accipitridae</wo:familyName><wo:genusName>Gyps</wo:genusName><wo:speciesName>rueppellii</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ru/ruppells_vulture/ruppells_vulture_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ru/ruppells_vulture/ruppells_vulture_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639m7#programme">
+			<dc:title>Vulture vantage point</dc:title>
+			<po:subject rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rüppell's_Vulture">
+		<foaf:primaryTopic rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Gyps_rueppellii.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/rueppells-griffon/gyps-rueppellii/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdlife.org/datazone/search/species_search.html?action=SpcHTMDetails.asp&amp;sid=3376&amp;m=0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.phoenixzoo.org/visit/animal_news.aspx?ARTICLE_ID=100566">
+			<foaf:primaryTopic rdf:resource="/nature/species/Rüppell's_Vulture#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Gyps</rdfs:label><wo:species rdf:resource="/nature/life/Rüppell's_Vulture#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Accipitridae#family"><rdfs:label>Accipitridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

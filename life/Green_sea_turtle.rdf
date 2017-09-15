@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Green_sea_turtle">
+		<foaf:primaryTopic rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Green_sea_turtle#species">
+				<rdfs:label>Green sea turtle</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Green_sea_turtle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/green_sea_turtle/green_sea_turtle_1.jpg"/>
+
+				<dc:description>Green sea turtles, so named for the colour of their skin, spend almost all of their lives under water. They are one of the most widespread <a href="/nature/life/Turtle">turtle</a> species found throughout the tropical and subtropical oceans of the world, and their ecology changes drastically according to the stages of their lives. 
+<br />
+<br />
+The newly emerged hatchlings crawl down to the sea from their beach hatcheries and live in the open sea feeding on small <a href="/nature/animals/by/fish">fish</a>, <a href="/nature/life/Malacostraca">crustaceans</a> and <a href="/nature/life/Jellyfish">jellyfish</a>. Unusually, the adults are <a href="/nature/adaptations/Herbivore">herbivorous</a>, spending their lives grazing among the seagrass beds in <a href="/nature/habitats/Neritic_zone">shallower waters</a>. Adult green turtles don’t have teeth but instead sport a finely serrated unhooked beak with which they can scrape algae off hard surfaces.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Green_sea_turtle"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Green_sea_turtle.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Reef#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Chelonia#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sea_turtle#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Turtle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Green_sea_turtle#name">
+				<rdfs:label>Chelonia mydas</rdfs:label>
+				        <wo:commonName>Green sea turtle</wo:commonName>
+        								<wo:commonName>Green turtle</wo:commonName>
+								<wo:scientificName>mydasmydas</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Testudines</wo:orderName><wo:familyName>Cheloniidae</wo:familyName><wo:genusName>Chelonia</wo:genusName><wo:speciesName>mydas</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/green_sea_turtle/green_sea_turtle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/green_sea_turtle/green_sea_turtle_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01myn60#programme">
+			<dc:title>Under night skies</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015pjr5#programme">
+			<dc:title>Buried treasure</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p014rmrm#programme">
+			<dc:title>Every turtle counts</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0143hh0#programme">
+			<dc:title>100m sprint</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00wpy1l#programme">
+			<dc:title>Under night skies</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n6vr2#programme">
+			<dc:title>Running the gauntlet</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n5pyt#programme">
+			<dc:title>Flipping sand</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ms5bg#programme">
+			<dc:title>Turtle nightshift</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ffyb#programme">
+			<dc:title>Never let go</dc:title>
+			<po:subject rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Green_sea_turtle">
+		<foaf:primaryTopic rdf:resource="/nature/species/Green_sea_turtle#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Chelonia_mydas.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/green-turtle/chelonia-mydas/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marlin.ac.uk/speciesinformation.php?speciesID=2959">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seeturtles.org/988/green-turtle.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sms.si.edu/irlspec/chelon_mydas.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Green_sea_turtle#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Reef#habitat">
+					<rdfs:label>Reefs</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Green_sea_turtle.gif">
+		<dc:title>Map showing the distribution of the Green sea turtle species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Chelonia#genus"><rdfs:label>Chelonia</rdfs:label><wo:species rdf:resource="/nature/life/Green_sea_turtle#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sea_turtle#family"><rdfs:label>Cheloniidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Turtle#order"><rdfs:label>Testudines</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

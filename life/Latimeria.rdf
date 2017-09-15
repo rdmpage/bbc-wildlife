@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Latimeria">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Latimeria#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Latimeria#genus">
+				<rdfs:label>Coelacanths</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Latimeria#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/latimeria/latimeria_1.jpg"/>
+
+				<dc:description>Coelacanths are living <a href="http://www.bbc.co.uk/nature/fossils">fossils</a>. The whole group was thought to be extinct until a specimen was caught in 1938. There are two living species: the coelacanth and the Sulawesi coelacanth. They inhabit <a href="http://www.bbc.co.uk/nature/habitats/Deep_sea">deep water</a>, so are rarely seen and difficult to film.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Latimeria"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Latimeria.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:class rdf:resource="/nature/life/Sarcopterygii#class"/>
+                                                        <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Latimeria#name">
+				<rdfs:label>Latimeria</rdfs:label>
+				        <wo:commonName>Coelacanths</wo:commonName>
+        										<wo:scientificName>Latimeria</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Sarcopterygii</wo:className><wo:orderName>Coelacanthiformes</wo:orderName><wo:familyName>Latimeriidae</wo:familyName><wo:genusName>Latimeria</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/latimeria/latimeria_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Latimeria#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/la/latimeria/latimeria_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dzbqr#programme">
+			<dc:title>A fishy tale</dc:title>
+			<po:subject rdf:resource="/nature/genus/Latimeria#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004j61g#programme">
+			<dc:title>Living fossil</dc:title>
+			<po:subject rdf:resource="/nature/genus/Latimeria#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Latimeria">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Latimeria#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Coelacanthidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Latimeria#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://australianmuseum.net.au/Coelacanth-Latimeria-chalumnae-Smith-1939">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Latimeria#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22040135">
+			<dc:title>Mission to study 'living fossil'</dc:title>
+			<dc:description>Researchers embark on a mission to dive in deep sea caves of South Africa in search of the coelacanth, a fish that has existed for nearly 400 million years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Latimeria#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22184556">
+			<dc:title>Genome of 'living fossil' sequenced</dc:title>
+			<dc:description>The genome of the coelacanth fish - a "living fossil" - is sequenced by scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Latimeria#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/2011/06/slow-reveal-of-the-coelacanths.shtml">
+			<dc:title>Coelacanth slowly reveals its secrets</dc:title>
+			<dc:description> Generations of coelacanths appear to be missing (Image: Peter Scoones / Getty images) An odd-looking ancient fleshy fish continues to serve as a reminder of just how little we...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Latimeria#genus"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Latimeria.gif">
+		<dc:title>Map showing the distribution of the Coelacanths genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Latimeriidae</rdfs:label><wo:genus rdf:resource="/nature/life/Latimeria#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Coelacanthiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Sarcopterygii#class"><rdfs:label>Sarcopterygii</rdfs:label></wo:Class><wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

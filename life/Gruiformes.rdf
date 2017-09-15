@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Gruiformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Gruiformes#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Gruiformes#order">
+				<rdfs:label>Coots, cranes and rails</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Gruiformes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gruiformes/gruiformes_1.jpg"/>
+
+				<dc:description>Coots, cranes and rails are mostly water birds, though a few terrestrial species are mixed in. As a scientific group, gruiformes is a bit of a catch-all, as all manner of species have been placed in here that didn't quite belong anywhere else. Consequently, it contains diverse members that are globally widespread. Recent evidence has suggested that certain species, such as bustards and seriemas, don't belong here at all. Sungrebes, rails and cranes do however remain among the core species that make up the gruiformes.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gruiformes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Vernal_pool#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Gruiformes#name">
+				<rdfs:label>Gruiformes</rdfs:label>
+				        <wo:commonName>Coots, cranes and rails</wo:commonName>
+        										<wo:scientificName>Gruiformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Gruiformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gruiformes/gruiformes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Gruiformes#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/gruiformes/gruiformes_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gruiformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Gruiformes#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Gruiformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Gruiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://gruitag.org/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Gruiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Gruiformes/26307">
+			<foaf:primaryTopic rdf:resource="/nature/order/Gruiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7578">
+			<foaf:primaryTopic rdf:resource="/nature/order/Gruiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Gruiformes_Order.asp#Photos">
+			<foaf:primaryTopic rdf:resource="/nature/order/Gruiformes#order"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Vernal_pool#habitat">
+					<rdfs:label>Temporary pools</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label><wo:order rdf:resource="/nature/life/Gruiformes#order"/><wo:order rdf:resource="/nature/life/Anseriformes#order"/><wo:order rdf:resource="/nature/life/Apodiformes#order"/><wo:order rdf:resource="/nature/life/Caprimulgiformes#order"/><wo:order rdf:resource="/nature/life/Charadriiformes#order"/><wo:order rdf:resource="/nature/life/Ciconiiformes#order"/><wo:order rdf:resource="/nature/life/Columbiformes#order"/><wo:order rdf:resource="/nature/life/Coraciiformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Falconiformes#order"/><wo:order rdf:resource="/nature/life/Galliformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Passerine#order"/><wo:order rdf:resource="/nature/life/Pelecaniformes#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Piciformes#order"/><wo:order rdf:resource="/nature/life/Podicipediformes#order"/><wo:order rdf:resource="/nature/life/Procellariiformes#order"/><wo:order rdf:resource="/nature/life/Parrot#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Owl#order"/><wo:order rdf:resource="/nature/life/Ratite#order"/><wo:order rdf:resource="/nature/life/Archaeopterygiformes#order"/><wo:order rdf:resource="/nature/life/Gastornithiformes#order"/><wo:order rdf:resource="/nature/life/Cariamae#order"/><wo:order rdf:resource="/nature/life/Aepyornithiformes#order"/><wo:order rdf:resource="/nature/life/Eurypygiformes#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Crane_(bird)#order"><rdfs:label>Cranes</rdfs:label><wo:order rdf:resource="/nature/life/Gruiformes#order"/></wo:Family><wo:Species rdf:about="/nature/life/Great_Bustard#order"><rdfs:label>Great bustard</rdfs:label><wo:order rdf:resource="/nature/life/Gruiformes#order"/></wo:Species><wo:Family rdf:about="/nature/life/Rallidae#order"><rdfs:label>Rails and coots</rdfs:label><wo:order rdf:resource="/nature/life/Gruiformes#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

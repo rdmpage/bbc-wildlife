@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Rhizophora">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Rhizophora#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Rhizophora#genus">
+				<rdfs:label>Mangroves</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Rhizophora#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/rh/rhizophora/rhizophora_1.jpg"/>
+
+				<dc:description>True mangrove trees grow in tropical, inter-tidal areas and have the unique ability to survive a daily flooding with salt water that would spell death for other trees. Mangroves need to be able to cope with both sea water and freshwater. To do this, arching stilt-roots lift the plant out of the salty water and various clever methods are employed to either filter out or exclude the salt. The seeds of these mangroves germinate whilst still on the plant, before falling from the tree and floating away on the tide, which makes them viviparous plants.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rhizophora"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Rhizophora.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Rhizophoraceae#family"/>
+                                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Rhizophora#name">
+				<rdfs:label>Rhizophora</rdfs:label>
+				        <wo:commonName>Mangroves</wo:commonName>
+        										<wo:scientificName>Rhizophora</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Rhizophorales</wo:orderName><wo:familyName>Rhizophoraceae</wo:familyName><wo:genusName>Rhizophora</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/rh/rhizophora/rhizophora_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Rhizophora#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/rh/rhizophora/rhizophora_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005frtv#programme">
+			<dc:title>Salt solution</dc:title>
+			<po:subject rdf:resource="/nature/genus/Rhizophora#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jnqj#programme">
+			<dc:title>Mangrove paradise</dc:title>
+			<po:subject rdf:resource="/nature/genus/Rhizophora#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rhizophora">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Rhizophora#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.floridaplants.com/reprintmangroves.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhizophora#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturia.per.sg/buloh/plants/rhizophora.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhizophora#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19050796">
+			<dc:title>Mangrove CO2 storage 'economic'</dc:title>
+			<dc:description>Protecting mangroves to lock carbon away in trees may be an economic way to curb climate change, research suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhizophora#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8939000/8939431.stm">
+			<dc:title>Global decline in mangrove forest</dc:title>
+			<dc:description>There is 13% less mangrove forest around the world than previously thought, the first satellite survey reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhizophora#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/mangroves/stories/jumpingsnakes">
+			<dc:title>The jumping snakes of Singapore</dc:title>
+			<dc:description>Snakes can't jump. Or can they? James Brickell discovers some acrobatic reptiles, able to leap across the sticky mud of a mangrove swamp.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Rhizophora#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Rhizophora.gif">
+		<dc:title>Map showing the distribution of the Mangroves genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Rhizophoraceae#family"><rdfs:label>Rhizophoraceae</rdfs:label><wo:genus rdf:resource="/nature/life/Rhizophora#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Rhizophorales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Giraffe">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Giraffe#species">
+				<rdfs:label>Giraffe</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Giraffe#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giraffe/giraffe_1.jpg"/>
+
+				<dc:description>Giraffes are the world's tallest animal. Their first experience of life is a two metre drop to the ground, because female giraffes give <a href="http://www.bbc.co.uk/nature/adaptations/Vivipary">birth</a> standing up. For the first few weeks, the calf remains hidden in the shade and the mother returns to it from her foraging trips. Later on, the  calf is taken to join a <a href="http://www.bbc.co.uk/nature/adaptations/Cooperative_breeding">creche</a>. Calves grow fast and are weaned at 18 months, although they start eating solids well before then.     
+<br/>
+<br/>
+<b>Did you know?</b><br/> At nearly six metres the giraffe is the world's tallest animal.   
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Giraffe"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Giraffidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Giraffe#name">
+				<rdfs:label>Giraffa camelopardalis</rdfs:label>
+				        <wo:commonName>Giraffe</wo:commonName>
+        										<wo:scientificName>camelopardaliscamelopardalis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Giraffidae</wo:familyName><wo:genusName>Giraffa</wo:genusName><wo:speciesName>camelopardalis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giraffe/giraffe_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Giraffe#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gi/giraffe/giraffe_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zlh0#programme">
+			<dc:title>Incredible giraffe knockout</dc:title>
+			<po:subject rdf:resource="/nature/species/Giraffe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkw7g#programme">
+			<dc:title>Feeding Giraffes</dc:title>
+			<po:subject rdf:resource="/nature/species/Giraffe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008nmrh#programme">
+			<dc:title>Desert giants</dc:title>
+			<po:subject rdf:resource="/nature/species/Giraffe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008nmk7#programme">
+			<dc:title>Giraffe joust</dc:title>
+			<po:subject rdf:resource="/nature/species/Giraffe#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008nmfd#programme">
+			<dc:title>Personal staff</dc:title>
+			<po:subject rdf:resource="/nature/species/Giraffe#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gi/giraffe/nhs279-02.mp3">
+			<dc:title>Giraffe feeding on acacia</dc:title>
+			<dc:subject rdf:resource="/nature/species/Giraffe#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Giraffe">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Giraffa_camelopardalis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/giraffe/giraffa-camelopardalis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.awf.org/content/wildlife/detail/giraffe">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/308378">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/9194/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-11734228">
+			<dc:title>Are giraffes at risk from lightning?</dc:title>
+			<dc:description>A giraffe has died after being hit by lightning. Are these lanky creatures especially vulnerable to being struck?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-bristol-11549129">
+			<dc:title>Lonely giraffe finally finds love</dc:title>
+			<dc:description>A bachelor giraffe in a Bristol zoo has found love after a four-year search for a suitable mate.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-11044871">
+			<dc:title>Crane used to move museum giraffe</dc:title>
+			<dc:description>A stuffed giraffe called Gerald has been moved from one side of Exeter's Royal Albert Memorial Museum to the other by crane as part of a redevelopment project.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-11044583">
+			<dc:title>Giraffe moved by crane through Exeter museum roof</dc:title>
+			<dc:description>A stuffed giraffe is lifted from one part of a Devon museum to another and lowered through the ceiling by a crane.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11006992">
+			<dc:title>Kaiser the rare giraffe revealed to public</dc:title>
+			<dc:description>One of the world's rarest giraffes has been born in captivity in the UK</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8368000/8368915.stm">
+			<dc:title>Giraffes use 'supercharged' heart</dc:title>
+			<dc:description>Giraffes use a small, powerful, supercharged heart to pump blood up the neck to the head, new research reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/africa/8349712.stm">
+			<dc:title>Niger's giraffes stage a comeback</dc:title>
+			<dc:description>The giraffe population of Niger, which was on the verge of extinction just 10 years ago, is now on the rise and moving into new habitats.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8050000/8050298.stm">
+			<dc:title>Did you know?</dc:title>
+			<dc:description>For centuries experts have argued over how the giraffe got its long neck.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe#species"/>
+		</foaf:Document>
+			
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Giraffa</rdfs:label><wo:species rdf:resource="/nature/life/Giraffe#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Giraffidae#family"><rdfs:label>Giraffidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

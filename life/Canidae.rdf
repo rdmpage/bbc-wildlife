@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Canidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Canidae#family">
+				<rdfs:label>Dogs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Canidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/canidae/canidae_1.jpg"/>
+
+				<dc:description>The dog family (Canidae) contains all the fox, wolf, coyote, jackal and dog species. Wild canids are found on every continent, with the exception of Antarctica.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Canidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Canidae#name">
+				<rdfs:label>Canidae</rdfs:label>
+				        <wo:commonName>Dogs</wo:commonName>
+        								<wo:commonName>Canines</wo:commonName>
+								<wo:scientificName>Canidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Canidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/canidae/canidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Canidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/canidae/canidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bm1q3#programme">
+			<dc:title>Co-operative dogs</dc:title>
+			<po:subject rdf:resource="/nature/family/Canidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006f94l#programme">
+			<dc:title>Top dogs</dc:title>
+			<po:subject rdf:resource="/nature/family/Canidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Canidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24946944">
+			<dc:title>DNA hint of European origin for dogs</dc:title>
+			<dc:description>The results of a DNA study suggest that dogs were domesticated in Europe.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21142870">
+			<dc:title>Dog evolved 'on the waste dump'</dc:title>
+			<dc:description>A genetic study indicates the ability to thrive on the starchy food leftovers of early farmers was an important step in the domestication of dogs from wolves.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18767817">
+			<dc:title>Why dogs 'love' to gnaw on bones</dc:title>
+			<dc:description>Dogs' ancestral origins reveal why they evolved to "love" meat and bones, according to scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17757386">
+			<dc:title>In pictures: Guardian dogs at work</dc:title>
+			<dc:description>"Guardian dogs" are an effective way to keep large predators away from cattle and sheep, according to researchers in Australia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16426276">
+			<dc:title>Pet dogs keep feet from freezing</dc:title>
+			<dc:description>Dogs are able to keep warm even when they stand on frozen ground, thanks to a specialised circulation system in their paws, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14390679">
+			<dc:title>Early dog skull found in Siberia</dc:title>
+			<dc:description>A very well-preserved 33,000 year old canine skull from a cave in the Siberian Altai mountains shows some of the earliest evidence of dog domestication ever found. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9115000/9115668.stm">
+			<dc:title>Dogs recognise their owners faces</dc:title>
+			<dc:description>Scientists show that dogs rely on seeing their owners faces in order to recognise them, a skill thought to be a byproduct of thousands of years of domestication.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8675000/8675519.stm">
+			<dc:title>Folk medicine poses global threat to wild dog species</dc:title>
+			<dc:description>Half of all wild canine species such as dogs, foxes and wolves are harvested for traditional folk medicines, conservationists warn.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Canidae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label><wo:family rdf:resource="/nature/life/Canidae#family"/><wo:family rdf:resource="/nature/life/Felidae#family"/><wo:family rdf:resource="/nature/life/Mongoose#family"/><wo:family rdf:resource="/nature/life/Hyena#family"/><wo:family rdf:resource="/nature/life/Mustelidae#family"/><wo:family rdf:resource="/nature/life/Procyonidae#family"/><wo:family rdf:resource="/nature/life/Bear#family"/><wo:family rdf:resource="/nature/life/Ailuridae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Eupleridae#family"/><wo:family rdf:resource="/nature/life/Bear_dog#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Arctic_Fox#family"><rdfs:label>Arctic fox</rdfs:label><wo:family rdf:resource="/nature/life/Canidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Canis#family"><rdfs:label>Wolves, dogs and jackals</rdfs:label><wo:family rdf:resource="/nature/life/Canidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Maned_Wolf#family"><rdfs:label>Maned wolf</rdfs:label><wo:family rdf:resource="/nature/life/Canidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/African_Wild_Dog#family"><rdfs:label>African wild dog</rdfs:label><wo:family rdf:resource="/nature/life/Canidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Vulpes#family"><rdfs:label>True foxes</rdfs:label><wo:family rdf:resource="/nature/life/Canidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/South_American_Gray_Fox#family"><rdfs:label>South American grey fox</rdfs:label><wo:family rdf:resource="/nature/life/Canidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

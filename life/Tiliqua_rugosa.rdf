@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Tiliqua_rugosa">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Tiliqua_rugosa#species">
+				<rdfs:label>Shingleback skink</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Tiliqua_rugosa#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/tiliqua_rugosa/tiliqua_rugosa_1.jpg"/>
+
+				<dc:description>Shingleback skinks are very common reptiles of the drier woodlands and plains of southern Australia. Large, rough scales give this blue-tongued skink the appeareance of a pine cone. If the heavy body armour isn't enough to put off potential predators, the shingleback skink has a further trick: its short and stumpy tail resembles its head and can be detached in times of dire need. This is a last resort, as the tail is used as a vital fat store during the winter.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tiliqua_rugosa"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tiliqua_rugosa.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Tiliqua_rugosa#name">
+				<rdfs:label>Tiliqua rugosa</rdfs:label>
+				        <wo:commonName>Shingleback skink</wo:commonName>
+        								<wo:commonName>Bobtail</wo:commonName>
+						<wo:commonName>Pinecone lizard</wo:commonName>
+						<wo:commonName>Sleepy lizard</wo:commonName>
+						<wo:commonName>Stump-tailed skink</wo:commonName>
+								<wo:scientificName>rugosarugosa</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Scincidae</wo:familyName><wo:genusName>Tiliqua</wo:genusName><wo:speciesName>rugosa</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/tiliqua_rugosa/tiliqua_rugosa_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ti/tiliqua_rugosa/tiliqua_rugosa_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006fdrj#programme">
+			<dc:title>Lifelong mates</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tiliqua_rugosa">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Trachydosaurus_rugosus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://whozoo.org/Intro2003/RyanBenn/RMB_ShinglebackSkink.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.jcvi.org/reptiles/species.php?genus=Tiliqua&amp;species=rugosa">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildherps.com/species/T.rugosa.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiliqua_rugosa#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Tiliqua_rugosa.gif">
+		<dc:title>Map showing the distribution of the Shingleback skink species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Tiliqua</rdfs:label><wo:species rdf:resource="/nature/life/Tiliqua_rugosa#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Scincidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

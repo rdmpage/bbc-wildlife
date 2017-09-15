@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Cockroach">
+		<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Cockroach#order">
+				<rdfs:label>Cockroaches</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Cockroach#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/cockroach/cockroach_1.jpg"/>
+
+				<dc:description>Cockroaches are among the hardiest <a href="/nature/life/Insect">insects</a> on the planet. They are capable of surviving for long periods on meagre resources and can even tolerate high doses of radiation. They are also extremely adaptable to new environments and will eat almost anything. Some species can produce over 20,000 young in their lifetime.
+<br />
+<br />
+Considering their bad reputation, it may come as a surprise that only a handful of the 4,000 species of cockroach are considered common household pests. These ancient, primitive insects are most common where the climate is warm and humid. Famous for their <a href="/nature/adaptations/Hearing_(sense)">hissing</a>, cockroaches can reach an impressive nine centimetres in length, although most species are much smaller.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cockroach"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Cockroach.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Cockroach#name">
+				<rdfs:label>Blattodea</rdfs:label>
+				        <wo:commonName>Cockroaches</wo:commonName>
+        										<wo:scientificName>Blattodea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Blattodea</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/cockroach/cockroach_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Cockroach#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/cockroach/cockroach_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0168m0d#programme">
+			<dc:title>Waste recyclers</dc:title>
+			<po:subject rdf:resource="/nature/order/Cockroach#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00rww2d#programme">
+			<dc:title>Friendly gut bacteria</dc:title>
+			<po:subject rdf:resource="/nature/order/Cockroach#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cockroach">
+		<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Blattodea.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blattodea.speciesfile.org/HomePage.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bio.umass.edu/biology/kunkel/cockroach_faq.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cals.ncsu.edu/course/ent425/compendium/roach.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22611143">
+			<dc:title>Cockroaches evolving to evade traps</dc:title>
+			<dc:description>Cockroaches are outsmarting our efforts to kill them by evolving to avoid the taste of sugar traps, a study reveals. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21275518">
+			<dc:title>Insects groom to improve smell</dc:title>
+			<dc:description>Cockroaches groom their antennae to improve their sense of smell, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17839642">
+			<dc:title>Sensitive beasts</dc:title>
+			<dc:description>The much maligned cockroach is more sophisticated, and social, than we thought, according to new research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11182437">
+			<dc:title>Insect brains to fight MRSA</dc:title>
+			<dc:description>Cockroach and locust brains are a rich source of antibiotics powerful enough to tackle MRSA, researchers say. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-merseyside-16574705">
+			<dc:title>Cockroach bait stolen in burglary</dc:title>
+			<dc:description>Thieves smashed their way into a town hall in Greater Manchester and stole cockroach bait, police say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10236515.stm">
+			<dc:title>How cockroaches 'talk' about food</dc:title>
+			<dc:description>Cockroaches "recommend" good food sources to each other by communicating in chemicals, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8232000/8232607.stm">
+			<dc:title>Ancient 'smell of death' revealed</dc:title>
+			<dc:description>When animals die, their corpses exude a particular "stench of death" which repels their living relatives, scientists have discovered.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Cockroach#order"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Cockroach.gif">
+		<dc:title>Map showing the distribution of the Cockroaches order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

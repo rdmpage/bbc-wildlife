@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Dicotyledon">
+		<foaf:primaryTopic rdf:resource="/nature/class/Dicotyledon#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Dicotyledon#class">
+				<rdfs:label>Dicotyledons</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Dicotyledon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/dicotyledon/dicotyledon_1.jpg"/>
+
+				<dc:description>Dicotyledons (or magnoliopsida) are a class of flowering plants. They earn their name from the fact that the first leaves formed as their seedlings germinate - the cotyledons - come as a pair. These first leaves are often different in form to the leaves formed later. Dicotyledons include plants as diverse as roses, fig trees and water lilies.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Dicotyledon"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Dicotyledon.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Dicotyledon#name">
+				<rdfs:label>Magnoliopsida</rdfs:label>
+				        <wo:commonName>Dicotyledons</wo:commonName>
+        								<wo:commonName>Dicots</wo:commonName>
+						<wo:commonName>Magnoliopsida</wo:commonName>
+								<wo:scientificName>Magnoliopsida</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/dicotyledon/dicotyledon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Dicotyledon#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/di/dicotyledon/dicotyledon_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Dicotyledon">
+		<foaf:primaryTopic rdf:resource="/nature/class/Dicotyledon#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://botit.botany.wisc.edu/courses/systematics/Phyla/Magnoliophyta/Magnoliopsida.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Dicotyledon#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/magnoliids/20670">
+			<foaf:primaryTopic rdf:resource="/nature/class/Dicotyledon#class"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Dicotyledon.gif">
+		<dc:title>Map showing the distribution of the Dicotyledons class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/><wo:class rdf:resource="/nature/life/Monocotyledon#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Saguaro#class"><rdfs:label>Saguaros</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Species><wo:Genus rdf:about="/nature/life/Rhizophora#class"><rdfs:label>Mangroves</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Genus><wo:Species rdf:about="/nature/life/Adenium#class"><rdfs:label>Desert rose</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Species><wo:Order rdf:about="/nature/life/Nepenthales#class"><rdfs:label>Flytraps, sundews and pitchers</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Order><wo:Family rdf:about="/nature/life/Rosaceae#class"><rdfs:label>Rose family</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Family><wo:Genus rdf:about="/nature/life/Rhododendron#class"><rdfs:label>Rhododendrons</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Genus><wo:Genus rdf:about="/nature/life/Eucalyptus#class"><rdfs:label>Eucalyptus trees</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Genus><wo:Genus rdf:about="/nature/life/Acacia#class"><rdfs:label>Acacias</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Genus><wo:Genus rdf:about="/nature/life/Adansonia#class"><rdfs:label>Baobabs</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Genus><wo:Family rdf:about="/nature/life/Fagaceae#class"><rdfs:label>Beeches and oaks</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Family><wo:Order rdf:about="/nature/life/Urticales#class"><rdfs:label>Nettles, elms and hemp</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Order><wo:Species rdf:about="/nature/life/St_John's_wort#class"><rdfs:label>St John's wort</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Species><wo:Order rdf:about="/nature/life/Violales#class"><rdfs:label>Violets and passion flowers</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Order><wo:Order rdf:about="/nature/life/Sapindales#class"><rdfs:label>Soapberry, maple and citrus</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Order><wo:Family rdf:about="/nature/life/Loranthaceae#class"><rdfs:label>Mistletoes (loranthid)</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Family><wo:Genus rdf:about="/nature/life/Taraxacum#class"><rdfs:label>Dandelions</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Genus><wo:Species rdf:about="/nature/life/Papaver_radicatum#class"><rdfs:label>Arctic poppy</rdfs:label><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

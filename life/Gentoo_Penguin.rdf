@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Gentoo_Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Gentoo_Penguin#species">
+				<rdfs:label>Gentoo penguin</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Gentoo_Penguin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ge/gentoo_penguin/gentoo_penguin_1.jpg"/>
+
+				<dc:description>Gentoo penguins are quite distinct from any other penguin, with the white stripe across the top of the head and bright orange bill. They are also better swimmers and divers than other penguins. Their super-streamlined bodies make them the fastest penguin underwater, able to reach speeds of 36kph, and they can dive to 170 metres down into the deep ocean. Gentoos breed in colonies in the harsh, cold climate of the islands surrounding the Antarctic, using nests made of stone and grass. Their droppings then fertilise the grass ready for the following year.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gentoo_Penguin"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gentoo_Penguin.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Pygoscelis#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Penguin#family"/>
+                                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Gentoo_Penguin#name">
+				<rdfs:label>Pygoscelis papua</rdfs:label>
+				        <wo:commonName>Gentoo penguin</wo:commonName>
+        										<wo:scientificName>papuapapua</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Sphenisciformes</wo:orderName><wo:familyName>Spheniscidae</wo:familyName><wo:genusName>Pygoscelis</wo:genusName><wo:speciesName>papua</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ge/gentoo_penguin/gentoo_penguin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/ge/gentoo_penguin/gentoo_penguin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m50d4#programme">
+			<dc:title>Too hot to handle</dc:title>
+			<po:subject rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003x682#programme">
+			<dc:title>First swim</dc:title>
+			<po:subject rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003x67m#programme">
+			<dc:title>Food on the run</dc:title>
+			<po:subject rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l4qkz#programme">
+			<dc:title>Equally matched</dc:title>
+			<po:subject rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l4qjc#programme">
+			<dc:title>Flying penguins</dc:title>
+			<po:subject rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/ge/gentoo_penguin/nhs1093-03.mp3">
+			<dc:title>Gentoo penguin nest</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gentoo_Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Pygoscelis_papua.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.antarcticconnection.com/antarctic/wildlife/penguins/gentoo.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/gentoo-penguin/pygoscelis-papua/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/144800/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.penguins.cl/gentoo-penguins.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pinguins.info/Engels/Pygoscelis_eng.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gentoo_Penguin#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gentoo_Penguin.gif">
+		<dc:title>Map showing the distribution of the Gentoo penguin species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Pygoscelis#genus"><rdfs:label>Pygoscelis</rdfs:label><wo:species rdf:resource="/nature/life/Gentoo_Penguin#species"/><wo:species rdf:resource="/nature/life/Adelie_Penguin#species"/><wo:species rdf:resource="/nature/life/Chinstrap_Penguin#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Penguin#family"><rdfs:label>Spheniscidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Sphenisciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

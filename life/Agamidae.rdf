@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Agamidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Agamidae#family">
+				<rdfs:label>Agamid lizards</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Agamidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ag/agamidae/agamidae_1.jpg"/>
+
+				<dc:description>Agamid lizards are a family of lizards with more than 350 species, including such distinctive members as the thorny devil and the flying lizard. This diverse group usually has well developed legs and mid-dorsal crest and can be found in Australia, Asia and Africa.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Agamidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Agamidae#name">
+				<rdfs:label>Agamidae</rdfs:label>
+				        <wo:commonName>Agamid lizards</wo:commonName>
+        								<wo:commonName>Old World iguanids</wo:commonName>
+								<wo:scientificName>Agamidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Agamidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ag/agamidae/agamidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Agamidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ag/agamidae/agamidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Agamidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Agamidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label><wo:family rdf:resource="/nature/life/Agamidae#family"/><wo:family rdf:resource="/nature/life/Anguidae#family"/><wo:family rdf:resource="/nature/life/Chameleon#family"/><wo:family rdf:resource="/nature/life/Cordylidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Gecko#family"/><wo:family rdf:resource="/nature/life/Iguanidae#family"/><wo:family rdf:resource="/nature/life/Lacertidae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Varanidae#family"/></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Agama_(genus)#family"><rdfs:label>Agamas</rdfs:label><wo:family rdf:resource="/nature/life/Agamidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Frill-necked_Lizard#family"><rdfs:label>Frilled lizard</rdfs:label><wo:family rdf:resource="/nature/life/Agamidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Thorny_Devil#family"><rdfs:label>Thorny devil</rdfs:label><wo:family rdf:resource="/nature/life/Agamidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

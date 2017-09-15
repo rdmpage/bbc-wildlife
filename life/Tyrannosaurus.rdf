@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Tyrannosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Tyrannosaurus#genus">
+				<rdfs:label>Tyrannosaurus rex</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Tyrannosaurus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ty/tyrannosaurus/tyrannosaurus_1.jpg"/>
+
+				<dc:description>One of the greatest carnivores - though not the largest - ever to have walked the Earth, Tyrannosaurus rex (or T-rex) ruled North America during the late Cretaceous period, some 68-65 million years ago. The massive skull of this mighty theropod dinosaur measured 1.5 metres and was balanced by a long heavy tail. The jaw, filled with huge, saw-edged teeth could deliver a devastating bite. Top predator or mighty scavenger, the 'tyrant lizard king' was without doubt a dinosaur to be feared. Thirty specimens have been recovered, some of which (such as those named Sue, Stan and the juvenile Jane!) are almost complete.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tyrannosaurus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Tyrannosaurus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Tyrannosauridae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Tyrannosaurus#name">
+				<rdfs:label>Tyrannosaurus</rdfs:label>
+				        <wo:commonName>Tyrannosaurus rex</wo:commonName>
+        								<wo:commonName>T-rex</wo:commonName>
+						<wo:commonName>T. rex</wo:commonName>
+						<wo:commonName>tyrant lizard king</wo:commonName>
+								<wo:scientificName>Tyrannosaurus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName><wo:familyName>Tyrannosauridae</wo:familyName><wo:genusName>Tyrannosaurus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ty/tyrannosaurus/tyrannosaurus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ty/tyrannosaurus/tyrannosaurus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjhk5#programme">
+			<dc:title>How fast was T-rex?</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjh26#programme">
+			<dc:title>Dinosaur vision</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjgtb#programme">
+			<dc:title>T-rex the predator</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjgp0#programme">
+			<dc:title>Dino whodunnit</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjghc#programme">
+			<dc:title>Fleshing out T-rex bones</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c26fb#programme">
+			<dc:title>Perfectly preserved</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9wd3#programme">
+			<dc:title>Whodunnit?</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9vfq#programme">
+			<dc:title>Cannibal killer</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9tp4#programme">
+			<dc:title>Raptor remains</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9sv4#programme">
+			<dc:title>Fierce female</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9sbw#programme">
+			<dc:title>Eggs for breakfast</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9s2d#programme">
+			<dc:title>Desolate world</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tyrannosaurus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1514">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bhigr.com/pages/info/info_stan.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=7573&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossilmuseum.net/DinosaurFossils/Tyrannosaurus-rex/Tyrannosaurus-rex.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genusqtype=starts+with&amp;disp=gall&amp;identifier=tyran&amp;sort=Genus&amp;dataHeaderText_EX=dinosaurs+beginning+with+%27T%27&amp;Genus=T&amp;beginIndex=17&amp;listPageURL=nameAZ.dsml%3fGenusqtype%3dstarts%2bwith%26disp%3dgall%26sort%3dGenus%26beginIndex%3d10%26Genus%3dT">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/diapsids/saurischia/tyrannosauridae.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.unearthingtrex.com/pages/rex_anatomy.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17159086">
+			<dc:title>T. rex bite was world's strongest</dc:title>
+			<dc:description>Tyrannosaurus rex had the most powerful bite of any creature that has ever walked the Earth, a digital model of the dinosaur's skull reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14945265">
+			<dc:title>How do you build a dinosaur?</dc:title>
+			<dc:description>Palaeontological developments mean scientists are now creating ever more accurate reproductions of dinosaurs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6720461.stm">
+			<dc:title>T. rex was 'slow-turning plodder'</dc:title>
+			<dc:description>Agile prey would have had no trouble keeping clear of a hungry <I>Tyrannosaurus rex</I>, a study confirms.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6956867.stm">
+			<dc:title>T. rex 'would outrun footballer'</dc:title>
+			<dc:description>Tyrannosaurus rex was fast enough on its legs to outrun a footballer, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6548719.stm">
+			<dc:title>Protein links T. rex to chickens</dc:title>
+			<dc:description>Protein extracted from <i>T. rex</i> bones sheds new light on the evolutionary link between dinosaurs and birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8010292.stm">
+			<dc:title>Ancestor of T. rex found in China</dc:title>
+			<dc:description>Clues to the evolution of Tyrannosaurus rex have come to light following a fossil find in China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8259902.stm">
+			<dc:title>Tiny ancestor is T. rex blueprint</dc:title>
+			<dc:description>A 3m-long dinosaur fossil from China which predates <I>T. Rex</I> by 60 million years is a blueprint for the mighty carnivore, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8588282.stm">
+			<dc:title>Southern 'cousin' of T. rex found</dc:title>
+			<dc:description>Scientists find the first evidence that tyrannosaurs - relatives of the famous <I>T. rex</I> - existed in the southern hemisphere.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8340922.stm">
+			<dc:title>Oldest T. rex relative identified</dc:title>
+			<dc:description>Scientists identify the most ancient fossil relative of the predatory dinosaur <I>Tyrannosaurus rex</I>.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tyrannosaurus#genus"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Tyrannosaurus.gif">
+		<dc:title>Map showing the distribution of the Tyrannosaurus rex genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Tyrannosauridae#family"><rdfs:label>Tyrannosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Tyrannosaurus#genus"/><wo:genus rdf:resource="/nature/life/Tarbosaurus#genus"/><wo:genus rdf:resource="/nature/life/Daspletosaurus#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Theropoda#suborder"><rdfs:label>Theropoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

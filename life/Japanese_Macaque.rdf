@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Japanese_Macaque">
+		<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Japanese_Macaque#species">
+				<rdfs:label>Japanese macaque</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Japanese_Macaque#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/j/ja/japanese_macaque/japanese_macaque_1.jpg"/>
+
+				<dc:description>Japanese macaques are the most northerly-living non-human <a href="http://www.bbc.co.uk/nature/life/Primate">primates</a>. In the forested and mountainous, region of Japan where they're found, some populations have been known to bathe in hot springs during the freezing winters and swim during the sweltering summer heat. Japanese macaques have become famous for washing their food in saltwater before they eat it, both cleaning it and enhancing the taste. This <a href="http://www.bbc.co.uk/nature/adaptations/Animal_culture">skill</a> has spread through the population and down the generations. For fun these macaques make snowballs, just like us. 
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Japanese_Macaque"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_culture#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Macaque#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Old_World_monkey#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Japanese_Macaque#name">
+				<rdfs:label>Macaca fuscata</rdfs:label>
+				        <wo:commonName>Japanese macaque</wo:commonName>
+        								<wo:commonName>Snow monkey</wo:commonName>
+								<wo:scientificName>fuscatafuscata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Cercopithecidae</wo:familyName><wo:genusName>Macaca</wo:genusName><wo:speciesName>fuscata</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/j/ja/japanese_macaque/japanese_macaque_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/j/ja/japanese_macaque/japanese_macaque_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005jvyd#programme">
+			<dc:title>Members only</dc:title>
+			<po:subject rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/j/ja/japanese_macaque/5077143.mp3">
+			<dc:title>Japanese macaques making agressive calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Japanese_Macaque">
+		<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Macaca_fuscata.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://factsanddetails.com/japan.php?itemid=887&amp;catid=26&amp;subcatid=164">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/entry/japanese_macaque">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/japanese-macaque/macaca-fuscata/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.blueplanetbiomes.org/japanese_macaque.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8370000/8370743.stm">
+			<dc:title>Grandmother monkeys care for baby</dc:title>
+			<dc:description>Grandmother macaques care for their abandoned grandchildren, behaviour not recorded before in non-human primates.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/6264938.stm">
+			<dc:title>Snow monkeys drift into reserve</dc:title>
+			<dc:description>Snow monkeys have been introduced to a Scottish wildlife park - ending its tradition of only keeping animals of the country's past and present.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Japanese_Macaque#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_culture#adaptation">
+					<rdfs:label>Culture</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Macaque#genus"><rdfs:label>Macaca</rdfs:label><wo:species rdf:resource="/nature/life/Japanese_Macaque#species"/><wo:species rdf:resource="/nature/life/Barbary_macaque#species"/><wo:species rdf:resource="/nature/life/Toque_macaque#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Old_World_monkey#family"><rdfs:label>Cercopithecidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

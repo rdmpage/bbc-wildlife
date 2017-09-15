@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Adansonia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Adansonia#genus">
+				<rdfs:label>Baobabs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Adansonia#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ad/adansonia/adansonia_1.jpg"/>
+
+				<dc:description>Baobabs are trees recognisable by their distinctive swollen stems. Occurring naturally in the dry areas of Magagascar, Africa and Australia, they store massive amounts of water in their stems to cope with seasonal droughts. The tree's fruits are large pods known as 'monkey bread' or 'cream of tartar fruit' and are rich in vitamin C. One baobab tree in South Africa, known as 'Big Baobab', has a circumference of 47 metres and even a bar for 60 people inside the trunk.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Adansonia"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Adansonia.gif"/>
+		
+										    
+    								
+					
+                                                                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Adansonia#name">
+				<rdfs:label>Adansonia</rdfs:label>
+				        <wo:commonName>Baobabs</wo:commonName>
+        								<wo:commonName>Boab</wo:commonName>
+						<wo:commonName>Boaboa</wo:commonName>
+						<wo:commonName>Bottle tree</wo:commonName>
+						<wo:commonName>Monkey bread tree</wo:commonName>
+						<wo:commonName>Upside down trees</wo:commonName>
+								<wo:scientificName>Adansonia</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Malvales</wo:orderName><wo:familyName>Bombacaceae</wo:familyName><wo:genusName>Adansonia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ad/adansonia/adansonia_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Adansonia#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ad/adansonia/adansonia_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f815d#programme">
+			<dc:title>Sacred baobab</dc:title>
+			<po:subject rdf:resource="/nature/genus/Adansonia#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004t0kb#programme">
+			<dc:title>Baobab avenue</dc:title>
+			<po:subject rdf:resource="/nature/genus/Adansonia#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038rq9#programme">
+			<dc:title>Flowering baobabs</dc:title>
+			<po:subject rdf:resource="/nature/genus/Adansonia#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Adansonia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://arted.osu.edu/kplayground/baobabtree.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.baobabs.com/Baobabs_species.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bigbaobab.co.za/baobab.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/apps/ifl/learningzone/clips/showrecord?Id=10830;Config=main_clipid.cfg">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, Food Plants and Health</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/magazine/7509077.stm">
+			<dc:title>First taste of a magical fruit</dc:title>
+			<dc:description>It's being billed as king of the superfruits - the baobab fruit has just been given EU approval to be used in smoothies and cereal bars. But what does it taste like? The Magazine's Tom Geoghegan got hold of one.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/7506997.stm">
+			<dc:title>New exotic fruit to hit UK shops</dc:title>
+			<dc:description>An unusual fruit from a native African tree, the baobab, is to be available in the UK after being approved by the EU.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/3743011.stm">
+			<dc:title>Baobab disease puzzles scientists</dc:title>
+			<dc:description>Scientists in southern Africa say they are mystified by a disease which appears to be killing baobab trees.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Adansonia#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Adansonia.gif">
+		<dc:title>Map showing the distribution of the Baobabs genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/#family"><rdfs:label>Bombacaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Adansonia#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Malvales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

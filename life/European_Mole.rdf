@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/European_Mole">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/European_Mole#species">
+				<rdfs:label>Mole</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/European_Mole#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_mole/european_mole_1.jpg"/>
+
+				<dc:description>Moles are industrious diggers and can create 20m of tunnel per day. They leave characteristic mounds of earth on the surface as they excavate their tunnels. Large chambers within the tunnel system are lined with dry grass and used for nesting during periods of rest. Moles feed mainly on earthworms, but they also eat a variety of other invertebrates, as well as snakes and lizards. They inhabit deciduous woodland, grassland and farmland - wherever the soil is deep enough for tunnelling.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/European_Mole"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Talpa_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Talpidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Soricomorpha#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/European_Mole#name">
+				<rdfs:label>Talpa europaea</rdfs:label>
+				        <wo:commonName>Mole</wo:commonName>
+        								<wo:commonName>Common mole</wo:commonName>
+						<wo:commonName>European mole</wo:commonName>
+						<wo:commonName>Northern mole</wo:commonName>
+								<wo:scientificName>europaeaeuropaea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Soricomorpha</wo:orderName><wo:familyName>Talpidae</wo:familyName><wo:genusName>Talpa</wo:genusName><wo:speciesName>europaea</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_mole/european_mole_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/European_Mole#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/european_mole/european_mole_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f9lwf#programme">
+			<dc:title>Moles: the ultimate digging machine</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Mole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f9hyg#programme">
+			<dc:title>How to spot moles</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Mole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00t74hj#programme">
+			<dc:title>First footage of a mole in its tunnels</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Mole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007qwt5#programme">
+			<dc:title>Mountains or mole hills?</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Mole#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/European_Mole">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Talpa_europaea.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/mole/talpa-europaea/">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.judywoods.dial.pipex.com/mammals/mole.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mammal.org.uk/index.php?option=com_content&amp;view=article&amp;id=213&amp;Itemid=246">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturalengland.org.uk/ourwork/regulation/wildlife/species/moles.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15237042">
+			<dc:title>Rise in mole numbers across UK</dc:title>
+			<dc:description>There has been a sharp rise in the number of moles this year, causing more problems than usual for golf courses, greenkeepers and gardeners across Britain.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14108202">
+			<dc:title>Mole extra thumb mystery 'solved'</dc:title>
+			<dc:description>Scientists find that the mole's second thumb is not a real digit, but is instead a co-opted wrist bone. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/threecounties/hi/people_and_places/nature/newsid_9110000/9110689.stm">
+			<dc:title>Garlic to stop moles</dc:title>
+			<dc:description>Garlic plants are being planted around a football pitch in Bedfordshire in an attempt to stop moles ruining the turf.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/north_east/8402100.stm">
+			<dc:title>Mole eyesight research 'could help human disorders'</dc:title>
+			<dc:description>Findings about the eyesight of moles could offer new understanding of human disorders, researchers have claimed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Mole#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Talpa_(genus)#genus"><rdfs:label>Talpa</rdfs:label><wo:species rdf:resource="/nature/life/European_Mole#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Talpidae#family"><rdfs:label>Talpidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Soricomorpha#order"><rdfs:label>Soricomorpha</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

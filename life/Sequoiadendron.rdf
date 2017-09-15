@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Sequoiadendron">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Sequoiadendron#genus">
+				<rdfs:label>Giant sequoia</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Sequoiadendron#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sequoiadendron/sequoiadendron_1.jpg"/>
+
+				<dc:description>In terms of volume, giant sequoias may be the largest living things on the planet. These wonders of the natural world can reach almost 100 metres in height with a trunk 11 metres in diameter. It takes 20 years for a giant sequoia to mature and produce cones. Each cone contains hundreds of winged seeds that can be <a href="http://www.bbc.co.uk/nature/adaptations/Seed_dispersal">dispersed</a> far and wide by wind, <a href="http://www.bbc.co.uk/nature/life/Insect">insects</a> and <a href="http://www.bbc.co.uk/nature/life/Animal">animals</a>. Fire plays an important role in the ecology of giant sequoia trees. It clears away the competition and improves soil for seed germination. The loose fibres that make up the sequoia's extremely thick bark is <a href="http://www.bbc.co.uk/nature/adaptations/Fire_ecology">fire resistant</a>. Giant sequoias only grow naturally in the groves of the Sierra Nevada mountain range of California, <a href="http://www.bbc.co.uk/nature/places/North_America">USA</a>.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sequoiadendron"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fire_ecology#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Sequoiadendron.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Cupressaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pinales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Pinopsida#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Pinophyta#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Sequoiadendron#name">
+				<rdfs:label>Sequoiadendron</rdfs:label>
+				        <wo:commonName>Giant sequoia</wo:commonName>
+        								<wo:commonName>Sierra redwood</wo:commonName>
+						<wo:commonName>Sierran redwood</wo:commonName>
+						<wo:commonName>Wellingtonia</wo:commonName>
+								<wo:scientificName>Sequoiadendron</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Pinophyta</wo:phylumName><wo:className>Pinopsida</wo:className><wo:orderName>Pinales</wo:orderName><wo:familyName>Cupressaceae</wo:familyName><wo:genusName>Sequoiadendron</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sequoiadendron/sequoiadendron_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/se/sequoiadendron/sequoiadendron_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ffnwk#programme">
+			<dc:title>Noble conifer</dc:title>
+			<po:subject rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00crf4d#programme">
+			<dc:title>Tree trumps </dc:title>
+			<po:subject rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sequoiadendron">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/giant-sequoia/sequoiadendron-giganteum/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.conifers.org/cu/Sequoiadendron.php">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.humboldt.edu/redwoods/photos/sequoia.php">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nps.gov/history/history/online_books/science/hartesveldt/contents.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sequoiadendron#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Fire_ecology#adaptation">
+					<rdfs:label>Fire tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Sequoiadendron.gif">
+		<dc:title>Map showing the distribution of the Giant sequoia genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Cupressaceae#family"><rdfs:label>Cupressaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Sequoiadendron#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Pinales#order"><rdfs:label>Pinales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Pinopsida#class"><rdfs:label>Pinopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Pinophyta#phylum"><rdfs:label>Pinophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

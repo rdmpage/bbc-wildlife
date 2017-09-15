@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Beetle">
+		<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Beetle#order">
+				<rdfs:label>Beetles</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Beetle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/beetle/beetle_1.jpg"/>
+
+				<dc:description>Beetles form around 40% of all insects and are therefore the biggest insect group, with around 350,000 species in total. All beetles start life as grubs and then form a pupa and metamorphose into their adult form. Most adult beetles can fly, although a few, such as glow-worms and weevils, have lost the ability.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Beetle"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Beetle.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Beetle#name">
+				<rdfs:label>Coleoptera</rdfs:label>
+				        <wo:commonName>Beetles</wo:commonName>
+        										<wo:scientificName>Coleoptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Coleoptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/beetle/beetle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Beetle#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/be/beetle/beetle_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jlzql#programme">
+			<dc:title>Beetle invades</dc:title>
+			<po:subject rdf:resource="/nature/order/Beetle#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081fzj#programme">
+			<dc:title>Wicken's wild saviours</dc:title>
+			<po:subject rdf:resource="/nature/order/Beetle#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007dc4n#programme">
+			<dc:title>The Murdered Beetle – Museum of Life </dc:title>
+			<po:subject rdf:resource="/nature/order/Beetle#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003x6hy#programme">
+			<dc:title>Beetle flight</dc:title>
+			<po:subject rdf:resource="/nature/order/Beetle#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Beetle">
+		<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Coleoptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tolweb.org/coleoptera">
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.uksafari.com/beetles.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.zin.ru/ANIMALIA/COLEOPTERA/eng/">
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-kent-22859323">
+			<dc:title>Scarce beetle makes rare appearance</dc:title>
+			<dc:description>A rare beetle not seen in Kent for almost half a century until 1997 appears in the county for only the third time in 16 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19149870">
+			<dc:title>Secrets of sticky feet revealed</dc:title>
+			<dc:description>Sure-footed lizards and beetles keep their feet dry to secure their grip, according to scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-hereford-worcester-15910302">
+			<dc:title>Beetle-infested church bells ring</dc:title>
+			<dc:description>Bells are ringing again in a Worcester church, four years after they were silenced by a beetle infestation.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15117051">
+			<dc:title>Beetle's beer bottle sex wins Ig</dc:title>
+			<dc:description>The 2011 Ig Nobel Prizes pay humorous tribute to the science behind procrastination, the sex lives of confused beetles, and a wasabi fire alarm.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15095976">
+			<dc:title>Fossil beetles show true colours</dc:title>
+			<dc:description>Scientists develop a method to reconstruct the brilliant colours fossil beetles would have displayed when they crawled across the Earth millions of years ago.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9434000/9434963.stm">
+			<dc:title>UK's oil beetle search under way</dc:title>
+			<dc:description>Conservationists ask the public to take part in the first survey of the UK's threatened oil beetles. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/02/new-uk-beetle-species-discover.shtml">
+			<dc:title>New UK beetle species discovered in Sussex</dc:title>
+			<dc:description>Great news just in from the Sussex Wildlife Trust. A species of beetle new to Britain has just been discovered. It's a species of rove beetle - the second largest...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/different-beetles/48.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Bill Oddie finds different beetles and discusses their colour, habitat preferences, and how they feed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/ladybirds/10631.html">
+			<dc:title>Ladybirds</dc:title>
+			<dc:description>A boy from The Green Balloon Club finds a ladybird.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/learn-about-ladybirds/10338.html">
+			<dc:title>Learn about ladybirds</dc:title>
+			<dc:description>The children learn about ladybirds and where to spot them.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-kent-10957374">
+			<dc:title>Scarce Maid of Kent beetle spotted at RSPB reserve</dc:title>
+			<dc:description>A scarce beetle - once thought to be extinct in the UK - is found under fresh cow pats at the RSPB's reserve at Elmley.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Beetle#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Beetle.gif">
+		<dc:title>Map showing the distribution of the Beetles order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Coccinellidae#order"><rdfs:label>Ladybirds</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/></wo:Family><wo:Family rdf:about="/nature/life/Ground_beetle#order"><rdfs:label>Ground beetles</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/></wo:Family><wo:Species rdf:about="/nature/life/Great_diving_beetle#order"><rdfs:label>Great diving beetle</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/></wo:Species><wo:Species rdf:about="/nature/life/Lampyris_noctiluca#order"><rdfs:label>Common glow-worm</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/></wo:Species><wo:Genus rdf:about="/nature/life/Burying_beetle#order"><rdfs:label>Sexton beetles</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/></wo:Genus><wo:Species rdf:about="/nature/life/Giraffe_weevil#order"><rdfs:label>Giraffe weevil</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/></wo:Species><wo:Superfamily rdf:about="/nature/life/Dung_beetle#order"><rdfs:label>Dung beetles</rdfs:label><wo:order rdf:resource="/nature/life/Beetle#order"/></wo:Superfamily>
+	
+	
+		    
+</rdf:RDF>

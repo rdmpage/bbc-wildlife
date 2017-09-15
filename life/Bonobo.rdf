@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Bonobo">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Bonobo#species">
+				<rdfs:label>Bonobo</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Bonobo#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bonobo/bonobo_1.jpg"/>
+
+				<dc:description>Bonobos are found only within the Democratic Republic of Congo in Central <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a>. Together with common <a href="http://www.bbc.co.uk/nature/life/Common_Chimpanzee">chimpanzees</a>, they are <a href="http://www.bbc.co.uk/nature/life/Human">man's</a> closest living relatives. Sex is an everyday affair in bonobo society, and is liberally used to create bonds between individuals, as well as for reproduction. That said, during periods of rest grooming is the activity of choice, and is thought to provide group cohesion and ease tension. Bonobos are <a href="http://www.bbc.co.uk/nature/adaptations/Altricial">born helpless</a>, and females provide the majority of the <a href="http://www.bbc.co.uk/nature/adaptations/Maternal_effect">parental care</a>, since paternity is usually unclear.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bonobo"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_language#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Chimpanzee#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Hominidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Bonobo#name">
+				<rdfs:label>Pan paniscus</rdfs:label>
+				        <wo:commonName>Bonobo</wo:commonName>
+        								<wo:commonName>Pygmy chimpanzee</wo:commonName>
+								<wo:scientificName>paniscuspaniscus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hominidae</wo:familyName><wo:genusName>Pan</wo:genusName><wo:speciesName>paniscus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bo/bonobo/bonobo_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Bonobo#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bo/bonobo/bonobo_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00nm084#programme">
+			<dc:title>Conversing with Kanzi</dc:title>
+			<po:subject rdf:resource="/nature/species/Bonobo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006v4bn#programme">
+			<dc:title>Aquatic apes</dc:title>
+			<po:subject rdf:resource="/nature/species/Bonobo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006v4b6#programme">
+			<dc:title>Make love not war</dc:title>
+			<po:subject rdf:resource="/nature/species/Bonobo#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006v49s#programme">
+			<dc:title>Sexual power</dc:title>
+			<po:subject rdf:resource="/nature/species/Bonobo#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bo/bonobo/5002076.mp3">
+			<dc:title>A group of bonobos calling from rainforest canopy</dc:title>
+			<dc:subject rdf:resource="/nature/species/Bonobo#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bonobo">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Pan_paniscus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/entry/bonobo">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bonobo/pan-paniscus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bio.davidson.edu/people/vecase/Behavior/Spring2004/laird/Social%20Organization.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bonobo.org/storiesandsongs.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bonobo.org/whatisabonobo.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24494230">
+			<dc:title>Apes comfort each other 'like humans'</dc:title>
+			<dc:description>Observations of young bonobos reveal that, like children, those more able to manage their own emotions are more likely to comfort others. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21199540">
+			<dc:title>Young bonobos comfort with hugs</dc:title>
+			<dc:description>Young bonobos console their fellow apes with hugs and sex, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18430420">
+			<dc:title>Bonobo's genetic code laid bare</dc:title>
+			<dc:description>Scientists decode the genetics of the bonobo, the last great ape to have its DNA sequence laid bare for comparison with humans.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17117661">
+			<dc:title>Apes 'advertise' homosexual bonds</dc:title>
+			<dc:description>Female bonobos shout to “advertise” their sexual encounters with high-ranking females to other group members, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9469000/9469152.stm">
+			<dc:title>Bonobos 'chat' about good foods</dc:title>
+			<dc:description>Bonobos communicate where to find their favourite food using barks and peeps, scientists have found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/leicestershire/7503380.stm">
+			<dc:title>Pair want to save 'rare' bonobo </dc:title>
+			<dc:description>Two UK animal experts have joined forces with a sanctuary in Africa in a campaign to help ensure the future of a rare ape.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8659000/8659411.stm">
+			<dc:title>Bonobo chimps filmed shaking their head to 'say no'</dc:title>
+			<dc:description>Bonobos have been filmed appearing to 'say no' by shaking their heads, report scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8548478.stm">
+			<dc:title>Bonobos opt to share their food </dc:title>
+			<dc:description>One of our closest primate relatives, the bonobo, has been shown to voluntarily share food, scientists report.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8487000/8487138.stm">
+			<dc:title>Wild bonobo mother ape eats own infant in DR Congo</dc:title>
+			<dc:description>A wild bonobo has been seen cannibalising her own recently deceased two and a half-year-old infant.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bonobo#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_language#adaptation">
+					<rdfs:label>Language</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Chimpanzee#genus"><rdfs:label>Pan</rdfs:label><wo:species rdf:resource="/nature/life/Bonobo#species"/><wo:species rdf:resource="/nature/life/Common_Chimpanzee#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Hominidae#family"><rdfs:label>Hominidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

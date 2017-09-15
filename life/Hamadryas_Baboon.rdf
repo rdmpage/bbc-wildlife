@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Hamadryas_Baboon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Hamadryas_Baboon#species">
+				<rdfs:label>Hamadryas baboon</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Hamadryas_Baboon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/hamadryas_baboon/hamadryas_baboon_1.jpg"/>
+
+				<dc:description>Hamadryas baboons roam the semi-deserts of northeast Africa and the Arabian peninsula, but never stray far from watering holes or the cliffs where they sleep. Hamadryas baboon society is intriguing: it is highly organised into groups with a male leader who herds and controls up to 10 females and their young. These one male units come together to form clans, multiple clans form a band, and an aggregation of bands forms a troop - there really is safety in numbers. The ancient Egyptians considered hamadryas baboons to be sacred, however, they are now extinct in Egypt.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hamadryas_Baboon"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Baboon#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Old_World_monkey#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Hamadryas_Baboon#name">
+				<rdfs:label>Papio hamadryas</rdfs:label>
+				        <wo:commonName>Hamadryas baboon</wo:commonName>
+        								<wo:commonName>Sacred baboon</wo:commonName>
+								<wo:scientificName>hamadryashamadryas</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Cercopithecidae</wo:familyName><wo:genusName>Papio</wo:genusName><wo:speciesName>hamadryas</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/hamadryas_baboon/hamadryas_baboon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ha/hamadryas_baboon/hamadryas_baboon_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00vzl54#programme">
+			<dc:title>Baboons groom a man</dc:title>
+			<po:subject rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00vzl4k#programme">
+			<dc:title>Baboons in the rain</dc:title>
+			<po:subject rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00vzl34#programme">
+			<dc:title>Cute baby baboons playing</dc:title>
+			<po:subject rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00vzl28#programme">
+			<dc:title>Baboon language</dc:title>
+			<po:subject rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00vzl24#programme">
+			<dc:title>Battle of the bands</dc:title>
+			<po:subject rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005jvsn#programme">
+			<dc:title>Baboon society</dc:title>
+			<po:subject rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/h/ha/hamadryas_baboon/5082011.mp3">
+			<dc:title>Hamadryas baboon calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hamadryas_Baboon">
+		<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Papio_hamadryas.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/hamadryas-baboon/papio-hamadryas/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.baboonsonline.org/filoha/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.theprimata.com/papio_hamadryas.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8400000/8400019.stm">
+			<dc:title>When two baboon troops go to war</dc:title>
+			<dc:description>An epic battle between hundreds of Hamadryas baboons is caught on camera by a BBC natural history film crew.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/devon/4376396.stm">
+			<dc:title>Call to ban zoo baboon breeding</dc:title>
+			<dc:description>A baboon mother's "over-zealous" grooming of her baby to baldness at a Devon zoo is a sign of stress, says an animal rights group.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hamadryas_Baboon#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Baboon#genus"><rdfs:label>Papio</rdfs:label><wo:species rdf:resource="/nature/life/Hamadryas_Baboon#species"/><wo:species rdf:resource="/nature/life/Olive_Baboon#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Old_World_monkey#family"><rdfs:label>Cercopithecidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

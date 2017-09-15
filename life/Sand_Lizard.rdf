@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Sand_Lizard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Sand_Lizard#species">
+				<rdfs:label>Sand lizard</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Sand_Lizard#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sand_lizard/sand_lizard_1.jpg"/>
+
+				<dc:description>Sand lizards are a particularly rare and protected species in Britain. They're found only in parts of southern heathland and the sand dunes of the the north west. In mainland Europe, however, sand lizards can be found in many more places including fields and woodland, parks and gardens. During the breeding season the male's sides become highly coloured, with some individuals turning almost completely bright green. These are Britain's only egg-laying lizards and they lay their eggs in the warm sand and sunshine to incubate. The young emerge in late summer.
+<br/>
+<br/>
+<a href="/nature/22062931">How to identify UK reptiles.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sand_Lizard"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Lacerta_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Lacertidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Sand_Lizard#name">
+				<rdfs:label>Lacerta agilis</rdfs:label>
+				        <wo:commonName>Sand lizard</wo:commonName>
+        										<wo:scientificName>agilisagilis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Lacertidae</wo:familyName><wo:genusName>Lacerta</wo:genusName><wo:speciesName>agilis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sand_lizard/sand_lizard_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Sand_Lizard#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sa/sand_lizard/sand_lizard_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yzw7#programme">
+			<dc:title>Big six search</dc:title>
+			<po:subject rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sand_Lizard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Lacerta_agilis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/sand-lizard/lacerta-agilis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.herpconstrust.org.uk/animals/sand_lizard.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.herpetofauna.co.uk/sand_lizard.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.new-forest-national-park.com/sand-lizard-fact-file.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sauria.org.uk/conservation/sand_lizard.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/24022952">
+			<dc:title>UK's rarest lizards return to dunes</dc:title>
+			<dc:description>Rare sand lizards have been released on sand dunes in North Wales in a bid to revive ailing populations.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-mid-wales-14760260">
+			<dc:title>Lizards released back into wild</dc:title>
+			<dc:description>A group of sand lizards - one of Britain's rarest reptiles - are being released back into the wild in Ynyslas near Aberystwyth.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/8234667.stm">
+			<dc:title>Hundreds of sand lizards released</dc:title>
+			<dc:description>Hundreds of rare sand lizards are being released into the wild at locations in England and Wales from where they had previously disappeared.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/dorset/8373742.stm">
+			<dc:title>Virus may be harming sand lizards</dc:title>
+			<dc:description>Wildlife experts fear a virus carried by non-native lizards is devastating a rare species of reptile in Dorset.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sand_Lizard#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Lacerta_(genus)#genus"><rdfs:label>Lacerta</rdfs:label><wo:species rdf:resource="/nature/life/Sand_Lizard#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Lacertidae#family"><rdfs:label>Lacertidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

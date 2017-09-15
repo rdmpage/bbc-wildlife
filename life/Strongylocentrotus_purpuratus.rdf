@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Strongylocentrotus_purpuratus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Strongylocentrotus_purpuratus#species">
+				<rdfs:label>Purple sea urchin</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Strongylocentrotus_purpuratus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/strongylocentrotus_purpuratus/strongylocentrotus_purpuratus_1.jpg"/>
+
+				<dc:description>The purple sea urchin lives in kelp forests. It will eat any sort of algae, but kelp is its favourite food.  These urchins are considered to be a delicacy in Japan.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Strongylocentrotus_purpuratus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Strongylocentrotus_purpuratus.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Strongylocentrotus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Strongylocentrotidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Echinoida#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Sea_urchin#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Strongylocentrotus_purpuratus#name">
+				<rdfs:label>Strongylocentrotus purpuratus</rdfs:label>
+				        <wo:commonName>Purple sea urchin</wo:commonName>
+        								<wo:commonName>California purple sea urchin</wo:commonName>
+								<wo:scientificName>purpuratuspurpuratus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Echinodermata</wo:phylumName><wo:className>Echinoidea</wo:className><wo:orderName>Echinoida</wo:orderName><wo:familyName>Strongylocentrotidae</wo:familyName><wo:genusName>Strongylocentrotus</wo:genusName><wo:speciesName>purpuratus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/st/strongylocentrotus_purpuratus/strongylocentrotus_purpuratus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/st/strongylocentrotus_purpuratus/strongylocentrotus_purpuratus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038tcc#programme">
+			<dc:title>Sea urchin barrens</dc:title>
+			<po:subject rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Strongylocentrotus_purpuratus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Strongylocentrotus_purpuratus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Strongylocentrotus_purpuratus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/treehouses/?treehouse_id=4879">
+			<foaf:primaryTopic rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/purple-sea-urchin/strongylocentrotus-purpuratus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.montereybayaquarium.org/animals/AnimalDetails.aspx?id=781774">
+			<foaf:primaryTopic rdf:resource="/nature/species/Strongylocentrotus_purpuratus#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Strongylocentrotus_purpuratus.gif">
+		<dc:title>Map showing the distribution of the Purple sea urchin species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Strongylocentrotus#genus"><rdfs:label>Strongylocentrotus</rdfs:label><wo:species rdf:resource="/nature/life/Strongylocentrotus_purpuratus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Strongylocentrotidae#family"><rdfs:label>Strongylocentrotidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Echinoida#order"><rdfs:label>Echinoida</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Sea_urchin#class"><rdfs:label>Echinoidea</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Echinoderm#phylum"><rdfs:label>Echinodermata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

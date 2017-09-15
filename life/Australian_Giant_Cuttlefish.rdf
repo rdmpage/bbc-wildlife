@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Australian_Giant_Cuttlefish">
+		<foaf:primaryTopic rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Australian_Giant_Cuttlefish#species">
+				<rdfs:label>Giant cuttlefish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Australian_Giant_Cuttlefish#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/au/australian_giant_cuttlefish/australian_giant_cuttlefish_1.jpg"/>
+
+				<dc:description>The Australian giant cuttlefish is the largest of the world’s hundred or so species of cuttlefish. It can grow to lengths of about a metre and weigh over 10kg (22 pounds). Like all cephalopods, it is carnivorous.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Australian_Giant_Cuttlefish"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p006r1w3#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Australian_Giant_Cuttlefish.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Sepia_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sepiidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cuttlefish#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Australian_Giant_Cuttlefish#name">
+				<rdfs:label>Sepia apama</rdfs:label>
+				        <wo:commonName>Giant cuttlefish</wo:commonName>
+        								<wo:commonName>Australian giant cuttlefish</wo:commonName>
+								<wo:scientificName>apamaapama</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Sepiida</wo:orderName><wo:familyName>Sepiidae</wo:familyName><wo:genusName>Sepia</wo:genusName><wo:speciesName>apama</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/au/australian_giant_cuttlefish/australian_giant_cuttlefish_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/au/australian_giant_cuttlefish/australian_giant_cuttlefish_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005bpsl#programme">
+			<dc:title>Cross-dresser</dc:title>
+			<po:subject rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003jx7n#programme">
+			<dc:title>Cuttlefish</dc:title>
+			<po:subject rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Australian_Giant_Cuttlefish">
+		<foaf:primaryTopic rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Sepia_apama.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://australian-animals.net/cuttle.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/giant-cuttlefish/sepia-apama/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thecephalopodpage.org/Sapama.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Australian_Giant_Cuttlefish#species"/>
+		</foaf:Document>
+			
+					
+											<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p006r1w3#collection">
+				<dc:title>Wildlife wind-ups</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Australian_Giant_Cuttlefish.gif">
+		<dc:title>Map showing the distribution of the Giant cuttlefish species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Sepia_(genus)#genus"><rdfs:label>Sepia</rdfs:label><wo:species rdf:resource="/nature/life/Australian_Giant_Cuttlefish#species"/><wo:species rdf:resource="/nature/life/Common_Cuttlefish#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sepiidae#family"><rdfs:label>Sepiidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cuttlefish#order"><rdfs:label>Sepiida</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Meerkat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Meerkat#species">
+				<rdfs:label>Meerkat</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Meerkat#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/me/meerkat/meerkat_1.jpg"/>
+
+				<dc:description>Meerkats are comical, social mongooses widely distributed throughout southern Africa; they’re also one of the <a href="/nature/places/Africa">continent’s</a> most popular and charismatic animals. They emerge from their family burrows early each morning, to engage in a spot of basking and grooming. This is followed by a day spent foraging for <a href="/nature/life/Insect">insects</a>.
+<br/>
+<br/>
+Each member of the group forages individually while at least one member will act as a <a href="/nature/adaptations/Antipredator_adaptation">sentry</a>, standing on its hind legs at a good vantage point. The sentries remain at their posts for hours at a time, regularly <a href="/nature/adaptations/Hearing_(sense)">alerting the group</a> to potential dangers with little squeaks.
+<br/>
+<br/>
+<b>Did you know?</b><br/>A group of meerkats is called a mob, gang or clan.
+<br/>
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Meerkat"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Mongoose#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Meerkat#name">
+				<rdfs:label>Suricata suricatta</rdfs:label>
+				        <wo:commonName>Meerkat</wo:commonName>
+        								<wo:commonName>Slender-tailed mongoose</wo:commonName>
+						<wo:commonName>Suricate</wo:commonName>
+								<wo:scientificName>suricattasuricatta</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Herpestidae</wo:familyName><wo:genusName>Suricata</wo:genusName><wo:speciesName>suricatta</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/me/meerkat/meerkat_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Meerkat#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/me/meerkat/meerkat_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00nlys4#programme">
+			<dc:title>Mastering a menu</dc:title>
+			<po:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f3h6l#programme">
+			<dc:title>Strength in numbers</dc:title>
+			<po:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003c3b2#programme">
+			<dc:title>Morning warm up</dc:title>
+			<po:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/mm32-18.mp3">
+			<dc:title>Meerkat alarm call when sighting a jackal</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/mm32-21.mp3">
+			<dc:title>Meerkat alarm call when sighting a hawk</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/mm33-04.mp3">
+			<dc:title>Meekat growling aggressively</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/mm33-06.mp3">
+			<dc:title>Meerkat feeding</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/mm33-13.mp3">
+			<dc:title>Meerkat baby calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/mm33-16.mp3">
+			<dc:title>Meekat war cries</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/sm8-01.mp3">
+			<dc:title>Meekat on guard</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/me/meerkat/sm8-02.mp3">
+			<dc:title>Meerkats grooming and playing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Meerkat#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Meerkat">
+		<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Suricata_suricatta.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Suricata_suricatta/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://nationalzoo.si.edu/Animals/SmallMammals/fact-meerkat.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/meerkat/suricata-suricatta/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kalahari-meerkats.com/index.php?id=current-research">
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/nature-online/species-of-the-day/common-species/suricata-suricatta/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24479274">
+			<dc:title>Meerkats 'pay rent' to top female</dc:title>
+			<dc:description>Some subordinate female meerkats wet-nurse a dominant female's offspring in exchange for not being evicted from the group, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-kent-13564895">
+			<dc:title>In pictures: Kent's new arrivals</dc:title>
+			<dc:description>Spring has sprung at Kent's animal parks. Babies have arrived at both Port Lympne near Hythe and Howletts near Canterbury.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9149000/9149950.stm">
+			<dc:title>Bird-mimics steal meerkats' food</dc:title>
+			<dc:description>Drongos in the Kalahari mimic the alarm calls of other species in order to steal food from meerkats, scientists find. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/isleofman/hi/people_and_places/nature/newsid_9084000/9084010.stm">
+			<dc:title>Compare the Meerkats at Manx park</dc:title>
+			<dc:description>Three tiny baby meerkats are already proving a hit with visitors at the Curragh's Wildlife Park on the Isle of Man.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/bristol/hi/people_and_places/nature/newsid_8963000/8963564.stm">
+			<dc:title>Bristol Zoo's meerkat manor plan</dc:title>
+			<dc:description>Bosses at Bristol Zoo reveal plans for a new £500,000 meerkat enclosure which could open as soon as spring 2011.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10728823">
+			<dc:title>Unlocking meerkats' alarm calls</dc:title>
+			<dc:description>A study sheds light on how certain alarm cries made by meerkats are more effective at alerting other members of the group to possible dangers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/10529154">
+			<dc:title>Meerkat groups have 'traditions'</dc:title>
+			<dc:description>Meerkat groups </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8406000/8406253.stm">
+			<dc:title>In Pictures: Maturing meerkats</dc:title>
+			<dc:description>Compelling photographs from a long term study on meerkats in the Kalahari, Southern Africa have been released by researchers as part of their study on how ageing affects reproduction in animals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Meerkat#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Suricata</rdfs:label><wo:species rdf:resource="/nature/life/Meerkat#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Mongoose#family"><rdfs:label>Herpestidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Eurasian_Beaver">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Eurasian_Beaver#species">
+				<rdfs:label>European beaver</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Eurasian_Beaver#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_beaver/eurasian_beaver_1.jpg"/>
+
+				<dc:description>European beavers have come back from the edge of extinction. These large rodents were found all across <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> and <a href="http://www.bbc.co.uk/nature/places/Asia">Asia</a> until the beginning of the 20th century when numbers in the wild were estimated at around 1,000 - unfortunately beavers were highly prized for their fur and castoreum, the chemical they use for marking <a href="http://www.bbc.co.uk/nature/adaptations/Territory_(animal)">territory</a>, <a href="http://www.bbc.co.uk/nature/adaptations/Semiochemical">communicating</a> and water-proofing. Programmes of reintroduction and protection have seen beaver populations re-establish, most recently in Scotland following their reintroduction in 2001. As with their <a href="http://www.bbc.co.uk/nature/life/North_American_Beaver">American cousins</a>, Europe's beavers can have a tremendous impact on ecosystems, as they build dams that alter water flow and depth.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eurasian_Beaver"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Coprophagia#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00mr6nq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Eurasian_Beaver.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Beaver#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Castoridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Eurasian_Beaver#name">
+				<rdfs:label>Castor fiber</rdfs:label>
+				        <wo:commonName>European beaver</wo:commonName>
+        								<wo:commonName>Eurasian beaver</wo:commonName>
+								<wo:scientificName>fiberfiber</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Castoridae</wo:familyName><wo:genusName>Castor</wo:genusName><wo:speciesName>fiber</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/eurasian_beaver/eurasian_beaver_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/eurasian_beaver/eurasian_beaver_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015rvd8#programme">
+			<dc:title>Beavers in the woods</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ksrjv#programme">
+			<dc:title>Beaver bait</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kscsv#programme">
+			<dc:title>Beaver canal</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ksc2b#programme">
+			<dc:title>Beaver's favourite</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hj4fs#programme">
+			<dc:title>Scottish beaver healthchecks</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hj4f5#programme">
+			<dc:title>Dam maintenance</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hj4cj#programme">
+			<dc:title>First sight</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hj4bt#programme">
+			<dc:title>Beaver tree felling</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hdp7s#programme">
+			<dc:title>Thermal imagery of a beaver</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g90by#programme">
+			<dc:title>What makes a beaver?</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g907z#programme">
+			<dc:title>A beaver's history of Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g8xgm#programme">
+			<dc:title>British beaver's return</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bfy32#programme">
+			<dc:title>Whizzy the Beaver</dc:title>
+			<po:subject rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eurasian_Beaver">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Castor_fiber.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/eurasian-beaver/castor-fiber/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.lhnet.org/eurasian-beaver/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.scotsbeavers.org/otherwl.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.scottishbeavers.org.uk/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.treesforlife.org.uk/tfl.eb.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/blogs-magazine-monitor-26122318">
+			<dc:title>Who, What, Why: Do beavers prevent flooding?</dc:title>
+			<dc:description>After heavy flooding across southern England, there are calls for beavers to be reintroduced. Would they help?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-devon-23332669">
+			<dc:title>Beaver spotted living in Devon river</dc:title>
+			<dc:description>A beaver is regularly seen along the River Otter in Devon by a woman out walking her dogs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eurasian_Beaver#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Coprophagia#adaptation">
+					<rdfs:label>Dung eater</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00mr6nq#collection">
+				<dc:title>Nature: Behind the Scenes</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Eurasian_Beaver.gif">
+		<dc:title>Map showing the distribution of the European beaver species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Beaver#genus"><rdfs:label>Castor</rdfs:label><wo:species rdf:resource="/nature/life/Eurasian_Beaver#species"/><wo:species rdf:resource="/nature/life/North_American_Beaver#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Castoridae#family"><rdfs:label>Castoridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

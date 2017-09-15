@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Western_Capercaillie">
+		<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Western_Capercaillie#species">
+				<rdfs:label>Capercaillie</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Western_Capercaillie#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/western_capercaillie/western_capercaillie_1.jpg"/>
+
+				<dc:description>Capercaillies found in Scottish woodlands are the biggest species of grouse in the world. They also live in Spain, central Europe, Scandinavia and across Russia to northern Asia. The Scottish population was introduced from Sweden in the 19th century after the local birds became extinct.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Western_Capercaillie"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Tetrao#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Phasianidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Galliformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Western_Capercaillie#name">
+				<rdfs:label>Tetrao urogallus</rdfs:label>
+				        <wo:commonName>Capercaillie</wo:commonName>
+        										<wo:scientificName>urogallusurogallus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Galliformes</wo:orderName><wo:familyName>Phasianidae</wo:familyName><wo:genusName>Tetrao</wo:genusName><wo:speciesName>urogallus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/western_capercaillie/western_capercaillie_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/we/western_capercaillie/western_capercaillie_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00wwpbd#programme">
+			<dc:title>A rare encounter with a capercaillie</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085bs3#programme">
+			<dc:title>Courting capers </dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hfnc#programme">
+			<dc:title>Power struggles</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/w/we/western_capercaillie/5016206.mp3">
+			<dc:title>A male capercaillie courtship display</dc:title>
+			<dc:subject rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Western_Capercaillie">
+		<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.aigas.co.uk/Capercaillie-ecology-g.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/capercaillie/tetrao-urogallus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/ourwork/conservation/species/casestudies/capercaillie.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/c/capercaillie/index.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-17130777">
+			<dc:title>Pine marten fear for capercaillie</dc:title>
+			<dc:description>Gamekeepers are warning capercaillie could be lost from Scotland for a second time, unless steps are taken to control pine marten numbers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/south_of_scotland/7750138.stm">
+			<dc:title>Target set for rare bird numbers</dc:title>
+			<dc:description>Conservation bodies are to work together in a bid to raise the numbers of capercaillie to a target of 5,000 individual birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/7274007.stm">
+			<dc:title>Rare birds in danger from tourism</dc:title>
+			<dc:description>Researchers have warned that winter sports tourism is raising stress levels among rare capercaillie birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/4285797.stm">
+			<dc:title>Legal threat over bird's decline</dc:title>
+			<dc:description>The Scottish Executive could face legal action over claims it is protecting the rare capercaillie from extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/3829929.stm">
+			<dc:title>Capercaillie numbers 'double'</dc:title>
+			<dc:description>Conservation campaigners are delighted that Capercaillie numbers have doubled in the past five years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/3250606.stm">
+			<dc:title>Droppings hold capercaillie clues</dc:title>
+			<dc:description>The droppings of the endangered capercaillie are to be studied by researchers hoping to find a way to save the bird.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Capercaillie#species"/>
+		</foaf:Document>
+			
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Tetrao#genus"><rdfs:label>Tetrao</rdfs:label><wo:species rdf:resource="/nature/life/Western_Capercaillie#species"/><wo:species rdf:resource="/nature/life/Black_Grouse#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Phasianidae#family"><rdfs:label>Phasianidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Galliformes#order"><rdfs:label>Galliformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

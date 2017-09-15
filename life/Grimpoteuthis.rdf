@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Grimpoteuthis">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Grimpoteuthis#genus">
+				<rdfs:label>Dumbo octopuses</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Grimpoteuthis#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/grimpoteuthis/grimpoteuthis_1.jpg"/>
+
+				<dc:description>Dumbo octopuses are so named for their likeness to the Disney elephant character. They live deep down in the ocean and and can be found at depths ranging from 400 metres down to as much as 4,800 metres. They hover a short distance above the sea bed while they look for prey. Eighteen species of dumbo octopuses have so far been discovered. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Grimpoteuthis"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Grimpoteuthis.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Umbrella_octopus#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Octopus#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Grimpoteuthis#name">
+				<rdfs:label>Grimpoteuthis</rdfs:label>
+				        <wo:commonName>Dumbo octopuses</wo:commonName>
+        										<wo:scientificName>Grimpoteuthis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Octopoda</wo:orderName><wo:familyName>Opisthoteuthidae</wo:familyName><wo:genusName>Grimpoteuthis</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/grimpoteuthis/grimpoteuthis_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/grimpoteuthis/grimpoteuthis_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hn4zc#programme">
+			<dc:title>Dumbo octopus</dc:title>
+			<po:subject rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038vkm#programme">
+			<dc:title>Deep secrets</dc:title>
+			<po:subject rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Grimpoteuthis">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Grimpoteuthis.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Grimpoteuthis">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Grimpoteuthis_Genus.asp">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Grimpoteuthis#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Grimpoteuthis.gif">
+		<dc:title>Map showing the distribution of the Dumbo octopuses genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Umbrella_octopus#family"><rdfs:label>Opisthoteuthidae</rdfs:label><wo:genus rdf:resource="/nature/life/Grimpoteuthis#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Octopus#order"><rdfs:label>Octopoda</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

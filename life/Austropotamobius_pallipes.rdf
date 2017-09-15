@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Austropotamobius_pallipes">
+		<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Austropotamobius_pallipes#species">
+				<rdfs:label>White-clawed crayfish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Austropotamobius_pallipes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/au/austropotamobius_pallipes/austropotamobius_pallipes_1.jpg"/>
+
+				<dc:description>White-clawed crayfish, Britain's only native freshwater crayfish, are under serious threat from an American invader. The introduced signal crayfish has had devastating effects, both out-competing the natives and carrying a deadly fungus against which the white-claw has no defence. Looking much like minature lobsters, they hide away under rocks and logs during the day, emerging at night to prey on larvae, snails and plants. Despite the threats, large populations can still be found in clean, well-oxygenated rivers and lakes across Europe.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Austropotamobius_pallipes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Austropotamobius_pallipes.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Austropotamobius#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Astacidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Decapoda#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Malacostraca#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Austropotamobius_pallipes#name">
+				<rdfs:label>Austropotamobius pallipes</rdfs:label>
+				        <wo:commonName>White-clawed crayfish</wo:commonName>
+        								<wo:commonName>Atlantic stream crayfish</wo:commonName>
+						<wo:commonName>Freshwater white-clawed crayfish</wo:commonName>
+								<wo:scientificName>pallipespallipes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Malacostraca</wo:className><wo:orderName>Decapoda</wo:orderName><wo:familyName>Astacidae</wo:familyName><wo:genusName>Austropotamobius</wo:genusName><wo:speciesName>pallipes</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/au/austropotamobius_pallipes/austropotamobius_pallipes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/au/austropotamobius_pallipes/austropotamobius_pallipes_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0084ry3#programme">
+			<dc:title>Crayfish whisperer</dc:title>
+			<po:subject rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yy36#programme">
+			<dc:title>Rare natives</dc:title>
+			<po:subject rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Austropotamobius_pallipes">
+		<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/freshwater-white-clawed-crayfish/austropotamobius-pallipes/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bristolzoo.org.uk/whiteclawed-crayfish">
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.buglife.org.uk/conservation/currentprojects/Species+Action/Conserving+our+Crayfish">
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.environment-agency.gov.uk/homeandleisure/recreation/fishing/38055.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.worcswildlifetrust.co.uk/files/uploaded/crayfish.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-somerset-19551327">
+			<dc:title>Rare crayfish released into wild</dc:title>
+			<dc:description>About 80 white-clawed crayfish are released into the wild at a secret location in North Somerset.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/8219610.stm">
+			<dc:title>'Ark' to save threatened crayfish</dc:title>
+			<dc:description>A safe haven to protect crayfish in East Anglian rivers under threat from American invaders is established by the Environment Agency.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/bristol/8636924.stm">
+			<dc:title>Bristol conservationists urge UK crayfish protection</dc:title>
+			<dc:description>Bristol conservationists urge people to dry fishing equipment to stop the spread of a plague that kills an endangered type of crayfish.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/south_east/7582260.stm">
+			<dc:title>Native crayfish faces US threat</dc:title>
+			<dc:description>Large American crayfish which carry disease are taking over the river habitat of an endangered native crayfish.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-northamptonshire-10968223">
+			<dc:title>Study of crayfish in Northamptonshire and Lincolnshire</dc:title>
+			<dc:description>A study into the health of populations of Britain's only native crayfish is taking place in Northamptonshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Austropotamobius_pallipes#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Austropotamobius_pallipes.gif">
+		<dc:title>Map showing the distribution of the White-clawed crayfish species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Austropotamobius#genus"><rdfs:label>Austropotamobius</rdfs:label><wo:species rdf:resource="/nature/life/Austropotamobius_pallipes#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Astacidae#family"><rdfs:label>Astacidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Decapoda#order"><rdfs:label>Decapoda</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Malacostraca#class"><rdfs:label>Malacostraca</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Norfolk_Hawker">
+		<foaf:primaryTopic rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Norfolk_Hawker#species">
+				<rdfs:label>Norfolk hawker</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Norfolk_Hawker#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/norfolk_hawker/norfolk_hawker_1.jpg"/>
+
+				<dc:description>Norfolk hawkers are one of the first dragonflies to emerge on the wing, between May and August. They are one of only two brown hawkers found in <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a>, the other being the more common brown hawker. Norfolk hawkers stand out in areas crowded with other dragonflies because of the yellow triangle on their abdomen and very prominent green eyes. In Britain, this small hawker is rather scarce living in and around the wet areas of the Norfolk Broads. Here the waters are clean and unpolluted, with a rich covering of plants to rest on and space in which to hunt.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Norfolk_Hawker"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Norfolk_Hawker.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Vernal_pool#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Aeshna#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Aeshnidae#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Dragonfly#infraorder"/>
+                                                        <wo:order rdf:resource="/nature/life/Odonata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Norfolk_Hawker#name">
+				<rdfs:label>Aeshna isoceles</rdfs:label>
+				        <wo:commonName>Norfolk hawker</wo:commonName>
+        								<wo:commonName>Green-eyed hawker</wo:commonName>
+								<wo:scientificName>isocelesisoceles</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Odonata</wo:orderName><wo:infraorderName>Anisoptera</wo:infraorderName><wo:familyName>Aeshnidae</wo:familyName><wo:genusName>Aeshna</wo:genusName><wo:speciesName>isoceles</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/norfolk_hawker/norfolk_hawker_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/no/norfolk_hawker/norfolk_hawker_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087j47#programme">
+			<dc:title>Chase, dart, skim or hawk?</dc:title>
+			<po:subject rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Norfolk_Hawker">
+		<foaf:primaryTopic rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.dragonflysoc.org.uk/aeiso.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dragonflysoc.org.uk/mffanisofull.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.norfolkwildlifetrust.org.uk/Documents/Species-Leaflets/WF_Norfolk_Hawker.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.norfolkwildlifetrust.org.uk/Wildlife-in-Norfolk/Species/Freshwater-Invertebrates/Norfolk-Hawker.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Norfolk_Hawker#species"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Vernal_pool#habitat">
+					<rdfs:label>Temporary pools</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Norfolk_Hawker.gif">
+		<dc:title>Map showing the distribution of the Norfolk hawker species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Aeshna#genus"><rdfs:label>Aeshna</rdfs:label><wo:species rdf:resource="/nature/life/Norfolk_Hawker#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Aeshnidae#family"><rdfs:label>Aeshnidae</rdfs:label></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Dragonfly#infraorder"><rdfs:label>Anisoptera</rdfs:label></wo:Infraorder><wo:Order rdf:about="/nature/order/Odonata#order"><rdfs:label>Odonata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

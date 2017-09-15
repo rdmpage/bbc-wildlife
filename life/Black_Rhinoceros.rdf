@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Black_Rhinoceros">
+		<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Black_Rhinoceros#species">
+				<rdfs:label>Black rhinoceros</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Black_Rhinoceros#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/black_rhinoceros/black_rhinoceros_1.jpg"/>
+
+				<dc:description>Black rhinoceroses are about the same height at the shoulder as African buffalos. However, they are twice as heavy. Despite their weight, they are nimble on their feet, and can run at 50kph and make sharp turns at a gallop. Black rhinoceroses are the best known of the five living rhinoceros species, owing to their inquisitive and often aggressive nature towards other animals and to the high-profile conservation efforts that have stabilised and allowed partial recovery of populations in a number of countries.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Black_Rhinoceros"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3b8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Rhinoceros#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Black_Rhinoceros#name">
+				<rdfs:label>Diceros bicornis</rdfs:label>
+				        <wo:commonName>Black rhinoceros</wo:commonName>
+        								<wo:commonName>Hook-lipped rhinoceros</wo:commonName>
+								<wo:scientificName>bicornisbicornis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Perissodactyla</wo:orderName><wo:familyName>Rhinocerotidae</wo:familyName><wo:genusName>Diceros</wo:genusName><wo:speciesName>bicornis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bl/black_rhinoceros/black_rhinoceros_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bl/black_rhinoceros/black_rhinoceros_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p014q0fs#programme">
+			<dc:title>Sir David and the baby rhino</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zmdg#programme">
+			<dc:title>Secret rhino parties</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zgtn#programme">
+			<dc:title>Flirty rhino failure</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4d7x#programme">
+			<dc:title>Tracking rhinos</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004rfl5#programme">
+			<dc:title>Rhino release</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004rfkv#programme">
+			<dc:title>Rhino relocation</dc:title>
+			<po:subject rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/bl/black_rhinoceros/mp15067-02.mp3">
+			<dc:title>A black rhino's grunting roar</dc:title>
+			<dc:subject rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Black_Rhinoceros">
+		<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Diceros_bicornis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://wwf.panda.org/what_we_do/endangered_species/rhinoceros/african_rhinos/black_rhinoceros/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/black-rhinoceros/diceros-bicornis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/39319/0/full">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rhinoresourcecenter.com/species/black-rhino/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rhinos-irf.org/black/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22441199">
+			<dc:title>Dung science causes rhino baby boom</dc:title>
+			<dc:description>Scientists at Chester Zoo say they have increased the reproductive success of their critically endangered black rhinos - by analysing the animals' dung. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-18489579">
+			<dc:title>Prince hits out at rhino poachers</dc:title>
+			<dc:description>The Duke of Cambridge calls for action to stop the illegal trade in rhino horns, warning that the animals are being slaughtered at such a rate they could soon be extinct.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15663982">
+			<dc:title>No rhinos remain in West Africa</dc:title>
+			<dc:description>The western black rhino in Africa has been declared extinct by the latest assessment of threatened species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9451000/9451460.stm">
+			<dc:title>Zimbabwe's rhino rescuer honoured</dc:title>
+			<dc:description>A conservationist who has protected the Critically Endangered black rhino is awarded the 2011 Goldman Environmental Prize. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9116000/9116106.stm">
+			<dc:title>Rhino GPS used to deter poachers</dc:title>
+			<dc:description>Rhinos in South Africa are fitted with a Global Positioning System (GPS) device to help protect them from poachers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/devon/hi/people_and_places/nature/newsid_8908000/8908964.stm">
+			<dc:title>In pictures: Zuri the black rhino at Paignton Zoo</dc:title>
+			<dc:description>Four women who became friends thanks to BBC Devon's Paignton Zoo rhino webcam meet up for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Black_Rhinoceros#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3b8#collection">
+				<dc:title>Jonathan Scott: a wild life in Africa</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Diceros</rdfs:label><wo:species rdf:resource="/nature/life/Black_Rhinoceros#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Rhinoceros#family"><rdfs:label>Rhinocerotidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Odd-toed_ungulate#order"><rdfs:label>Perissodactyla</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

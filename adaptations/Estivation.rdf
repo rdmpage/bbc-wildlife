@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/adaptations/Estivation">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		<rdfs:seeAlso rdf:resource="/nature/adaptations"/>
+	</rdf:Description>
+
+		<wo:SurvivalStrategy rdf:about="/nature/adaptations/Estivation#adaptation">
+				<rdfs:label>Aestivation</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/es/estivation/estivation_1.jpg"/>
+
+				<dc:description>Aestivation is a period of deep and prolonged sleep, or torpor, that occurs in the summer or dry season in response to heat and drought. Food can often be scarce at such times, so animals avoid using up hard won energy reserves by lowering their metabolic rate. This reduces the need for food and water during hard times, ensuring longer-term survival.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Estivation"/>
+		
+		
+				
+									
+				
+				
+        
+
+					</wo:SurvivalStrategy>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/es/estivation/estivation_1.jpg">
+		<foaf:depicts rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/es/estivation/estivation_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fbztp#programme">
+			<dc:title>A quiet summer home</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00715k1#programme">
+			<dc:title>Underground crocs</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006fdc0#programme">
+			<dc:title>Desert amphibians</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Estivation">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="S">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="E">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="E">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Estivation#adaptation"/>
+		</foaf:Document>
+			
+					
+		
+																				
+	
+								
+		
+
+
+
+
+	
+	
+					    		    		<wo:Species rdf:about="/nature/life/Gopherus_polyphemus#species">
+    			<rdfs:label>Gopher tortoise</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Estivation#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Long-eared_Hedgehog#species">
+    			<rdfs:label>Long-eared hedgehog</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Estivation#adaptations"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Nile_crocodile#species">
+    			<rdfs:label>Nile crocodile</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Estivation#adaptations"/>
+    		</wo:Species>
+    					
+		    
+</rdf:RDF>

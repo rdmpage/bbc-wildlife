@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Sea_turtle">
+		<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Sea_turtle#family">
+				<rdfs:label>Sea turtles</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Sea_turtle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_turtle/sea_turtle_1.jpg"/>
+
+				<dc:description>There are seven species of sea turtle, all of which are listed on the IUCN Red List of Endangered Species. The cheloniidae family includes all the sea turtles apart from the leatherback. Sea turtles can live up to 80 years and spend most of their lives submerged. 
+<br />
+<br />
+They mate at sea and the females come ashore to <a href="/nature/adaptations/Oviparity">lay their eggs</a> in nests dug into the sand. A hatchling’s gender is dependent on the temperature of the sand and there is concern that climate change will affect sea turtle populations as warmer temperatures may cause an increase in the proportion of hatching female turtles and a decrease in the number of males.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sea_turtle"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Turtle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Sea_turtle#name">
+				<rdfs:label>Cheloniidae</rdfs:label>
+				        <wo:commonName>Sea turtles</wo:commonName>
+        										<wo:scientificName>Cheloniidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Testudines</wo:orderName><wo:familyName>Cheloniidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_turtle/sea_turtle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Sea_turtle#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/se/sea_turtle/sea_turtle_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sea_turtle">
+		<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cheloniidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.conserveturtles.org/seaturtleinformation.php?page=species_id">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.conserveturtles.org/seaturtleinformation.php?page=threats">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mcsuk.org/downloads/wildlife/turtlecode.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-26435342">
+			<dc:title>Satellites track turtle 'lost years'</dc:title>
+			<dc:description>Scientists using satellite tracking finally have some data on where very young loggerhead turtles go once they leave Florida and the Gulf of Mexico.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22715018">
+			<dc:title>Fossil shows how turtle got a shell</dc:title>
+			<dc:description>How the turtle shell evolved has puzzled scientists for years, but new research sheds light on how their hard shells were formed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-22140670">
+			<dc:title>Puerto Rico moves to protect turtles</dc:title>
+			<dc:description>Puerto Rico introduces a new law protecting a swathe of the island's coast that has become a major nesting site for the leatherback turtle.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21261584">
+			<dc:title>Rare turtle's sex life revealed</dc:title>
+			<dc:description>The sex lives of critically endangered hawksbill turtles have been revealed by scientists studying the animals in the Seychelles. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-19077771">
+			<dc:title>Endangered turtles released into sea</dc:title>
+			<dc:description>Nearly 1,000 endangered turtles are released back into the sea as part of a Thai conservation campaign to save them from extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18600199">
+			<dc:title>Manicured turtles in science swim</dc:title>
+			<dc:description>Scientists tracking hatchling loggerhead turtles into the North Atlantic resort to nail salon techniques to help fit tiny satellite tags to them.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Sea_turtle#family"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Turtle#order"><rdfs:label>Testudines</rdfs:label><wo:family rdf:resource="/nature/life/Sea_turtle#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Pelomedusidae#family"/><wo:family rdf:resource="/nature/life/Tortoise#family"/></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Green_sea_turtle#family"><rdfs:label>Green sea turtle</rdfs:label><wo:family rdf:resource="/nature/life/Sea_turtle#family"/></wo:Species><wo:Species rdf:about="/nature/life/Olive_Ridley#family"><rdfs:label>Olive ridley turtle</rdfs:label><wo:family rdf:resource="/nature/life/Sea_turtle#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

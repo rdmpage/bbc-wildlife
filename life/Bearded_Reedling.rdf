@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Bearded_Reedling">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Bearded_Reedling#species">
+				<rdfs:label>Bearded tit</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Bearded_Reedling#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/bearded_reedling/bearded_reedling_1.jpg"/>
+
+				<dc:description>Bearded tits are particularly vulnerable to long cold winters, when populations can be reduced to mere handfuls. Thankfully populations recover successfully after milder ones. The arrival of spring also brings its own problems as flooding can wash away their nests.
+<br />
+<br />
+Their common name is quite misleading as they do not have beards, though the males do sport markings that look rather like a moustache. They are also no longer assigned to the tit family! Bearded tits are wetland specialists, that breed in the reed beds and swamps of Europe and Asia. There are around 500 pairs in the UK found in south and east England.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bearded_Reedling"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bt4d3#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Panurus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Panuridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Bearded_Reedling#name">
+				<rdfs:label>Panurus biarmicus</rdfs:label>
+				        <wo:commonName>Bearded tit</wo:commonName>
+        								<wo:commonName>Bearded parrotbill</wo:commonName>
+						<wo:commonName>Bearded reedling </wo:commonName>
+								<wo:scientificName>biarmicusbiarmicus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Panuridae</wo:familyName><wo:genusName>Panurus</wo:genusName><wo:speciesName>biarmicus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/bearded_reedling/bearded_reedling_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/be/bearded_reedling/bearded_reedling_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015rtzh#programme">
+			<dc:title>Feeding bearded tits</dc:title>
+			<po:subject rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yxzf#programme">
+			<dc:title>Grit for tits</dc:title>
+			<po:subject rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/b/be/bearded_reedling/5099117.mp3">
+			<dc:title>Bearded tit calling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bearded_Reedling">
+		<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Panurus_biarmicus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob13640.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/bearded-parrotbill/panurus-biarmicus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=133001">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/bearded-tit.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/b/beardedtit/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/tayside_and_central/8106570.stm">
+			<dc:title>Bearded tit family make new home</dc:title>
+			<dc:description>An Angus nature reserve has welcomed a new family of birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/lancashire/6189634.stm">
+			<dc:title>Rare white bearded tit spotted</dc:title>
+			<dc:description>Wildlife experts have been surprised by the sighting of what they said was a "mysterious" white bird at a nature reserve in north Lancashire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Bearded_Reedling#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bt4d3#collection">
+				<dc:title>Garden birds</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Panurus#genus"><rdfs:label>Panurus</rdfs:label><wo:species rdf:resource="/nature/life/Bearded_Reedling#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Panuridae#family"><rdfs:label>Panuridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

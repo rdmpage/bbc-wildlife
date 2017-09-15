@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Dracaena_cinnabari">
+		<foaf:primaryTopic rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Dracaena_cinnabari#species">
+				<rdfs:label>Dragon's blood tree</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Dracaena_cinnabari#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/dr/dracaena_cinnabari/dracaena_cinnabari_1.jpg"/>
+
+				<dc:description>Dragon's blood trees are a distinctive and slow-growing species of dragon tree native to the Socotra archipelago off the horn of Africa. The famous red resin that gives it its name is exuded from the bark after wounding. The medicinal and colouring properties of this resin, and that from other dragon trees, was recorded by the ancient civilisations of Greece and Rome. It continues to be used in medicine, dyes, varnish and incense to this day.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Dracaena_cinnabari"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Dracaena_cinnabari.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Asparagaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Asparagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Dracaena_cinnabari#name">
+				<rdfs:label>Dracaena cinnabari</rdfs:label>
+				        <wo:commonName>Dragon's blood tree</wo:commonName>
+        								<wo:commonName>Socotra dragon tree</wo:commonName>
+								<wo:scientificName>cinnabaricinnabari</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Asparagales</wo:orderName><wo:familyName>Asparagaceae</wo:familyName><wo:genusName>Dracaena</wo:genusName><wo:speciesName>cinnabari</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/dr/dracaena_cinnabari/dracaena_cinnabari_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/dr/dracaena_cinnabari/dracaena_cinnabari_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005frls#programme">
+			<dc:title>Dragon's blood and roses</dc:title>
+			<po:subject rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Dracaena_cinnabari">
+		<foaf:primaryTopic rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.botanical.com/botanical/mgmh/d/dragon20.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/30428/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Plants/D/Dracaena_cinnabari/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/4663194.stm">
+			<dc:title>Dragon's blood trees come to city</dc:title>
+			<dc:description>Unique dragon's blood and cucumber trees from remote islands in the Indian Ocean are to form the centrepiece of a major exhibition in Edinburgh.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Dracaena_cinnabari#species"/>
+		</foaf:Document>
+			
+											<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Dracaena_cinnabari.gif">
+		<dc:title>Map showing the distribution of the Dragon's blood tree species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Dracaena</rdfs:label><wo:species rdf:resource="/nature/life/Dracaena_cinnabari#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Asparagaceae#family"><rdfs:label>Asparagaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Asparagales#order"><rdfs:label>Asparagales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

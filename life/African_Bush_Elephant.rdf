@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/African_Bush_Elephant">
+		<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/African_Bush_Elephant#species">
+				<rdfs:label>African bush elephant</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/African_Bush_Elephant#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/af/african_bush_elephant/african_bush_elephant_1.jpg"/>
+
+				<dc:description>African bush elephants are the largest living land mammals and the second tallest after the <a href="/nature/life/Giraffe">giraffe</a>. The biggest ever recorded was a bull that weighed 10 tonnes and stood 4m at the shoulder. The large ears, formidable tusks and strong trunk all add to their physically striking appearance.
+<br />
+<br />
+African elephants have remarkably complex and interesting social lives. Their society is guided by the oldest female called a matriarch. She determines when they eat, rest, bathe and drink. Since <a href="/nature/life/African_Forest_Elephant">forest elephants</a> were recognised as a separate species, African elephants have been referred to as savannah or bush elephants.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/African_Bush_Elephant"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Cooperative_breeding#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Coprophagia#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Seed_dispersal#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3b8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/African_elephant#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Elephantidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Proboscidea#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/African_Bush_Elephant#name">
+				<rdfs:label>Loxodonta africana</rdfs:label>
+				        <wo:commonName>African bush elephant</wo:commonName>
+        								<wo:commonName>Elephant</wo:commonName>
+								<wo:scientificName>africanaafricana</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Proboscidea</wo:orderName><wo:familyName>Elephantidae</wo:familyName><wo:genusName>Loxodonta</wo:genusName><wo:speciesName>africana</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/af/african_bush_elephant/african_bush_elephant_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/af/african_bush_elephant/african_bush_elephant_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012z504#programme">
+			<dc:title>Bull fight</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012z47t#programme">
+			<dc:title>Death in the family</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00qj48v#programme">
+			<dc:title>Honeybees defend nest</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00qj34x#programme">
+			<dc:title>Bee fence</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8dw0#programme">
+			<dc:title>A lot of bottle</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8dry#programme">
+			<dc:title>Elephant football</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8dqt#programme">
+			<dc:title>Dozing off</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f86nb#programme">
+			<dc:title>Mud bath</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f86gv#programme">
+			<dc:title>Back to the wild</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f5378#programme">
+			<dc:title>Big meeting</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4gh1#programme">
+			<dc:title>Tame elephants</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f474p#programme">
+			<dc:title>Close encounter</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f295b#programme">
+			<dc:title>Supermum</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097lr1#programme">
+			<dc:title>Ebony's arrival</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097lp6#programme">
+			<dc:title>Kidnapped calf</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097lmw#programme">
+			<dc:title>Prize bulls</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097l3f#programme">
+			<dc:title>Ely's arrival</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097l1c#programme">
+			<dc:title>Premature birth</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097kyl#programme">
+			<dc:title>Leftovers</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097kjn#programme">
+			<dc:title>Tournament</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097kcj#programme">
+			<dc:title>Mating pandemonium</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097k9f#programme">
+			<dc:title>Scarred for life</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0097hnt#programme">
+			<dc:title>Fragmented family</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008nmrh#programme">
+			<dc:title>Desert giants</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006m41z#programme">
+			<dc:title>Banded catnip</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006999s#programme">
+			<dc:title>Saving the seeds</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00698t5#programme">
+			<dc:title>Elephant scares cheetah</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0065m55#programme">
+			<dc:title>Glorious mud</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639nk#programme">
+			<dc:title>Marooned on a mountain</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lnml#programme">
+			<dc:title>Sat nav elephant</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lnk5#programme">
+			<dc:title>Love is in the air</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lmbb#programme">
+			<dc:title>Life's a Breeze</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005btbt#programme">
+			<dc:title>Elephant emotions</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005068d#programme">
+			<dc:title>Elephant spa</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005066m#programme">
+			<dc:title>Zambezi crossing</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vb0r#programme">
+			<dc:title>Granny saves the day</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jmbx#programme">
+			<dc:title>Salt miners</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382c5#programme">
+			<dc:title>Lions hunt elephants</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0037q58#programme">
+			<dc:title>Desert elephants</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0036vjj#programme">
+			<dc:title>Diving elephants</dc:title>
+			<po:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/a/af/african_bush_elephant/mp45044-06.mp3">
+			<dc:title>Elephants trumpeting</dc:title>
+			<dc:subject rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/African_Bush_Elephant">
+		<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Loxodonta_africana.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/african-elephant/loxodonta-africana/">
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.elephanttrust.org/node/278">
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=9785">
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.savetheelephants.org/tracking.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21279321">
+			<dc:title>Elephants 'try to avoid' humans</dc:title>
+			<dc:description>African elephants 'know' when they are in safe areas and become stressed when they leave them, according to a study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14106484">
+			<dc:title>Beehives stop elephant crop-raids</dc:title>
+			<dc:description>Innovative beehive fences help a community in Kenya to successfully protect crops from elephants, say researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/programmes/fast_track/9157005.stm">
+			<dc:title>Talking to the elephants in Botswana</dc:title>
+			<dc:description>Fast Track learns more about how elephants are being studied in Botswana.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7312442.stm">
+			<dc:title>'Cool' elephants caught on film</dc:title>
+			<dc:description>The tactics used by elephants to keep their cool in extreme desert heat have been caught on camera. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/African_Bush_Elephant#species"/>
+		</foaf:Document>
+			
+											<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Cooperative_breeding#adaptation">
+					<rdfs:label>Co-operative breeding</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Coprophagia#adaptation">
+					<rdfs:label>Dung eater</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:EcosystemRole rdf:about="/nature/adaptations/Seed_dispersal#adaptation">
+					<rdfs:label>Seed dispersal</rdfs:label>
+				</wo:EcosystemRole>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3b8#collection">
+				<dc:title>Jonathan Scott: a wild life in Africa</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/African_elephant#genus"><rdfs:label>Loxodonta</rdfs:label><wo:species rdf:resource="/nature/life/African_Bush_Elephant#species"/><wo:species rdf:resource="/nature/life/African_Forest_Elephant#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Elephantidae#family"><rdfs:label>Elephantidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Proboscidea#order"><rdfs:label>Proboscidea</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

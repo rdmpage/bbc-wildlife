@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Nymphalidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Nymphalidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Nymphalidae#family">
+				<rdfs:label>Brush-footed butterflies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Nymphalidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ny/nymphalidae/nymphalidae_1.jpg"/>
+
+				<dc:description>Nymphalidae is a family of butterflies with over 5,000 species, many of which are brightly coloured. It includes some well known species such as the monarch, red admiral, peacock and painted lady. Members of this family are widely distributed all over the world.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Nymphalidae"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Nymphalidae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Lepidoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Nymphalidae#name">
+				<rdfs:label>Nymphalidae</rdfs:label>
+				        <wo:commonName>Brush-footed butterflies</wo:commonName>
+        										<wo:scientificName>Nymphalidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Lepidoptera</wo:orderName><wo:familyName>Nymphalidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ny/nymphalidae/nymphalidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Nymphalidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/ny/nymphalidae/nymphalidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Nymphalidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Nymphalidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Nymphalidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Nymphalidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nymphalidae.net/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Nymphalidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Nymphalidae.gif">
+		<dc:title>Map showing the distribution of the Brush-footed butterflies family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Lepidoptera#order"><rdfs:label>Lepidoptera</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/><wo:family rdf:resource="/nature/life/Lycaenidae#family"/><wo:family rdf:resource="/nature/life/Swallowtail_butterfly#family"/><wo:family rdf:resource="/nature/life/Pieridae#family"/><wo:family rdf:resource="/nature/life/Sphingidae#family"/><wo:family rdf:resource="/nature/life/Arctiidae#family"/><wo:family rdf:resource="/nature/life/Zygaenidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Monarch_(butterfly)#family"><rdfs:label>Monarch butterfly</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Inachis_io#family"><rdfs:label>Peacock butterfly</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Vanessa_cardui#family"><rdfs:label>Painted lady</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Purple_Emperor#family"><rdfs:label>Purple emperor butterfly</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/High_Brown_Fritillary#family"><rdfs:label>High brown fritillary</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Gatekeeper_Butterfly#family"><rdfs:label>Gatekeeper butterfly</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Dark_Green_Fritillary#family"><rdfs:label>Dark green fritillary</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Marbled_White#family"><rdfs:label>Marbled white</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Marsh_Fritillary#family"><rdfs:label>Marsh fritillary</rdfs:label><wo:family rdf:resource="/nature/life/Nymphalidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

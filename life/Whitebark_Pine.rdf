@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Whitebark_Pine">
+		<foaf:primaryTopic rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Whitebark_Pine#species">
+				<rdfs:label>Whitebark pine</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Whitebark_Pine#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/whitebark_pine/whitebark_pine_1.jpg"/>
+
+				<dc:description>Whitebark pines are one of the world's five stone pine species. They are slow-growing and long-lived high altitude pines from the mountainous forests of northwest America. Where conditions are harsh and soils poor, the trees are dwarfed and grow close to the ground, but given favourable conditions, they can reach 25 metres in height. Seeds develop in the cone and are an important food source for many birds and mammals. Clark's nutcrackers harvest the seeds from within the cone and disperse them by caching them in locations ripe for germination.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Whitebark_Pine"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Whitebark_Pine.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Pinus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Pinaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pinales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Pinopsida#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Pinophyta#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Whitebark_Pine#name">
+				<rdfs:label>Pinus albicaulis</rdfs:label>
+				        <wo:commonName>Whitebark pine</wo:commonName>
+        								<wo:commonName>Creeping pine</wo:commonName>
+						<wo:commonName>Pitch pine</wo:commonName>
+						<wo:commonName>Scrub pine</wo:commonName>
+								<wo:scientificName>albicaulisalbicaulis</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Pinophyta</wo:phylumName><wo:className>Pinopsida</wo:className><wo:orderName>Pinales</wo:orderName><wo:familyName>Pinaceae</wo:familyName><wo:genusName>Pinus</wo:genusName><wo:speciesName>albicaulis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wh/whitebark_pine/whitebark_pine_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wh/whitebark_pine/whitebark_pine_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006txt9#programme">
+			<dc:title>Pine nut feast</dc:title>
+			<po:subject rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006txss#programme">
+			<dc:title>Pine nut stash</dc:title>
+			<po:subject rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006txrc#programme">
+			<dc:title>Under attack</dc:title>
+			<po:subject rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Whitebark_Pine">
+		<foaf:primaryTopic rdf:resource="/nature/species/Whitebark_Pine#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://plants.usda.gov/java/profile?symbol=PIAL">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/whitebark-pine/pinus-albicaulis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.for.gov.bc.ca/hfd/library/documents/TREEBOOK/whitebarkpine.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nrmsc.usgs.gov/research/whitebar.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.whitebarkfound.org/ecology.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Whitebark_Pine#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Whitebark_Pine.gif">
+		<dc:title>Map showing the distribution of the Whitebark pine species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Pinus#genus"><rdfs:label>Pinus</rdfs:label><wo:species rdf:resource="/nature/life/Whitebark_Pine#species"/><wo:species rdf:resource="/nature/life/Pinus_longaeva#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Pinaceae#family"><rdfs:label>Pinaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Pinales#order"><rdfs:label>Pinales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Pinopsida#class"><rdfs:label>Pinopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Pinophyta#phylum"><rdfs:label>Pinophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Primate">
+		<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Primate#order">
+				<rdfs:label>Primates</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Primate#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pr/primate/primate_1.jpg"/>
+
+				<dc:description>Primates are an order of mammals with features characteristic of tree-living ancestors, even in those species that now live on the ground. Lemurs, lorises, bush-babies, monkeys, apes and humans are all primates. Most primates live in the tropics and subtropics.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Primate"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Primate#name">
+				<rdfs:label>Primates</rdfs:label>
+														<wo:scientificName>Primates</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pr/primate/primate_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Primate#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pr/primate/primate_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkmp3#programme">
+			<dc:title>Helpful heritage</dc:title>
+			<po:subject rdf:resource="/nature/order/Primate#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk61z#programme">
+			<dc:title>Grin and grimace</dc:title>
+			<po:subject rdf:resource="/nature/order/Primate#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Primate">
+		<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Primates.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Primates/15963">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.primate-sg.org/T25full07.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.primates.com/welcome.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-26288351">
+			<dc:title>Tourism hope for threatened lemurs</dc:title>
+			<dc:description>The world's most threatened primate could be saved from extinction by eco-tourism according to conservationists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-26224813">
+			<dc:title>Monkey's brain moves sedated avatar</dc:title>
+			<dc:description>A monkey's brain has been used to control the movements of a sedated monkey, scientists report, raising hope for advances in overcoming paralysis.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-24566083">
+			<dc:title>Monkeys 'take turns in conversation'</dc:title>
+			<dc:description>Marmosets engage in what appears to be "polite conversation", taking it in turns to vocalise, according to researchers. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22770646">
+			<dc:title>Primate fossil is oldest yet found</dc:title>
+			<dc:description>A 55-million-year-old, mouse-sized fossil from China provides remarkable new insights into the origin of primates, the broad grouping of animals that also includes humans.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/20593634">
+			<dc:title>How Ebola virus affects primates</dc:title>
+			<dc:description>What do the latest studies concerning Ebola virus and primate populations tell us about the future of great apes?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16599909">
+			<dc:title>Odd primates you may have never heard of</dc:title>
+			<dc:description>Cute primates slow lorises are in decline as they are being traded illegally as pets, but there are other endangered primates you may never have heard of that are also vanishing.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/2011/12/the-origin-of-the-human-family.shtml">
+			<dc:title>The origin of the human family</dc:title>
+			<dc:description> An English family from days gone by Celebrating Christmas is often a family affair. Nan and Granddad, Mum, Dad and the kids, perhaps Uncle Charlie dropping by. It’s an...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15600357">
+			<dc:title>Primates leapt to social living</dc:title>
+			<dc:description>Primates' shift from nocturnal to daylight living probably spurred social groups and hint at the origins of human social behaviour, scientists report. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14562120">
+			<dc:title>Monkey baby stress lasts for life</dc:title>
+			<dc:description>Baby monkeys grew up anxious and anti-social after the stress of separation from their mothers, a study says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14379207">
+			<dc:title>Ancient primate fossil unearthed</dc:title>
+			<dc:description>Researchers working in Uganda say they have unearthed the well-preserved fossil skull of an ancient primate.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science+environment-10633640">
+			<dc:title>Fossil links humans and monkeys</dc:title>
+			<dc:description>Scientists find the skull of a 29 million-year-old primate, shedding light on when our evolutionary line diverged from monkeys. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10715787">
+			<dc:title>Divers find ancient monkey fossil</dc:title>
+			<dc:description>Divers find the fossilised bones of an ancient, tiny monkey in a cave in the Caribbean, revealing clues about the origin of primates there. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-10681635">
+			<dc:title>'Extinct' primate, slender loris, pictured in Sri Lanka</dc:title>
+			<dc:description>Researchers working in Sri Lanka take the first known photograph of a rare primate which was feared extinct. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8589000/8589551.stm">
+			<dc:title>Folk medicine poses global threat to primate species</dc:title>
+			<dc:description>Traditional folk medicine poses a significant and ongoing threat to the future of primates around the world.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8404000/8404535.stm">
+			<dc:title>Minuscule primate caught on film</dc:title>
+			<dc:description>The tiny spectral tarsier, one of the shortest and most primitive primates in the world, is caught on camera hunting at night in the jungle of Sulawesi, Indonesia.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8401000/8401487.stm">
+			<dc:title>Gibbon 'dating agency' saves apes</dc:title>
+			<dc:description>A gibbon dating agency is helping to successfully reintroduce once-captive apes into the forests of southeast Asia</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8370000/8370743.stm">
+			<dc:title>Grandmother monkeys care for baby</dc:title>
+			<dc:description>Grandmother macaques care for their abandoned grandchildren, behaviour not recorded before in non-human primates.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8271000/8271375.stm">
+			<dc:title>Safe havens for rarest primates
+</dc:title>
+			<dc:description>Two of the world's rarest primates are to be helped by the creation of new nature reserves in south-east Asia.
+</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8210000/8210355.stm">
+			<dc:title>Lemurs butchered in Madagascar </dc:title>
+			<dc:description>Shocking pictures of slaughtered lemurs killed for bush meat have been released by Conservation International.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/southernhighlandstanzania/stories/kipunji">
+			<dc:title>Kipunji: the new primate on the block</dc:title>
+			<dc:description>Felicity Egerton heads into the forests of Mount Rungwe to look for an unusual inhabitant.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7541192.stm">
+			<dc:title>Primates 'face extinction crisis'</dc:title>
+			<dc:description>A global review of the world's primates says 48% of species face extinction, an outlook described as 'depressing' by conservationists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Primate#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/><wo:order rdf:resource="/nature/life/Carnivora#order"/><wo:order rdf:resource="/nature/life/Bat#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Diprotodontia#order"/><wo:order rdf:resource="/nature/life/Soricomorpha#order"/><wo:order rdf:resource="/nature/life/Lagomorpha#order"/><wo:order rdf:resource="/nature/life/Macroscelidea#order"/><wo:order rdf:resource="/nature/life/Monotreme#order"/><wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Pholidota#order"/><wo:order rdf:resource="/nature/life/Proboscidea#order"/><wo:order rdf:resource="/nature/life/Rodent#order"/><wo:order rdf:resource="/nature/life/Sirenia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Afrosoricida#order"/><wo:order rdf:resource="/nature/life/Armadillo#order"/><wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Pilosa#order"/><wo:order rdf:resource="/nature/life/Leptictida#order"/><wo:order rdf:resource="/nature/life/Litopterna#order"/><wo:order rdf:resource="/nature/life/Mesonychid#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Pied_tamarin#order"><rdfs:label>Pied tamarin</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Species><wo:Genus rdf:about="/nature/life/Capuchin_monkey#order"><rdfs:label>Capuchin monkeys</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Genus><wo:Family rdf:about="/nature/life/Old_World_monkey#order"><rdfs:label>Old world monkeys</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Family><wo:Family rdf:about="/nature/life/Hominidae#order"><rdfs:label>Great apes</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Family><wo:Family rdf:about="/nature/life/Gibbon#order"><rdfs:label>Gibbons</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Family><wo:Genus rdf:about="/nature/life/Tarsier#order"><rdfs:label>Tarsiers</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Genus><wo:Species rdf:about="/nature/life/Brown_Woolly_Monkey#order"><rdfs:label>Common woolly monkey</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Species><wo:Genus rdf:about="/nature/life/Slow_loris#order"><rdfs:label>Slow lorises</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Genus><wo:Infraorder rdf:about="/nature/life/Lemur#order"><rdfs:label>Lemurs</rdfs:label><wo:order rdf:resource="/nature/life/Primate#order"/></wo:Infraorder>
+	
+	
+		    
+</rdf:RDF>

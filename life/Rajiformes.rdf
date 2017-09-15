@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Rajiformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Rajiformes#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Rajiformes#order">
+				<rdfs:label>Rays, skates and sawfish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Rajiformes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/rajiformes/rajiformes_1.jpg"/>
+
+				<dc:description>Rays, skates and sawfish make up the Rajiformes, an order of cartilaginous fish containing 12 families. Fish in this group generally have flat bodies and a large pectoral fin that forms a disc. The undulation of this fin propels the fish through the water. Though most are found in marine waters, there are some freshwater species - notably the river rays. Some species of stingray have a toxin which can be harmful, and even fatal, to humans.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rajiformes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Rajiformes.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Chondrichthyes#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Rajiformes#name">
+				<rdfs:label>Rajiformes</rdfs:label>
+				        <wo:commonName>Rays, skates and sawfish</wo:commonName>
+        										<wo:scientificName>Rajiformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Chondrichthyes</wo:className><wo:orderName>Rajiformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/rajiformes/rajiformes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Rajiformes#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ra/rajiformes/rajiformes_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rajiformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Rajiformes#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Rajiformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rajiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.elasmo-research.org/education/shark_profiles/rajiformes.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rajiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1858">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rajiformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fishbase.org/Summary/OrdersSummary.cfm?order=Rajiformes">
+			<foaf:primaryTopic rdf:resource="/nature/order/Rajiformes#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17258808">
+			<dc:title>Sawfish snout senses and swipes</dc:title>
+			<dc:description>The spectacular snouts of sawfish are revealed as complete hunting weapons - even as the creatures themselves head to extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Rajiformes#order"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Rajiformes.gif">
+		<dc:title>Map showing the distribution of the Rays, skates and sawfish order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Chondrichthyes#class"><rdfs:label>Chondrichthyes</rdfs:label><wo:order rdf:resource="/nature/life/Rajiformes#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Stingray#order"><rdfs:label>Stingrays</rdfs:label><wo:order rdf:resource="/nature/life/Rajiformes#order"/></wo:Family><wo:Species rdf:about="/nature/life/Manta_ray#order"><rdfs:label>Manta ray</rdfs:label><wo:order rdf:resource="/nature/life/Rajiformes#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

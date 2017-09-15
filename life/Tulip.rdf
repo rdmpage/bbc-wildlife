@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Tulip">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Tulip#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Tulip#genus">
+				<rdfs:label>Tulips</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Tulip#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/tulip/tulip_1.jpg"/>
+
+				<dc:description>With their beautifully bright cup or star-shaped blooms, it’s no wonder that tulips have become a garden favourite and are widely cultivated.  Tulips belong to the <a href="http://www.bbc.co.uk/nature/life/Liliaceae">lily family</a> and are often sweetly scented, growing from just a few inches high to over two feet tall, with a variety of flower shapes and colours.
+<br />
+<br />
+There are over one hundred species of tulip and many can be cross-pollinated to create hybrid blooms. Tulips are found from north <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a> across to north west <a href="http://www.bbc.co.uk/nature/places/China">China</a> but were introduced to <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> in the 1500s from Turkey. They were highly prized in Holland throughout the 1600s as icons of nobility and abundance, and there are numerous tulip festivals held around the world today.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tulip"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Tulip.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Liliaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Liliales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Tulip#name">
+				<rdfs:label>Tulipa</rdfs:label>
+				        <wo:commonName>Tulips</wo:commonName>
+        										<wo:scientificName>Tulipa</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Liliales</wo:orderName><wo:familyName>Liliaceae</wo:familyName><wo:genusName>Tulipa</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/tulip/tulip_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Tulip#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/tu/tulip/tulip_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00485mq#programme">
+			<dc:title>Wild tulips</dc:title>
+			<po:subject rdf:resource="/nature/genus/Tulip#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tulip">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Tulip#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://penelope.uchicago.edu/~grout/encyclopaedia_romana/aconite/tulipomania.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tulip#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.botanic.cam.ac.uk/Botanic/Plant.aspx?p=27&amp;ix=12&amp;pid=0&amp;prcid=0&amp;ppid=0">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tulip#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22151864">
+			<dc:title>Tulip trees are 'molecular fossils'</dc:title>
+			<dc:description>The "extraordinary level of conservation" of the tulip tree's mitochondrial genome redefines our understanding of flowering plants' evolution, say researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tulip#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Tulip.gif">
+		<dc:title>Map showing the distribution of the Tulips genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Liliaceae#family"><rdfs:label>Liliaceae</rdfs:label><wo:genus rdf:resource="/nature/life/Tulip#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Fritillaria#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Liliales#order"><rdfs:label>Liliales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

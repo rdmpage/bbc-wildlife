@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Violales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Violales#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Violales#order">
+				<rdfs:label>Violets and passion flowers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Violales#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/vi/violales/violales_1.jpg"/>
+
+				<dc:description>Violales are an order of <a href="/nature/life/Flowering_plant">flowering plants</a>, mainly found in tropical and subtropical regions. The majority of species can be either shrubs or small trees. One exception is the <a href="/nature/life/Viola_(plant)">violets</a>; these are typically herbaceous with a worldwide distribution. Families of note in this order include: the cucumber, papaya, begonia and the unmistakeable passion flower. Some species produce edible fruits that are commercially cultivated.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Violales"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Violales.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Violales#name">
+				<rdfs:label>Violales</rdfs:label>
+				        <wo:commonName>Violets and passion flowers</wo:commonName>
+        										<wo:scientificName>Violales</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Violales</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/vi/violales/violales_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Violales#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/v/vi/violales/violales_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Violales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Violales#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://eol.org/pages/4453/overview">
+			<foaf:primaryTopic rdf:resource="/nature/order/Violales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://plants.usda.gov/java/ClassificationServlet?source=display&amp;classid=Violales">
+			<foaf:primaryTopic rdf:resource="/nature/order/Violales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.uv.es/EBRIT/micro/micro_624_42.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Violales#order"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Violales.gif">
+		<dc:title>Map showing the distribution of the Violets and passion flowers order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label><wo:order rdf:resource="/nature/life/Violales#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Gentianales#order"/><wo:order rdf:resource="/nature/life/Nepenthales#order"/><wo:order rdf:resource="/nature/life/Rosales#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Fagales#order"/><wo:order rdf:resource="/nature/life/Urticales#order"/><wo:order rdf:resource="/nature/life/Theales#order"/><wo:order rdf:resource="/nature/life/Sapindales#order"/><wo:order rdf:resource="/nature/life/Santalales#order"/><wo:order rdf:resource="/nature/life/Asterales#order"/><wo:order rdf:resource="/nature/life/Ranunculales#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Viola_(plant)#order"><rdfs:label>Violets and pansies</rdfs:label><wo:order rdf:resource="/nature/life/Violales#order"/></wo:Genus><wo:Genus rdf:about="/nature/life/Passiflora#order"><rdfs:label>Passion flowers</rdfs:label><wo:order rdf:resource="/nature/life/Violales#order"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

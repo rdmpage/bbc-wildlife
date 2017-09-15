@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Red_Squirrel">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Red_Squirrel#species">
+				<rdfs:label>Red squirrel</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Red_Squirrel#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_squirrel/red_squirrel_1.jpg"/>
+
+				<dc:description>Instantly recognisable by their red fur, ear tufts and long, fluffy tails, red squirrels were once the only squirrel species in <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a>. This changed when <a href="http://www.bbc.co.uk/nature/life/Eastern_gray_squirrel">grey squirrels</a> were introduced from America to the UK in the late 1800s. Though reds are still plentiful across <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a> and northern <a href="http://www.bbc.co.uk/nature/places/Asia">Asia</a>, they've been out-competed by the canny <a href="http://www.bbc.co.uk/nature/life/Eastern_gray_squirrel">greys</a>. Red squirrels spend most of their time in the treetops and maintain several dreys within their range to aid escape from <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predators</a>. Daily activity centres around obtaining food, mostly seeds and acorns which, with practice, they can open in just a few seconds.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Red_Squirrel"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tundra#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Sciurus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sciuridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Red_Squirrel#name">
+				<rdfs:label>Sciurus vulgaris</rdfs:label>
+				        <wo:commonName>Red squirrel</wo:commonName>
+        								<wo:commonName>Eurasian red squirrel</wo:commonName>
+								<wo:scientificName>vulgarisvulgaris</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Sciuridae</wo:familyName><wo:genusName>Sciurus</wo:genusName><wo:speciesName>vulgaris</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_squirrel/red_squirrel_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Red_Squirrel#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/red_squirrel/red_squirrel_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gmrvs#programme">
+			<dc:title>A red squirrel's history of Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gmrtc#programme">
+			<dc:title>Cache bandits</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gmrp3#programme">
+			<dc:title>Red squirrel niche</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c08zg#programme">
+			<dc:title>Red squirrel Eden</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087f4c#programme">
+			<dc:title>Squirrel secrets</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0084qls#programme">
+			<dc:title>Forest spirit</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00830j1#programme">
+			<dc:title>Squirrel country</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007z927#programme">
+			<dc:title>Seeing red</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007qxl0#programme">
+			<dc:title>Red or grey?</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fgjn#programme">
+			<dc:title>Sylvan sanctuary</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0052jd9#programme">
+			<dc:title>The red squirrels of Cumbria</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k0pb#programme">
+			<dc:title>Scottish reds</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/r/re/red_squirrel/mp25054-03.mp3">
+			<dc:title>Red squirrel calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Red_Squirrel">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Sciurus_vulgaris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/red-squirrel/sciurus-vulgaris/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/autumnwatch/meettheanimals/redsquirrel.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.forestry.gov.uk/forestry/Redsquirrel">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/20025/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rsst.org.uk/index.php?option=com_content&amp;view=article&amp;id=75&amp;Itemid=107">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-19759747">
+			<dc:title>Mating hope for red squirrel</dc:title>
+			<dc:description>A Cornish mate has been found for a lovelorn red squirrel living at a nature park in Norfolk.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-north-west-wales-18831554">
+			<dc:title>Red squirrels appearing in towns</dc:title>
+			<dc:description>Red squirrel numbers on Anglesey have increased so much they are now appearing in people's back gardens, say conservationists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-south-west-wales-17728546">
+			<dc:title>New project to save red squirrels</dc:title>
+			<dc:description>A new project begins to help save red squirrels in forests in Carmarthenshire - and to help control the population of grey squirrels.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cornwall-15383503">
+			<dc:title>Cornwall squirrel meat interest</dc:title>
+			<dc:description>Plans for a grey squirrel cull in west Cornwall have sparked a new interest in killing them for their meat. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-15144880">
+			<dc:title>Squirrel count to aid action plan</dc:title>
+			<dc:description>A census of squirrels is to be carried out on all the land owned by the National Trust for Scotland.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15066066">
+			<dc:title>Fifty-year squirrel project ends</dc:title>
+			<dc:description>After 50 years, a project to help protect Britain's threatened red squirrels comes to an end.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/cumbria/hi/people_and_places/nature/newsid_9423000/9423938.stm">
+			<dc:title>Squirrels and fells vie for award</dc:title>
+			<dc:description>A project in west Cumbria is in the running for a European grant to help it protect an important red squirrel habitat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/cornwall/hi/people_and_places/newsid_9145000/9145394.stm">
+			<dc:title>Cornwall to welcome red squirrels</dc:title>
+			<dc:description>There's a plan to reintroduce the native red squirrel to Cornwall. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-11550136">
+			<dc:title>Baby squirrel rescued by gun-dog</dc:title>
+			<dc:description>An injured red squirrel that was sniffed out by a trained gun-dog is now recovering in Scottish SPCA care.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-11549280">
+			<dc:title>Black is the new grey for squirrels</dc:title>
+			<dc:description>It is often heard that the British red squirrel is being wiped out by its American cousin but now the grey squirrel could be replaced by another breed.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-tyne-11509843">
+			<dc:title>Cash helps protect red squirrels</dc:title>
+			<dc:description>An organisation helping to preserve red squirrels in Northumberland is given a cash boost.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11404276">
+			<dc:title>Government grants Aviemore plan</dc:title>
+			<dc:description>Plans for 25 houses in Aviemore, refused by Cairngorms National Park Authority, is approved by the Scottish government.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-northern-ireland-11389912">
+			<dc:title>NI gardens shelter red squirrels</dc:title>
+			<dc:description>Northern Ireland gardens are among the best places in the UK to see a red squirrel.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-11244620">
+			<dc:title>Squirrel 'stowaway' on tour boat</dc:title>
+			<dc:description>Efforts are to be made to capture a red squirrel found on a wildlife holiday cruise boat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8518673.stm">
+			<dc:title>Red squirrels make a comeback in Scotland </dc:title>
+			<dc:description>Red squirrels are returning to areas of Scotland where they have not been seen for years, according to campaigners.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8448000/8448807.stm">
+			<dc:title>Grey squirrels 'don't harm birds'</dc:title>
+			<dc:description>Grey squirrels have little impact on woodland bird species in England, a study by the British Trust for Ornithology shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/norfolk/hi/people_and_places/nature/newsid_8297000/8297141.stm">
+			<dc:title>Welsh move for Norfolk squirrels</dc:title>
+			<dc:description>Two red squirrels raised at Pensthorpe Nature Reserve have been released on Anglesey Island, Wales, as part of a red squirrel breeding programme.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8283000/8283736.stm">
+			<dc:title>Saving red squirrels from pox </dc:title>
+			<dc:description>A new study will investigate how red squirrels get the pox, an insight that may help save those left in the UK. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/cumbria/8264610.stm">
+			<dc:title>Squirrel report calls for surveys</dc:title>
+			<dc:description>Detailed monitoring of grey squirrels needs to take place to help protect under-threat reds in their strongholds in northern England, a report has said.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/liverpool/hi/people_and_places/nature/newsid_8260000/8260656.stm">
+			<dc:title>Red squirrel conservation plans</dc:title>
+			<dc:description>The control of grey squirrels is essential to ensure the survival of Formby's red squirrels, according to a new report.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7573535.stm">
+			<dc:title>Ray of hope for the red squirrel</dc:title>
+			<dc:description>A ray of hope has been offered for one of the UK's most iconic and endangered animals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/magazine/7026097.stm">
+			<dc:title>Can the squirrel problem be solved?</dc:title>
+			<dc:description>Researchers are trying to find a way to stop grey squirrels reproducing, but can the menace ever be stopped?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Squirrel#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tundra#habitat">
+					<rdfs:label>Tundra</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Sciurus#genus"><rdfs:label>Sciurus</rdfs:label><wo:species rdf:resource="/nature/life/Red_Squirrel#species"/><wo:species rdf:resource="/nature/life/Eastern_gray_squirrel#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sciuridae#family"><rdfs:label>Sciuridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

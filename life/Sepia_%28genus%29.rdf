@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Sepia_(genus)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Sepia_(genus)#genus">
+				<rdfs:label>Sepia cuttlefish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Sepia_(genus)#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sepia_genus/sepia_genus_1.jpg"/>
+
+				<dc:description>There are more than 100 species of sepia cuttlefish, a greater number of species than in any other <a href="http://www.bbc.co.uk/nature/life/Cephalopod">cephalopod</a> genus. Like all cuttlefish they contain cuttlebones, which are not bones but  lightweight structures that help regulate buoyancy. This internal shell is filled with tiny compartments into which the cuttlefish can pump air or fluid to make itself lighter or heavier. The name sepia comes from the brown pigment released when the cuttlefish is alarmed. Sepia cuttlefish are distinguised by the length of the cuttlebone, which is roughly equal to that of the mantle in which it is housed, not an easy feature to spot. This group contains the world's largest cuttlefish, <a href="http://www.bbc.co.uk/nature/life/Australian_Giant_Cuttlefish">Australia's giant cuttlefish</a>. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sepia_(genus)"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Sepia_(genus).gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Sepiidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cuttlefish#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Sepia_(genus)#name">
+				<rdfs:label>Sepia</rdfs:label>
+				        <wo:commonName>Sepia cuttlefish</wo:commonName>
+        										<wo:scientificName>Sepia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Sepiida</wo:orderName><wo:familyName>Sepiidae</wo:familyName><wo:genusName>Sepia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sepia_genus/sepia_genus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/se/sepia_genus/sepia_genus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008gq9w#programme">
+			<dc:title>UK cuttlefish</dc:title>
+			<po:subject rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005bpsl#programme">
+			<dc:title>Cross-dresser</dc:title>
+			<po:subject rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sepia_(genus)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Sepia.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://seapics.com/feature-subject/marine-invertebrates/cuttlefish-pictures-001.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Sepia/20009">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/51170">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.glaucus.org.uk/Cuttle3.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Sepia_(genus)#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Sepia_(genus).gif">
+		<dc:title>Map showing the distribution of the Sepia cuttlefish genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Sepiidae#family"><rdfs:label>Sepiidae</rdfs:label><wo:genus rdf:resource="/nature/life/Sepia_(genus)#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Cuttlefish#order"><rdfs:label>Sepiida</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Australian_Giant_Cuttlefish#genus"><rdfs:label>Giant cuttlefish</rdfs:label><wo:genus rdf:resource="/nature/life/Sepia_(genus)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Common_Cuttlefish#genus"><rdfs:label>Common cuttlefish</rdfs:label><wo:genus rdf:resource="/nature/life/Sepia_(genus)#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

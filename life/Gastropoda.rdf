@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Gastropoda">
+		<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Gastropoda#class">
+				<rdfs:label>Snails and slugs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Gastropoda#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ga/gastropoda/gastropoda_1.jpg"/>
+
+				<dc:description>Snails, slugs and their relatives are the most common form of mollusc, with over 60,000 species alive today. Most species possess a shell, and the shells of many gastropods have very beautiful patterns and shapes. Sea-living snails and slugs typically start life as a tiny larva floating in the plankton, and only later metamorphose into a crawling creature. On land and in freshwater, however, miniature versions of the adults usually hatch from eggs.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gastropoda"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Gastropoda.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Gastropoda#name">
+				<rdfs:label>Gastropoda</rdfs:label>
+				        <wo:commonName>Snails and slugs</wo:commonName>
+        								<wo:commonName>Gastropod molluscs</wo:commonName>
+								<wo:scientificName>Gastropoda</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Gastropoda</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/ga/gastropoda/gastropoda_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Gastropoda#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/ga/gastropoda/gastropoda_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f0tw1#programme">
+			<dc:title>High-wire romance</dc:title>
+			<po:subject rdf:resource="/nature/class/Gastropoda#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhmmv#programme">
+			<dc:title>Surfing snails</dc:title>
+			<po:subject rdf:resource="/nature/class/Gastropoda#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cq2z3#programme">
+			<dc:title>Second hand stings</dc:title>
+			<po:subject rdf:resource="/nature/class/Gastropoda#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c59q#programme">
+			<dc:title>Spring to life</dc:title>
+			<po:subject rdf:resource="/nature/class/Gastropoda#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vd0w#programme">
+			<dc:title>Intruder in the nest</dc:title>
+			<po:subject rdf:resource="/nature/class/Gastropoda#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gastropoda">
+		<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Gastropoda.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.manandmollusc.net/advanced_introduction/moll101gastropoda.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/taxa/inverts/mollusca/gastropoda.php">
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.worldwideconchology.com/MainFrames.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23798012">
+			<dc:title>Speedy snails spread deadly disease</dc:title>
+			<dc:description>Snails move more rapidly than previously thought and are responsible for spreading a fatal dog parasite, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22155219">
+			<dc:title>Giant snails on advance in Florida</dc:title>
+			<dc:description>South Florida is battling a growing infestation of the giant African land snail.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-19648071">
+			<dc:title>Airport staff seize giant snails</dc:title>
+			<dc:description>UK Border Force officers seize 36 live giant African land snails from a man at Glasgow Airport. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-19077138">
+			<dc:title>Dealing with a deadly snail invasion</dc:title>
+			<dc:description>The giant African snail appears to be on a campaign to conquer central and southern America. But how much mess can a mollusc make - and are they really deadly to humans?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-18672728">
+			<dc:title>Are slugs under threat from a foreign 'super breed'?</dc:title>
+			<dc:description>A "super breed" of slugs has arrived from Spain, but are they a threat to the UK's native slugs?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-15034520">
+			<dc:title>Rare snail found after 110 years</dc:title>
+			<dc:description>An isolated population of rare land snail last recorded in Fife 110 years ago is rediscovered.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14048754">
+			<dc:title>Snails survive digestion by birds</dc:title>
+			<dc:description>Snails are able to survive intact after being eaten by birds, according to scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9287000/9287789.stm">
+			<dc:title>Snail's shell helps it glow green</dc:title>
+			<dc:description>A humble marine snail has a unique luminescent shell that brightens its glow, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9264000/9264808.stm">
+			<dc:title>'Left-handed' snails foil snakes</dc:title>
+			<dc:description>Snails with shells that coil in an anti-clockwise direction are more likely to survive attacks by predatory snakes, say researchers. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8943000/8943078.stm">
+			<dc:title>UK hunt for stately snail begins</dc:title>
+			<dc:description>A hunt has been started for a rare snail that has taken up residence at two English stately homes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10856523">
+			<dc:title>Snails 'have a homing instinct'</dc:title>
+			<dc:description>A 69-year-old amateur scientist discovers that her garden snails have a homing instinct. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10172214.stm">
+			<dc:title>Snail 'meth' experiment yields drug addiction clue</dc:title>
+			<dc:description>In an unusual experiment, scientists have used pond snails to study the effects of methamphetamine, better known as crystal meth, on the brain.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Gastropoda#class"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Gastropoda.gif">
+		<dc:title>Map showing the distribution of the Snails and slugs class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label><wo:class rdf:resource="/nature/life/Gastropoda#class"/><wo:class rdf:resource="/nature/life/Bivalvia#class"/><wo:class rdf:resource="/nature/life/Cephalopod#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Helix_aspersa#class"><rdfs:label>Garden snail</rdfs:label><wo:class rdf:resource="/nature/life/Gastropoda#class"/></wo:Species><wo:Genus rdf:about="/nature/life/Conus#class"><rdfs:label>Cone snails</rdfs:label><wo:class rdf:resource="/nature/life/Gastropoda#class"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

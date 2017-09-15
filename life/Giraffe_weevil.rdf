@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Giraffe_weevil">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giraffe_weevil#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Giraffe_weevil#species">
+				<rdfs:label>Giraffe weevil</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Giraffe_weevil#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giraffe_weevil/giraffe_weevil_1.jpg"/>
+
+				<dc:description>The curious-looking giraffe weevil gets its name from its enormously long neck, which is 2-3 times longer in the males. They can use this extended neck to fight for the right to mate with a female. She, on the other hand, uses her smaller neck to roll a leaf tube nest into which a single egg is layed. One of the longest weevil species, male giraffe-necked weevils, as they're also known, grow to around 2.5cm in length. If a long neck and large size aren't enough to make this beetle stand out, its bright red wing covers certainly are. Giraffe weevils live in the warm climate of Madagascar, a large island off the east coast of Africa.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Giraffe_weevil"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Giraffe_weevil.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Trachelophorus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Attelabidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Beetle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Giraffe_weevil#name">
+				<rdfs:label>Trachelophorus giraffa</rdfs:label>
+				        <wo:commonName>Giraffe weevil</wo:commonName>
+        								<wo:commonName>Giraffe-necked weevil</wo:commonName>
+								<wo:scientificName>giraffagiraffa</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Coleoptera</wo:orderName><wo:familyName>Attelabidae</wo:familyName><wo:genusName>Trachelophorus</wo:genusName><wo:speciesName>giraffa</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gi/giraffe_weevil/giraffe_weevil_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Giraffe_weevil#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gi/giraffe_weevil/giraffe_weevil_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dtpqw#programme">
+			<dc:title>Giraffe-necked weevils</dc:title>
+			<po:subject rdf:resource="/nature/species/Giraffe_weevil#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Giraffe_weevil">
+		<foaf:primaryTopic rdf:resource="/nature/species/Giraffe_weevil#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Trachelophorus_giraffa.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe_weevil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://entweb.clemson.edu/museum/beetles/exotic/btle24.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe_weevil#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.lonelyplanetimages.com/images/409391">
+			<foaf:primaryTopic rdf:resource="/nature/species/Giraffe_weevil#species"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Giraffe_weevil.gif">
+		<dc:title>Map showing the distribution of the Giraffe weevil species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Trachelophorus#genus"><rdfs:label>Trachelophorus</rdfs:label><wo:species rdf:resource="/nature/life/Giraffe_weevil#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Attelabidae#family"><rdfs:label>Attelabidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Beetle#order"><rdfs:label>Coleoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

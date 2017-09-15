@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Monarch_(butterfly)">
+		<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Monarch_(butterfly)#species">
+				<rdfs:label>Monarch butterfly</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Monarch_(butterfly)#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/monarch_butterfly/monarch_butterfly_1.jpg"/>
+
+				<dc:description>Monarch butterflies perform one of the world's most spectacular, annual, long-distance migrations. As autumn approaches millions leave the breeding grounds in the north and head south to wintering grounds - although it is subsequent generations that complete the return journey in the spring. The monarch's orange colour is a warning for predators to stay away, as the chemicals they get from feeding on milkweed plants makes the butterflies poisonous.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Monarch_(butterfly)"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Poison#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bf3fy#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Monarch_(butterfly).gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Nymphalidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Lepidoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Monarch_(butterfly)#name">
+				<rdfs:label>Danaus plexippus</rdfs:label>
+				        <wo:commonName>Monarch butterfly</wo:commonName>
+        								<wo:commonName>Milkweed butterfly</wo:commonName>
+						<wo:commonName>Wanderer butterfly</wo:commonName>
+								<wo:scientificName>plexippusplexippus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Lepidoptera</wo:orderName><wo:familyName>Nymphalidae</wo:familyName><wo:genusName>Danaus</wo:genusName><wo:speciesName>plexippus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/monarch_butterfly/monarch_butterfly_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/monarch_butterfly/monarch_butterfly_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f29kd#programme">
+			<dc:title>Kings of long-haul</dc:title>
+			<po:subject rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0053k5f#programme">
+			<dc:title>Monarch migration</dc:title>
+			<po:subject rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Monarch_(butterfly)">
+		<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Danaus_plexippus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/monarch-butterfly/danaus-plexippus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.gpnc.org/monarch.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.learner.org/jnorth/monarch/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.monarch-butterfly.com/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.worldwildlife.org/species/finder/monarchbutterflies/monarchbutterflies.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8481000/8481380.stm">
+			<dc:title>'Supersized' monarch butterflies evolved to fly far</dc:title>
+			<dc:description>Monarch butterflies that migrate vast distances have grown larger bodies and wings, researchers have discovered.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8273069.stm">
+			<dc:title>Butterfly 'GPS' found in antennae</dc:title>
+			<dc:description>North America's Monarch butterflies use a 24-hour "clock" in their antennae to help navigate the 4,000km to overwinter in Mexico, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Monarch_(butterfly)#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Poison#adaptation">
+					<rdfs:label>Poisonous</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bf3fy#collection">
+				<dc:title>George's marvellous minibeasts</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Monarch_(butterfly).gif">
+		<dc:title>Map showing the distribution of the Monarch butterfly species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Danaus</rdfs:label><wo:species rdf:resource="/nature/life/Monarch_(butterfly)#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Nymphalidae#family"><rdfs:label>Nymphalidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Lepidoptera#order"><rdfs:label>Lepidoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

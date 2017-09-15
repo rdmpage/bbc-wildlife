@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Penguin#family">
+				<rdfs:label>Penguins</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Penguin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pe/penguin/penguin_1.jpg"/>
+
+				<dc:description>Penguins are an iconic family of aquatic, flightless birds. Although we think of penguins as Antarctic birds some, like the Galapagos penguin, live in much warmer climates near the equator. The French explorer Beaulieu, on a voyage in 1620, believed penguins to be a type of feathered fish, due to their adaptations to life underwater. Most notably their wings have become flippers, which are useless on land, but excellent in the water.
+<br />
+<br />
+Their striking black and white plumage is surprisingly effective at hiding them from the likes of killer whales and leopard seals. There are thought to be between 17 and 20 species of penguin. The largest, at one metre tall, is the emperor penguin and the smallest is the delightfully named fairy penguin.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Penguin"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+				
+										    
+    								
+					
+                                                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Penguin#name">
+				<rdfs:label>Spheniscidae</rdfs:label>
+				        <wo:commonName>Penguins</wo:commonName>
+        										<wo:scientificName>Spheniscidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Sphenisciformes</wo:orderName><wo:familyName>Spheniscidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pe/penguin/penguin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Penguin#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pe/penguin/penguin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0157lqm#programme">
+			<dc:title>A Caracara flies off with an eggcam</dc:title>
+			<po:subject rdf:resource="/nature/family/Penguin#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ffmh6#programme">
+			<dc:title>Penguin wrappers</dc:title>
+			<po:subject rdf:resource="/nature/family/Penguin#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="P">
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="P">
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22601223">
+			<dc:title>Flightless penguin puzzle 'solved'</dc:title>
+			<dc:description>The underwater prowess of the penguin may have cost the bird its ability to fly, scientists believe.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21393173">
+			<dc:title>Is it a bird... No, it's penguin-cam</dc:title>
+			<dc:description>Wildlife producer John Downer demonstrates how he and his team went about making a documentary about penguins.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-17852332">
+			<dc:title>Depressed penguins make recovery</dc:title>
+			<dc:description>Penguins in Scarborough given anti-depressants after a break-in left them stressed make a full recovery.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17669774">
+			<dc:title>Peak at private life of penguins</dc:title>
+			<dc:description>Scientists use timelapse cameras to gain insight into the private lives of penguins in Antarctica.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17179607">
+			<dc:title>Big NZ fossil penguin reconstructed</dc:title>
+			<dc:description>A large extinct penguin has been reconstructed from fossil remains discovered in New Zealand.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-london-13565120">
+			<dc:title>Penguins' new home at London Zoo</dc:title>
+			<dc:description>London Zoo unveils the largest penguin pool in England, which will eventually house a 200-strong breeding colony.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-manchester-13307992">
+			<dc:title>Royal couple adopt baby penguin</dc:title>
+			<dc:description>A baby penguin at Chester Zoo is adopted by the Duke and Duchess of Cambridge.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/apps/ifl/learningzone/clips/showrecord?Id=10823;Config=main_clipid.cfg">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, Evolution and Environment</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12162725">
+			<dc:title>Flipper tags 'damage' penguins</dc:title>
+			<dc:description>The standard way of tagging penguins for science affects their survival and reproduction, scientists find.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/cbbcnews/hi/newsid_9050000/newsid_9053200/9053291.stm">
+			<dc:title>Giant penguin fossil unearthed</dc:title>
+			<dc:description>The fossil of a giant penguin that lived 36 million years ago has been found in Peru.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-latin-america-11482005">
+			<dc:title>Fossilised Peruvian penguin found</dc:title>
+			<dc:description>Palaeontologists discover the fossil of a penguin that lived 36m years ago in Peru. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11420635">
+			<dc:title>Ancient giant penguin unearthed</dc:title>
+			<dc:description>Scientists unearth a fossil in Peru of a giant penguin that lived some 36 million years ago, offering an insight into the birds' evolution.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-humber-10976622">
+			<dc:title>Public invited to name Sewerby Zoo penguin</dc:title>
+			<dc:description>Staff at an East Yorkshire zoo are inviting members of the public to come up with a name for a baby penguin.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8500000/8500620.stm">
+			<dc:title>Auklets and penguins: birds use feathers 'to touch'</dc:title>
+			<dc:description>Birds may use their feathers for touch, using them to feel their surroundings just as cats use their whiskers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8395000/8395075.stm">
+			<dc:title>Galapagos Islands are transformed</dc:title>
+			<dc:description>The Galapagos archipelago has already been transformed by global climate changes and human activity, a report concludes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Penguin#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/#order"><rdfs:label>Sphenisciformes</rdfs:label><wo:family rdf:resource="/nature/life/Penguin#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Aptenodytes#family"><rdfs:label>Great penguins</rdfs:label><wo:family rdf:resource="/nature/life/Penguin#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Crested_penguin#family"><rdfs:label>Crested penguins</rdfs:label><wo:family rdf:resource="/nature/life/Penguin#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Pygoscelis#family"><rdfs:label>Brush-tailed penguins</rdfs:label><wo:family rdf:resource="/nature/life/Penguin#family"/></wo:Genus><wo:Genus rdf:about="/nature/life/Banded_penguin#family"><rdfs:label>Banded penguins</rdfs:label><wo:family rdf:resource="/nature/life/Penguin#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/tribe/Bamboo">
+		<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		<rdfs:seeAlso rdf:resource="/nature/tribe"/>
+	</rdf:Description>
+
+		<wo:Tribe rdf:about="/nature/life/Bamboo#tribe">
+				<rdfs:label>Bamboo</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/tribe/Bamboo#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>Bamboo is a type of <a href="http://www.bbc.co.uk/nature/life/Poaceae">grass</a> and is among the fastest growing <a href="http://www.bbc.co.uk/nature/life/Plant">plants</a> on the planet. One Japanese species rockets skywards at a rate of a metre a day. Some bamboos can reach a lofty 35 metres in height while others are only half a metre tall. They <a href="http://www.bbc.co.uk/nature/adaptations/Flower">flower</a> en-mass, the whole population coming into bloom simultaneously. This doesn't happen every year and it may occur just once a century. Bamboo is famous as the major food source of iconic animals such as the <a href="http://www.bbc.co.uk/nature/life/Giant_Panda">giant panda</a>, <a href="http://www.bbc.co.uk/nature/life/Red_Panda">red panda</a> and Madagascar's <a href="http://www.bbc.co.uk/nature/life/Lac_Alaotra_Bamboo_Lemur">bamboo lemur</a>. It is also economically important to <a href="http://www.bbc.co.uk/nature/life/Human">humans</a> as a building material and as food. There are 1,500 different species of bamboo, occurring naturally in every continent except Europe and Antarctica.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bamboo"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/tribe/Bamboo.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Poaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Poales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Tribe>
+
+			<wo:TaxonName rdf:about="/nature/tribe/Bamboo#name">
+				<rdfs:label>Bambuseae</rdfs:label>
+				        <wo:commonName>Bamboo</wo:commonName>
+        										<wo:scientificName>Bambuseae</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Poales</wo:orderName><wo:familyName>Poaceae</wo:familyName><wo:tribeName>Bambuseae</wo:tribeName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zk1v#programme">
+			<dc:title>Bamboo eaters</dc:title>
+			<po:subject rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0035t02#programme">
+			<dc:title>Forest floor emergence</dc:title>
+			<po:subject rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bamboo">
+		<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://herbarium.usu.edu/treatments/Bambuseae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/108057">
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.unido.org/index.php?id=1000276">
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www2.bioversityinternational.org/publications/Web_version/572/ch11.htm">
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/history/british/modern/olympics_1948_gallery_09.shtml">
+			<dc:title>The 1948 London Olympics Gallery</dc:title>
+			<dc:description>The first postwar Olympics, by Stan Greenberg</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/bamboo-time-lapse/10525.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Bamboo sprouts from the forest floor at an exceptional rate.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/tiny-bats-that-live-in-bamboo/10561.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>This tiny bat is seen feeding and returning to its brood inside a bamboo stem.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/why-do-panda-bears-eat-bamboo/6566.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Why do Panda bears eat bamboo? The panda is a carnivore but is ideally suited to eat bamboo which grows in its habitat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/wild-pandas-in-the-chinese-mountains/10562.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>A wild panda is seen feeding on bamboo leaves in the mountains of China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8587000/8587712.stm">
+			<dc:title>Mysterious Bale monkey of Africa loves to eat bamboo</dc:title>
+			<dc:description>Ethiopia's mysterious Bale monkey eats almost nothing but bamboo, according to the first study of the primate.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/tribe/Bamboo#tribe"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/tribe/Bamboo.gif">
+		<dc:title>Map showing the distribution of the Bamboo tribe</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Poaceae#family"><rdfs:label>Poaceae</rdfs:label><wo:tribe rdf:resource="/nature/life/Bamboo#tribe"/></wo:Family><wo:Order rdf:about="/nature/order/Poales#order"><rdfs:label>Poales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

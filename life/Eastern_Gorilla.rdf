@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Eastern_Gorilla">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Eastern_Gorilla#species">
+				<rdfs:label>Eastern Gorilla</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Eastern_Gorilla#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ea/eastern_gorilla/eastern_gorilla_1.jpg"/>
+
+				<dc:description>Gorillas are the world's largest primate and for years they've been portrayed as fearsome and aggressive beasts. But gorillas are actually gentle giants that have strong family ties and live on a vegetarian diet. The eastern gorilla has three subspecies: the mountain gorilla, the Bwindi gorilla and the eastern lowland gorilla. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Eastern_Gorilla"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Gorilla#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Hominidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Eastern_Gorilla#name">
+				<rdfs:label>Gorilla beringei</rdfs:label>
+				        <wo:commonName>Eastern Gorilla</wo:commonName>
+        								<wo:commonName>Eastern Lowland Gorilla</wo:commonName>
+						<wo:commonName>Mountain Gorilla</wo:commonName>
+								<wo:scientificName>beringeiberingei</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hominidae</wo:familyName><wo:genusName>Gorilla</wo:genusName><wo:speciesName>beringei</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/ea/eastern_gorilla/eastern_gorilla_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/ea/eastern_gorilla/eastern_gorilla_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p014rmnc#programme">
+			<dc:title>Back from the brink</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012z6kz#programme">
+			<dc:title>Mighty giants</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00mk75w#programme">
+			<dc:title>A rare sight</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b3710#programme">
+			<dc:title>Something to prove</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b36s2#programme">
+			<dc:title>Farting gorillas</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009shcj#programme">
+			<dc:title>Female prerogative</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009shbt#programme">
+			<dc:title>Flirting with danger</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009sh3v#programme">
+			<dc:title>Gorilla orphans</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009sh2v#programme">
+			<dc:title>Tasty treat</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009sh1q#programme">
+			<dc:title>Hidden hope</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009r0xh#programme">
+			<dc:title>Final rest</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009lx1m#programme">
+			<dc:title>Dwindling empire</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009lx01#programme">
+			<dc:title>Chest beating</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009lwz6#programme">
+			<dc:title>Singing for supper</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009lwx9#programme">
+			<dc:title>Social climbing</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009lwwm#programme">
+			<dc:title>Flight or fight?</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8mk#programme">
+			<dc:title>Greatest gorilla group</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8lx#programme">
+			<dc:title>Birth matters</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8l7#programme">
+			<dc:title>Tough start</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8k6#programme">
+			<dc:title>Foraging trip</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8jl#programme">
+			<dc:title>Climbing essentials</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8g4#programme">
+			<dc:title>Teenage outcast</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8fk#programme">
+			<dc:title>Digestive aids</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8cg#programme">
+			<dc:title>Sleeping alone</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009g8bq#programme">
+			<dc:title>Group defence</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0065m47#programme">
+			<dc:title>Gorillas in the rain</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639l1#programme">
+			<dc:title>Highs and lows</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004rfkj#programme">
+			<dc:title>Visiting gorillas</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004j5sw#programme">
+			<dc:title>David Attenborough encounters gorillas</dc:title>
+			<po:subject rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Eastern_Gorilla">
+		<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Gorilla_beringei.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/eastern-gorilla/gorilla-beringei/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9391000/9391967.stm">
+			<dc:title>Rare gorilla twins born in wild</dc:title>
+			<dc:description>Twin mountain gorillas have been born in Volcanoes National Park in Rwanda, only the fifth such pair known. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9265000/9265917.stm">
+			<dc:title>Mountain gorilla numbers increase</dc:title>
+			<dc:description>The population of endangered mountain gorillas has increased significantly in the last 30 years, according to the latest census. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9069000/9069385.stm">
+			<dc:title>Gorillas adopt coalition politics</dc:title>
+			<dc:description>How the world’s largest mountain gorilla group has embraced power-sharing to secure their future.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8942000/8942766.stm">
+			<dc:title>Gorilla's battle to remain 'king of the silverbacks'</dc:title>
+			<dc:description>Titus is the oldest known silverback gorilla in the world, but when a rival challenges can he remain on top?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/africa/8687434.stm">
+			<dc:title>iPhone app to help DR Congo mountain gorillas</dc:title>
+			<dc:description>A mobile phone application has been launched to help protect the critically endangered mountain gorillas in the Democratic Republic of Congo.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/ugandasgorillas">
+			<dc:title>Gorilla growing pains</dc:title>
+			<dc:description>Growing up is never easy, even if you're a gorilla. Find out how one young female navigates the difficult path to adulthood. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Eastern_Gorilla#species"/>
+		</foaf:Document>
+			
+											<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Gorilla#genus"><rdfs:label>Gorilla</rdfs:label><wo:species rdf:resource="/nature/life/Eastern_Gorilla#species"/><wo:species rdf:resource="/nature/life/Western_Gorilla#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Hominidae#family"><rdfs:label>Hominidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

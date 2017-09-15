@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Pinus_longaeva">
+		<foaf:primaryTopic rdf:resource="/nature/species/Pinus_longaeva#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Pinus_longaeva#species">
+				<rdfs:label>Great Basin bristlecone pine</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Pinus_longaeva#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pinus_longaeva/pinus_longaeva_1.jpg"/>
+
+				<dc:description>Great Basin bristlecone pines are restricted to the mountain ranges of California, Nevada and Utah and have a remarkable ability to survive in this extremely harsh and challenging environment. They grow extremely slowly, and are some of the oldest living organisms in the world. With some aged at almost 5,000 years these amazing trees can reveal information about Earth's climate variations. Amazingly, the leaves, or needles, can remain green for over 45 years.
+<br/>
+<br/>
+<b>Did you know?</b><br/> At 5,000 years old the great basin bristlecone pines of North America are some of the oldest living organisms in the world.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pinus_longaeva"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Pinus_longaeva.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Mountain#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Pinus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Pinaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pinales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Pinopsida#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Pinophyta#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Pinus_longaeva#name">
+				<rdfs:label>Pinus longaeva</rdfs:label>
+				        <wo:commonName>Great Basin bristlecone pine</wo:commonName>
+        								<wo:commonName>Intermountain bristlecone pine
+</wo:commonName>
+						<wo:commonName>Western bristlecone pine</wo:commonName>
+								<wo:scientificName>longaevalongaeva</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Pinophyta</wo:phylumName><wo:className>Pinopsida</wo:className><wo:orderName>Pinales</wo:orderName><wo:familyName>Pinaceae</wo:familyName><wo:genusName>Pinus</wo:genusName><wo:speciesName>longaeva</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pinus_longaeva/pinus_longaeva_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Pinus_longaeva#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pi/pinus_longaeva/pinus_longaeva_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005fs5p#programme">
+			<dc:title>Ancient bristlecones</dc:title>
+			<po:subject rdf:resource="/nature/species/Pinus_longaeva#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pinus_longaeva">
+		<foaf:primaryTopic rdf:resource="/nature/species/Pinus_longaeva#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/bristlecone-pine/pinus-longaeva/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pinus_longaeva#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fs.fed.us/rm/highelevationwhitepines/trees/GB-bristlecone.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pinus_longaeva#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/34024/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pinus_longaeva#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sonic.net/bristlecone/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Pinus_longaeva#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mountain#habitat">
+					<rdfs:label>Mountains</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Pinus_longaeva.gif">
+		<dc:title>Map showing the distribution of the Great Basin bristlecone pine species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Pinus#genus"><rdfs:label>Pinus</rdfs:label><wo:species rdf:resource="/nature/life/Pinus_longaeva#species"/><wo:species rdf:resource="/nature/life/Whitebark_Pine#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Pinaceae#family"><rdfs:label>Pinaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Pinales#order"><rdfs:label>Pinales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Pinopsida#class"><rdfs:label>Pinopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Pinophyta#phylum"><rdfs:label>Pinophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

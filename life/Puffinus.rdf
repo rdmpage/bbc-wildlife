@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Puffinus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Puffinus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Puffinus#genus">
+				<rdfs:label>Shearwaters</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Puffinus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pu/puffinus/puffinus_1.jpg"/>
+
+				<dc:description>Shearwaters are best known for their spectacular shearing flight, effortlessly <a href="http://www.bbc.co.uk/nature/adaptations/Flight">flying</a> mere centimetres along wave fronts. They also <a href="http://www.bbc.co.uk/nature/adaptations/Gliding_(flight)">glide</a> gracefully at high-speed far up in the sky. Shearwaters return to the same breeding <a href="http://www.bbc.co.uk/nature/adaptations/Colony_(biology)">colonies</a> and <a href="http://www.bbc.co.uk/nature/adaptations/Monogamous_pairing_in_animals">partners</a> every year. They nest in burrows on predator-free islands and cliffs, each pair producing a single <a href="http://www.bbc.co.uk/nature/adaptations/Oviparity">egg</a>. 
+<br/>
+<br/>
+Some make long distance <a href="http://www.bbc.co.uk/nature/adaptations/Animal_migration">migrations</a>; the <a href="http://www.bbc.co.uk/nature/life/Short-tailed_Shearwater">short-tailed shearwater</a> for example covers 30,000km each year. Outside of the breeding season shearwaters are pelagic, feeding on fish and squid of the <a href="http://www.bbc.co.uk/nature/habitats/Pelagic">open ocean</a>. They are often seen alongside fishing boats and <a href="http://www.bbc.co.uk/nature/life/Cetacea">whales</a>. There are currently 20 species of shearwater, a number that is constantly changing.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Puffinus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Gliding_(flight)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Puffinus.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Procellariidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Procellariiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Puffinus#name">
+				<rdfs:label>Puffinus</rdfs:label>
+				        <wo:commonName>Shearwaters</wo:commonName>
+        										<wo:scientificName>Puffinus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Procellariiformes</wo:orderName><wo:familyName>Procellariidae</wo:familyName><wo:genusName>Puffinus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pu/puffinus/puffinus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Puffinus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pu/puffinus/puffinus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n6v1d#programme">
+			<dc:title>Clumsy landings</dc:title>
+			<po:subject rdf:resource="/nature/genus/Puffinus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Puffinus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Puffinus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Puffinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Puffinus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/19697/entries/20676903/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Puffinus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17475904">
+			<dc:title>Shearwaters' 'single sex' holidays</dc:title>
+			<dc:description>Critically endangered Balearic shearwaters may take "female only" migrations to France over the summer, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Puffinus#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Gliding_(flight)#adaptation">
+					<rdfs:label>Adapted to gliding</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Puffinus.gif">
+		<dc:title>Map showing the distribution of the Shearwaters genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Procellariidae#family"><rdfs:label>Procellariidae</rdfs:label><wo:genus rdf:resource="/nature/life/Puffinus#genus"/><wo:genus rdf:resource="/nature/life/Fulmar#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Gadfly_petrel#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Procellariiformes#order"><rdfs:label>Procellariiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Short-tailed_Shearwater#genus"><rdfs:label>Short-tailed shearwater</rdfs:label><wo:genus rdf:resource="/nature/life/Puffinus#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Manx_Shearwater#genus"><rdfs:label>Manx shearwater</rdfs:label><wo:genus rdf:resource="/nature/life/Puffinus#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

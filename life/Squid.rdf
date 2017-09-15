@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Squid">
+		<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Squid#order">
+				<rdfs:label>Squid</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Squid#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sq/squid/squid_1.jpg"/>
+
+				<dc:description>Squids are fast-swimming, predatory molluscs. They locate their prey by sight, and ensnare the victim by shooting out two of their tentacles armed with suckers or hooks. The prey is then killed by a bite from the squid's beak. Squid are fussy eaters, though, and often 'fillet' the meat from a fish in tiny bites and discard the rest. This is partly because their brain surrounds the throat, which makes it risky to swallow sharp or hard objects such as fish bones.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Squid"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Squid.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Squid#name">
+				<rdfs:label>Teuthida</rdfs:label>
+				        <wo:commonName>Squid</wo:commonName>
+        										<wo:scientificName>Teuthida</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Teuthida</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sq/squid/squid_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Squid#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sq/squid/squid_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f26sr#programme">
+			<dc:title>Smart squid</dc:title>
+			<po:subject rdf:resource="/nature/order/Squid#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dy0pk#programme">
+			<dc:title>Rainbow courtship</dc:title>
+			<po:subject rdf:resource="/nature/order/Squid#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007dbz8#programme">
+			<dc:title>Alien Like Colossal Squid – Museum of Life </dc:title>
+			<po:subject rdf:resource="/nature/order/Squid#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Squid">
+		<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Teuthida.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://palaeo.gly.bris.ac.uk/Palaeofiles/Fossilgroups/Cephalopoda/teuthida.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.weichtiere.at/Mollusks/Kopffuesser/loligo.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Teuthida_Order.asp#Photos">
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21829711">
+			<dc:title>Giant squid family secrets revealed</dc:title>
+			<dc:description>Giant squid around the world are "basically identical" despite looking very different, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-20966905">
+			<dc:title>Giant squid filmed in natural habitat</dc:title>
+			<dc:description>A giant squid measuring 3m (9ft) has been filmed in its natural habitat for the first time by a team of scientists and broadcasters working off the coast of Japan.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18861785">
+			<dc:title>Dumpling squid slowed down by sex</dc:title>
+			<dc:description>Promiscuous squid take 30 minutes to return to normal swimming speed after sex, scientists reveal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17365736">
+			<dc:title>Squid eye is sperm whale defence</dc:title>
+			<dc:description>The vast eyes of giant and colossal squid have evolved to give them early warning of sperm whales, their only predator, scientists show.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17117194">
+			<dc:title>Eavesdropping on the squid world</dc:title>
+			<dc:description>Scientists are starting to get a much clearer understanding of what squid can hear and how they respond to sound.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16554359">
+			<dc:title>Science copies how squid change colour</dc:title>
+			<dc:description>The gene which gives squids the ability to change colour and camouflage themselves has been recreated synthetically. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15654086">
+			<dc:title>Squid switches on its camouflage</dc:title>
+			<dc:description>Two marine creatures are able to "switch" their colour to hide from deep sea predators, footage reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14986769">
+			<dc:title>Light shed on deep-sea squid sex</dc:title>
+			<dc:description>The mysterious deep-sea squid is promiscuous and often engages in same-sex mating, a 20-year study of underwater footage reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14459554">
+			<dc:title>Small squid produce bigger sperm</dc:title>
+			<dc:description>Smaller squid make up for their diminutive size, and reduced sexual status, by producing bigger sperm, scientists discover.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/apps/ifl/learningzone/clips/showrecord?Id=10834;Config=main_clipid.cfg">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>BBC Learning Zone Broadband Class Clips, Evolution and Environment</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11760991">
+			<dc:title>New large species of squid found</dc:title>
+			<dc:description>A new species of squid has been discovered by scientists during a research cruise in the southern Indian ocean.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8792000/8792008.stm">
+			<dc:title>Super squid sex organ discovered</dc:title>
+			<dc:description>The mating habits of deep-sea squid have been revealed for the first time, after the discovery of a male squid with a huge elongated and erect penis.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10173293.stm">
+			<dc:title>Mystery fossil is ancestor of squid</dc:title>
+			<dc:description>The ancestors of modern squid may have existed half a billion years ago - a lot earlier than previously thought.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8664000/8664542.stm">
+			<dc:title>Monster colossal squid is slow not fearsome predator</dc:title>
+			<dc:description>The world's largest invertebrate is not a fast and voracious predator as previously thought, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/wiltshire/8208838.stm">
+			<dc:title>Ink found in Jurassic-era squid</dc:title>
+			<dc:description>Palaeontologists have drawn with ink extracted from a preserved fossilised squid uncovered during a dig in Trowbridge, Wiltshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Squid#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Squid.gif">
+		<dc:title>Map showing the distribution of the Squid order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label><wo:order rdf:resource="/nature/life/Squid#order"/><wo:order rdf:resource="/nature/life/Octopus#order"/><wo:order rdf:resource="/nature/life/Nautilida#order"/><wo:order rdf:resource="/nature/life/Cuttlefish#order"/><wo:order rdf:resource="/nature/life/Ammonite#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Humboldt_Squid#order"><rdfs:label>Humboldt squid</rdfs:label><wo:order rdf:resource="/nature/life/Squid#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Platypus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Platypus#species">
+				<rdfs:label>Platypus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Platypus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pl/platypus/platypus_1.jpg"/>
+
+				<dc:description>Platypuses are both bizarre looking and unusually adapted. They belong to a sub-group of mammals that lay eggs rather than giving birth to live young (monotremes). When the first platypus was shipped to Britain from Australia, people thought it was a joke and that someone had sewn a duck's bill to a mammal's body. Even when accepted as real, it was thought to be a bird or a reptile as it laid eggs.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Platypus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00mr6nq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Ornithorhynchidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Monotreme#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Platypus#name">
+				<rdfs:label>Ornithorhynchus anatinus</rdfs:label>
+				        <wo:commonName>Platypus</wo:commonName>
+        								<wo:commonName>Duck-billed platypus</wo:commonName>
+								<wo:scientificName>anatinusanatinus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Monotremata</wo:orderName><wo:familyName>Ornithorhynchidae</wo:familyName><wo:genusName>Ornithorhynchus</wo:genusName><wo:speciesName>anatinus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pl/platypus/platypus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Platypus#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pl/platypus/platypus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jl2c#programme">
+			<dc:title>Down a platypus burrow</dc:title>
+			<po:subject rdf:resource="/nature/species/Platypus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004j5rl#programme">
+			<dc:title>Egg-laying mammals? The platypus defies expectations</dc:title>
+			<po:subject rdf:resource="/nature/species/Platypus#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Platypus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Ornithorhynchus_anatinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/platypus/ornithorhynchus-anatinus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nature.com/nature/videoarchive/platypusgenome/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.timesonline.co.uk/tol/news/science/article3889495.ece">
+			<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/2011/06/iconic-platypus-feels-the-heat.shtml">
+			<dc:title>Iconic platypus feels the heat</dc:title>
+			<dc:description> The very peculiar platypus (image: Dave Watts) Life for the duck-billed platypus has never seemed easy. With its bizarre bird-like beak, mammalian fur and reptilian gait and egg-laying habits,...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/which-is-the-most-unusual-looking-animal/6240.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Which is the most unusual looking animal? Animation which describes all the different characteristics of the platypus.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Platypus#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00mr6nq#collection">
+				<dc:title>Nature: Behind the Scenes</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Ornithorhynchus</rdfs:label><wo:species rdf:resource="/nature/life/Platypus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Ornithorhynchidae#family"><rdfs:label>Ornithorhynchidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Monotreme#order"><rdfs:label>Monotremata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

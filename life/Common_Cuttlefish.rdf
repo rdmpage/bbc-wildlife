@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Common_Cuttlefish">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Common_Cuttlefish#species">
+				<rdfs:label>Common cuttlefish</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Common_Cuttlefish#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_cuttlefish/common_cuttlefish_1.jpg"/>
+
+				<dc:description>Common cuttlefish are <a href="http://www.bbc.co.uk/nature/adaptations/Predation">predators</a> and, like many <a href="http://www.bbc.co.uk/nature/life/Cephalopod">cephalopods</a>, occasionally indulge in a bit of cannibalism. They can change the colour and texture of their skin, <a href="http://www.bbc.co.uk/nature/adaptations/Camouflage">disguising</a> themselves as clumps of floating seaweed as they stalk their prey. They hunt from the moment they hatch and even the smallest hatchling will succeed in catching its prey four times out of five. Common cuttlefish are found in the eastern Atlantic and <a href="http://www.bbc.co.uk/nature/places/Mediterranean_Basin">Mediterranean</a>, between West <a href="http://www.bbc.co.uk/nature/places/Africa">Africa</a> and the Baltic. They are restricted by water temperature so in years when the seas warm up, their range increases. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Common_Cuttlefish"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semelparity_and_iteroparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Common_Cuttlefish.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Sepia_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sepiidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cuttlefish#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Common_Cuttlefish#name">
+				<rdfs:label>Sepia officinalis</rdfs:label>
+				        <wo:commonName>Common cuttlefish</wo:commonName>
+        								<wo:commonName>European common cuttlefish</wo:commonName>
+						<wo:commonName>European cuttlefish</wo:commonName>
+								<wo:scientificName>officinalisofficinalis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Sepiida</wo:orderName><wo:familyName>Sepiidae</wo:familyName><wo:genusName>Sepia</wo:genusName><wo:speciesName>officinalis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_cuttlefish/common_cuttlefish_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/common_cuttlefish/common_cuttlefish_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lyr12#programme">
+			<dc:title>Migratory patterns</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ddx5t#programme">
+			<dc:title>Night dive with predators</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cq0lr#programme">
+			<dc:title>Black eggs</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008gq9w#programme">
+			<dc:title>UK cuttlefish</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Common_Cuttlefish">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Sepia_officinalis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/common-cuttlefish/sepia-officinalis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fao.org/fishery/species/2711/en">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marlin.ac.uk/speciesinformation.php?speciesID=4333">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thecephalopodpage.org/Soffic.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19677573">
+			<dc:title>Tracking the 'kings of camouflage'</dc:title>
+			<dc:description>Researchers are tagging cuttlefish in a bid to find out more about the animal's behaviour.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Cuttlefish#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Semelparity_and_iteroparity#adaptation">
+					<rdfs:label>Semelparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Common_Cuttlefish.gif">
+		<dc:title>Map showing the distribution of the Common cuttlefish species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Sepia_(genus)#genus"><rdfs:label>Sepia</rdfs:label><wo:species rdf:resource="/nature/life/Common_Cuttlefish#species"/><wo:species rdf:resource="/nature/life/Australian_Giant_Cuttlefish#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sepiidae#family"><rdfs:label>Sepiidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cuttlefish#order"><rdfs:label>Sepiida</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

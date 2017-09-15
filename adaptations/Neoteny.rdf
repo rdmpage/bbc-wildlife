@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/adaptations/Neoteny">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Neoteny#adaptation"/>
+		<rdfs:seeAlso rdf:resource="/nature/adaptations"/>
+	</rdf:Description>
+
+		<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Neoteny#adaptation">
+				<rdfs:label>Neoteny</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/neoteny/neoteny_1.jpg"/>
+
+				<dc:description>Neoteny refers to animals that retains juvenile features even when they become adults. The most well-known example is the axolotl, a type of salamander that remains tadpole-like all its life, never losing its gills and never leaving the water to live on land. Neoteny is an important feature in evolution: human beings are neotenous primates and insects might be descended from a neotenous millipede-like ancestor.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Neoteny"/>
+		
+		
+				
+									
+				
+				
+        
+
+					</wo:MorphologyAdaptation>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/neoteny/neoteny_1.jpg">
+		<foaf:depicts rdf:resource="/nature/adaptations/Neoteny#adaptation"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/ne/neoteny/neoteny_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Neoteny">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Neoteny#adaptation"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.aquariumoddities.com/2008/07/10/axolotls-neoteny/">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Neoteny#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bellaonline.com/articles/art18189.asp">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Neoteny#adaptation"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8220000/8220636.stm">
+			<dc:title>Axolotl verges on wild extinction</dc:title>
+			<dc:description>Fewer than 1,200 of the popular and freakish Mexican axolotl remain in the wild, new surveys reveal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Neoteny#adaptation"/>
+		</foaf:Document>
+			
+		
+					
+	
+								
+		
+
+
+
+
+	
+	
+					    		    		<wo:Species rdf:about="/nature/life/Texas_blind_salamander#species">
+    			<rdfs:label>Texas blind salamander</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Neoteny#adaptations"/>
+    		</wo:Species>
+    					
+		    
+</rdf:RDF>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Wild_horse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Wild_horse#species">
+				<rdfs:label>Wild horse</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Wild_horse#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wi/wild_horse/wild_horse_1.jpg"/>
+
+				<dc:description>With their power and beauty horses have had a long association with <a href="/nature/life/Human">humans</a>. Today there are only two surviving subspecies of wild horse: Przewalski's horse, or Mongolian wild horse, and the common domesticated horse. A third subspecies, the Tarpan or Eurasian wild horse, survived up until the 1920s before becoming extinct.    
+<br />
+<br />
+The Critically Endangered Przewalski's horse has recovered from the brink of extinction and is the last true wild horse, only surviving in Mongolian reserves and national parks. However it is still not known from which subspecies our familiar domesticated horses are descended. Roaming <a href="/nature/adaptations/Presociality">herds</a> of untamed domestic horses are also known as wild horses.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Wild_horse"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Wild_horse.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Equus_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Equidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Wild_horse#name">
+				<rdfs:label>Equus ferus</rdfs:label>
+				        <wo:commonName>Wild horse</wo:commonName>
+        										<wo:scientificName>ferusferus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Perissodactyla</wo:orderName><wo:familyName>Equidae</wo:familyName><wo:genusName>Equus</wo:genusName><wo:speciesName>ferus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/wi/wild_horse/wild_horse_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Wild_horse#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/wi/wild_horse/wild_horse_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lcs4b#programme">
+			<dc:title>Wild South west</dc:title>
+			<po:subject rdf:resource="/nature/species/Wild_horse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087hxp#programme">
+			<dc:title>Konik conservation</dc:title>
+			<po:subject rdf:resource="/nature/species/Wild_horse#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081fhz#programme">
+			<dc:title>Feral foresters</dc:title>
+			<po:subject rdf:resource="/nature/species/Wild_horse#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Wild_horse">
+		<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Equus_caballus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://chem.tufts.edu/science/evolution/HorseEvolution.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/treehouses/?treehouse_id=4223">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/przewalskis-horse/equus-ferus-przewalskii/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.lhnet.org/horse-breeds/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.noanswersingenesis.org.au/cg_przewalski_horse.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23060993">
+			<dc:title>Horse DNA oldest by 500,000 years</dc:title>
+			<dc:description>A bone found in a remote part of Canada has shed light on the ancestry of the modern horse, and pushed back the oldest sequenced DNA by a huge margin.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17943974">
+			<dc:title>Horse origins mystery 'solved'</dc:title>
+			<dc:description>The horse was first domesticated 6,000 years ago on the grasslands of the Ukraine, southwest Russia and west Kazakhstan, genetic evidence suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15619885">
+			<dc:title>Ancient horses' spotted history</dc:title>
+			<dc:description>Scientists find that the dappled horses depicted in European cave paintings were inspired by the real thing.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Wild_horse#species"/>
+		</foaf:Document>
+			
+											<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Wild_horse.gif">
+		<dc:title>Map showing the distribution of the Wild horse species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Equus_(genus)#genus"><rdfs:label>Equus</rdfs:label><wo:species rdf:resource="/nature/life/Wild_horse#species"/><wo:species rdf:resource="/nature/life/Onager#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Equidae#family"><rdfs:label>Equidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Odd-toed_ungulate#order"><rdfs:label>Perissodactyla</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

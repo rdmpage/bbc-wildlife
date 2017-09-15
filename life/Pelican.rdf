@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Pelican">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Pelican#family">
+				<rdfs:label>Pelicans</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Pelican#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pe/pelican/pelican_1.jpg"/>
+
+				<dc:description>Pelicans are well known for the large throat pouch they have attached to their lower beak. The pouch can hold over 10 litres of water and prey and in hot weather the pelicans flutter it to keep cool. Pelican chicks have no feathers or down when they hatch and take several weeks to grow their beaks to adult size. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pelican"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Pelecaniformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Pelican#name">
+				<rdfs:label>Pelecanidae</rdfs:label>
+				        <wo:commonName>Pelicans</wo:commonName>
+        										<wo:scientificName>Pelecanidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Pelecaniformes</wo:orderName><wo:familyName>Pelecanidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pe/pelican/pelican_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Pelican#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pe/pelican/pelican_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00mrckh#programme">
+			<dc:title>Air display</dc:title>
+			<po:subject rdf:resource="/nature/family/Pelican#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0050ktm#programme">
+			<dc:title>Pelican plunder</dc:title>
+			<po:subject rdf:resource="/nature/family/Pelican#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pelican">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Pelecanidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Pelecanus/26329">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oceanlight.com/pelecanidae_photo.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-latin-america-17890174">
+			<dc:title>Peru examines deaths of pelicans</dc:title>
+			<dc:description>Scientists in Peru are looking for the cause of the mysterious deaths of hundreds of pelicans on the coast in the north of the country. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8733000/8733503.stm">
+			<dc:title>Oldest prehistoric pelican also had big beak</dc:title>
+			<dc:description>Pelicans have sported big beaks for at least 30 million years, the discovery of an ancient pelican fossil reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8343000/8343195.stm">
+			<dc:title>Pelicans filmed gobbling gannets</dc:title>
+			<dc:description>In a bizarre reaction to dwindling fish stocks, great white pelicans have turned to eating live gannet chicks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Pelican#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Pelecaniformes#order"><rdfs:label>Pelecaniformes</rdfs:label><wo:family rdf:resource="/nature/life/Pelican#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Sulidae#family"/><wo:family rdf:resource="/nature/life/Balaenicipitidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

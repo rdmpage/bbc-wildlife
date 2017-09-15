@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/habitats/Flooded_grasslands_and_savannas">
+		<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		<rdfs:seeAlso rdf:resource="/nature/habitats"/>
+	</rdf:Description>
+
+		<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+				<rdfs:label>Flooded grassland</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fl/flooded_grasslands_and_savannas/flooded_grasslands_and_savannas_1.jpg"/>
+
+				<dc:description>Flooded grasslands are the half grassland, half wetland typified by the Florida Everglades, the marshes of Southern Iraq and the Pantanal of Brazil. They may be permanently or seasonally flooded, which has an obvious effect on what kinds of plant and animal species found here. This type of wetland area is of particular value to bird life, so bird populations – both local species and migrants – are often high in numbers.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Flooded_grasslands_and_savannas"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+				
+        
+
+				
+					<wo:ecozone rdf:resource="/nature/ecozones/Afrotropic_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Indomalaya_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Neotropic_ecozone#ecozone"/>
+					<wo:ecozone rdf:resource="/nature/ecozones/Palearctic_ecozone#ecozone"/>
+						</wo:TerrestrialHabitat>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fl/flooded_grasslands_and_savannas/flooded_grasslands_and_savannas_1.jpg">
+		<foaf:depicts rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fl/flooded_grasslands_and_savannas/flooded_grasslands_and_savannas_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0037b97#programme">
+			<dc:title>Pantanal life</dc:title>
+			<po:subject rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/f/fl/flooded_grasslands_and_savannas/sna15-03.mp3">
+			<dc:title>Everglades atmosphere at dusk</dc:title>
+			<dc:subject rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/f/fl/flooded_grasslands_and_savannas/sna17-04.mp3">
+			<dc:title>Everglades early morning atmosphere</dc:title>
+			<dc:subject rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Flooded_grasslands_and_savannas">
+		<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="T">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="F">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="F">
+			<foaf:primaryTopic rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+		</foaf:Document>
+			
+					
+					
+		
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	
+	
+					    		    		<wo:Species rdf:about="/nature/life/Aardvark#species">
+    			<rdfs:label>Aardvark</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/African_Buffalo#species">
+    			<rdfs:label>African buffalo</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/African_Bush_Elephant#species">
+    			<rdfs:label>African bush elephant</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/African_Fish_Eagle#species">
+    			<rdfs:label>African fish eagle</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/African_Wild_Dog#species">
+    			<rdfs:label>African wild dog</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/American_Black_Bear#species">
+    			<rdfs:label>Black bear</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/American_Black_Vulture#species">
+    			<rdfs:label>American black vulture</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Barn_Swallow#species">
+    			<rdfs:label>Swallow</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Black_Rhinoceros#species">
+    			<rdfs:label>Black rhinoceros</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Blue_Wildebeest#species">
+    			<rdfs:label>Blue wildebeest</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Brown_rat#species">
+    			<rdfs:label>Brown rat</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Buff-necked_Ibis#species">
+    			<rdfs:label>Buff-necked ibis</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Capybara#species">
+    			<rdfs:label>Capybara</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Cheetah#species">
+    			<rdfs:label>Cheetah</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_frog#species">
+    			<rdfs:label>Common frog</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_Kestrel#species">
+    			<rdfs:label>Kestrel</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_Kingfisher#species">
+    			<rdfs:label>Kingfisher</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_Pheasant#species">
+    			<rdfs:label>Pheasant</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Common_Ringed_Plover#species">
+    			<rdfs:label>Common ringed plover</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Cougar#species">
+    			<rdfs:label>Puma</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Damaraland_Mole_Rat#species">
+    			<rdfs:label>Damaraland mole rat</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Demoiselle_Crane#species">
+    			<rdfs:label>Demoiselle crane</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Eleonora's_Falcon#species">
+    			<rdfs:label>Eleonora's falcon</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Elk#species">
+    			<rdfs:label>Elk</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Eunectes_notaeus#species">
+    			<rdfs:label>Yellow anaconda</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/European_Otter#species">
+    			<rdfs:label>Otter</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/European_Starling#species">
+    			<rdfs:label>Starling</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Field_Vole#species">
+    			<rdfs:label>Field vole</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Giant_Anteater#species">
+    			<rdfs:label>Giant anteater</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Giant_Otter#species">
+    			<rdfs:label>Giant river otter</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Giraffe#species">
+    			<rdfs:label>Giraffe</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Golden_Eagle#species">
+    			<rdfs:label>Golden eagle</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Gray_Wolf#species">
+    			<rdfs:label>Grey wolf</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    						    						    		    		<wo:Species rdf:about="/nature/life/Hippopotamus#species">
+    			<rdfs:label>Hippopotamus</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Honey_Buzzard#species">
+    			<rdfs:label>Honey buzzard</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Human#species">
+    			<rdfs:label>Human</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Indian_Rhinoceros#species">
+    			<rdfs:label>Indian rhinoceros</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Jaguar#species">
+    			<rdfs:label>Jaguar</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Leopard#species">
+    			<rdfs:label>Leopard</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Lion#species">
+    			<rdfs:label>Lion</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Mallard#species">
+    			<rdfs:label>Mallard</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Maned_Wolf#species">
+    			<rdfs:label>Maned wolf</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Nile_crocodile#species">
+    			<rdfs:label>Nile crocodile</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Olive_Baboon#species">
+    			<rdfs:label>Olive baboon</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Ostrich#species">
+    			<rdfs:label>Ostrich</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Peregrine_Falcon#species">
+    			<rdfs:label>Peregrine falcon</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Père_David's_Deer#species">
+    			<rdfs:label>Milu</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Pied_Kingfisher#species">
+    			<rdfs:label>Pied kingfisher</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Raccoon#species">
+    			<rdfs:label>Raccoon</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Red-billed_Quelea#species">
+    			<rdfs:label>Red-billed quelea</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Red-crowned_Crane#species">
+    			<rdfs:label>Red-crowned crane</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Red_Deer#species">
+    			<rdfs:label>Red deer</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Red_Squirrel#species">
+    			<rdfs:label>Red squirrel</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Rook_(bird)#species">
+    			<rdfs:label>Rook</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Sand_Martin#species">
+    			<rdfs:label>Sand martin</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Serval#species">
+    			<rdfs:label>Serval</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Short-eared_Owl#species">
+    			<rdfs:label>Short-eared owl</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Southern_Three-banded_Armadillo#species">
+    			<rdfs:label>Southern three-banded armadillo</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Springbok_(antelope)#species">
+    			<rdfs:label>Springbok</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Stoat#species">
+    			<rdfs:label>Stoat</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Straw-coloured_Fruit_Bat#species">
+    			<rdfs:label>Straw-coloured fruit bat</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Striped_Skunk#species">
+    			<rdfs:label>Striped Skunk</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Tambaqui#species">
+    			<rdfs:label>Tambaqui</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Tiger#species">
+    			<rdfs:label>Tiger</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Tundra_Swan#species">
+    			<rdfs:label>Bewick's swan</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Vanessa_cardui#species">
+    			<rdfs:label>Painted lady</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Venus_Flytrap#species">
+    			<rdfs:label>Venus flytrap</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/White-fronted_Bee-eater#species">
+    			<rdfs:label>White-fronted bee-eater</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/White_Rhinoceros#species">
+    			<rdfs:label>White rhinoceros</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Whooper_Swan#species">
+    			<rdfs:label>Whooper swan</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Wood_Stork#species">
+    			<rdfs:label>Wood stork</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    						    		    		<wo:Species rdf:about="/nature/life/Yacare_Caiman#species">
+    			<rdfs:label>Yacare caiman</rdfs:label>
+    			    			<wo:growsIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitats"/>
+    		</wo:Species>
+    					
+						<wo:Ecozone rdf:about="/nature/ecozones/Afrotropic_ecozone#ecozone">
+			<rdfs:label>Afrotropics</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Indomalaya_ecozone#ecozone">
+			<rdfs:label>Indo-Malay</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Neotropic_ecozone#ecozone">
+			<rdfs:label>Neotropical</rdfs:label>
+		</wo:Ecozone>
+				<wo:Ecozone rdf:about="/nature/ecozones/Palearctic_ecozone#ecozone">
+			<rdfs:label>Palaearctic</rdfs:label>
+		</wo:Ecozone>
+			    
+</rdf:RDF>

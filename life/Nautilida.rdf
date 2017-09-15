@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Nautilida">
+		<foaf:primaryTopic rdf:resource="/nature/order/Nautilida#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Nautilida#order">
+				<rdfs:label>Nautiluses</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Nautilida#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/nautilida/nautilida_1.jpg"/>
+
+				<dc:description>Nautiluses are an order of cephalopods that live between 100 to 300 metres down in the ocean. Nautiluses have changed very little during the last 500 million years or so, and where there were once hundreds of species there are now only six that remain today. The nautilus' coiled shell has a series of chambers filled with gas, into and out of which it can pump fluid when it needs to dive or ascend. These shells show some of the most amazing spirals in nature.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Nautilida"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Nautilida.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Nautilida#name">
+				<rdfs:label>Nautilida</rdfs:label>
+				        <wo:commonName>Nautiluses</wo:commonName>
+        								<wo:commonName>Chambered nautilus</wo:commonName>
+						<wo:commonName>Pearly nautilus</wo:commonName>
+								<wo:scientificName>Nautilida</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Nautilida</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/nautilida/nautilida_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Nautilida#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/na/nautilida/nautilida_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n6tll#programme">
+			<dc:title>Fossil life</dc:title>
+			<po:subject rdf:resource="/nature/order/Nautilida#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jbrt7#programme">
+			<dc:title>The secrets of the nautilus shell</dc:title>
+			<po:subject rdf:resource="/nature/order/Nautilida#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkt26#programme">
+			<dc:title>Super-snails</dc:title>
+			<po:subject rdf:resource="/nature/order/Nautilida#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006jppt#programme">
+			<dc:title>Fossil detection</dc:title>
+			<po:subject rdf:resource="/nature/order/Nautilida#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00486wy#programme">
+			<dc:title>Living fossils</dc:title>
+			<po:subject rdf:resource="/nature/order/Nautilida#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038wg5#programme">
+			<dc:title>Hunting nautilus</dc:title>
+			<po:subject rdf:resource="/nature/order/Nautilida#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Nautilida">
+		<foaf:primaryTopic rdf:resource="/nature/order/Nautilida#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Nautilida.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Nautilida#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/2313">
+			<foaf:primaryTopic rdf:resource="/nature/order/Nautilida#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeos.com/Invertebrates/Molluscs/Cyrtosoma/Nautiloidea/Nautilida.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Nautilida#order"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Nautilida.gif">
+		<dc:title>Map showing the distribution of the Nautiluses order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label><wo:order rdf:resource="/nature/life/Nautilida#order"/><wo:order rdf:resource="/nature/life/Squid#order"/><wo:order rdf:resource="/nature/life/Octopus#order"/><wo:order rdf:resource="/nature/life/Cuttlefish#order"/><wo:order rdf:resource="/nature/life/Ammonite#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

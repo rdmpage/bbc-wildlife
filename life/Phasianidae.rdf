@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Phasianidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Phasianidae#family">
+				<rdfs:label>Pheasants and partridges</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Phasianidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phasianidae/phasianidae_1.jpg"/>
+
+				<dc:description>Pheasants, partridges and their relatives are a family of birds, whose members range in size from the massive domestic turkey to the tiny quail. Chickens, grouse and peacocks number among its members.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Phasianidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Galliformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Phasianidae#name">
+				<rdfs:label>Phasianidae</rdfs:label>
+				        <wo:commonName>Pheasants and partridges</wo:commonName>
+        										<wo:scientificName>Phasianidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Galliformes</wo:orderName><wo:familyName>Phasianidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phasianidae/phasianidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Phasianidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/ph/phasianidae/phasianidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hqm5r#programme">
+			<dc:title>Inner chicken</dc:title>
+			<po:subject rdf:resource="/nature/family/Phasianidae#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fgfr4#programme">
+			<dc:title>Valley life</dc:title>
+			<po:subject rdf:resource="/nature/family/Phasianidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Phasianidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="P">
+			<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="P">
+			<foaf:primaryTopic rdf:resource="/nature/family/Phasianidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Galliformes#order"><rdfs:label>Galliformes</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/><wo:family rdf:resource="/nature/life/Megapode#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Red-legged_Partridge#family"><rdfs:label>Red-legged partridge</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Rock_Ptarmigan#family"><rdfs:label>Ptarmigan</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Wild_Turkey#family"><rdfs:label>Wild turkey</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Indian_Peafowl#family"><rdfs:label>Peacock</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Common_Pheasant#family"><rdfs:label>Pheasant</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Tetrao#family"><rdfs:label>Eurasian grouse</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Temminck's_Tragopan#family"><rdfs:label>Temminck's tragopan</rdfs:label><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

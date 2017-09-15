@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Hare">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Hare#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Hare#genus">
+				<rdfs:label>Common hares and jackrabbits</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Hare#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/hare/hare_1.jpg"/>
+
+				<dc:description>Most of the world's hares belong in this genus lepus. Hares are bigger than rabbits, and their young have a full coat of fur when they are born.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hare"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Leporidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Lagomorpha#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Hare#name">
+				<rdfs:label>Lepus</rdfs:label>
+				        <wo:commonName>Common hares and jackrabbits</wo:commonName>
+        										<wo:scientificName>Lepus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Lagomorpha</wo:orderName><wo:familyName>Leporidae</wo:familyName><wo:genusName>Lepus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/hare/hare_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Hare#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ha/hare/hare_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hare">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Hare#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Leporidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hare#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/dna/h2g2/A2465426">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hare#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Lepus_Genus.asp#Photos">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hare#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/can-you-spot-the-difference-between-a-rabbit-and-a-hare/3008.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>How would you describe a rabbit to someone who had never seen one before? The observable features help us to describe animals. Small distinguishing attributes help to show the variations between a rabbit and a hare.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hare#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/northernireland/schools/4_11/tandy/projects/world_around_us/topic_mar.shtml">
+			<dc:title>BBC - TANDY - The World Around Us - March</dc:title>
+			<dc:description>Welcome to our new TANDY site, jam-packed full of loads of cool things. Tune in to BBC Radio Ulster MW 1341 every Tuesday at 11.20am or listen online.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Hare#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Leporidae#family"><rdfs:label>Leporidae</rdfs:label><wo:genus rdf:resource="/nature/life/Hare#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Lagomorpha#order"><rdfs:label>Lagomorpha</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/European_Hare#genus"><rdfs:label>Hare</rdfs:label><wo:genus rdf:resource="/nature/life/Hare#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Mountain_Hare#genus"><rdfs:label>Mountain hare</rdfs:label><wo:genus rdf:resource="/nature/life/Hare#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

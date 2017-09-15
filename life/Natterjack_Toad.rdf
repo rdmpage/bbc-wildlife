@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Natterjack_Toad">
+		<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Natterjack_Toad#species">
+				<rdfs:label>Natterjack toad </rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Natterjack_Toad#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/natterjack_toad/natterjack_toad_1.jpg"/>
+
+				<dc:description>Natterjack toads are claimed to be Europe's noisiest amphibian, with the male call audible over several kilometres. Natterjacks are found in southwest and central Europe, but are rare in Britain. They can be found in southwest Ireland, pockets of Norfolk and Lincolnshire, along the coast between Lancashire and Dumfries and areas of Hampshire and Surrey where they've been introduced. Being poor swimmers, they drown in deep water if they can't get ashore. Short limbs mean they can't leap very far, and usually only do so as a startle response before going into their normal running gait.   
+<br/>
+<br/>
+<a href="/nature/22120791">How to identify UK amphibians.   </a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Natterjack_Toad"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Jumping#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Spawn_(biology)#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Natterjack_Toad.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Vernal_pool#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Epidalea#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/True_toad#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Frog#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Amphibian#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Natterjack_Toad#name">
+				<rdfs:label>Epidalea calamita</rdfs:label>
+				        <wo:commonName>Natterjack toad </wo:commonName>
+        								<wo:commonName>Running toad</wo:commonName>
+								<wo:scientificName>calamitacalamita</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Amphibia</wo:className><wo:orderName>Anura</wo:orderName><wo:familyName>Bufonidae</wo:familyName><wo:genusName>Epidalea</wo:genusName><wo:speciesName>calamita</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/natterjack_toad/natterjack_toad_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/na/natterjack_toad/natterjack_toad_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g3l13#programme">
+			<dc:title>Natterjack toads</dc:title>
+			<po:subject rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/n/na/natterjack_toad/LISC2060939.mp3">
+			<dc:title>Natterjack toads calling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Natterjack_Toad">
+		<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/natterjack-toad/bufo-calamita/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/wales/nature/sites/species/amphibians_reptiles/natterjack_toads.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.herpconstrust.org.uk/animals/natterjack_toad.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.herpetofauna.co.uk/natterjack_toad.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seftoncoast.org.uk/natcons_natterjack.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-14644496">
+			<dc:title>Reserve to get rare toad colony</dc:title>
+			<dc:description>A new colony of rare natterjack toads is to be established in Norfolk using more than 800 tadpoles from an RSPB nature reserve in Bedfordshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/01/the-natterjack-toad-a-climate.shtml">
+			<dc:title>The natterjack toad: a climate change winner?</dc:title>
+			<dc:description>This is a blog about</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/south_of_scotland/7469339.stm">
+			<dc:title>Breeding scheme to help rare toad</dc:title>
+			<dc:description>A rare toad which is only found in one part of Scotland is being helped to find a mate thanks to conservation work carried out near Dumfries.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Natterjack_Toad#species"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Jumping#adaptation">
+					<rdfs:label>Adapted to jumping</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Spawn_(biology)#adaptation">
+					<rdfs:label>Spawning</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Vernal_pool#habitat">
+					<rdfs:label>Temporary pools</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Natterjack_Toad.gif">
+		<dc:title>Map showing the distribution of the Natterjack toad  species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Epidalea#genus"><rdfs:label>Epidalea</rdfs:label><wo:species rdf:resource="/nature/life/Natterjack_Toad#species"/></wo:Genus><wo:Family rdf:about="/nature/family/True_toad#family"><rdfs:label>Bufonidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Frog#order"><rdfs:label>Anura</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Amphibian#class"><rdfs:label>Amphibia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

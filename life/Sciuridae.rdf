@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Sciuridae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Sciuridae#family">
+				<rdfs:label>Squirrels</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Sciuridae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sc/sciuridae/sciuridae_1.jpg"/>
+
+				<dc:description>Squirrels come in three types: tree squirrels, ground squirrels and flying squirrels. In temperate climates, squirrels often store or bury seeds and nuts for the winter. This makes them important seed dispersers, since not all of them survive to return to their cache. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sciuridae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Sciuridae#name">
+				<rdfs:label>Sciuridae</rdfs:label>
+				        <wo:commonName>Squirrels</wo:commonName>
+        										<wo:scientificName>Sciuridae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Sciuridae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sc/sciuridae/sciuridae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Sciuridae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sc/sciuridae/sciuridae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sciuridae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Sciuridae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animals.nationalgeographic.com/animals/printable/squirrel.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Sciuridae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/8703">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Sciuridae_Family.asp">
+			<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8448000/8448807.stm">
+			<dc:title>Grey squirrels 'don't harm birds'</dc:title>
+			<dc:description>Grey squirrels have little impact on woodland bird species in England, a study by the British Trust for Ornithology shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Sciuridae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label><wo:family rdf:resource="/nature/life/Sciuridae#family"/><wo:family rdf:resource="/nature/life/Blesmol#family"/><wo:family rdf:resource="/nature/life/Castoridae#family"/><wo:family rdf:resource="/nature/life/Caviidae#family"/><wo:family rdf:resource="/nature/life/Muridae#family"/><wo:family rdf:resource="/nature/life/Dormouse#family"/><wo:family rdf:resource="/nature/life/Cricetidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Prairie_dog#family"><rdfs:label>Prairie dogs</rdfs:label><wo:family rdf:resource="/nature/life/Sciuridae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Himalayan_marmot#family"><rdfs:label>Himalayan marmot</rdfs:label><wo:family rdf:resource="/nature/life/Sciuridae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Sciurus#family"><rdfs:label>Bushy-tailed squirrels</rdfs:label><wo:family rdf:resource="/nature/life/Sciuridae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Arctic_Ground_Squirrel#family"><rdfs:label>Arctic ground squirrel</rdfs:label><wo:family rdf:resource="/nature/life/Sciuridae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/superfamily/Pinniped">
+		<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		<rdfs:seeAlso rdf:resource="/nature/superfamily"/>
+	</rdf:Description>
+
+		<wo:Superfamily rdf:about="/nature/life/Pinniped#superfamily">
+				<rdfs:label>Walruses, seals and sea lions</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/superfamily/Pinniped#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>Dive in amongst the pinnipeds - the seals, walrus and sea lions - for a taste of what life is like for fin-footed, semi-aquatic mammals. Flat flippers help give these typically rotund, barrel-shaped animals an unlikely grace and beauty underwater and also help them move around - though with somewhat less grace! - on land. Explore via the image links below to find information and video clips about the individual species from the Autumnwatch favourite, the grey seal, to the mighty walrus in extraordinary footage from Planet Earth showing a polar bear attack - a fearsome clash of Titans. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pinniped"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/superfamily/Pinniped.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Superfamily>
+
+			<wo:TaxonName rdf:about="/nature/superfamily/Pinniped#name">
+				<rdfs:label>Pinnipedia</rdfs:label>
+				        <wo:commonName>Walruses, seals and sea lions</wo:commonName>
+        								<wo:commonName>Fin-footed mammals</wo:commonName>
+						<wo:commonName>Pinnipeds</wo:commonName>
+								<wo:scientificName>Pinnipedia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:superfamilyName>Pinnipedia</wo:superfamilyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l267z#programme">
+			<dc:title>Seal history</dc:title>
+			<po:subject rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pinniped">
+		<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://flightline.highline.edu/wmoses/BI103SeabirdsMammalsSpring04/Lecture%20Notes/PDF/Mammals/Pinniped%20Evolution.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.marinemammalcenter.org/education/marine-mammal-information/pinnipeds/">
+			<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nmfs.noaa.gov/pr/species/mammals/pinnipeds/">
+			<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pinnipeds.org/species/species.htm">
+			<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-lincolnshire-17302137">
+			<dc:title>Lost seal set to leave Skegness</dc:title>
+			<dc:description>A seal which ended up in Lincolnshire after getting lost in the North Sea is set to be taken back to its natural territory in "the next few weeks".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-isle-of-man-15061650">
+			<dc:title>Seal calf season prompts warning</dc:title>
+			<dc:description>Wildlife experts in the Isle of Man issue a seal pup warning ahead of the annual breeding season.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/the-children-meet-a-seal/10637.html">
+			<dc:title>The children meet a seal</dc:title>
+			<dc:description>A boy from The Green Balloon Club takes us to meet a seal.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/superfamily/Pinniped#superfamily"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/superfamily/Pinniped.gif">
+		<dc:title>Map showing the distribution of the Walruses, seals and sea lions superfamily</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label><wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Walrus#superfamily"><rdfs:label>Walrus</rdfs:label><wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/></wo:Species><wo:Family rdf:about="/nature/life/Eared_seal#superfamily"><rdfs:label>Fur seals and sea lions</rdfs:label><wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/></wo:Family><wo:Family rdf:about="/nature/life/Earless_seal#superfamily"><rdfs:label>True seals</rdfs:label><wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

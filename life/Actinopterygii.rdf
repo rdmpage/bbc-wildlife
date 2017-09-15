@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Actinopterygii">
+		<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Actinopterygii#class">
+				<rdfs:label>Ray-finned fishes</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Actinopterygii#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ac/actinopterygii/actinopterygii_1.jpg"/>
+
+				<dc:description>Ray-finned fishes are a very diverse class, about half of all vertebrates being ray-fins. They get their name from the form of their fins - bony struts with a web of skin covering them. Familiar fish such as the goldfish, cod and seahorse are all members of this class.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Actinopterygii"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Actinopterygii.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Reef#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tide_pool#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:superclass rdf:resource="/nature/life/Osteichthyes#superclass"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Actinopterygii#name">
+				<rdfs:label>Actinopterygii</rdfs:label>
+				        <wo:commonName>Ray-finned fishes</wo:commonName>
+        										<wo:scientificName>Actinopterygii</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:superclassName>Osteichthyes</wo:superclassName><wo:className>Actinopterygii</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ac/actinopterygii/actinopterygii_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Actinopterygii#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ac/actinopterygii/actinopterygii_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01cnd0b#programme">
+			<dc:title>Spawnstar</dc:title>
+			<po:subject rdf:resource="/nature/class/Actinopterygii#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f26wj#programme">
+			<dc:title>Fish floats</dc:title>
+			<po:subject rdf:resource="/nature/class/Actinopterygii#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00btncj#programme">
+			<dc:title>Diving with Sharks</dc:title>
+			<po:subject rdf:resource="/nature/class/Actinopterygii#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008998q#programme">
+			<dc:title>Something fishy</dc:title>
+			<po:subject rdf:resource="/nature/class/Actinopterygii#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0086gm0#programme">
+			<dc:title>Fantastic fish</dc:title>
+			<po:subject rdf:resource="/nature/class/Actinopterygii#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hs5q#programme">
+			<dc:title>Fish types</dc:title>
+			<po:subject rdf:resource="/nature/class/Actinopterygii#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Actinopterygii">
+		<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9139000/9139756.stm">
+			<dc:title>Fish show unique parenting skills</dc:title>
+			<dc:description>Tropical discus fish feed and even wean their young like mammals do, scientists find. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9039000/9039805.stm">
+			<dc:title>The fish that suckles its young</dc:title>
+			<dc:description>The European eelpout suckles its young, even before they are born, the first fish known to do so.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8454592.stm">
+			<dc:title>Light shed on fish gill mystery</dc:title>
+			<dc:description>Biologists have cast doubt on the long-held theory that fish gills evolved primarily for the purpose of breathing.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8452000/8452008.stm">
+			<dc:title>Stingray's 'tool use' revealed</dc:title>
+			<dc:description>Freshwater stingrays use water as a "tool" in problem solving tests, scientists reveal for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8269000/8269414.stm">
+			<dc:title>Giant fish 'verges on extinction'</dc:title>
+			<dc:description>A three-year survey fails to find a single Chinese paddlefish, one of the largest freshwater fish in the world.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Actinopterygii#class"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Reef#habitat">
+					<rdfs:label>Reefs</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Tide_pool#habitat">
+					<rdfs:label>Rockpools</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Actinopterygii.gif">
+		<dc:title>Map showing the distribution of the Ray-finned fishes class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Superclass rdf:about="/nature/superclass/Osteichthyes#superclass"><rdfs:label>Osteichthyes</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/><wo:class rdf:resource="/nature/life/Sarcopterygii#class"/></wo:Superclass><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Perciformes#class"><rdfs:label>Perch-like fishes</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Order><wo:Order rdf:about="/nature/life/Clupeiformes#class"><rdfs:label>Herrings and anchovies</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Order><wo:Species rdf:about="/nature/life/Arapaima#class"><rdfs:label>Pirarucu</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Species><wo:Order rdf:about="/nature/life/Catfish#class"><rdfs:label>Catfish</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Order><wo:Family rdf:about="/nature/life/Salmonidae#class"><rdfs:label>Salmon family</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Family><wo:Family rdf:about="/nature/life/Characidae#class"><rdfs:label>Characids</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Family><wo:Family rdf:about="/nature/life/Syngnathidae#class"><rdfs:label>Seahorses and pipefish</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Family><wo:Species rdf:about="/nature/life/Three-spined_stickleback#class"><rdfs:label>Three-spined stickleback</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Species><wo:Family rdf:about="/nature/life/Flying_fish#class"><rdfs:label>Flying fish</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Family><wo:Family rdf:about="/nature/life/Frogfish#class"><rdfs:label>Frogfish</rdfs:label><wo:class rdf:resource="/nature/life/Actinopterygii#class"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

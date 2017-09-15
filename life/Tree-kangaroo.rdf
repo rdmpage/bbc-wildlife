@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Tree-kangaroo">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Tree-kangaroo#genus">
+				<rdfs:label>Tree-Kangaroos</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Tree-kangaroo#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tr/tree-kangaroo/tree-kangaroo_1.jpg"/>
+
+				<dc:description>Tree kangaroos have evolved from a ground-dwelling, hopping ancestor to a specialist for life in the trees. Compared to monkeys and squirrels, their climbing skills can sometimes seem a bit clumsy, but as they have no competition from other tree-climbing mammals, or threats from arboreal predators, they don't need to be as agile.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tree-kangaroo"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Macropod#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Diprotodontia#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Tree-kangaroo#name">
+				<rdfs:label>Dendrolagus</rdfs:label>
+				        <wo:commonName>Tree-Kangaroos</wo:commonName>
+        										<wo:scientificName>Dendrolagus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Diprotodontia</wo:orderName><wo:familyName>Macropodidae</wo:familyName><wo:genusName>Dendrolagus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tr/tree-kangaroo/tree-kangaroo_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/tr/tree-kangaroo/tree-kangaroo_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tree-kangaroo">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="T">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="T">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Tree-kangaroo#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Macropod#family"><rdfs:label>Macropodidae</rdfs:label><wo:genus rdf:resource="/nature/life/Tree-kangaroo#genus"/><wo:genus rdf:resource="/nature/life/Macropus#genus"/><wo:genus rdf:resource="/nature/life/Rock-wallaby#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Diprotodontia#order"><rdfs:label>Diprotodontia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Doria's_Tree-kangaroo#genus"><rdfs:label>Doria's Tree-Kangaroo</rdfs:label><wo:genus rdf:resource="/nature/life/Tree-kangaroo#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Matschie's_Tree-kangaroo#genus"><rdfs:label>Matschie's tree-kangaroo</rdfs:label><wo:genus rdf:resource="/nature/life/Tree-kangaroo#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

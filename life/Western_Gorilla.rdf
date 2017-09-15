@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Western_Gorilla">
+		<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Western_Gorilla#species">
+				<rdfs:label>Western gorilla</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Western_Gorilla#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/western_gorilla/western_gorilla_1.jpg"/>
+
+				<dc:description>Western gorillas are easily distinguishable from their <a href="/nature/life/Eastern_Gorilla">eastern cousins</a>, since they are smaller and lighter-bodied. This allows them to be agile <a href="/nature/adaptations/Climbing">climbers</a> and therefore excellent at gathering fruit. There are two subspecies of western gorilla: the widespread lowland gorilla and the rarer cross river gorilla. Both subspecies are <a href="/nature/adaptations/Presociality">sociable</a> and live in groups. Sadly, gorilla numbers have plummeted in recent years, mainly through habitat loss, although between 1992 and 2007 the deadly ebola virus killed one third of the entire population.   
+<br/>
+<br/>
+<b>Did you know?</b><br/> Adult males are known as 'silverbacks' due to the silvery-white hair extending down their backs.   
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Western_Gorilla"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Gorilla#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Hominidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Western_Gorilla#name">
+				<rdfs:label>Gorilla gorilla</rdfs:label>
+				        <wo:commonName>Western gorilla</wo:commonName>
+        										<wo:scientificName>gorillagorilla</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hominidae</wo:familyName><wo:genusName>Gorilla</wo:genusName><wo:speciesName>gorilla</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/western_gorilla/western_gorilla_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Western_Gorilla#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/we/western_gorilla/western_gorilla_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8dnb#programme">
+			<dc:title>Gorilla birth</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008fbsz#programme">
+			<dc:title>Saving gorillas</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006p368#programme">
+			<dc:title>Forest fruits</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039r2h#programme">
+			<dc:title>Gorilla display</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Western_Gorilla">
+		<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Gorilla_gorilla.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/entry/gorilla">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/western-gorilla/gorilla-gorilla/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.zsl.org/zsl-london-zoo/exhibits/gorilla-kingdom/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-jersey-19747142">
+			<dc:title>Gorilla gives birth at Durrell</dc:title>
+			<dc:description>A Western lowland baby gorilla born at Durrell is the first at the wildlife park for nearly a decade.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-wiltshire-19281347">
+			<dc:title>In pictures: Gorilla reunion joy</dc:title>
+			<dc:description>The reunion of two gorilla brothers after two years sparks a display of "joy and happiness" at a Wiltshire safari park.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11393664">
+			<dc:title>Malaria 'caught from gorillas'</dc:title>
+			<dc:description>Humans may have originally caught malaria from gorillas, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8417000/8417150.stm">
+			<dc:title>Rare Cross River gorilla filmed</dc:title>
+			<dc:description>Rare footage has been taken of an elusive and critically endangered type of gorilla.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8256000/8256464.stm">
+			<dc:title>Scale of gorilla poaching exposed </dc:title>
+			<dc:description>An undercover investigation has found that up to two gorillas are killed and sold as bushmeat each week in Kouilou, a region of the Republic of Congo. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8027000/8027622.stm">
+			<dc:title>Gorilla mums keep family in check</dc:title>
+			<dc:description>Female gorillas clap their hands to get the attention of male silverbacks and infants.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Gorilla#species"/>
+		</foaf:Document>
+			
+											<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Gorilla#genus"><rdfs:label>Gorilla</rdfs:label><wo:species rdf:resource="/nature/life/Western_Gorilla#species"/><wo:species rdf:resource="/nature/life/Eastern_Gorilla#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Hominidae#family"><rdfs:label>Hominidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

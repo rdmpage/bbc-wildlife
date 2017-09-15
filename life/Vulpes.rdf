@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Vulpes">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Vulpes#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Vulpes#genus">
+				<rdfs:label>True foxes</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Vulpes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/vu/vulpes/vulpes_1.jpg"/>
+
+				<dc:description>True foxes fall within the genus vulpes, and are therefore distinct from other species of canids also referred to as foxes. They are opportunistic feeders, eating what ever they can from small mammals and birds to carrion and fruit. Species of fox can be found on every continent except Antarctica, occupying habitats from the mountainous to the sandy. They range from the large and very successful red fox to the small Rüppell's fox. Quite often the tip of the tail is a different colour from the rest of the pelt. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Vulpes"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Canidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Vulpes#name">
+				<rdfs:label>Vulpes</rdfs:label>
+				        <wo:commonName>True foxes</wo:commonName>
+        										<wo:scientificName>Vulpes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Canidae</wo:familyName><wo:genusName>Vulpes</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/vu/vulpes/vulpes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Vulpes#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/v/vu/vulpes/vulpes_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Vulpes">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Vulpes#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Vulpes.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Vulpes#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/19076">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Vulpes#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Canidae#family"><rdfs:label>Canidae</rdfs:label><wo:genus rdf:resource="/nature/life/Vulpes#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Canis#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Lycalopex#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Tibetan_Sand_Fox#genus"><rdfs:label>Tibetan fox</rdfs:label><wo:genus rdf:resource="/nature/life/Vulpes#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Red_Fox#genus"><rdfs:label>Red fox</rdfs:label><wo:genus rdf:resource="/nature/life/Vulpes#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

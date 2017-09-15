@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/American_Mink">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/American_Mink#species">
+				<rdfs:label>American mink</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/American_Mink#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_mink/american_mink_1.jpg"/>
+
+				<dc:description>American mink are often mistaken for otters, but are much smaller with fluffier tails and pointed snouts. Inside this beautiful looking creature lurks an indiscriminate killer of birds, fish and small mammals that decimate ground-nesting birds and tackle fish as large as themselves. Native to North America, they were introduced around the world for fur farming. Escapees and deliberate releases have resulted in this great survivor becoming established in Europe and South America and with no natural predators in the UK, their populations are thriving.
+<br/>
+<br/>
+<a href="/nature/22126467">See the UK's "alien invaders" hot list.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/American_Mink"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Fossorial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Jumping#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/American_Mink.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Neovison#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Mustelidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/American_Mink#name">
+				<rdfs:label>Neovison vison</rdfs:label>
+				        <wo:commonName>American mink</wo:commonName>
+        								<wo:commonName>Mink</wo:commonName>
+								<wo:scientificName>visonvison</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Mustelidae</wo:familyName><wo:genusName>Neovison</wo:genusName><wo:speciesName>vison</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/american_mink/american_mink_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/American_Mink#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/american_mink/american_mink_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g90gs#programme">
+			<dc:title>A water vole's history of Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Mink#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008whm3#programme">
+			<dc:title>Hollow reminders</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Mink#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vcjx#programme">
+			<dc:title>Murdering mink</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Mink#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007tbfp#programme">
+			<dc:title>Duck decoy</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Mink#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007t99r#programme">
+			<dc:title>Queen of the kingfishers</dc:title>
+			<po:subject rdf:resource="/nature/species/American_Mink#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/American_Mink">
+		<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Neovison_vison.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/american-mink/mustela-vison/">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.britishwildlifecentre.co.uk/animals/mink.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=452646">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.snh.gov.uk/land-and-sea/managing-wildlife/hebridean-mink-project/american-mink-facts/">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.watervolescotland.org/#/american-mink/4523179090">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildcru.org/research/research-detail/?project_id=34">
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-north-west-wales-20047238">
+			<dc:title>Project to save island from mink</dc:title>
+			<dc:description>The American mink, which escaped into the wild after it was introduced to Britain for its fur, is trying to colonise Anglesey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12323300">
+			<dc:title>Turning back the tide of alien invasion</dc:title>
+			<dc:description>Scientists carry out one of the largest ever eradication of an invasive species – the American mink.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-10833147">
+			<dc:title>Skye mink cull survey set for launch</dc:title>
+			<dc:description>A plan to cull mink on Skye takes a step forward as volunteers prepare for a survey of mink activity on the island.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8659760.stm">
+			<dc:title>Mink 'threat' to Lochalsh and Wester Ross voles</dc:title>
+			<dc:description>Water voles in Lochalsh and Wester Ross are under threat from a non-native predator, Highland Council has warned.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8597410.stm">
+			<dc:title>Mink returns to 'safe' area in Western Isles</dc:title>
+			<dc:description>A non-native predator has returned to an area of the Western Isles where they were previously thought to have been eradicated.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/devon/8431744.stm">
+			<dc:title>Whiskers studied in Exeter University mink survey</dc:title>
+			<dc:description>Scientists in the South West have been studying the whiskers and claws of wild mink to try to learn more about the lifestyles of the once-captive animals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8244603.stm">
+			<dc:title>Mink cull 'boosting bird numbers'</dc:title>
+			<dc:description>A project to eliminate American mink from the Western Isles could be leading to a recovery in the population levels of some birds, it has been suggested.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/American_Mink#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Fossorial#adaptation">
+					<rdfs:label>Burrower</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Jumping#adaptation">
+					<rdfs:label>Adapted to jumping</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/American_Mink.gif">
+		<dc:title>Map showing the distribution of the American mink species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Neovison#genus"><rdfs:label>Neovison</rdfs:label><wo:species rdf:resource="/nature/life/American_Mink#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Mustelidae#family"><rdfs:label>Mustelidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

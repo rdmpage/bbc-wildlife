@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Manx_Shearwater">
+		<foaf:primaryTopic rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Manx_Shearwater#species">
+				<rdfs:label>Manx shearwater</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Manx_Shearwater#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/manx_shearwater/manx_shearwater_1.jpg"/>
+
+				<dc:description>Manx shearwaters are daredevil fliers when out at <a href="http://www.bbc.co.uk/nature/habitats/Pelagic">sea</a>. Skimming along the troughs of waves with rapid stiff-winged flaps, they fly so low that their wingtips almost touch the water. Little wonder they're called shearwaters as they pull off spectacular banking and 'shearing' manoeuvers. It may come as no surprise that there was once a large <a href="http://www.bbc.co.uk/nature/adaptations/Colony_(biology)">colony</a> of Manx shearwaters on the Isle of Man. Though devastated by introduced rats, this <a href="http://www.bbc.co.uk/nature/adaptations/Colony_(biology)">colony</a> is once again on the increase. These brilliant <a href="http://www.bbc.co.uk/nature/adaptations/Flight">fliers</a> are also excellent swimmers, but dreadful walkers - only coming on to land to breed. Their cackling <a href="http://www.bbc.co.uk/nature/adaptations/Hearing_(sense)">calls</a> make a breeding colony a very noisy affair.
+<br/>
+<br/>
+<a href="/nature/22644348">See a summer’s seabird ‘city’ spectacular.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Manx_Shearwater"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Manx_Shearwater.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Puffinus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Procellariidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Procellariiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Manx_Shearwater#name">
+				<rdfs:label>Puffinus puffinus</rdfs:label>
+				        <wo:commonName>Manx shearwater</wo:commonName>
+        										<wo:scientificName>puffinuspuffinus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Procellariiformes</wo:orderName><wo:familyName>Procellariidae</wo:familyName><wo:genusName>Puffinus</wo:genusName><wo:speciesName>puffinus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/manx_shearwater/manx_shearwater_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/manx_shearwater/manx_shearwater_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kttd2#programme">
+			<dc:title>Where do they go?</dc:title>
+			<po:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ksms8#programme">
+			<dc:title>Shearwater tracker</dc:title>
+			<po:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ksm8r#programme">
+			<dc:title>Shearwaters return</dc:title>
+			<po:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gvfn5#programme">
+			<dc:title>Chubby chick</dc:title>
+			<po:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gvfjw#programme">
+			<dc:title>All at sea</dc:title>
+			<po:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c6b6p#programme">
+			<dc:title>Shearwater exploits</dc:title>
+			<po:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c08c7#programme">
+			<dc:title>Skomer's shearwaters</dc:title>
+			<po:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/ma/manx_shearwater/nhs53-03.mp3">
+			<dc:title>Manx shearwater in burrow</dc:title>
+			<dc:subject rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Manx_Shearwater">
+		<foaf:primaryTopic rdf:resource="/nature/species/Manx_Shearwater#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Puffinus_puffinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/wales/nature/sites/species/birds/manx_shearwater.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.manxshearwater.co.uk/Site/Home.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/m/manxshearwater/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.welshwildlife.org/Manxshearwater_en.link">
+			<foaf:primaryTopic rdf:resource="/nature/species/Manx_Shearwater#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Manx_Shearwater.gif">
+		<dc:title>Map showing the distribution of the Manx shearwater species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Puffinus#genus"><rdfs:label>Puffinus</rdfs:label><wo:species rdf:resource="/nature/life/Manx_Shearwater#species"/><wo:species rdf:resource="/nature/life/Short-tailed_Shearwater#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Procellariidae#family"><rdfs:label>Procellariidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Procellariiformes#order"><rdfs:label>Procellariiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Rallidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Rallidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Rallidae#family">
+				<rdfs:label>Rails and coots</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Rallidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/rallidae/rallidae_1.jpg"/>
+
+				<dc:description>Rails and coots are mostly weak fliers but strong runners. Some of the island species have become completely flightless, and consequently have been decimated by introduced predators. Species in this bird family are usually aquatic, and inhabit all kinds of wetland areas usually in and around dense vegetation. Members of this family are found all over the globe, except in the driest deserts and on the ice caps. Moorhens, crakes and gallinules are also included in this family.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rallidae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Gruiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Rallidae#name">
+				<rdfs:label>Rallidae</rdfs:label>
+				        <wo:commonName>Rails and coots</wo:commonName>
+        										<wo:scientificName>Rallidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Gruiformes</wo:orderName><wo:familyName>Rallidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/rallidae/rallidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Rallidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ra/rallidae/rallidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rallidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Rallidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Rallidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rallidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://ibc.lynxeds.com/family/rails-gallinules-coots-rallidae">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rallidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Rallidae/26316">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rallidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7581">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rallidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oiseaux-birds.com/page-rallidae-family.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rallidae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Gruiformes#order"><rdfs:label>Gruiformes</rdfs:label><wo:family rdf:resource="/nature/life/Rallidae#family"/><wo:family rdf:resource="/nature/life/Crane_(bird)#family"/><wo:family rdf:resource="/nature/life/Bustard#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Eurasian_Coot#family"><rdfs:label>Coot</rdfs:label><wo:family rdf:resource="/nature/life/Rallidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Common_Moorhen#family"><rdfs:label>Common moorhen</rdfs:label><wo:family rdf:resource="/nature/life/Rallidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Water_Rail#family"><rdfs:label>Water rail</rdfs:label><wo:family rdf:resource="/nature/life/Rallidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

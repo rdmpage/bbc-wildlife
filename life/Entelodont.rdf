@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Entelodont">
+		<foaf:primaryTopic rdf:resource="/nature/family/Entelodont#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Entelodont#family">
+				<rdfs:label>Entelodonts</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Entelodont#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/en/entelodont/entelodont_1.jpg"/>
+
+				<dc:description>Entelodonts spent a lot of time fighting with their own kind. Many entelodont skulls have very severe wounds - some have gashes up to 2cm deep in the bone between the eyes - which can only have been inflicted by other entelodonts during fights. In fact it seems to have been quite common for one to fit another's head entirely in its mouth! The bony lumps all over their faces, like those of modern warthogs, were designed to protect delicate areas during these fights. This seems to have worked well, since even very scarred entelodonts show no damage to the protected eyes or nose.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Entelodont"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Entelodont.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Entelodont#name">
+				<rdfs:label>Entelodontidae</rdfs:label>
+				        <wo:commonName>Entelodonts</wo:commonName>
+        								<wo:commonName>Hell pigs</wo:commonName>
+						<wo:commonName>perfect toothed</wo:commonName>
+						<wo:commonName>Terminator pigs</wo:commonName>
+								<wo:scientificName>Entelodontidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Entelodontidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/en/entelodont/entelodont_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Entelodont#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/en/entelodont/entelodont_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk7p7#programme">
+			<dc:title>Ugly mammals</dc:title>
+			<po:subject rdf:resource="/nature/family/Entelodont#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bfxcn#programme">
+			<dc:title>Survival of the meanest</dc:title>
+			<po:subject rdf:resource="/nature/family/Entelodont#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Entelodont">
+		<foaf:primaryTopic rdf:resource="/nature/family/Entelodont#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://scienceblogs.com/laelaps/2008/04/truly_terrifying_entelodonts.php">
+			<foaf:primaryTopic rdf:resource="/nature/family/Entelodont#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossil-treasures-of-florida.com/entelodont.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Entelodont#family"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Entelodont.gif">
+		<dc:title>Map showing the distribution of the Entelodonts family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label><wo:family rdf:resource="/nature/life/Entelodont#family"/><wo:family rdf:resource="/nature/life/Antilocapridae#family"/><wo:family rdf:resource="/nature/life/Bovid#family"/><wo:family rdf:resource="/nature/life/Camelid#family"/><wo:family rdf:resource="/nature/life/Deer#family"/><wo:family rdf:resource="/nature/life/Giraffidae#family"/><wo:family rdf:resource="/nature/life/Hippopotamidae#family"/><wo:family rdf:resource="/nature/life/Suidae#family"/></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

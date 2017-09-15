@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Common_Swift">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Common_Swift#species">
+				<rdfs:label>Common swift</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Common_Swift#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_swift/common_swift_1.jpg"/>
+
+				<dc:description>Common swifts are gregarious birds that nest, roost, migrate and hunt in groups. They favour a life on the wing and are unique in their ability to stay airborne for extended periods, spending entire days aloft and only landing to feed young or roost. Swifts fly at least 560 miles per day during the nesting season. They also mate and forage whilst in the air. Their specially adapted grasping feet allow them to occupy vertical surfaces such as chimneys, which other birds would have difficulty inhabiting.
+<br/>
+<br/>
+<a href="/nature/22527420">How to identify swifts, swallows and martins.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Common_Swift"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/High_altitude#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Apus_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Swift#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Apodiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Common_Swift#name">
+				<rdfs:label>Apus apus</rdfs:label>
+				        <wo:commonName>Common swift</wo:commonName>
+        										<wo:scientificName>apusapus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Apodiformes</wo:orderName><wo:familyName>Apodidae</wo:familyName><wo:genusName>Apus</wo:genusName><wo:speciesName>apus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_swift/common_swift_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Common_Swift#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/common_swift/common_swift_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f3fvw#programme">
+			<dc:title>Swift by name...</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Swift#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082v5l#programme">
+			<dc:title>Air miles</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Swift#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007xx2b#programme">
+			<dc:title>Housing shortage</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Swift#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/c/co/common_swift/5082231.mp3">
+			<dc:title>Screams of a swift in flight</dc:title>
+			<dc:subject rdf:resource="/nature/species/Common_Swift#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Common_Swift">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Apus_apus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob7950.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/common-swift/apus-apus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/swift.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/s/swift/identification.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.swift-conservation.org/Contents.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18993582">
+			<dc:title>Wet weather sparks swift concern</dc:title>
+			<dc:description>Cold and wet weather has had a disastrous effect on the breeding season for swifts, the Royal Society for the Protection of Birds says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10398386.stm">
+			<dc:title>Builders urged to allow for swift nests</dc:title>
+			<dc:description>House builders and homeowners need to provide more nest sites for swifts, to help reverse the bird's falling numbers, conservationists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8569267.stm">
+			<dc:title>Swift nesting sites 'hit by home improvements' </dc:title>
+			<dc:description>A UK-wide survey of nesting swifts has suggested the declining bird species is at risk from improvement work being undertaken on old houses.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8539000/8539383.stm">
+			<dc:title>Supercharged swifts take flight speed record </dc:title>
+			<dc:description>A common swift has taken the title as the fasted bird recorded in level flight.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/london/8136380.stm">
+			<dc:title>Fake swifts to attract real thing</dc:title>
+			<dc:description>A north London borough is hoping to attract swifts to the inner city - by playing a recording of their calls from the rooftop of a building.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Swift#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/High_altitude#adaptation">
+					<rdfs:label>Altitude tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Apus_(genus)#genus"><rdfs:label>Apus</rdfs:label><wo:species rdf:resource="/nature/life/Common_Swift#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Swift#family"><rdfs:label>Apodidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Apodiformes#order"><rdfs:label>Apodiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

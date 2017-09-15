@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Harbor_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Harbor_Seal#species">
+				<rdfs:label>Common seal</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Harbor_Seal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/harbor_seal/harbor_seal_1.jpg"/>
+
+				<dc:description>Common seals, as the name suggests, are very common, especially in the waters of the north Atlantic and north Pacific Oceans. They are the most widespread of the pinniped family, with the UK boasting five percent of the world's population. Mostly solitary animals, small groups do form when they haul-out onto rocky shores and beaches to bask, mate and moult. At sea common seals have much to fear from killer whales and great white sharks. Common seals don't chew their food, it is just torn into chunks or even swallowed whole.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Harbor_Seal"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Harbor_Seal.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Earless_seal#family"/>
+                                                        <wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Harbor_Seal#name">
+				<rdfs:label>Phoca vitulina</rdfs:label>
+				        <wo:commonName>Common seal</wo:commonName>
+        								<wo:commonName>Harbor seal</wo:commonName>
+						<wo:commonName>Harbour seal</wo:commonName>
+								<wo:scientificName>vitulinavitulina</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:superfamilyName>Pinnipedia</wo:superfamilyName><wo:familyName>Phocidae</wo:familyName><wo:genusName>Phoca</wo:genusName><wo:speciesName>vitulina</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ha/harbor_seal/harbor_seal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Harbor_Seal#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ha/harbor_seal/harbor_seal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lr2xl#programme">
+			<dc:title>Kentish seals</dc:title>
+			<po:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008cnhq#programme">
+			<dc:title>Common or harbour?</dc:title>
+			<po:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081f9d#programme">
+			<dc:title>Seal watching</dc:title>
+			<po:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yfmv#programme">
+			<dc:title>Feel good factor</dc:title>
+			<po:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b9d1#programme">
+			<dc:title>Rusty seals</dc:title>
+			<po:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b9c0#programme">
+			<dc:title>Seal senses</dc:title>
+			<po:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b990#programme">
+			<dc:title>Seal rivals</dc:title>
+			<po:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/h/ha/harbor_seal/common_seal.mp3">
+			<dc:title>Common seal calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Harbor_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Phoca_vitulina.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/common-seal/phoca-vitulina/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pinnipeds.org/species/harbour.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sealwatch.org/places.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaworld.org/animal-info/info-books/harbor-seal/adaptations.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-20901815">
+			<dc:title>Seal pups cause traffic 'chaos'</dc:title>
+			<dc:description>Thousands of people visiting the beach at Horsey to see newborn seals are causing "chaos" on the roads, a seal warden claims.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19055961">
+			<dc:title>Seal flu virus worries scientists</dc:title>
+			<dc:description>Scientists in the United States have identified a new strain of influenza in harbor seals that could pose a threat to human and animal health. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13780738">
+			<dc:title>'Bizarre' seal plans under fire</dc:title>
+			<dc:description>Environmental campaigners ask why the Scottish government wants to protect land sites used by only half of its seals, when one species is in decline.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9481000/9481397.stm">
+			<dc:title>Seal whiskers sense fattest fish</dc:title>
+			<dc:description>Harbour seals can detect the fattest fish using just their whiskers, according to research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-11635949">
+			<dc:title>Towel appeal seals are released</dc:title>
+			<dc:description>Seal pups from a wildlife centre which held an appeal for help to care for the sick and injured animals, are released. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-11627095">
+			<dc:title>'Boats to blame' for seal deaths</dc:title>
+			<dc:description>Researchers probing the mysterious "corkscrew" deaths of about 50 seals in the UK say boats are probably to blame.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-northern-ireland-11220052">
+			<dc:title>Concern at 'violent seal deaths'</dc:title>
+			<dc:description>Concerns are expressed after several seals which suffered violent deaths - including some which were beheaded - were found in County Down.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/northwestwales/hi/people_and_places/nature/newsid_8957000/8957620.stm">
+			<dc:title>In pictures: Bardsey's sailor seal basks onboard dinghy</dc:title>
+			<dc:description>A seal that appears to have its own boat is attracting the attention of daytrippers visiting Bardsey Island, at the tip of the Llyn Peninsula.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-11113877">
+			<dc:title>Clues found in North Norfolk seal death mystery</dc:title>
+			<dc:description>Investigators examining the deaths of seals found with lacerations on beaches in North Norfolk believe a boat's propeller is responsible. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-10983485">
+			<dc:title>'Corkscrew' seal deaths probed</dc:title>
+			<dc:description>The mysterious deaths of more than 30 seals washed up along the east coast is investigated.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-10968630">
+			<dc:title>Mystery deaths of dozens of seals off Norfolk coast</dc:title>
+			<dc:description>Police have set up special sea patrols off North Norfolk after the deaths of 38 seals that were found with mysterious injuries.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-10962076">
+			<dc:title>Police probe after dead seals wash up in North Norfolk</dc:title>
+			<dc:description>The deaths of seals found with lacerations on beaches in North Norfolk are being investigated by police.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-10976201">
+			<dc:title>'Corkscrew' seal deaths probed</dc:title>
+			<dc:description>The mysterious deaths of more than 30 seals washed up along the east coast of Scotland and England in the past two years are investigated.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10446880.stm">
+			<dc:title>Harbour seals 'pupping earlier'</dc:title>
+			<dc:description>Harbour seals are giving birth to pups earlier each year as a result of changes to the marine ecosystem, a study has shown.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10287564.stm">
+			<dc:title>Seal whiskers sense faraway fish</dc:title>
+			<dc:description>Harbour seals may be able to detect fish up to 100m (328ft) away using only their whiskers, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Harbor_Seal#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Harbor_Seal.gif">
+		<dc:title>Map showing the distribution of the Common seal species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Phoca</rdfs:label><wo:species rdf:resource="/nature/life/Harbor_Seal#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Earless_seal#family"><rdfs:label>Phocidae</rdfs:label></wo:Family><wo:Superfamily rdf:about="/nature/superfamily/Pinniped#superfamily"><rdfs:label>Pinnipedia</rdfs:label></wo:Superfamily><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

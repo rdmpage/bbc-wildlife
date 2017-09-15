@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Amegilla">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Amegilla#genus">
+				<rdfs:label>Amegilla bees</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Amegilla#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/amegilla/amegilla_1.jpg"/>
+
+				<dc:description>Amegillas form a genus of large bees that has around 250 species. Some of its members are important agricultural pollinators in Australia and other tropical and sub-tropical areas. The blue-banded bee uses vibration to obtain pollen (buzz pollination). The beautifully named teddy bear bee is also a species of amegilla. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Amegilla"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p007rdq3#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Amegilla.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Apidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Hymenoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Amegilla#name">
+				<rdfs:label>Amegilla</rdfs:label>
+				        <wo:commonName>Amegilla bees</wo:commonName>
+        										<wo:scientificName>Amegilla</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hymenoptera</wo:orderName><wo:familyName>Apidae</wo:familyName><wo:genusName>Amegilla</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/amegilla/amegilla_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Amegilla#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/amegilla/amegilla_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0053k73#programme">
+			<dc:title>To bee or not to bee</dc:title>
+			<po:subject rdf:resource="/nature/genus/Amegilla#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Amegilla">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8354000/8354788.stm">
+			<dc:title>Bees fight to death over females</dc:title>
+			<dc:description>In a rare example of a species killing each other en masse, male Dawson's bees are filmed in deadly combat in a bid to mate with females.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Amegilla#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p007rdq3#collection">
+				<dc:title>Brilliant bees</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Amegilla.gif">
+		<dc:title>Map showing the distribution of the Amegilla bees genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Apidae#family"><rdfs:label>Apidae</rdfs:label><wo:genus rdf:resource="/nature/life/Amegilla#genus"/><wo:genus rdf:resource="/nature/life/Bumblebee#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Hymenoptera#order"><rdfs:label>Hymenoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

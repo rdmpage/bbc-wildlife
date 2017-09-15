@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Madame_Berthe's_Mouse_Lemur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Madame_Berthe's_Mouse_Lemur#species">
+				<rdfs:label>Madame Berthe's mouse lemur</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Madame_Berthe's_Mouse_Lemur#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/madame_berthes_mouse_lemur/madame_berthes_mouse_lemur_1.jpg"/>
+
+				<dc:description>The minute Madame Berthe's mouse lemur is believed to be the world's smallest living primate, at less than 100mm long and weighing only 30g. These tiny lemurs were only recently described as a species, in 2000. They are nimble and move quickly through the trees of Madagascar's dry forests in search of food, from fruit and the favoured honeydew of plant hopper larvae to chameleons. Madame Berthe's mouse lemurs have the unusual ability to lower their metabolic rate and body temperature during the cool, dry winter months which saves valuable water and energy.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Madame Berthe's mouse lemur is the world's smallest primate.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Madame_Berthe's_Mouse_Lemur"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Madame_Berthe's_Mouse_Lemur.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Mouse_lemur#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Cheirogaleidae#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Lemur#infraorder"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Madame_Berthe's_Mouse_Lemur#name">
+				<rdfs:label>Microcebus berthae</rdfs:label>
+				        <wo:commonName>Madame Berthe's mouse lemur</wo:commonName>
+        								<wo:commonName>Berthe's mouse lemur</wo:commonName>
+								<wo:scientificName>berthaeberthae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:infraorderName>Lemuriformes</wo:infraorderName><wo:familyName>Cheirogaleidae</wo:familyName><wo:genusName>Microcebus</wo:genusName><wo:speciesName>berthae</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/madame_berthes_mouse_lemur/madame_berthes_mouse_lemur_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/madame_berthes_mouse_lemur/madame_berthes_mouse_lemur_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f818b#programme">
+			<dc:title>Connect to conserve</dc:title>
+			<po:subject rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cx315#programme">
+			<dc:title>Littlest lemur</dc:title>
+			<po:subject rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004t0jt#programme">
+			<dc:title>Tiny lemur</dc:title>
+			<po:subject rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Madame_Berthe's_Mouse_Lemur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Microcebus_berthae.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/madame-berthes-mouse-lemur/microcebus-berthae/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/41573/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.soziobio.uni-goettingen.de/spec/berthae.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.theprimata.com/microcebus_berthae.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Madame_Berthe's_Mouse_Lemur#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Madame_Berthe's_Mouse_Lemur.gif">
+		<dc:title>Map showing the distribution of the Madame Berthe's mouse lemur species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Mouse_lemur#genus"><rdfs:label>Microcebus</rdfs:label><wo:species rdf:resource="/nature/life/Madame_Berthe's_Mouse_Lemur#species"/><wo:species rdf:resource="/nature/life/Gray_Mouse_Lemur#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Cheirogaleidae#family"><rdfs:label>Cheirogaleidae</rdfs:label></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Lemur#infraorder"><rdfs:label>Lemuriformes</rdfs:label></wo:Infraorder><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

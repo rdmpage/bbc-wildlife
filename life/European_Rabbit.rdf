@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/European_Rabbit">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/European_Rabbit#species">
+				<rdfs:label>Rabbit</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/European_Rabbit#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_rabbit/european_rabbit_1.jpg"/>
+
+				<dc:description>Rabbits came originally from south west Europe and north west Africa. Deliberate introduction to many countries has been so successful that rabbits are often considered as pests, owing to the vast ecological and agricultural damage they can cause. Yet they remain a economically important mammal species for food, fur and so on. The grass and plants they graze at dawn and dusk are of such poor nutritional value that rabbits eat their faeces to squeeze every last bit of remaining nourishment. Thumping their back legs sends a warning to others that one of their numerous predators is about.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/European_Rabbit"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Coprophagia#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Jumping#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygynandry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p006r1w3#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Calcareous_grassland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Leporidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Lagomorpha#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/European_Rabbit#name">
+				<rdfs:label>Oryctolagus cuniculus</rdfs:label>
+				        <wo:commonName>Rabbit</wo:commonName>
+        								<wo:commonName>Bunny</wo:commonName>
+						<wo:commonName>European rabbit</wo:commonName>
+								<wo:scientificName>cuniculuscuniculus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Lagomorpha</wo:orderName><wo:familyName>Leporidae</wo:familyName><wo:genusName>Oryctolagus</wo:genusName><wo:speciesName>cuniculus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_rabbit/european_rabbit_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/European_Rabbit#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/european_rabbit/european_rabbit_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f9njw#programme">
+			<dc:title>The rabbit mother</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f9kc7#programme">
+			<dc:title>How to spot rabbits</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f0nd4#programme">
+			<dc:title>Unveilling the rabbit warren</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l29c9#programme">
+			<dc:title>Alien introductions</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c088n#programme">
+			<dc:title>Rabbit eviction</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008clc7#programme">
+			<dc:title>Ladies of leisure</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089vlj#programme">
+			<dc:title>Stoat patrol</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087jjh#programme">
+			<dc:title>Bountiful bunnies</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007x3mn#programme">
+			<dc:title>Predatory badgers</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007qvqr#programme">
+			<dc:title>The right moves</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0074tkf#programme">
+			<dc:title>Deadly dancing</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l81m#programme">
+			<dc:title>Delay tactic</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l7xy#programme">
+			<dc:title>Boom and bust</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l7vh#programme">
+			<dc:title>Native nightmares</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ff26#programme">
+			<dc:title>Run rabbit run</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006993m#programme">
+			<dc:title>Grasses: Strange tastes</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0057sdm#programme">
+			<dc:title>Rabbit hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Rabbit#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/European_Rabbit">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Oryctolagus_cuniculus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/rabbit/oryctolagus-cuniculus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.columbia.edu/itc/cerc/danoff-burg/invasion_bio/inv_spp_summ/Oryctolagus_cuniculus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mammal.org.uk/index.php?option=com_content&amp;view=article&amp;id=226:the-rabbit-oryctolagus-cuniculus&amp;catid=48:mammal-fact-sheets&amp;Itemid=259			http://animaldiversity.ummz.umich.edu/site/accounts/information/Oryctolagus_cuniculus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ypte.org.uk/animal/rabbit/162">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/8198790.stm">
+			<dc:title>Rise in rabbit numbers</dc:title>
+			<dc:description>To many of us they look cute and cuddly, but for some landowners rabbits are pests which harm crops and the environment. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7824153.stm">
+			<dc:title>Rabbits devastate island wildlife </dc:title>
+			<dc:description>The removal of cats in 2000 caused "catastrophic" damage to the ecology of a sub-Antarctic island, a study says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Rabbit#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Coprophagia#adaptation">
+					<rdfs:label>Dung eater</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Jumping#adaptation">
+					<rdfs:label>Adapted to jumping</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygynandry#adaptation">
+					<rdfs:label>Polygynandrous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Calcareous_grassland#habitat">
+					<rdfs:label>Chalk grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p006r1w3#collection">
+				<dc:title>Wildlife wind-ups</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Oryctolagus</rdfs:label><wo:species rdf:resource="/nature/life/European_Rabbit#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Leporidae#family"><rdfs:label>Leporidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Lagomorpha#order"><rdfs:label>Lagomorpha</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

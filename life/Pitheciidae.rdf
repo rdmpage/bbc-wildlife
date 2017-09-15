@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Pitheciidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pitheciidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Pitheciidae#family">
+				<rdfs:label>Titis, sakis and uakaris</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Pitheciidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pitheciidae/pitheciidae_1.jpg"/>
+
+				<dc:description>Titis, sakis and uakaris are a family of South American monkeys. Titi monkeys are the smallest members of the family, and uakaris the largest. They eat fruit and the seeds within, but may add some leaves or an insect to their diet now and then. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pitheciidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Pitheciidae#name">
+				<rdfs:label>Cebidae</rdfs:label>
+				        <wo:commonName>Titis, sakis and uakaris</wo:commonName>
+        										<wo:scientificName>Cebidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Cebidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pi/pitheciidae/pitheciidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Pitheciidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pi/pitheciidae/pitheciidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pitheciidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Pitheciidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Pitheciidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pitheciidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1647">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pitheciidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.natureserve.org/infonatura/speciesIndex/Family_Pitheciidae_122969_1.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Pitheciidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-25231555">
+			<dc:title>Fruit-mad monkeys eat 50 per day</dc:title>
+			<dc:description>New research on South and Central American monkeys suggests that size is a key indicator of diet. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Pitheciidae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label><wo:family rdf:resource="/nature/life/Pitheciidae#family"/><wo:family rdf:resource="/nature/life/Callitrichidae#family"/><wo:family rdf:resource="/nature/life/Old_World_monkey#family"/><wo:family rdf:resource="/nature/life/Hominidae#family"/><wo:family rdf:resource="/nature/life/Gibbon#family"/><wo:family rdf:resource="/nature/life/Tarsiidae#family"/><wo:family rdf:resource="/nature/life/Atelidae#family"/><wo:family rdf:resource="/nature/life/Lorisidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Bald_Uakari#family"><rdfs:label>Bald uakari</rdfs:label><wo:family rdf:resource="/nature/life/Pitheciidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Tufted_Capuchin#family"><rdfs:label>Tufted capuchin</rdfs:label><wo:family rdf:resource="/nature/life/Pitheciidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

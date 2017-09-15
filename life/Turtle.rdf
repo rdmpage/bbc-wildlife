@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Turtle">
+		<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Turtle#order">
+				<rdfs:label>Turtles, terrapins and tortoises</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Turtle#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/turtle/turtle_1.jpg"/>
+
+				<dc:description>Turtles, terrapins and tortoises are all in one order, called the Testudines. They all have a shell, though only certain species can withdraw their lead and limbs into it. All the many types of turtle, terrapin and tortoise lay eggs. In some, the temperature at which the egg incubates will decide whether the embryo becomes male or female.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Turtle"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Turtle#name">
+				<rdfs:label>Testudines</rdfs:label>
+				        <wo:commonName>Turtles, terrapins and tortoises</wo:commonName>
+        								<wo:commonName>Chelonians</wo:commonName>
+						<wo:commonName>Testudinata</wo:commonName>
+								<wo:scientificName>Testudines</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Testudines</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tu/turtle/turtle_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Turtle#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/tu/turtle/turtle_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hhhk0#programme">
+			<dc:title>Abandoned pets</dc:title>
+			<po:subject rdf:resource="/nature/order/Turtle#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008fbbj#programme">
+			<dc:title>Saving turtles</dc:title>
+			<po:subject rdf:resource="/nature/order/Turtle#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vdd#programme">
+			<dc:title>Frozen turtles</dc:title>
+			<po:subject rdf:resource="/nature/order/Turtle#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Turtle">
+		<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="T">
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="T">
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21717503">
+			<dc:title>Turtle 'victory' at wildlife meeting</dc:title>
+			<dc:description>Some of the world’s most endangered turtles have been given additional protection at the Cites conservation meeting in Bangkok.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19883278">
+			<dc:title>Turtle 'passes waste' through mouth</dc:title>
+			<dc:description>A Chinese soft-shelled turtle passes waste through its mouth, scientists in Singapore find.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18495102">
+			<dc:title>Turtles fossilised in sex embrace</dc:title>
+			<dc:description>Turtles killed as they were having sex and then fossilised in position have been described by scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15110576">
+			<dc:title>In pictures: Turtles in trouble</dc:title>
+			<dc:description>Scientists pinpoint the world's most threatened populations of sea turtles in a study they have called a "blueprint for conservation". </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-13986453">
+			<dc:title>Washed-up turtles spark inquiry</dc:title>
+			<dc:description>Australian officials are investigating why dozens of turtles - many of them dead - have been washed up on beaches near the city of Townsville.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11254358">
+			<dc:title>Freshwater turtles 'in decline'</dc:title>
+			<dc:description>More than a third of freshwater turtle species are now threatened with extinction, Conservation International says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10459572.stm">
+			<dc:title>Turtle egg rescue plan announced</dc:title>
+			<dc:description>Scientists in the US have announced a plan to rescue sea turtle nests and eggs from the potential impacts of the BP oil spill in the Gulf of Mexico.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8693000/8693794.stm">
+			<dc:title>Turtle 'super tongue' lets reptile survive underwater</dc:title>
+			<dc:description>One type of turtle possesses an extraordinary organ that allows it to breathe underwater and stay submerged for many months.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8604723.stm">
+			<dc:title>Turtles killed 'in millions' by fishing gear</dc:title>
+			<dc:description>Millions of marine turtles have been killed over the past two decades through entrapment in fishing gear, according to a global survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8315000/8315197.stm">
+			<dc:title>Turtles prefer the 'city life'</dc:title>
+			<dc:description>Suburban turtles in Australia outperform their counterparts living in nature reserves, surprising scientists.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8224000/8224143.stm">
+			<dc:title>Poachers threaten spider tortoise</dc:title>
+			<dc:description>An illegal trade in exotic pets threatens to wipe out the northern Madagascar spider tortoise, a new survey has found. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Turtle#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label><wo:order rdf:resource="/nature/life/Turtle#order"/><wo:order rdf:resource="/nature/life/Squamata#order"/><wo:order rdf:resource="/nature/life/Crocodilia#order"/><wo:order rdf:resource="/nature/life/Pterosaur#order"/><wo:order rdf:resource="/nature/life/Rauisuchia#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Sea_turtle#order"><rdfs:label>Sea turtles</rdfs:label><wo:order rdf:resource="/nature/life/Turtle#order"/></wo:Family><wo:Species rdf:about="/nature/life/Terrapene_carolina#order"><rdfs:label>Eastern box turtle</rdfs:label><wo:order rdf:resource="/nature/life/Turtle#order"/></wo:Species><wo:Species rdf:about="/nature/life/Arrau#order"><rdfs:label>Giant river turtle</rdfs:label><wo:order rdf:resource="/nature/life/Turtle#order"/></wo:Species><wo:Family rdf:about="/nature/life/Tortoise#order"><rdfs:label>Tortoises</rdfs:label><wo:order rdf:resource="/nature/life/Turtle#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

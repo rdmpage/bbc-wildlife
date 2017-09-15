@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Fly">
+		<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Fly#order">
+				<rdfs:label>Flies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Fly#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fl/fly/fly_1.jpg"/>
+
+				<dc:description>Flies, also known as true flies to distinguish them from creatures such as caddisflies and mayflies, are an order of insects which includes such familiar species as the midge, the bluebottle and the fruit fly. Some estimates put the total number of fly species at around a million, though only a fraction of these have been formally described by scientists.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Fly"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Fly.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Fly#name">
+				<rdfs:label>Diptera</rdfs:label>
+				        <wo:commonName>Flies</wo:commonName>
+        								<wo:commonName>Diptera</wo:commonName>
+						<wo:commonName>True Flies</wo:commonName>
+								<wo:scientificName>Diptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Diptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fl/fly/fly_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Fly#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fl/fly/fly_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01crtcb#programme">
+			<dc:title>Beesquitos</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f29gx#programme">
+			<dc:title>Airborne menace</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f29cp#programme">
+			<dc:title>Stunt flying</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008dym2#programme">
+			<dc:title>Fly guy</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007k38j#programme">
+			<dc:title>Insect Eden</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006rfn9#programme">
+			<dc:title>Lake fly blow-out</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0065wmb#programme">
+			<dc:title>Spectacular swarms</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004nwzy#programme">
+			<dc:title>Botfly horror</dc:title>
+			<po:subject rdf:resource="/nature/order/Fly#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Fly">
+		<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Diptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/diptera">
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/421">
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sel.barc.usda.gov/Diptera/flies.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/2011/04/some-animals-are-so-odd.shtml">
+			<dc:title>Oddballs: the midge that shouldn't exist</dc:title>
+			<dc:description> A rare photo of the rarely seen male midge (Pontomyia natans) Some animals are so odd you have wonder at their survival. Take the flightless marine midge Pontomyia. It...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/stoke/hi/people_and_places/arts_and_culture/newsid_9113000/9113566.stm">
+			<dc:title>Dead flies raise questions of art</dc:title>
+			<dc:description>The curator of Conjunction 10, a modern art festival, admits that he's trying to cause a buzz around the show.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11479323">
+			<dc:title>The man who feeds flies to spiders</dc:title>
+			<dc:description>Entomology researcher Dr Ian Bedford talks about his son's bizarre job - feeding baby spiders by sucking flies up using a rubber tube.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11375357">
+			<dc:title>CSI: Crime Scene Insects</dc:title>
+			<dc:description>The BBC looks at the work of forensic entomologists, who use their knowledge of insects to help police solve crimes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11359313">
+			<dc:title>How flies help homicide detectives</dc:title>
+			<dc:description>Forensic Entomologist Amoret Whitaker of the Natural History Museum explains how the study of the fly's life cycle, can help homicide detectives catch murderers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9008000/9008585.stm">
+			<dc:title>'Mythical' fly back from the dead</dc:title>
+			<dc:description>A supposedly extinct European fly that lives on crushed bones has been rediscovered after 160 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Fly#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Fly.gif">
+		<dc:title>Map showing the distribution of the Flies order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Mosquito#order"><rdfs:label>Mosquitoes</rdfs:label><wo:order rdf:resource="/nature/life/Fly#order"/></wo:Family><wo:Genus rdf:about="/nature/life/Arachnocampa#order"><rdfs:label>Fungus gnats</rdfs:label><wo:order rdf:resource="/nature/life/Fly#order"/></wo:Genus><wo:Species rdf:about="/nature/life/Highland_midge#order"><rdfs:label>Highland midge</rdfs:label><wo:order rdf:resource="/nature/life/Fly#order"/></wo:Species><wo:Species rdf:about="/nature/life/Scathophaga_stercoraria#order"><rdfs:label>Yellow dung fly</rdfs:label><wo:order rdf:resource="/nature/life/Fly#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

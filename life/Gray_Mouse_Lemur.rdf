@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Gray_Mouse_Lemur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Gray_Mouse_Lemur#species">
+				<rdfs:label>Grey mouse lemur</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Gray_Mouse_Lemur#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_mouse_lemur/gray_mouse_lemur_1.jpg"/>
+
+				<dc:description>The beautiful little grey mouse lemur is full of quirky contradictions: it's the largest mouse lemur, yet mouse lemurs are the world's smallest primates. It can be described as at once solitary and social, foraging at night alone and convening at common nest sites to sleep the days away with others. Grey mouse lemurs are one of Madagascar's most abundant small mammals and least threatened lemurs, yet a quarter of the population is lost to predators every year, mainly to owls. Their success in the face of this owes perhaps to their small size, high rate of reproduction and varied diet of insects, reptiles and fruit.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gray_Mouse_Lemur"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Climbing#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gray_Mouse_Lemur.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Mouse_lemur#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Cheirogaleidae#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Lemur#infraorder"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Gray_Mouse_Lemur#name">
+				<rdfs:label>Microcebus murinus</rdfs:label>
+				        <wo:commonName>Grey mouse lemur</wo:commonName>
+        								<wo:commonName>Gray mouse lemur</wo:commonName>
+						<wo:commonName>Lesser mouse lemur</wo:commonName>
+								<wo:scientificName>murinusmurinus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:infraorderName>Lemuriformes</wo:infraorderName><wo:familyName>Cheirogaleidae</wo:familyName><wo:genusName>Microcebus</wo:genusName><wo:speciesName>murinus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_mouse_lemur/gray_mouse_lemur_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/gray_mouse_lemur/gray_mouse_lemur_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f3q1g#programme">
+			<dc:title>Honeydew feast</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f3pc4#programme">
+			<dc:title>Tonight's the night</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gray_Mouse_Lemur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Microcebus_murinus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bristolzoo.org.uk/grey-mouse-lemur">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/324404">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/13323/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.theprimata.com/murinus_ecology.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Mouse_Lemur#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Climbing#adaptation">
+					<rdfs:label>Adapted to climbing</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gray_Mouse_Lemur.gif">
+		<dc:title>Map showing the distribution of the Grey mouse lemur species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Mouse_lemur#genus"><rdfs:label>Microcebus</rdfs:label><wo:species rdf:resource="/nature/life/Gray_Mouse_Lemur#species"/><wo:species rdf:resource="/nature/life/Madame_Berthe's_Mouse_Lemur#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Cheirogaleidae#family"><rdfs:label>Cheirogaleidae</rdfs:label></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Lemur#infraorder"><rdfs:label>Lemuriformes</rdfs:label></wo:Infraorder><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

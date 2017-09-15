@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Pygoscelis">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pygoscelis#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Pygoscelis#genus">
+				<rdfs:label>Brush-tailed penguins</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Pygoscelis#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/pygoscelis/pygoscelis_1.jpg"/>
+
+				<dc:description>Brush-tailed penguins include adelie, chinstrap and gentoo penguins. They nest on the very edge of the Antarctic continent on southern sub-Antarctic islands and commonly lay two eggs at a time. In most years, a good proportion manages to hatch and raise both chicks. As nesting material is seriously limited here, nests usually consist of stone circles. The stones are considered to be so valuable that breeding pairs offer them to each other as gifts during mating rituals and risk irritating their neighbours by stealing stones from adjacent nests.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Pygoscelis"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Penguin#family"/>
+                                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Pygoscelis#name">
+				<rdfs:label>Pygoscelis</rdfs:label>
+				        <wo:commonName>Brush-tailed penguins</wo:commonName>
+        										<wo:scientificName>Pygoscelis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Sphenisciformes</wo:orderName><wo:familyName>Spheniscidae</wo:familyName><wo:genusName>Pygoscelis</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/py/pygoscelis/pygoscelis_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Pygoscelis#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/py/pygoscelis/pygoscelis_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Pygoscelis">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Pygoscelis#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Pygoscelis.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygoscelis#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.adelie.pwp.blueyonder.co.uk/Breeding%20behaviour/PYG.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygoscelis#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.penguinworld.com/types/pygoscelis.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygoscelis#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pinguins.info/Engels/Pygoscelis_eng.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Pygoscelis#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Penguin#family"><rdfs:label>Spheniscidae</rdfs:label><wo:genus rdf:resource="/nature/life/Pygoscelis#genus"/><wo:genus rdf:resource="/nature/life/Aptenodytes#genus"/><wo:genus rdf:resource="/nature/life/Crested_penguin#genus"/><wo:genus rdf:resource="/nature/life/Banded_penguin#genus"/></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Sphenisciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Gentoo_Penguin#genus"><rdfs:label>Gentoo penguin</rdfs:label><wo:genus rdf:resource="/nature/life/Pygoscelis#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Adelie_Penguin#genus"><rdfs:label>Adelie penguin</rdfs:label><wo:genus rdf:resource="/nature/life/Pygoscelis#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Chinstrap_Penguin#genus"><rdfs:label>Chinstrap penguin</rdfs:label><wo:genus rdf:resource="/nature/life/Pygoscelis#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

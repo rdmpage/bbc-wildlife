@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Lepidoptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Lepidoptera#order">
+				<rdfs:label>Butterflies and moths</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Lepidoptera#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/lepidoptera/lepidoptera_1.jpg"/>
+
+				<dc:description>Elegant and beautiful, butterflies and moths never fail to impress. Their bodies are covered in tiny sensory hairs and their wings made up of tiny delicate scales. It is these scales that give the wings their extraordinary variety of colours, patterns and sometimes iridescence. All butterflies and moths go through a four-stage life cycle: egg, caterpillar, pupa and adult. A complete <a href="http://www.bbc.co.uk/nature/adaptations/Metamorphosis">metamorphosis</a>
+ takes place when a pupa emerges as a <a href="http://www.bbc.co.uk/nature/adaptations/Flight">winged adult</a>. Antarctica is the only continent where these <a href="http://www.bbc.co.uk/nature/life/Insect">insects</a> are not to be found. Otherwise they are widely distributed with the majority of the 175,000 species living in the tropics. There are ten times more species of moth than butterfly.
+<br/>
+<br/>
+<a href="/nature/22907171">How to identify common garden butterflies.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lepidoptera"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3fy#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg0m#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Lepidoptera.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Lepidoptera#name">
+				<rdfs:label>Lepidoptera</rdfs:label>
+				        <wo:commonName>Butterflies and moths</wo:commonName>
+        								<wo:commonName>Lepidopterans</wo:commonName>
+								<wo:scientificName>Lepidoptera</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Lepidoptera</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/lepidoptera/lepidoptera_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Lepidoptera#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/le/lepidoptera/lepidoptera_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01d4x45#programme">
+			<dc:title>Web exclusive: The differences between moths and butterflies</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0143j5b#programme">
+			<dc:title>Butterfly ball</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lypnq#programme">
+			<dc:title>Sea moth-trapping</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ksgd8#programme">
+			<dc:title>UK butterflies in decline</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g292p#programme">
+			<dc:title>Hungry caterpillar to beautiful butterfly</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f29j9#programme">
+			<dc:title>Split personalities</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqd8s#programme">
+			<dc:title>Butterfly awakening</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cnt8g#programme">
+			<dc:title>Butterfly bounty</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cnsyc#programme">
+			<dc:title>Hiding in plain view</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cnsls#programme">
+			<dc:title>Orange tip metamorphosis</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cnscj#programme">
+			<dc:title>Complete makeover</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081gf1#programme">
+			<dc:title>Moth of the day</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hfqp#programme">
+			<dc:title>Moth mayhem</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003x6g8#programme">
+			<dc:title>Wing display</dc:title>
+			<po:subject rdf:resource="/nature/order/Lepidoptera#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Lepidoptera">
+		<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lepidoptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/57">
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ento.csiro.au/education/insects/lepidoptera.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21934075">
+			<dc:title>Butterflies 'hurt by cold, wet 2012'</dc:title>
+			<dc:description>Butterflies suffered in last year's wet and cold weather, having their worst year since 1976, a charity's study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22025537">
+			<dc:title>Butterfly beauty</dc:title>
+			<dc:description>See the birth of a butterfly at the home of the world's biggest butterfly collection - London's Natural History Museum</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-22130854">
+			<dc:title>Moths' hovering secrets revealed</dc:title>
+			<dc:description>Footage reveals how moths use their abdomens in flight control, bending their bodies to fine-tune the forces that keep them airborne. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21274873">
+			<dc:title>In Pictures: Ups and downs for UK moths</dc:title>
+			<dc:description>Two-thirds of the UK's common and larger moth species are in decline, according to the charity Butterfly Conservation.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21246322">
+			<dc:title>Habitat loss hits UK moth numbers</dc:title>
+			<dc:description>Two-thirds of Britain's 337 species of common and widespread larger moths have experienced a significant decline over the past four decade, a survey shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-20983930">
+			<dc:title>Some butterflies enjoy wet 2012</dc:title>
+			<dc:description>Butterflies that feed on grass, such as the meadow brown, bucked the trend with increased numbers in an otherwise washout 2012, a survey suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19245818">
+			<dc:title>Fukushima butterflies 'abnormal'</dc:title>
+			<dc:description>Exposure to radioactive material released into the environment has caused mutations in butterflies found in Japan, a study suggests. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18650058">
+			<dc:title>Butterfly blues</dc:title>
+			<dc:description>Sir David Attenborough warns that butterfly populations may suffer this year because of recent wet weather.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18393777">
+			<dc:title>Fake caterpillars' camouflage clue</dc:title>
+			<dc:description>Canadian scientists use modelling dough replica caterpillars to test the effectiveness of their "eyespot" camouflage.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18283251">
+			<dc:title>UK butterflies continue decline</dc:title>
+			<dc:description>The population of UK butterflies is continuing its downward trend, according to a nationwide survey of the countryside.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18101581">
+			<dc:title>Wild spring weather baffles bugs</dc:title>
+			<dc:description>The wettest April in more than a century has caused problems for many UK butterflies, bees and other bugs, say conservationists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17769868">
+			<dc:title>Rare UK butterflies 'bounce back'</dc:title>
+			<dc:description>Warm, dry weather leads to a significant rise in the numbers of rare butterflies in the UK, a study suggests. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17139837">
+			<dc:title>New moth invades Italy vineyards</dc:title>
+			<dc:description>A moth with a taste for Chardonnay leaves, which has infested vineyards across northern Italy, is a new species of leafminer, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16054895">
+			<dc:title>Butterfly numbers still falling</dc:title>
+			<dc:description>Almost three quarters of UK butterfly species have declined over the past decade, according to a new report.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15200608">
+			<dc:title>Rare moth established in the UK</dc:title>
+			<dc:description>The rare flame brocade moth has established a colony on the south coast of England, according to the charity Butterfly Conservation.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/07/in-pictures-uk-butterflies-par-2.shtml">
+			<dc:title>In pictures: UK butterflies (part four)</dc:title>
+			<dc:description>The UK's butterflies in pictures. Part four: from painted lady to silver-washed fritillary.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/07/in-pictures-uk-butterflies-par-3.shtml">
+			<dc:title>In pictures: UK butterflies (part five)</dc:title>
+			<dc:description>The UK's butterflies in pictures. Part five: from small blue to wood white.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/07/in-pictures-uk-butterflies-a-c.shtml">
+			<dc:title>In pictures: UK butterflies (part one)</dc:title>
+			<dc:description>The UK's butterflies in pictures. Part one: from adonis to common blue.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/07/in-pictures-uk-butterflies-par-1.shtml">
+			<dc:title>In pictures: UK butterflies (part three)</dc:title>
+			<dc:description>The UK's butterflies in pictures. Part three: from large blue to orange tip.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/07/in-pictures-uk-butterflies-par.shtml">
+			<dc:title>In pictures: UK butterflies (part two)</dc:title>
+			<dc:description>The UK's butterflies in pictures. Part two: from dark green fritillary to holly blue.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/14108204">
+			<dc:title>A rare he-she butterfly is born</dc:title>
+			<dc:description>A rare dual-sex butterfly impresses visitors at London's Natural History Museum with its odd wings.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/13573037">
+			<dc:title>Butterflies close wings to say no</dc:title>
+			<dc:description>Female copper butterflies close their wings to avoid the attention of persistent males, say scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9341000/9341659.stm">
+			<dc:title>Butterflies 'take turns courting'</dc:title>
+			<dc:description>Male and female butterflies switch courting roles depending on the season they were born in, according to new research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9286000/9286072.stm">
+			<dc:title>The beauty of British butterflies</dc:title>
+			<dc:description>Celebrating Britain's obsession with butterflies.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10114969.stm">
+			<dc:title>Night-time creatures 'in crisis'</dc:title>
+			<dc:description>Two of the UK's nocturnal creatures are "in crisis", say conservation groups, who are asking the public to take part in a national survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8647000/8647558.stm">
+			<dc:title>New British moth found in Hembury Woods is world first</dc:title>
+			<dc:description>A moth new to science and found nowhere else in the world has been formally recognised as living in the UK.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/ellesmereisland/stories/woollybearcaterpillar">
+			<dc:title>The world's coolest caterpillar</dc:title>
+			<dc:description>Only 800 kilometres from the North Pole, a woolly bear caterpillar thaws out for a bite to eat.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/newguineasforestsecrets/stories/eatenalive">
+			<dc:title>Eaten alive</dc:title>
+			<dc:description>What at first looks like a strange creature turns out to be a caterpillar playing host to some unwelcome guests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Lepidoptera#order"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3fy#collection">
+				<dc:title>George's marvellous minibeasts</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg0m#collection">
+				<dc:title>Garden wildlife</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Lepidoptera.gif">
+		<dc:title>Map showing the distribution of the Butterflies and moths order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Nymphalidae#order"><rdfs:label>Brush-footed butterflies</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/></wo:Family><wo:Family rdf:about="/nature/life/Lycaenidae#order"><rdfs:label>Gossamer-winged butterflies</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/></wo:Family><wo:Species rdf:about="/nature/life/Old_World_Swallowtail#order"><rdfs:label>Swallowtail</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/></wo:Species><wo:Family rdf:about="/nature/life/Pieridae#order"><rdfs:label>Sulphurs and whites</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/></wo:Family><wo:Species rdf:about="/nature/life/Macroglossum_stellatarum#order"><rdfs:label>Hummingbird hawk-moth</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/></wo:Species><wo:Family rdf:about="/nature/life/Arctiidae#order"><rdfs:label>Woolly bear moths</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/></wo:Family><wo:Family rdf:about="/nature/life/Zygaenidae#order"><rdfs:label>Burnet moth</rdfs:label><wo:order rdf:resource="/nature/life/Lepidoptera#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

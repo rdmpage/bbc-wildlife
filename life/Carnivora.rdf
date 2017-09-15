@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Carnivora">
+		<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Carnivora#order">
+				<rdfs:label>Carnivora</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Carnivora#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/carnivora/carnivora_1.jpg"/>
+
+				<dc:description>The Carnivora is an order of mammals descended from carnivorous ancestors. Although most of the living Carnivora are indeed meat-eaters, some are omnivorous, and the giant panda is largely vegetarian. Bears, hyenas, cats and seals are all members of the Carnivora.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Carnivora"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Carnivora#name">
+				<rdfs:label>Carnivora</rdfs:label>
+												<wo:commonName>Carnivorans</wo:commonName>
+								<wo:scientificName>Carnivora</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/carnivora/carnivora_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Carnivora#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/carnivora/carnivora_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Carnivora">
+		<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-25675002">
+			<dc:title>Majority of big beasts in decline</dc:title>
+			<dc:description>Lions, wolves, bears and other big meat-eating animals are rapidly declining around the world say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23701151">
+			<dc:title>Mammal carnivore is major discovery</dc:title>
+			<dc:description>US scientists describe a new animal living in the cloud forests of Colombia and Ecuador - the first new mammal carnivore species to be identified in the Western hemisphere in 35 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8593000/8593789.stm">
+			<dc:title>Hyena laughs and giggles decoded</dc:title>
+			<dc:description>The giggling sounds of a hyena contain important information about the animal's status, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8383000/8383070.stm">
+			<dc:title>Save 'special' carnivores plea</dc:title>
+			<dc:description>Certain carnivores are so unique that special efforts should be made to save them, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Carnivora#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/><wo:order rdf:resource="/nature/life/Bat#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Diprotodontia#order"/><wo:order rdf:resource="/nature/life/Soricomorpha#order"/><wo:order rdf:resource="/nature/life/Lagomorpha#order"/><wo:order rdf:resource="/nature/life/Macroscelidea#order"/><wo:order rdf:resource="/nature/life/Monotreme#order"/><wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Pholidota#order"/><wo:order rdf:resource="/nature/life/Primate#order"/><wo:order rdf:resource="/nature/life/Proboscidea#order"/><wo:order rdf:resource="/nature/life/Rodent#order"/><wo:order rdf:resource="/nature/life/Sirenia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Afrosoricida#order"/><wo:order rdf:resource="/nature/life/Armadillo#order"/><wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Pilosa#order"/><wo:order rdf:resource="/nature/life/Leptictida#order"/><wo:order rdf:resource="/nature/life/Litopterna#order"/><wo:order rdf:resource="/nature/life/Mesonychid#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Canidae#order"><rdfs:label>Dogs</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family><wo:Family rdf:about="/nature/life/Felidae#order"><rdfs:label>Cats</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family><wo:Family rdf:about="/nature/life/Mongoose#order"><rdfs:label>Mongooses</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family><wo:Species rdf:about="/nature/life/Spotted_Hyena#order"><rdfs:label>Spotted hyena</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Species><wo:Family rdf:about="/nature/life/Mustelidae#order"><rdfs:label>Weasel family</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family><wo:Family rdf:about="/nature/life/Procyonidae#order"><rdfs:label>Raccoon and coati family</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family><wo:Family rdf:about="/nature/life/Bear#order"><rdfs:label>Bears</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family><wo:Species rdf:about="/nature/life/Red_Panda#order"><rdfs:label>Red panda</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Species><wo:Species rdf:about="/nature/life/Striped_Skunk#order"><rdfs:label>Striped Skunk</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Species><wo:Family rdf:about="/nature/life/Eupleridae#order"><rdfs:label>Eupleridae</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family><wo:Superfamily rdf:about="/nature/life/Pinniped#order"><rdfs:label>Walruses, seals and sea lions</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Superfamily><wo:Family rdf:about="/nature/life/Bear_dog#order"><rdfs:label>Bear dogs</rdfs:label><wo:order rdf:resource="/nature/life/Carnivora#order"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

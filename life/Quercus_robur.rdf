@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Quercus_robur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Quercus_robur#species">
+				<rdfs:label>English oak</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Quercus_robur#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/q/qu/quercus_robur/quercus_robur_1.jpg"/>
+
+				<dc:description>English oaks are a symbol of great strength and endurance. These magnificent trees grow to well over 30 metres and can live for 1,000 years or more. Flowering begins in late spring, with the fruits (acorns) ripening in time for autumn. Acorns grow in clusters and are an important source of food for many birds and small mammals, particularly jays and squirrels who cache away the acorns for later consumption. Being deciduous, oaks lose their distinctive lobed and wavy leaves in winter. They have been a prized source of timber since prehistoric times and it's said that an oak tree hid king Charles II from the Roundheads at Boscobel.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Quercus_robur"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Quercus_robur.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Limestone_pavement#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Oak#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Fagaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Fagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Quercus_robur#name">
+				<rdfs:label>Quercus robur</rdfs:label>
+				        <wo:commonName>English oak</wo:commonName>
+        								<wo:commonName>Pedunculate oak</wo:commonName>
+								<wo:scientificName>roburrobur</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Fagales</wo:orderName><wo:familyName>Fagaceae</wo:familyName><wo:genusName>Quercus</wo:genusName><wo:speciesName>robur</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/q/qu/quercus_robur/quercus_robur_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Quercus_robur#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/q/qu/quercus_robur/quercus_robur_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00h5fl3#programme">
+			<dc:title>Oak tree heartbeat </dc:title>
+			<po:subject rdf:resource="/nature/species/Quercus_robur#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1pf7#programme">
+			<dc:title>Elevated woodland floor</dc:title>
+			<po:subject rdf:resource="/nature/species/Quercus_robur#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007l42p#programme">
+			<dc:title>Little helpers</dc:title>
+			<po:subject rdf:resource="/nature/species/Quercus_robur#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007l3y9#programme">
+			<dc:title>Fungal friends</dc:title>
+			<po:subject rdf:resource="/nature/species/Quercus_robur#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007l35f#programme">
+			<dc:title>From small acorns</dc:title>
+			<po:subject rdf:resource="/nature/species/Quercus_robur#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Quercus_robur">
+		<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://apps.kew.org/trees/?page_id=92">
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/pedunculate-oak/quercus-robur/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.british-trees.com/treeguide/oaks/nbnsys0000003845.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.first-nature.com/trees/quercus_robur.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.royaloakday.org.uk/History/the_royal_oak_story.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-19722595">
+			<dc:title>Huge 5,000-year-old oak unearthed</dc:title>
+			<dc:description>The trunk of a giant oak tree thought by experts to be more than 5,000 years old is unearthed in a field in west Norfolk.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-wiltshire-19417051">
+			<dc:title>Oak tree declared UK's tallest</dc:title>
+			<dc:description>A 200-year-old tree on a Wiltshire estate has been officially named as the tallest oak in the UK.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14804547">
+			<dc:title>UK oaks' future 'at crossroads'</dc:title>
+			<dc:description>The future well-being of the UK's oak trees could be at a crossroads, the British Ecological Society meeting hears.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/natureuk/2011/05/oak-before-ash-in-for-a-splash.shtml">
+			<dc:title>Oak before ash: in for a splash?</dc:title>
+			<dc:description>Ever heard the old rhyme </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10089581.stm">
+			<dc:title>Oak disease 'threatens landscape'</dc:title>
+			<dc:description>The continuing spread of a deadly disease that affects the UK's native oak trees is causing concern among tree professionals and conservation groups.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/north_east/8512505.stm">
+			<dc:title>Council protects 1,200-year-old oak tree near Wrexham</dc:title>
+			<dc:description>A tree protection order (TPO) has been placed on one of the oldest oaks in Britain, which has split down the middle after the recent cold weather.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Quercus_robur#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Limestone_pavement#habitat">
+					<rdfs:label>Limestone pavements</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Quercus_robur.gif">
+		<dc:title>Map showing the distribution of the English oak species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Oak#genus"><rdfs:label>Quercus</rdfs:label><wo:species rdf:resource="/nature/life/Quercus_robur#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Fagaceae#family"><rdfs:label>Fagaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Fagales#order"><rdfs:label>Fagales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

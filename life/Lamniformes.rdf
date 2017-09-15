@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Lamniformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Lamniformes#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Lamniformes#order">
+				<rdfs:label>Mackerel sharks</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Lamniformes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lamniformes/lamniformes_1.jpg"/>
+
+				<dc:description>Mackerel sharks are thought to have been around for some 120 million years. They are an order of fish that includes some of the most iconic shark species, from the basking and mako sharks to the great white. Mackerel sharks boast among their numbers both the harmless filter feeders and a few very fearsome predators. There are 15 species in the order some of which reach very large sizes. The basking shark, for example, can grow to over 10 metres! All species of mackerel shark give birth to live young.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lamniformes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ovoviviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Lamniformes.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:superorder rdf:resource="/nature/life/Shark#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Chondrichthyes#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Lamniformes#name">
+				<rdfs:label>Lamniformes</rdfs:label>
+				        <wo:commonName>Mackerel sharks</wo:commonName>
+        										<wo:scientificName>Lamniformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Chondrichthyes</wo:className><wo:superorderName>Selachimorpha</wo:superorderName><wo:orderName>Lamniformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lamniformes/lamniformes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Lamniformes#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/la/lamniformes/lamniformes_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Lamniformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Lamniformes#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Lamniformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Lamniformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.elasmo-research.org/education/topics/d_lamnoid_patterns.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Lamniformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.gale.cengage.com/pdf/samples/sp66572X.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/order/Lamniformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sharksavers.org/en/education/shark-species-introduction/50-mackerel-sharks.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Lamniformes#order"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Ovoviviparity#adaptation">
+					<rdfs:label>Ovoviviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Lamniformes.gif">
+		<dc:title>Map showing the distribution of the Mackerel sharks order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Superorder rdf:about="/nature/superorder/Shark#superorder"><rdfs:label>Selachimorpha</rdfs:label><wo:order rdf:resource="/nature/life/Lamniformes#order"/><wo:order rdf:resource="/nature/life/Carcharhiniformes#order"/><wo:order rdf:resource="/nature/life/Carpet_sharks#order"/></wo:Superorder><wo:Class rdf:about="/nature/class/Chondrichthyes#class"><rdfs:label>Chondrichthyes</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Great_white_shark#order"><rdfs:label>Great white shark</rdfs:label><wo:order rdf:resource="/nature/life/Lamniformes#order"/></wo:Species><wo:Species rdf:about="/nature/life/Basking_shark#order"><rdfs:label>Basking shark</rdfs:label><wo:order rdf:resource="/nature/life/Lamniformes#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

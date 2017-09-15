@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Taxus_baccata">
+		<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Taxus_baccata#species">
+				<rdfs:label>Common yew</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Taxus_baccata#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/taxus_baccata/taxus_baccata_1.jpg"/>
+
+				<dc:description>Common yews have poisonous leaves, bark and seeds and a reputation for killing livestock. Their bright red berries (actually seed caps) are not poisonous however, and are eagerly eaten by birds, helping the yew to disperse its seeds. Yews are found across Europe, North Africa and parts of the Middle East. Their wood was used to make the English longbows for warfare in the medieval period, and thousands of trees were felled in the process. The trees that survived - including many churchyard specimens - may live for a thousand years, as yews are very long-lived.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Taxus_baccata"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Poison#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Taxus_baccata.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Taxus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Taxaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Pinales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Pinopsida#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Pinophyta#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Taxus_baccata#name">
+				<rdfs:label>Taxus baccata</rdfs:label>
+				        <wo:commonName>Common yew</wo:commonName>
+        								<wo:commonName>English yew</wo:commonName>
+						<wo:commonName>European yew</wo:commonName>
+								<wo:scientificName>baccatabaccata</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Pinophyta</wo:phylumName><wo:className>Pinopsida</wo:className><wo:orderName>Pinales</wo:orderName><wo:familyName>Taxaceae</wo:familyName><wo:genusName>Taxus</wo:genusName><wo:speciesName>baccata</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ta/taxus_baccata/taxus_baccata_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Taxus_baccata#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ta/taxus_baccata/taxus_baccata_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bwdj8#programme">
+			<dc:title>Yew fruit</dc:title>
+			<po:subject rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008lwzq#programme">
+			<dc:title>Grave guardians</dc:title>
+			<po:subject rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0087kwd#programme">
+			<dc:title>Yew forest</dc:title>
+			<po:subject rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fn6x#programme">
+			<dc:title>Toxic trees</dc:title>
+			<po:subject rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Taxus_baccata">
+		<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://apps.kew.org/trees/?page_id=163">
+			<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://herbarium.freehostia.com/plant.php?latin=Taxus+baccata&amp;commun=Yew&amp;lang=en">
+			<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ancient-yew.org/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.conifers.org/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/leicestershire/8637471.stm">
+			<dc:title>Leicestershire yew clippings used in anti-cancer drugs</dc:title>
+			<dc:description>Yew clippings from the garden of a Leicestershire museum have been sold to make anti-cancer drugs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/north_east/7568403.stm">
+			<dc:title>Yew cuttings help cancer research</dc:title>
+			<dc:description>An operation is under way to prune the famous yew hedges at Chirk Castle, and help the fight against cancer at the same time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/tayside_and_central/7505706.stm">
+			<dc:title>Ancient tree 'one of UK's best'</dc:title>
+			<dc:description>An ancient Perthshire yew has made the top 10 in a list of the most important trees in the UK.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Taxus_baccata#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Poison#adaptation">
+					<rdfs:label>Poisonous</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Taxus_baccata.gif">
+		<dc:title>Map showing the distribution of the Common yew species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Taxus#genus"><rdfs:label>Taxus</rdfs:label><wo:species rdf:resource="/nature/life/Taxus_baccata#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Taxaceae#family"><rdfs:label>Taxaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Pinales#order"><rdfs:label>Pinales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Pinopsida#class"><rdfs:label>Pinopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Pinophyta#phylum"><rdfs:label>Pinophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

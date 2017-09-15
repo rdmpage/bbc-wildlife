@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Sapindales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Sapindales#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Sapindales#order">
+				<rdfs:label>Soapberry, maple and citrus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Sapindales#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sapindales/sapindales_1.jpg"/>
+
+				<dc:description>Soapberry, maple, citrus and their relatives are flowering woody plants with lobed leaves. Most species are trees, vines and shrubs. This diverse botanical order contains a number of agriculturally and commercially important families and species. Alongside the obvious maple and citruses there are tasty fruits like lychees and mangos, as well as cashew and pistachio nuts. Beautiful hardwoods like mahogany can be made into furniture, and some fragrant resins are produced such as frankincense and myrrh. Not so nice is the poison ivy that can cause a nasty itching rash.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sapindales"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Sapindales.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Sapindales#name">
+				<rdfs:label>Sapindales</rdfs:label>
+				        <wo:commonName>Soapberry, maple and citrus</wo:commonName>
+        										<wo:scientificName>Sapindales</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Sapindales</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/sapindales/sapindales_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Sapindales#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sa/sapindales/sapindales_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sapindales">
+		<foaf:primaryTopic rdf:resource="/nature/order/Sapindales#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/Sapindales/21051">
+			<foaf:primaryTopic rdf:resource="/nature/order/Sapindales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.succulent-plant.com/families/sapindales.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Sapindales#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wenh.org/natureworks/nwep14sapindales.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Sapindales#order"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Sapindales.gif">
+		<dc:title>Map showing the distribution of the Soapberry, maple and citrus order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label><wo:order rdf:resource="/nature/life/Sapindales#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Gentianales#order"/><wo:order rdf:resource="/nature/life/Nepenthales#order"/><wo:order rdf:resource="/nature/life/Rosales#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Fagales#order"/><wo:order rdf:resource="/nature/life/Urticales#order"/><wo:order rdf:resource="/nature/life/Theales#order"/><wo:order rdf:resource="/nature/life/Violales#order"/><wo:order rdf:resource="/nature/life/Santalales#order"/><wo:order rdf:resource="/nature/life/Asterales#order"/><wo:order rdf:resource="/nature/life/Ranunculales#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Acer_pseudoplatanus#order"><rdfs:label>Sycamore</rdfs:label><wo:order rdf:resource="/nature/life/Sapindales#order"/></wo:Species><wo:Species rdf:about="/nature/life/Aesculus_hippocastanum#order"><rdfs:label>Horse chestnut</rdfs:label><wo:order rdf:resource="/nature/life/Sapindales#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

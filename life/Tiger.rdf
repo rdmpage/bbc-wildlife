@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Tiger">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Tiger#species">
+				<rdfs:label>Tiger</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Tiger#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/tiger/tiger_1.jpg"/>
+
+				<dc:description>The magnificent tiger, largest of the big cats, is a heavily muscled, powerful predator that stalks and ambushes large prey, camouflaged by its stripy coat. Unlike other cats, tigers are good swimmers and often cool off in lakes and streams during the heat of the day. Sadly, they have been pushed to the edge of existence through hunting and habitat loss, with three of the eight subspecies already extinct, and the other subspecies at high risk.
+<br/>
+<br/>
+<b>Did you know?</b><br/> A tiger's stripes are like a human fingerprint, no two tigers have the same pattern.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Tiger"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0063wt7#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mangrove#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Taiga#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Panthera#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Tiger#name">
+				<rdfs:label>Panthera tigris</rdfs:label>
+				        <wo:commonName>Tiger</wo:commonName>
+        										<wo:scientificName>tigristigris</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Panthera</wo:genusName><wo:speciesName>tigris</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/tiger/tiger_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Tiger#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ti/tiger/tiger_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b6wzf#programme">
+			<dc:title>Tiger quest</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b6w8k#programme">
+			<dc:title>Tiger paradise?</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b6vw6#programme">
+			<dc:title>Tiger scent</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b6rn2#programme">
+			<dc:title>Tiger quest</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b6nsz#programme">
+			<dc:title>Population patterns</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b68rr#programme">
+			<dc:title>Trap snaps</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b68jb#programme">
+			<dc:title>Nowhere to go</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b68fl#programme">
+			<dc:title>Moving majesty</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b5zlx#programme">
+			<dc:title>Tantalising tigers</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b3k5g#programme">
+			<dc:title>Fragmented isolation</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b3k4t#programme">
+			<dc:title>Intact system</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b3jzp#programme">
+			<dc:title>Wildlife treasures</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006drs7#programme">
+			<dc:title>Tiger plight</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006dpb7#programme">
+			<dc:title>Time to play</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006dp6y#programme">
+			<dc:title>Holding on</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006dfk9#programme">
+			<dc:title>The price of poaching</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ddzg#programme">
+			<dc:title>Walk in the park</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004jmbh#programme">
+			<dc:title>Lords of the land</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00484j5#programme">
+			<dc:title>Time to play</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003kbf7#programme">
+			<dc:title>Tiger cubs</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k9np#programme">
+			<dc:title>Don't get distracted</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382dl#programme">
+			<dc:title>Siberian tiger</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382cm#programme">
+			<dc:title>Ussuri tigers</dc:title>
+			<po:subject rdf:resource="/nature/species/Tiger#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/ti/tiger/5014182.mp3">
+			<dc:title>A Bengal tiger growling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Tiger#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/t/ti/tiger/nhc27-35.mp3">
+			<dc:title>A Siberian tiger groaning, licking and sniffing</dc:title>
+			<dc:subject rdf:resource="/nature/species/Tiger#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Tiger">
+		<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Panthera_tigris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://wwf.panda.org/what_we_do/endangered_species/tigers/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/tiger/panthera-tigris/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/15955/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tigersincrisis.com/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-13330315">
+			<dc:title>Tiger find prompts WWF pressure</dc:title>
+			<dc:description>New footage of rare Sumatran tigers prompts a warning from a conservation charity against planned forest clearance for logging.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-12877560">
+			<dc:title>India's wild tiger population up</dc:title>
+			<dc:description>India's latest tiger census shows a 20% rise in the population of the big cat, the environment and forest ministry says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9407000/9407744.stm">
+			<dc:title>Amur tigers in population crisis</dc:title>
+			<dc:description>The world's largest cat is down to an effective wild population of 14 individuals, a genetic study has found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9313000/9313098.stm">
+			<dc:title>Russian tiger team hails success</dc:title>
+			<dc:description>How a team in Russia is working to prevent critically endangered Amur tigers from being killed in "human-tiger conflicts". </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11828922">
+			<dc:title>Summit agrees tiger recovery plan</dc:title>
+			<dc:description>Governments of 13 countries where tigers still live have endorsed a plan to save the big cats from extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-11611065">
+			<dc:title>In Pictures: Winning tiger images</dc:title>
+			<dc:description>Some of the award-winning photographs of tigers taken by Cardiff-based photographer Andy Rowse</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-11611066">
+			<dc:title>Tiger photo wins wildlife award</dc:title>
+			<dc:description>A rare head-on image of a tigress stalking her prey wins a wildlife photographer based in Wales an international photography prize.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-11455154">
+			<dc:title>Experts baffled by 'small' tigers</dc:title>
+			<dc:description>Tigers roaming the famous mangrove forests of Bangladesh are nearly half the weight of other wild Bengal tigers in South Asia, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8998000/8998042.stm">
+			<dc:title>Lost tiger population discovered</dc:title>
+			<dc:description>A "lost" population of tigers has been caught on camera living in the mountains of Bhutan, a discovery that could be crucial for the big cats' survival.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11368475">
+			<dc:title>Lost tiger population discovered</dc:title>
+			<dc:description>Television footage shot by the BBC's Natural History Unit has provided the first evidence that tigers can live and breed at extremely high altitudes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11304611">
+			<dc:title>Price set for tiger conservation</dc:title>
+			<dc:description>The cost of keeping tigers alive in the wild is about $80m (£50m) per year, a new assessment concludes - but only about $50m (£30m) is being pledged.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11132463">
+			<dc:title>Russia and China in tiger pledge</dc:title>
+			<dc:description>A special protection zone straddling the Chinese and Russian border is to be created to help the countries fight tiger poaching.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11118192">
+			<dc:title>Sedated tiger cub recovers after luggage ordeal</dc:title>
+			<dc:description>A two-month-old tiger cub found sedated and hidden among stuffed toy tigers in luggage at Bangkok airport has been sent to a wildlife conservation centre.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11104948">
+			<dc:title>Tiger cub found among stuffed toys in Bangkok luggage</dc:title>
+			<dc:description>A two-month-old tiger cub is found sedated and hidden among stuffed toys in a woman's luggage at Bangkok's international airport.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11057786">
+			<dc:title>Collector fined for breeding 'ligers' in Taiwan</dc:title>
+			<dc:description>A wild animal collector is facing fines for crossbreeding a lion with a tiger.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8568035.stm">
+			<dc:title>Tiger decline is 'sign of world's failure' </dc:title>
+			<dc:description>Governments need to crack down on illegal tiger trading if the big cats are to be saved, the UN has warned.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/south_asia/8554936.stm">
+			<dc:title>Two tiger cubs found dead in Indian national park</dc:title>
+			<dc:description>Two tiger cubs have been found dead in mysterious circumstances at the Ranthambhore national park in the north-west Indian state of Rajasthan.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8512000/8512455.stm">
+			<dc:title>Tigers evolved with snow leopards, gene study reveals</dc:title>
+			<dc:description>The tiger may be more ancient and distinct than we thought.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/asia-pacific/8487122.stm">
+			<dc:title>Tigers and other farmyard animals</dc:title>
+			<dc:description>For every one wild tiger alive in the world today, there may be three "farmed" tigers in China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8321000/8321033.stm">
+			<dc:title>Tiger skin trade in China exposed</dc:title>
+			<dc:description>An undercover investigation by an environmental campaign group reveals the continuing trade in tiger skins in China.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7935661.stm">
+			<dc:title>Poached skins matched to tigers</dc:title>
+			<dc:description>A new piece of software is able to identify individual tigers by the unique stripe patterns on their coats.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Tiger#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mangrove#habitat">
+					<rdfs:label>Mangroves</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Taiga#habitat">
+					<rdfs:label>Taiga</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0063wt7#collection">
+				<dc:title>Year of the Tiger</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Panthera#genus"><rdfs:label>Panthera</rdfs:label><wo:species rdf:resource="/nature/life/Tiger#species"/><wo:species rdf:resource="/nature/life/Lion#species"/><wo:species rdf:resource="/nature/life/Jaguar#species"/><wo:species rdf:resource="/nature/life/Leopard#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

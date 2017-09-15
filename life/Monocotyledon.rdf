@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Monocotyledon">
+		<foaf:primaryTopic rdf:resource="/nature/class/Monocotyledon#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Monocotyledon#class">
+				<rdfs:label>Monocotyledons</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Monocotyledon#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/monocotyledon/monocotyledon_1.jpg"/>
+
+				<dc:description>Monocotyledons (liliopsida) are traditionally one of the two main groups of flowering plants, the other being the dicotyledons. What distinguishes the monocots is the single leaf in the seed (cotyledon) and flower petals in multiples of three. There are over 60,000 recognised species contained within some of the largest families of flowering plants such as the orchids (20,000 species) and grasses (10,000 species). Most of the agriculturally and economically important plants are in here from rice, wheat, barley and sugar cane to palms, bamboo and bananas.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Monocotyledon"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Monocotyledon.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Monocotyledon#name">
+				<rdfs:label>Liliopsida</rdfs:label>
+				        <wo:commonName>Monocotyledons</wo:commonName>
+        								<wo:commonName>Liliopsida</wo:commonName>
+						<wo:commonName>Monocots</wo:commonName>
+								<wo:scientificName>Liliopsida</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/monocotyledon/monocotyledon_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Monocotyledon#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/monocotyledon/monocotyledon_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Monocotyledon">
+		<foaf:primaryTopic rdf:resource="/nature/class/Monocotyledon#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://botit.botany.wisc.edu/courses/systematics/Phyla/Magnoliophyta/Liliopsida.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Monocotyledon#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/tree?group=Monocotyledons&amp;contgroup=Euangiosperms">
+			<foaf:primaryTopic rdf:resource="/nature/class/Monocotyledon#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/monocots/monocot.html">
+			<foaf:primaryTopic rdf:resource="/nature/class/Monocotyledon#class"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/class/Monocotyledon.gif">
+		<dc:title>Map showing the distribution of the Monocotyledons class</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label><wo:class rdf:resource="/nature/life/Monocotyledon#class"/><wo:class rdf:resource="/nature/life/Dicotyledon#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Asparagales#class"><rdfs:label>Asparagus and orchids</rdfs:label><wo:class rdf:resource="/nature/life/Monocotyledon#class"/></wo:Order><wo:Species rdf:about="/nature/life/Titan_arum#class"><rdfs:label>Titan arum</rdfs:label><wo:class rdf:resource="/nature/life/Monocotyledon#class"/></wo:Species><wo:Order rdf:about="/nature/life/Poales#class"><rdfs:label>Grasses and sedges</rdfs:label><wo:class rdf:resource="/nature/life/Monocotyledon#class"/></wo:Order><wo:Family rdf:about="/nature/life/Liliaceae#class"><rdfs:label>Lilies</rdfs:label><wo:class rdf:resource="/nature/life/Monocotyledon#class"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

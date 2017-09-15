@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Megapode">
+		<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Megapode#family">
+				<rdfs:label>Megapodes</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Megapode#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/me/megapode/megapode_1.jpg"/>
+
+				<dc:description>Megapodes are also known as mound builders and incubator birds. These birds have large feet which they use to make big heaps of vegetation or shallow burrows in which they incubate their eggs. Unusually, their chicks are quite well-developed and have their feathers by the time they hatch so they don't need parental care (precocial).</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Megapode"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Galliformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Megapode#name">
+				<rdfs:label>Megapodiidae</rdfs:label>
+				        <wo:commonName>Megapodes</wo:commonName>
+        								<wo:commonName>Incubator birds</wo:commonName>
+						<wo:commonName>Megapodiidae</wo:commonName>
+						<wo:commonName>Mound builders</wo:commonName>
+								<wo:scientificName>Megapodiidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Galliformes</wo:orderName><wo:familyName>Megapodiidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/me/megapode/megapode_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Megapode#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/me/megapode/megapode_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hfrx#programme">
+			<dc:title>Megapode birds</dc:title>
+			<po:subject rdf:resource="/nature/family/Megapode#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Megapode">
+		<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="M">
+			<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="M">
+			<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="M">
+			<foaf:primaryTopic rdf:resource="/nature/family/Megapode#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Galliformes#order"><rdfs:label>Galliformes</rdfs:label><wo:family rdf:resource="/nature/life/Megapode#family"/><wo:family rdf:resource="/nature/life/Phasianidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Malleefowl#family"><rdfs:label>Malleefowl</rdfs:label><wo:family rdf:resource="/nature/life/Megapode#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

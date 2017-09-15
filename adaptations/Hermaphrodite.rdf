@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/adaptations/Hermaphrodite">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+		<rdfs:seeAlso rdf:resource="/nature/adaptations"/>
+	</rdf:Description>
+
+		<wo:ReproductionStrategy rdf:about="/nature/adaptations/Hermaphrodite#adaptation">
+				<rdfs:label>Hermaphroditic</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/hermaphrodite/hermaphrodite_1.jpg"/>
+
+				<dc:description>Hermaphrodites have both male and female sex organs, either throughout their lives (homgamy) or that develop and mature at different points in their life cycle (dichogamy). Most dichogamous species, including many flowers and fish, change sex only once in their development. These organism still need another individual at the opposite stage for fertilisation. Homgamous species may be capable of self-fertilisation, but generally two individuals exchange sex cells and both are fertilised.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hermaphrodite"/>
+		
+		
+				
+									
+				
+				
+        
+
+					</wo:ReproductionStrategy>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/hermaphrodite/hermaphrodite_1.jpg">
+		<foaf:depicts rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/he/hermaphrodite/hermaphrodite_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cq708#programme">
+			<dc:title>Settling down</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ffc0#programme">
+			<dc:title>Coral Spawning</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hermaphrodite">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://whyfiles.org/shorties/082snail_dart/">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.scientificblogging.com/news_releases/sequential_hermaphroditism_some_animals_change_their_sex_why_dont_more">
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-manchester-11522483">
+			<dc:title>Hermaphrodite dog gets female op</dc:title>
+			<dc:description>A hermaphrodite dog undergoes surgery to become female and boost the chances of being re-homed. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+		</foaf:Document>
+			
+		
+					
+	
+								
+		
+
+
+
+
+	
+	
+					    		    		<wo:Species rdf:about="/nature/life/Helix_aspersa#species">
+    			<rdfs:label>Garden snail</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Hermaphrodite#adaptations"/>
+    		</wo:Species>
+    						    						    		    		<wo:Species rdf:about="/nature/life/Titan_arum#species">
+    			<rdfs:label>Titan arum</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Hermaphrodite#adaptations"/>
+    		</wo:Species>
+    					
+		    
+</rdf:RDF>

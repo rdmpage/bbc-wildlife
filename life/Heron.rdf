@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Heron">
+		<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Heron#family">
+				<rdfs:label>Herons, egrets and bitterns</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Heron#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/heron/heron_1.jpg"/>
+
+				<dc:description>Herons, egrets and bitterns are supreme hunters of fish and other small aquatic prey. Their long necks and strong beaks are capable of delivering a quick, powerful and quite deadly lunge. The preferred method of hunting is to wait patiently at the water's edge or stand in shallow water waiting for prey to come into range, although some take a more active approach, kicking around in the water. In shallow water, their long legs give these birds a considerable advantage over their prey. This is a globally distributed family of wading water birds that breeds on every continent except Antarctica.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Heron"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Vernal_pool#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Ciconiiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Heron#name">
+				<rdfs:label>Ardeidae</rdfs:label>
+				        <wo:commonName>Herons, egrets and bitterns</wo:commonName>
+        										<wo:scientificName>Ardeidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Ciconiiformes</wo:orderName><wo:familyName>Ardeidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/heron/heron_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Heron#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/he/heron/heron_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n6vr2#programme">
+			<dc:title>Running the gauntlet</dc:title>
+			<po:subject rdf:resource="/nature/family/Heron#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dtnn1#programme">
+			<dc:title>Urban bitterns </dc:title>
+			<po:subject rdf:resource="/nature/family/Heron#family"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003kl7h#programme">
+			<dc:title>Walking on water</dc:title>
+			<po:subject rdf:resource="/nature/family/Heron#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Heron">
+		<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Ardeidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Ardeidae/26331">
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturia.per.sg/buloh/birds/Ardeidae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oiseaux-birds.com/page-ardeidae-family.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.oiseaux.net/birds/ardeidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18280491">
+			<dc:title>Egrets breed in UK for first time</dc:title>
+			<dc:description>Great white egrets are breeding in the UK for first time at a Somerset nature reserve, after confirmation of at least one chick hatching.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18118985">
+			<dc:title>Secret egrets nest for first time</dc:title>
+			<dc:description>Great white egrets are nesting in the UK for the first time at the Shapwick Heath National Nature Reserve in Somerset.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-shropshire-13070501">
+			<dc:title>Chicks seen at Heronwatch project</dc:title>
+			<dc:description>Visitors are flocking to Ellesmere's Heronwatch project as the first chicks of the spring are sighted.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9068000/9068983.stm">
+			<dc:title>Green heron makes rare UK visit</dc:title>
+			<dc:description>An extremely rare sighting of a green heron is made in Cornwall, the first time the bird has been seen in the UK since 2008.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Heron#family"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Vernal_pool#habitat">
+					<rdfs:label>Temporary pools</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Ciconiiformes#order"><rdfs:label>Ciconiiformes</rdfs:label><wo:family rdf:resource="/nature/life/Heron#family"/><wo:family rdf:resource="/nature/life/Stork#family"/><wo:family rdf:resource="/nature/life/Threskiornithidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Grey_Heron#family"><rdfs:label>Grey heron</rdfs:label><wo:family rdf:resource="/nature/life/Heron#family"/></wo:Species><wo:Species rdf:about="/nature/life/Eurasian_Bittern#family"><rdfs:label>Bittern</rdfs:label><wo:family rdf:resource="/nature/life/Heron#family"/></wo:Species><wo:Species rdf:about="/nature/life/Little_Egret#family"><rdfs:label>Little egret</rdfs:label><wo:family rdf:resource="/nature/life/Heron#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

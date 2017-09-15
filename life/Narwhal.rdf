@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Narwhal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Narwhal#species">
+				<rdfs:label>Narwhal</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Narwhal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/narwhal/narwhal_1.jpg"/>
+
+				<dc:description>The charismatic narwhal is the legendary 'unicorn of the sea'. It's also thought that narwhal horns used in trade or washed up on beaches gave credence to the myth of unicorns on land. The horn is more properly called a tusk. Narwhals only have two teeth and in the males, the left one grows out of the jaw into a long spiralled tusk that can reach 2.5m in length and is prone to breaking. Suggested uses for such an impressive appendage include to spear food, for defence and as a weapon for competing males. However, its most likely use is to impress females, as an indication of the fittest mate. Narwhals are inhabitants of Arctic waters and are found at all depths. They tend to stay close to loose pack ice, where breathing holes are maintained through the sheets of ice.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Narwhal"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Narwhal.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Benthic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deep_sea#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Monodon#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Monodontidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Cetacea#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Narwhal#name">
+				<rdfs:label>Monodon monoceros</rdfs:label>
+				        <wo:commonName>Narwhal</wo:commonName>
+        								<wo:commonName>Unicorn of the sea</wo:commonName>
+								<wo:scientificName>monocerosmonoceros</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Cetacea</wo:orderName><wo:familyName>Monodontidae</wo:familyName><wo:genusName>Monodon</wo:genusName><wo:speciesName>monoceros</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/narwhal/narwhal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Narwhal#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/na/narwhal/narwhal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l73b8#programme">
+			<dc:title>Unicorns of the north</dc:title>
+			<po:subject rdf:resource="/nature/species/Narwhal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l3kk6#programme">
+			<dc:title>Fencing whales</dc:title>
+			<po:subject rdf:resource="/nature/species/Narwhal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jz21r#programme">
+			<dc:title>Echolocation lifeline</dc:title>
+			<po:subject rdf:resource="/nature/species/Narwhal#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/n/na/narwhal/nhs1343-16.mp3">
+			<dc:title>Narwhal calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Narwhal#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Narwhal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Monodon_monoceros.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://oceanexplorer.noaa.gov/explorations/06arctic/background/biology/biology.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://staff.washington.edu/klaidre/narwhalfaq.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.acsonline.org/factpack/Narwhal.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/narwhal/monodon-monoceros/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.narwhal.org/UnicornMyth.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/26534619">
+			<dc:title>Narwhal’s tusk is super sensitive</dc:title>
+			<dc:description>Narwhals’ distinctive long tusks are super sensitive, research finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8972000/8972021.stm">
+			<dc:title>Narwhals climate change 'threat'</dc:title>
+			<dc:description>Narwhals are exceptional endurance athletes, scientists discover, but this ability also puts them at high risk from climate change.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Narwhal#species"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Benthic_zone#habitat">
+					<rdfs:label>Sea bed</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Deep_sea#habitat">
+					<rdfs:label>Deep ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Narwhal.gif">
+		<dc:title>Map showing the distribution of the Narwhal species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Monodon#genus"><rdfs:label>Monodon</rdfs:label><wo:species rdf:resource="/nature/life/Narwhal#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Monodontidae#family"><rdfs:label>Monodontidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Cetacea#order"><rdfs:label>Cetacea</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

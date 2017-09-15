@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Radiated_tortoise">
+		<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Radiated_tortoise#species">
+				<rdfs:label>Radiated tortoise</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Radiated_tortoise#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/radiated_tortoise/radiated_tortoise_1.jpg"/>
+
+				<dc:description>With brilliant yellow lines radiating from the centre of each shell plate, radiated tortoises are definitely one of the world's most beautiful tortoises. Their breeding season can be quite a noisy affair as rival males try their best to roll each other over and out of action. The winner gets to mate with a female, after he has checked her out by sniffing her rear, no less. Radiated tortoises occur naturally only in the extreme southern dry thorn and tropical forests of Madagascar. Critically endangered, they are under pressure from habitat loss, poaching for food and exploitation in the pet trade.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Radiated_tortoise"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00db3n8#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Radiated_tortoise.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Astrochelys#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Tortoise#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Turtle#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Radiated_tortoise#name">
+				<rdfs:label>Astrochelys radiata</rdfs:label>
+				        <wo:commonName>Radiated tortoise</wo:commonName>
+        										<wo:scientificName>radiataradiata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Testudines</wo:orderName><wo:familyName>Testudinidae</wo:familyName><wo:genusName>Astrochelys</wo:genusName><wo:speciesName>radiata</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ra/radiated_tortoise/radiated_tortoise_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ra/radiated_tortoise/radiated_tortoise_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dtqdd#programme">
+			<dc:title>Tortoise in trouble</dc:title>
+			<po:subject rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Radiated_tortoise">
+		<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Astrochelys_radiata.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://nationalzoo.si.edu/Animals/ReptilesAmphibians/Facts/FactSheets/Radiatedtortoise.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/radiated-tortoise/geochelone-radiata/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eurekalert.org/pub_releases/2010-04/wcs-mrt040510.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/9014/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.unc.edu/~dtkirkpa/stuff/radiated.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Radiated_tortoise#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00db3n8#collection">
+				<dc:title>David Attenborough's Madagascar</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Radiated_tortoise.gif">
+		<dc:title>Map showing the distribution of the Radiated tortoise species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Astrochelys#genus"><rdfs:label>Astrochelys</rdfs:label><wo:species rdf:resource="/nature/life/Radiated_tortoise#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Tortoise#family"><rdfs:label>Testudinidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Turtle#order"><rdfs:label>Testudines</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/adaptations/Detritivore">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		<rdfs:seeAlso rdf:resource="/nature/adaptations"/>
+	</rdf:Description>
+
+		<wo:EcosystemRole rdf:about="/nature/adaptations/Detritivore#adaptation">
+				<rdfs:label>Detritus recycler</rdfs:label>
+		
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/de/detritivore/detritivore_1.jpg"/>
+
+				<dc:description>Detritus recyclers are the cleaners of the ecosystem, ridding the area of rotting material and recycling energy back into the food chain. They consume the non-living, organic material such as leaf-litter or fragments of dead and decomposing animals. In aquatic ecosystems, detritus is suspended in the water in tiny particles referred to as marine snow, which is often consumed through filter feeding. Fungi and creatures like woodlice are important land detritus recyclers.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Detritivore"/>
+		
+		
+				
+									
+				
+				
+        
+
+					</wo:EcosystemRole>
+
+		
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/de/detritivore/detritivore_1.jpg">
+		<foaf:depicts rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/de/detritivore/detritivore_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n0zxz#programme">
+			<dc:title>Born of mud</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00by8tj#programme">
+			<dc:title>Got to rot</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0082js2#programme">
+			<dc:title>Dead wood detectors</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007l3y9#programme">
+			<dc:title>Fungal friends</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fn57#programme">
+			<dc:title>Leaf litter life</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k117#programme">
+			<dc:title>Stag beetle battle</dc:title>
+			<po:subject rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Detritivore">
+		<foaf:primaryTopic rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+	</foaf:Document>
+		
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/uk/indepth/science-of-rotting.shtml">
+			<dc:title>The science of rot</dc:title>
+			<dc:description>Exploring the science of woodland rot</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/adaptations/Detritivore#adaptation"/>
+		</foaf:Document>
+			
+		
+					
+	
+								
+		
+
+
+
+
+	
+	
+					    		    		<wo:Species rdf:about="/nature/life/European_brook_lamprey#species">
+    			<rdfs:label>Brook lamprey</rdfs:label>
+    			    			<wo:adaptation rdf:resource="/nature/adaptations/Detritivore#adaptations"/>
+    		</wo:Species>
+    						    					
+		    
+</rdf:RDF>

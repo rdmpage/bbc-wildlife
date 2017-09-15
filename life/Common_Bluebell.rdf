@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Common_Bluebell">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Common_Bluebell#species">
+				<rdfs:label>Common bluebell</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Common_Bluebell#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_bluebell/common_bluebell_1.jpg"/>
+
+				<dc:description>Common bluebells are anything but ordinary, with a spring <a href="http://www.bbc.co.uk/nature/habitats/Temperate_broadleaf_and_mixed_forests">woodland</a> carpeted in masses of bluebells a sight to behold. This spectacular botannical display is only found in northern <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a>, with Britain containing more than half of the worlds population. Common bluebells are a protected species in the <a href="http://www.bbc.co.uk/nature/places/United_Kingdom">UK</a>. The main threats to their survival is people picking the flowers and illegally digging up the bulbs. Hybrid bluebell species, because of crossing with the Spanish bluebell, are also a major problem.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Britain is home to more than half of the world's population of bluebells.
+<br/>
+<br/>
+<a href="/nature/22508596">See the UK's spectacular bluebell blooms.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Common_Bluebell"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Common_Bluebell.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/hedge#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Asparagaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Asparagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Common_Bluebell#name">
+				<rdfs:label>Hyacinthoides non-scripta</rdfs:label>
+				        <wo:commonName>Common bluebell</wo:commonName>
+        								<wo:commonName>English bluebell</wo:commonName>
+								<wo:scientificName>non-scriptanon-scripta</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Asparagales</wo:orderName><wo:familyName>Asparagaceae</wo:familyName><wo:genusName>Hyacinthoides</wo:genusName><wo:speciesName>non-scripta</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/common_bluebell/common_bluebell_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Common_Bluebell#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/common_bluebell/common_bluebell_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ksnlf#programme">
+			<dc:title>Skomer bluebells</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gs89n#programme">
+			<dc:title>Woodland spectacle</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bxbqt#programme">
+			<dc:title>Bluebell heaven</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008lxb8#programme">
+			<dc:title>Spring spectacular</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081f08#programme">
+			<dc:title>Bluebell legends</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007ppwr#programme">
+			<dc:title>Boars and blooms</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b9fw#programme">
+			<dc:title>Blue-buzzed haze</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b988#programme">
+			<dc:title>Carpet of blue</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b97p#programme">
+			<dc:title>Snowdrops and bluebells</dc:title>
+			<po:subject rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Common_Bluebell">
+		<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.arkive.org/bluebell/hyacinthoides-non-scripta/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/gardening/plants/plant_finder/plant_pages/395.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/nature-online/british-natural-history/survey-bluebells/bluebell-identification/native/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantlife.org.uk/uk/plantlife-discovering-plants-bluebell-quide.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantpress.com/wildlife/o633-bluebell.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-17597489">
+			<dc:title>The battle of the bluebells</dc:title>
+			<dc:description>Britain's native bluebells are under threat from an aggressive hybrid, so could they disappear completely? </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/bluebells/10303.html">
+			<dc:title>Bluebells</dc:title>
+			<dc:description>Find out about bluebells and where they grow.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/bluebells/9462.html">
+			<dc:title>Bluebells</dc:title>
+			<dc:description>The Green Balloon Club meets to find out about nature by visiting a bluebell wood.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/wales/north_west/7404671.stm">
+			<dc:title>Selling native bluebells agreed</dc:title>
+			<dc:description>A mountainside in Snowdonia is the site of an experiment to increase stocks of wild native bluebells.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Common_Bluebell#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/hedge#habitat">
+					<rdfs:label>Hedgerows</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Common_Bluebell.gif">
+		<dc:title>Map showing the distribution of the Common bluebell species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Hyacinthoides</rdfs:label><wo:species rdf:resource="/nature/life/Common_Bluebell#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Asparagaceae#family"><rdfs:label>Asparagaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Asparagales#order"><rdfs:label>Asparagales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

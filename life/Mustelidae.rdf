@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Mustelidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Mustelidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Mustelidae#family">
+				<rdfs:label>Weasel family</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Mustelidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mu/mustelidae/mustelidae_1.jpg"/>
+
+				<dc:description>Weasels and their relatives the otters, badgers and wolverines form the family mustelidae. This is the largest family of carnivores, found everywhere except Antarctica, Australia, Madagascar and some other, smaller islands. Typically small mammals they range in size from the tiny least weasel, that is no bigger than a mouse; to the giant otter that can measure over two metres in length.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mustelidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Mustelidae#name">
+				<rdfs:label>Mustelidae</rdfs:label>
+				        <wo:commonName>Weasel family</wo:commonName>
+        								<wo:commonName>Mustelids</wo:commonName>
+								<wo:scientificName>Mustelidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Mustelidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mu/mustelidae/mustelidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Mustelidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mu/mustelidae/mustelidae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mustelidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Mustelidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Mustelidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mustelidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.cartage.org.lb/en/themes/sciences/zoology/ClassMammalia/Mammals/OrderCarnivora/Mustelidae/Mustelidae/Mustelidae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mustelidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flickr.com/groups/mustelidsoftheworld/pool/show/">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mustelidae#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/today/hi/today/newsid_9653000/9653387.stm">
+			<dc:title>'No way of telling' weasel numbers</dc:title>
+			<dc:description>Marina Pacheco of the Mammal Society says mustelids "could be going extinct without us knowing" or "could be thriving"</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mustelidae#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/><wo:family rdf:resource="/nature/life/Canidae#family"/><wo:family rdf:resource="/nature/life/Felidae#family"/><wo:family rdf:resource="/nature/life/Mongoose#family"/><wo:family rdf:resource="/nature/life/Hyena#family"/><wo:family rdf:resource="/nature/life/Procyonidae#family"/><wo:family rdf:resource="/nature/life/Bear#family"/><wo:family rdf:resource="/nature/life/Ailuridae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Eupleridae#family"/><wo:family rdf:resource="/nature/life/Bear_dog#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Sea_otter#family"><rdfs:label>Sea otter</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Wolverine#family"><rdfs:label>Wolverine</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/North_American_River_Otter#family"><rdfs:label>North American river otter</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/European_Otter#family"><rdfs:label>Otter</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/European_Pine_Marten#family"><rdfs:label>Pine marten</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/European_Badger#family"><rdfs:label>Badger</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Weasel#family"><rdfs:label>Weasels</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Genus><wo:Species rdf:about="/nature/life/Giant_Otter#family"><rdfs:label>Giant river otter</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/American_Mink#family"><rdfs:label>American mink</rdfs:label><wo:family rdf:resource="/nature/life/Mustelidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

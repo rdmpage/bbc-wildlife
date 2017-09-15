@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/kingdom/Plant">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		<rdfs:seeAlso rdf:resource="/nature/kingdom"/>
+	</rdf:Description>
+
+		<wo:Kingdom rdf:about="/nature/life/Plant#kingdom">
+				<rdfs:label>Plants</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/kingdom/Plant#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pl/plant/plant_1.jpg"/>
+
+				<dc:description>Plants form a kingdom which includes groups that reproduce by spores, such as mosses and ferns, and groups that reproduce by seeds, such as conifers and flowering plants. Plants get their energy through photosynthesis, using sunlight to convert water and carbon dioxide into sugar and releasing oxygen as a by-product - perhaps the most important biological process on Earth.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Plant"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/kingdom/Plant.gif"/>
+		
+										    
+    								
+					
+                                
+
+					</wo:Kingdom>
+
+			<wo:TaxonName rdf:about="/nature/kingdom/Plant#name">
+				<rdfs:label>plantae</rdfs:label>
+				        <wo:commonName>Plants</wo:commonName>
+        										<wo:scientificName>plantae</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pl/plant/plant_1.jpg">
+		<foaf:depicts rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pl/plant/plant_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lxtl2#programme">
+			<dc:title>Photosynthesis at work</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lxt8k#programme">
+			<dc:title>Perfect pump</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lx6cl#programme">
+			<dc:title>Climbing plants</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f8myl#programme">
+			<dc:title>Purple Saxifrage</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ckld5#programme">
+			<dc:title>Petrified trees</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cfr83#programme">
+			<dc:title>The rise of land plants</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bpj3w#programme">
+			<dc:title>Spore story</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bn9s1#programme">
+			<dc:title>Pioneering plant</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bl9y4#programme">
+			<dc:title>In their element</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkw3g#programme">
+			<dc:title>Lignin legacy</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006997b#programme">
+			<dc:title>Hay fever and pollen</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00485q5#programme">
+			<dc:title>Lake Rankul</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003wfbr#programme">
+			<dc:title>Toxic plants</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003bchd#programme">
+			<dc:title>The Nature of Britain - Woodland Britain</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0036tc5#programme">
+			<dc:title>The real Shangri-La?</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Plant">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/Green_plants">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/plants/plantae.html">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13130740">
+			<dc:title>Planets 'may have black plants'</dc:title>
+			<dc:description>Planets in distant star systems may have black plants, according to new research by British astronomers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9304000/9304881.stm">
+			<dc:title>New mistletoe species discovered</dc:title>
+			<dc:description>A new species of tropical mistletoe is top of a list of the most significant botanical discoveries of 2010.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9273000/9273567.stm">
+			<dc:title>Wild food crops to be 'rescued'</dc:title>
+			<dc:description>Scientists announce a plan to collect and store the wild plant relatives of essential food crops, including wheat, rice, and potatoes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11630355">
+			<dc:title>More species slide to extinction</dc:title>
+			<dc:description>One fifth of animal and plant species are threatened by extinction, a global study warns, but conservation efforts have pulled some back from the brink.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-latin-america-11545048">
+			<dc:title>In pictures: Queen of the Andes</dc:title>
+			<dc:description>Images of the rare Puya Raimondi plant, which the Peruvian authorities are trying to protect.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-11550419">
+			<dc:title>Hungarian spill plant to reopen</dc:title>
+			<dc:description>The Hungarian plant at the centre of a toxic sludge spill is due to reopen later on Friday as villagers forced to abandon their flooded houses prepare to return home. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9079000/9079963.stm">
+			<dc:title>Earliest land plants discovered</dc:title>
+			<dc:description>Plants first colonised land more than 472 million years ago, according to a fossil discovery in Argentina.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11432479">
+			<dc:title>Extinction risk for fifth of plants</dc:title>
+			<dc:description>Researchers at the Royal Botanic Gardens at Kew in London are warning that as much as one-fifth of the world's plant life is at risk of extinction.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11434109">
+			<dc:title>One-fifth of plants on risk list</dc:title>
+			<dc:description>A new global assessment concludes that 22% of plants are threatened with extinction, which scientists say is serious for humanity.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11377192">
+			<dc:title>'Climate clues' in pressed plants</dc:title>
+			<dc:description>Plant cuttings in herbariums around the world could hold vital clues to how the natural world will respond to future climate shifts, say researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11373757">
+			<dc:title>Global plant list cut by 600,000</dc:title>
+			<dc:description>The inventory of plants known to science around the globe has been cut by more than 600,000, experts say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-11011352">
+			<dc:title>Cornwall homeowners shocked by plant's growth spurt</dc:title>
+			<dc:description>A Cornwall couple said they returned from holiday to find a plant in their garden had grown 26ft (8m) high.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/10598926">
+			<dc:title>Plants 'can think and remember'</dc:title>
+			<dc:description>Plants are able to remember and respond to information contained in light, according to researchers in Poland. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8859000/8859375.stm">
+			<dc:title>Plants 'defy effects of ageing'</dc:title>
+			<dc:description>Plants have a unique ability to defy the ill effects of ageing, and do not physically deteriorate as they get old, experts claim.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8694000/8694377.stm">
+			<dc:title>Earthworms eat live seeds and plants, scientists find</dc:title>
+			<dc:description>Earthworms eat seeds and seedlings, scientists have found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10119315.stm">
+			<dc:title>Invasive plant 'increases ozone pollution'</dc:title>
+			<dc:description>A fast growing invasive plant spreading through south-eastern US has the potential to increase low-level ozone pollution levels, a study has warned.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8424817.stm">
+			<dc:title>'Bumper year' for botanical finds</dc:title>
+			<dc:description>Giant rainforest trees, tiny fungi and wild coffee plants are among almost 300 species that have been described by UK botanists for the first time in 2009.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8346635.stm">
+			<dc:title>Plant experts unveil DNA barcode</dc:title>
+			<dc:description>Hundreds of experts from 50 nations are set to agree on a "DNA barcode" system that gives every plant on Earth a unique genetic fingerprint.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8305456.stm">
+			<dc:title>Banana marks seed bank milestone</dc:title>
+			<dc:description>An international seed bank has reached its target of collecting 10% of the world's wild plants, with seeds of a pink banana among its latest entries.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8076000/8076875.stm">
+			<dc:title>Plants 'can recognise themselves'</dc:title>
+			<dc:description>Plants may be able to recognise themselves.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/3168590.stm">
+			<dc:title>World 'not saving wild plants'</dc:title>
+			<dc:description>The world must act far more urgently to save thousands of threatened wild plants, three British botanists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Plant#kingdom"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/kingdom/Plant.gif">
+		<dc:title>Map showing the distribution of the Plants kingdom</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Phylum rdf:about="/nature/life/Flowering_plant#kingdom"><rdfs:label>Flowering plants</rdfs:label><wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/></wo:Phylum><wo:Order rdf:about="/nature/life/Pinales#kingdom"><rdfs:label>Modern conifers</rdfs:label><wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/></wo:Order>
+	
+	
+		    
+</rdf:RDF>

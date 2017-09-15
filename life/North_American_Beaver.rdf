@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/North_American_Beaver">
+		<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/North_American_Beaver#species">
+				<rdfs:label>North American beaver</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/North_American_Beaver#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/north_american_beaver/north_american_beaver_1.jpg"/>
+
+				<dc:description>Nature's own lumberjacks, American beavers fell large trees using nothing more than their strong front teeth. They then use the timber to build their famous dams and lodges. Ground-breaking infra-red filming for the Life of Mammals revealed that beavers willingly share their lodges, and even their food, with another rodent: the muskrat. The beaver's flattened and scaly tail is just one of a number of superb adaptations to their watery habitat. Not content with being <a href="http://www.bbc.co.uk/nature/places/North_America">North America's</a> biggest rodent, the American beaver is also the world's third largest, out-sized only by its <a href="http://www.bbc.co.uk/nature/life/Eurasian_Beaver">European cousin</a> and by the <a href="http://www.bbc.co.uk/nature/life/Capybara">capybara</a>.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Canada is home to the world's largest beaver dam and at 850m long it can be seen from space.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/North_American_Beaver"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/North_American_Beaver.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Beaver#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Castoridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/North_American_Beaver#name">
+				<rdfs:label>Castor canadensis</rdfs:label>
+				        <wo:commonName>North American beaver</wo:commonName>
+        								<wo:commonName>American beaver</wo:commonName>
+						<wo:commonName>Canadian beaver</wo:commonName>
+								<wo:scientificName>canadensiscanadensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Castoridae</wo:familyName><wo:genusName>Castor</wo:genusName><wo:speciesName>canadensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/no/north_american_beaver/north_american_beaver_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/North_American_Beaver#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/no/north_american_beaver/north_american_beaver_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bvf51#programme">
+			<dc:title>Beaver hotel</dc:title>
+			<po:subject rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bvdv9#programme">
+			<dc:title>Dam builders</dc:title>
+			<po:subject rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/n/no/north_american_beaver/5018077.mp3">
+			<dc:title>Female calling to young in lodge</dc:title>
+			<dc:subject rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/North_American_Beaver">
+		<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Castor_canadensis.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://nationalzoo.si.edu/Animals/NorthAmerica/Facts/fact-beaver.cfm">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/american-beaver/castor-canadensis/">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.geostrategis.com/p_beavers-longestdam.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mnh.si.edu/mna/image_info.cfm?species_id=32">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturealmanac.com/archive/beaver_dams/beaver_dams.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9283000/9283367.stm">
+			<dc:title>Baby beavers' secret lives filmed</dc:title>
+			<dc:description>The secret lives of beavers within their lodges is revealed, including footage of beaver babies, known as kits.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/North_American_Beaver#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/North_American_Beaver.gif">
+		<dc:title>Map showing the distribution of the North American beaver species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Beaver#genus"><rdfs:label>Castor</rdfs:label><wo:species rdf:resource="/nature/life/North_American_Beaver#species"/><wo:species rdf:resource="/nature/life/Eurasian_Beaver#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Castoridae#family"><rdfs:label>Castoridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

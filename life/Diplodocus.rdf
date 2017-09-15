@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Diplodocus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Diplodocus#genus">
+				<rdfs:label>Diplodocus</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Diplodocus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/diplodocus/diplodocus_1.jpg"/>
+
+				<dc:description>Diplodocus was one of the longest animals to have lived on Earth and may have reached over 30 metres and weighed around 15 tonnes. The quantity of plant material eaten by roaming herds of this massive herbivore is unimaginable. Once the most famous dinosaur in the world, Diplodocus had four large sturdy legs supporting a long neck and a long tail that could be flailed around like a whip. Several different species have been described since the first Diplodocus discovery was made in North America in 1877. They lived there about 150 million years ago during the late Jurassic period.  </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Diplodocus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Diplodocus.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Diplodocid#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Sauropoda#infraorder"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Sauropodomorpha#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Diplodocus#name">
+				<rdfs:label>Diplodocus</rdfs:label>
+												<wo:commonName>double beam</wo:commonName>
+								<wo:scientificName>Diplodocus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Sauropodomorpha</wo:suborderName><wo:infraorderName>Sauropoda</wo:infraorderName><wo:familyName>Diplodocidae</wo:familyName><wo:genusName>Diplodocus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/diplodocus/diplodocus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Diplodocus#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/di/diplodocus/diplodocus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkqf4#programme">
+			<dc:title>Dinosaur diet</dc:title>
+			<po:subject rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9ths#programme">
+			<dc:title>Animating the past</dc:title>
+			<po:subject rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9bx2#programme">
+			<dc:title>Diplodocus diet</dc:title>
+			<po:subject rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9bnr#programme">
+			<dc:title>Great grazers</dc:title>
+			<po:subject rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b99h8#programme">
+			<dc:title>Sauropodlets in peril</dc:title>
+			<po:subject rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b97y5#programme">
+			<dc:title>Salt lake attack</dc:title>
+			<po:subject rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Diplodocus">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://predinosaurs.co.uk/Diplodofacts.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=6417&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinohunters.com/History/Diplodocus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossilmuseum.net/DinosaurFossils/Diplodocus/diplodocus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/about-us/news/2009/june/dippy-gets-a-spring-clean33603.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genus=Diplodocus">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23343615">
+			<dc:title>Dinosaur teeth reveal feeding habits</dc:title>
+			<dc:description>Teeth from the largest land animals to have ever lived reveal the feeding habits of these giant plant eaters.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8068789.stm">
+			<dc:title>Giant dinosaurs 'held heads high'</dc:title>
+			<dc:description>Huge sauropod dinosaurs could have held their heads much higher than many researchers believe, according to a study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Diplodocus#genus"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Diplodocus.gif">
+		<dc:title>Map showing the distribution of the Diplodocus genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Diplodocid#family"><rdfs:label>Diplodocidae</rdfs:label><wo:genus rdf:resource="/nature/life/Diplodocus#genus"/><wo:genus rdf:resource="/nature/life/Apatosaurus#genus"/></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Sauropoda#infraorder"><rdfs:label>Sauropoda</rdfs:label></wo:Infraorder><wo:Suborder rdf:about="/nature/suborder/Sauropodomorpha#suborder"><rdfs:label>Sauropodomorpha</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Accipiter">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Accipiter#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Accipiter#genus">
+				<rdfs:label>Goshawks and sparrowhawks</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Accipiter#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ac/accipiter/accipiter_1.jpg"/>
+
+				<dc:description>Goshawks and sparrowhawks are small to medium-sized hawks. These formidable birds of prey hunt small mammals and birds in woodlands and forests. They have short broad wings for rapid acceleration and long tails for manoeuvrability. There are around 50 species in this group and all have a distinctive white grouping of feathers that forms a band above the eye. Goshawks and sparrowhawks can be found from the tropical forests of Africa and Papua New Guinea to the foothils of the Himalayas.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Accipiter"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Accipitridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Accipiter#name">
+				<rdfs:label>Accipiter</rdfs:label>
+				        <wo:commonName>Goshawks and sparrowhawks</wo:commonName>
+        										<wo:scientificName>Accipiter</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Accipitridae</wo:familyName><wo:genusName>Accipiter</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/ac/accipiter/accipiter_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Accipiter#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/ac/accipiter/accipiter_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Accipiter">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Accipiter#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Accipiter.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Accipiter#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://theraptortrust.org/the-birds/hawk-facts/accipiters/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Accipiter#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/18924">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Accipiter#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://zipcodezoo.com/Key/Animalia/Accipiter_Genus.asp">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Accipiter#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Accipitridae#family"><rdfs:label>Accipitridae</rdfs:label><wo:genus rdf:resource="/nature/life/Accipiter#genus"/><wo:genus rdf:resource="/nature/life/Aquila_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Buteo#genus"/><wo:genus rdf:resource="/nature/life/Harrier_(bird)#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Sea_eagle#genus"/><wo:genus rdf:resource="/nature/life/Harpia#genus"/><wo:genus rdf:resource="/nature/life/Milvus#genus"/><wo:genus rdf:resource="/nature/life/Parabuteo#genus"/><wo:genus rdf:resource="/nature/life/Pernis_(bird)#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Harpagornis#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Eurasian_Sparrowhawk#genus"><rdfs:label>Sparrowhawk</rdfs:label><wo:genus rdf:resource="/nature/life/Accipiter#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Northern_Goshawk#genus"><rdfs:label>Northern goshawk</rdfs:label><wo:genus rdf:resource="/nature/life/Accipiter#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

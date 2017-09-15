@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/superorder/Cetartiodactyla">
+		<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		<rdfs:seeAlso rdf:resource="/nature/superorder"/>
+	</rdf:Description>
+
+		<wo:Superorder rdf:about="/nature/life/Cetartiodactyla#superorder">
+				<rdfs:label>Cetartiodactyla</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/superorder/Cetartiodactyla#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>It may seem that mostly land-dwelling <a href="http://www.bbc.co.uk/nature/life/Even-toed_ungulate">even-toed ungulates</a> such as <a href="http://www.bbc.co.uk/nature/life/Giraffe">giraffes</a> and <a href="http://www.bbc.co.uk/nature/life/Deer">deer</a> have little in common with exclusively aquatic <a href="http://www.bbc.co.uk/nature/life/Cetacea">whales</a> and <a href="http://www.bbc.co.uk/nature/life/Oceanic_dolphin">dolphins</a>. However, recent scientific evidence suggests that <a href="http://www.bbc.co.uk/nature/life/Cetacea">cetaceans</a> may have evolved from <a href="http://www.bbc.co.uk/nature/life/Even-toed_ungulate">even-toed ungulate</a> ancestors. Shared origins can now be seen within the fossil record, with early cetaceans possessing a specialised ankle bone that brings together <a href="http://www.bbc.co.uk/nature/life/Cetacea">Cetacea</a> and <a href="http://www.bbc.co.uk/nature/life/Even-toed_ungulate">Artiodactyla</a> into a mammalian superorder, Cetartiodactyla. This groups the largest animal ever to have lived (the <a href="http://www.bbc.co.uk/nature/life/Blue_Whale">blue whale</a>) together with the tiny, 2kg mouse deer. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cetartiodactyla"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/superorder/Cetartiodactyla.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Superorder>
+
+			<wo:TaxonName rdf:about="/nature/superorder/Cetartiodactyla#name">
+				<rdfs:label>Cetartiodactyla</rdfs:label>
+														<wo:scientificName>Cetartiodactyla</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cetartiodactyla">
+		<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Cetartiodactyla.html">
+			<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://locolobo.org/CetaceanEvolution.html">
+			<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC547867/?tool=pmcentrez">
+			<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeos.com/Vertebrates/Units/520Cetartiodactyla/520.000.html">
+			<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Cetartiodactyla.html">
+			<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9464000/9464994.stm">
+			<dc:title>Pigs have 'evolved to love mud'</dc:title>
+			<dc:description>A scientist is suggesting that a pig's love of mud is more than just a way to keep cool.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/superorder/Cetartiodactyla#superorder"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/superorder/Cetartiodactyla.gif">
+		<dc:title>Map showing the distribution of the Cetartiodactyla superorder</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Order rdf:about="/nature/life/Even-toed_ungulate#superorder"><rdfs:label>Even-toed ungulates</rdfs:label><wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/></wo:Order><wo:Order rdf:about="/nature/life/Cetacea#superorder"><rdfs:label>Whales, dolphins and porpoises</rdfs:label><wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/></wo:Order>
+	
+	
+		    
+</rdf:RDF>

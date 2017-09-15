@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Emperor_Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Emperor_Penguin#species">
+				<rdfs:label>Emperor penguin</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Emperor_Penguin#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/em/emperor_penguin/emperor_penguin_1.jpg"/>
+
+				<dc:description>There is definitely no mistaking the colourful emperor penguin and standing over a metre tall they are the largest in the family. These <a href="/nature/places/Antarctica">Antarctic</a> specialists endure the worst breeding conditions of any <a href="/nature/life/Bird">bird</a>. Travelling to nesting sites in March there is intense competition between the females for a mate followed by a necessarily brief <a href="/nature/adaptations/Courtship_display">courtship</a>.
+<br />
+<br />
+After a single egg is laid the females return to the sea for some well earned nourishment, only returning when the chicks begin to hatch. This leaves the males to incubate the eggs in the most extreme winter weather the planet has to offer. Emperor penguins are excellent <a href="/nature/adaptations/Aquatic_locomotion">swimmers</a> but on land they either shuffle along or slide about on their bellies.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Emperor_Penguin"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Emperor_Penguin.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Polar_region#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Aptenodytes#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Penguin#family"/>
+                                                                                <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Emperor_Penguin#name">
+				<rdfs:label>Aptenodytes forsteri</rdfs:label>
+				        <wo:commonName>Emperor penguin</wo:commonName>
+        										<wo:scientificName>forsteriforsteri</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Sphenisciformes</wo:orderName><wo:familyName>Spheniscidae</wo:familyName><wo:genusName>Aptenodytes</wo:genusName><wo:speciesName>forsteri</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/em/emperor_penguin/emperor_penguin_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/em/emperor_penguin/emperor_penguin_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m21rk#programme">
+			<dc:title>Penguin tourism</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l80w2#programme">
+			<dc:title>Penguins can fly</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l80t5#programme">
+			<dc:title>Reunited</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7v52#programme">
+			<dc:title>Penguin promenade</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kvhls#programme">
+			<dc:title>Cold comfort</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dy0lc#programme">
+			<dc:title>Raising a family</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhllc#programme">
+			<dc:title>Leaping for land </dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00380c2#programme">
+			<dc:title>Penguin huddle</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0036tyc#programme">
+			<dc:title>Emperor penguins</dc:title>
+			<po:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/em/emperor_penguin/nhs1344-02.mp3">
+			<dc:title>Emperor penguin leaping out of water onto ice</dc:title>
+			<dc:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/em/emperor_penguin/nhs1344-06.mp3">
+			<dc:title>Calls from a colony of emperor penguins</dc:title>
+			<dc:subject rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Emperor_Penguin">
+		<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Aptenodytes_forsteri.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Aptenodytes.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Aptenodytes_forsteri/adult/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/emperor-penguin/aptenodytes-forsteri/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.emperor-penguin.com/emperor.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.telegraph.co.uk/earth/earthnews/4355800/Emperor-penguins-could-be-virtually-extinct-by-2100-scientists-say.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-25655664">
+			<dc:title>Penguins beat ice cliffs to breed</dc:title>
+			<dc:description>Emperor penguins display some unexpected breeding behaviour in the Antarctic that could mean they are much more resilient to environmental change than previously recognised.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21669963">
+			<dc:title>In pictures: Penguins' 'cold coats'</dc:title>
+			<dc:description>Emperor penguins' surface feathers can be colder than surrounding air, scientists have found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17692025">
+			<dc:title>Eye-in-sky helps count penguins</dc:title>
+			<dc:description>There are nearly 600,000 emperor penguins in Antarctica - twice as many as was previously thought - according to a new satellite survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16076390">
+			<dc:title>How penguins 'time' a deep dive</dc:title>
+			<dc:description>Emperor penguins time their dives by the number of times they can manage to flap their wings to propel themselves forward, say scientists.  </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-14777994">
+			<dc:title>Lost penguin Happy Feet set free</dc:title>
+			<dc:description>An emperor penguin known as Happy Feet is released into the ocean south of New Zealand after being found washed up on a beach in June.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/blogs/wondermonkey/2011/07/penguins-take-to-the-air.shtml">
+			<dc:title>Penguins take to the air</dc:title>
+			<dc:description> An Emperor penguin leaps from the water (Image: Blue Planet, BBC) Penguins can’t fly. But they can get airborne. In fact, taking to the air, for even a brief...</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-13914414">
+			<dc:title>NZ zoo operates on lost penguin</dc:title>
+			<dc:description>A young emperor penguin washed up on a beach in New Zealand last week has undergone two operations after its condition deteriorated.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-13856024">
+			<dc:title>Antarctic penguin in New Zealand</dc:title>
+			<dc:description>A young emperor penguin takes a wrong turn from the Antarctic and arrives on a New Zealand beach, said to be the first such visit since 1967.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13616778">
+			<dc:title>Penguins warm with 'Mexican wave'</dc:title>
+			<dc:description>The mystery of how penguins stay warm while they huddle has been revealed with time lapse footage.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/emperor-penguins-under-threat-in-antarctica/6151.html">
+			<dc:title>Emperor Penguins under threat in Antarctica</dc:title>
+			<dc:description>Scientists are warning that the Emperor Penguin could be extinct by the end of this century because of global warming in Antarctica. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/penguins-huddle-under-southern-lights/10681.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>The aurora australis above a huddle of penguins.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8078000/8078102.stm">
+			<dc:title>Penguin poo seen from space</dc:title>
+			<dc:description>If you want to know where penguins go, then study their poo.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Emperor_Penguin#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Polar_region#habitat">
+					<rdfs:label>Polar</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Emperor_Penguin.gif">
+		<dc:title>Map showing the distribution of the Emperor penguin species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Aptenodytes#genus"><rdfs:label>Aptenodytes</rdfs:label><wo:species rdf:resource="/nature/life/Emperor_Penguin#species"/><wo:species rdf:resource="/nature/life/King_Penguin#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Penguin#family"><rdfs:label>Spheniscidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Sphenisciformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

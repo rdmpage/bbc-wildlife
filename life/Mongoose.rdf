@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Mongoose">
+		<foaf:primaryTopic rdf:resource="/nature/family/Mongoose#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Mongoose#family">
+				<rdfs:label>Mongooses</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Mongoose#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/mongoose/mongoose_1.jpg"/>
+
+				<dc:description>Mongooses are a family of small carnivores containing about 35 species, including the meerkat. Not only are mongooses rampant in Africa, they are also to be found in Asia and southern Europe. Some species live a solitary life while others live in packs and colonies, looking out for each other. Their speed and agility in attacking and killing poisonous snakes is legendary, with these battles often becoming roadside spectacles. Introduced into some places to control snakes and rodents, more often than not they become a worse problem themselves.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mongoose"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Mongoose#name">
+				<rdfs:label>Herpestidae</rdfs:label>
+				        <wo:commonName>Mongooses</wo:commonName>
+        										<wo:scientificName>Herpestidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Herpestidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/mongoose/mongoose_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Mongoose#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/mongoose/mongoose_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mongoose">
+		<foaf:primaryTopic rdf:resource="/nature/family/Mongoose#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Herpestidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mongoose#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://animals.nationalgeographic.co.uk/animals/mammals/mongoose.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mongoose#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7673">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mongoose#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildwatch.com/living_library/mammals-2/mongooses">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mongoose#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9080000/9080783.stm">
+			<dc:title>New carnivore found in Madagascar</dc:title>
+			<dc:description>Scientists discover a new species of carnivore in Madagascar, which they say could be one of the world's most threatened mammals. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mongoose#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label><wo:family rdf:resource="/nature/life/Mongoose#family"/><wo:family rdf:resource="/nature/life/Canidae#family"/><wo:family rdf:resource="/nature/life/Felidae#family"/><wo:family rdf:resource="/nature/life/Hyena#family"/><wo:family rdf:resource="/nature/life/Mustelidae#family"/><wo:family rdf:resource="/nature/life/Procyonidae#family"/><wo:family rdf:resource="/nature/life/Bear#family"/><wo:family rdf:resource="/nature/life/Ailuridae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Eupleridae#family"/><wo:family rdf:resource="/nature/life/Bear_dog#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Banded_Mongoose#family"><rdfs:label>Banded mongoose</rdfs:label><wo:family rdf:resource="/nature/life/Mongoose#family"/></wo:Species><wo:Species rdf:about="/nature/life/Meerkat#family"><rdfs:label>Meerkat</rdfs:label><wo:family rdf:resource="/nature/life/Mongoose#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

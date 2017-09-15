@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Saguaro">
+		<foaf:primaryTopic rdf:resource="/nature/species/Saguaro#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Saguaro#species">
+				<rdfs:label>Saguaros</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Saguaro#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/saguaro/saguaro_1.jpg"/>
+
+				<dc:description>Saguaros are the giant, classicly shaped cacti that characterise the deserts of Arizona and Mexico. They absorb and store huge amounts of water after the summer rains, which can increase the weight of a large speciment by 750-900kg. The stored water enables the saguaro to flower every year, even if the rainfall has been lower than average. They are pollinated by bats, birds and bees, with the seeds dispersed by birds that eat the juicy, red fruits.
+<br/>
+<br/>
+<b>Did you know?</b><br/> It can take a saguaro cactus over 75 years to develop a side arm.
+<br/>
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Saguaro"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Saguaro.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Saguaro#name">
+				<rdfs:label>Carnegiea gigantea</rdfs:label>
+				        <wo:commonName>Saguaros</wo:commonName>
+        										<wo:scientificName>giganteagigantea</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Caryophyllales</wo:orderName><wo:familyName>Cactaceae</wo:familyName><wo:genusName>Carnegiea</wo:genusName><wo:speciesName>gigantea</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/sa/saguaro/saguaro_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Saguaro#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/sa/saguaro/saguaro_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005frk7#programme">
+			<dc:title>Sizing up saquaros</dc:title>
+			<po:subject rdf:resource="/nature/species/Saguaro#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0037q08#programme">
+			<dc:title>Saguaro cactus bloom</dc:title>
+			<po:subject rdf:resource="/nature/species/Saguaro#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Saguaro">
+		<foaf:primaryTopic rdf:resource="/nature/species/Saguaro#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&amp;where-taxon=Carnegiea+gigantea">
+			<foaf:primaryTopic rdf:resource="/nature/species/Saguaro#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://plants.usda.gov/java/profile?symbol=CAGI10">
+			<foaf:primaryTopic rdf:resource="/nature/species/Saguaro#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.biology.ed.ac.uk/research/groups/jdeacon/desbiome/saguaro.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Saguaro#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.efloras.org/florataxon.aspx?flora_id=1&amp;taxon_id=242412565">
+			<foaf:primaryTopic rdf:resource="/nature/species/Saguaro#species"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Saguaro.gif">
+		<dc:title>Map showing the distribution of the Saguaros species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Carnegiea</rdfs:label><wo:species rdf:resource="/nature/life/Saguaro#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Cactaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Caryophyllales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

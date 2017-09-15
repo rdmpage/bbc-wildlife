@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/class/Bird">
+		<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		<rdfs:seeAlso rdf:resource="/nature/class"/>
+	</rdf:Description>
+
+		<wo:Class rdf:about="/nature/life/Bird#class">
+				<rdfs:label>Birds</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/class/Bird#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bi/bird/bird_1.jpg"/>
+
+				<dc:description>Birds are a class of vertebrates. They are bipedal, warm-blooded, have a covering of feathers, and their front limbs are modified into wings. Some birds, such as penguins and ostriches, have lost the power of flight. All birds lay eggs. Because birds are warm-blooded, their eggs have to be incubated to keep the embryos inside warm, or they will perish.
+<br />
+<br />
+<a href="/nature/19700707">All you need to know about British birds.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bird"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Class>
+
+			<wo:TaxonName rdf:about="/nature/class/Bird#name">
+				<rdfs:label>Aves</rdfs:label>
+				        <wo:commonName>Birds</wo:commonName>
+        										<wo:scientificName>Aves</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/bi/bird/bird_1.jpg">
+		<foaf:depicts rdf:resource="/nature/class/Bird#class"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/bi/bird/bird_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m8shb#programme">
+			<dc:title>Aerodynamic albatross</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m8rz1#programme">
+			<dc:title>Landing craft</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m8ncc#programme">
+			<dc:title>Light fantastic</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m2q9n#programme">
+			<dc:title>Egg laying</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ksfrh#programme">
+			<dc:title>Staying clean</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hgm5t#programme">
+			<dc:title>Can feeding birds harm them?</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cn99m#programme">
+			<dc:title>In-flight movie</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ckm0m#programme">
+			<dc:title>Missing link</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00chl0l#programme">
+			<dc:title>Flying featherweights</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00by6y9#programme">
+			<dc:title>Garden bird lovers</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bm55t#programme">
+			<dc:title>Early birds</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bm243#programme">
+			<dc:title>Getting airborne</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bhnr6#programme">
+			<dc:title>Bird brain</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00486y9#programme">
+			<dc:title>Survivors</dc:title>
+			<po:subject rdf:resource="/nature/class/Bird#class"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bird">
+		<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="B">
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9441000/9441321.stm">
+			<dc:title>British birds are bouncing back</dc:title>
+			<dc:description>A national survey by the RSPB records a rise in the populations of small birds, including long-tailed tits, goldcrests and coal tits.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9387000/9387395.stm">
+			<dc:title>Chernobyl birds are small brained</dc:title>
+			<dc:description>Birds living around the site of the Chernobyl nuclear accident have 5% smaller brains, an effect directly linked to lingering background radiation, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/tyne/hi/front_page/newsid_9416000/9416672.stm">
+			<dc:title>Rangers hope for ospreys return</dc:title>
+			<dc:description>Tree-climbing rangers at Kielder are to build a new platform to help their resident ospreys find love.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/humberside/hi/people_and_places/nature/newsid_9341000/9341844.stm">
+			<dc:title>Cold weather kills birds</dc:title>
+			<dc:description>The recent freezing conditions have claimed the lives of hundreds of birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/liverpool/hi/people_and_places/nature/newsid_9247000/9247858.stm">
+			<dc:title>Help garden birds to survive snow</dc:title>
+			<dc:description>Providing food is one of the most helpful things you can do for your garden birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9190000/9190062.stm">
+			<dc:title>The 'bird people' of St Kilda</dc:title>
+			<dc:description>How an extraordinary group of men, women and children survived for centuries by eating puffins and making shoes out of gannets.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9140000/9140040.stm">
+			<dc:title>Power lines 'invisible' to birds</dc:title>
+			<dc:description>Birds fly into power lines because of their "blind spots", according to new research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/suffolk/hi/people_and_places/nature/newsid_9118000/9118692.stm">
+			<dc:title>Teenage twins make wildlife film</dc:title>
+			<dc:description>Paul and Ryan Edwards have captured some amazing footage of wild birds in a meadow near Framlingham for BBC Inside Out.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9067000/9067721.stm">
+			<dc:title>Wind turbines 'lure in' animals</dc:title>
+			<dc:description>Wind turbines attract insects, which may explain why their blades strike and kill significant numbers of insect-eating bats and birds. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11455684">
+			<dc:title>Scotland 'key' to birds' survival</dc:title>
+			<dc:description>Protecting habitats in Scotland is "critically important" to conserving threatened bird species, the RSPB says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11408439">
+			<dc:title>Warming threat to long haul birds</dc:title>
+			<dc:description>Birds embarking on long distance migrations are more vulnerable to shifts in the climate than ones making shorter journeys, a study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8232570.stm">
+			<dc:title>Pigeons' wings sound the alarm</dc:title>
+			<dc:description>Startled pigeons might not appear to epitomise the wonder of evolution, but a study has discovered that the birds can communicate with their wings.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-merseyside-11031671">
+			<dc:title>Birds given special protection in Liverpool Bay</dc:title>
+			<dc:description>Liverpool Bay, home to red-throat diver and common scoter birds, is designated a Special Protection Area (SPA) for birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11013507">
+			<dc:title>Disease threat to UK garden birds</dc:title>
+			<dc:description>A disease that first emerged in 2005 is killing large numbers of greenfinches and chaffinches, researchers say. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11013735">
+			<dc:title>'Terror bird' was prize fighter</dc:title>
+			<dc:description>Scientists show how the giant, flightless terror birds that roamed South America for millions of years would have taken down their prey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-10917436">
+			<dc:title>Discovery of dozens of dead pigeons in Peterhead water</dc:title>
+			<dc:description>Forty dead pigeons have been found floating in water in Peterhead after possibly being dumped, the Scottish SPCA says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-north-east-wales-10853763">
+			<dc:title>Birds give new life to Denbighshire man who lost hand</dc:title>
+			<dc:description>A man who cut off his hand in an accident tells how his love of birds has helped him turn his life around.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8738000/8738613.stm">
+			<dc:title>Bright sexy birds are poor fliers</dc:title>
+			<dc:description>Birds with the brightest feathers may pay a cost for their showmanship; they go on to become poor fliers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10206710.stm">
+			<dc:title>Citizen science 'can safeguard birds' future'</dc:title>
+			<dc:description>Encouraging people to record everyday sightings of common bird species could help limit future extinctions, an international study suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8696000/8696862.stm">
+			<dc:title>Bird feeding: concerns raised over benefit to UK birds</dc:title>
+			<dc:description>Putting food out for wild birds in spring and summer may hinder their reproduction in some circumstances.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10106530.stm">
+			<dc:title>Fossil reveals early bird plumage</dc:title>
+			<dc:description>A new study of a 150-million-year-old fossil of an Archaeopteryx has shown that remnants of its feathers have been preserved.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/8603849.stm">
+			<dc:title>Mimic birds 'copy other species'</dc:title>
+			<dc:description>Scientists believe they are a step closer to discovering why some species of bird mimic the sounds made by other birds, animals and even humans.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8577000/8577316.stm">
+			<dc:title>Female birds find males with glossy feathers more sexy</dc:title>
+			<dc:description>Male birds with glossy feathers are more attractive to the opposite sex.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8500000/8500620.stm">
+			<dc:title>Auklets and penguins: birds use feathers 'to touch'</dc:title>
+			<dc:description>Birds may use their feathers for touch, using them to feel their surroundings just as cats use their whiskers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8452000/8452008.stm">
+			<dc:title>Stingray's 'tool use' revealed</dc:title>
+			<dc:description>Freshwater stingrays use water as a "tool" in problem solving tests, scientists reveal for the first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8393000/8393611.stm">
+			<dc:title>Iron Curtain kept out alien birds</dc:title>
+			<dc:description>During the Cold War, the Iron Curtain prevented many alien bird species from colonising Eastern Europe, suggests a study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8393443.stm">
+			<dc:title>Feeding birds 'changes evolution'</dc:title>
+			<dc:description>Bird-feeders, hung in many a garden, can affect the way our feathered friends evolve, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8388000/8388073.stm">
+			<dc:title>Clever ravens cooperatively hunt</dc:title>
+			<dc:description>Brown-necked ravens team up to hunt lizards, revealing an unexpected level of intelligence, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8381673.stm">
+			<dc:title>Birdsong helps scientists to count bird populations</dc:title>
+			<dc:description>Ecologists have developed a way of monitoring the sizes of bird populations by recording their song.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8328758.stm">
+			<dc:title>Rare birds 'faring better' in UK</dc:title>
+			<dc:description>Rare birds in the UK have been faring far better than their more common counterparts over the last decade, according to a new assessment.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/class/Bird#class"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/><wo:class rdf:resource="/nature/life/Amphibian#class"/><wo:class rdf:resource="/nature/life/Mammal#class"/><wo:class rdf:resource="/nature/life/Reptile#class"/><wo:class rdf:resource="/nature/life/Chondrichthyes#class"/><wo:class rdf:resource="/nature/life/Cephalaspidomorphi#class"/><wo:class rdf:resource="/nature/life/Synapsid#class"/></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Anatidae#class"><rdfs:label>Ducks, geese and swans</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Family><wo:Order rdf:about="/nature/life/Apodiformes#class"><rdfs:label>Swifts and hummingbirds</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Species rdf:about="/nature/life/European_Nightjar#class"><rdfs:label>Nightjar</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Species><wo:Order rdf:about="/nature/life/Charadriiformes#class"><rdfs:label>Shorebirds</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Order rdf:about="/nature/life/Ciconiiformes#class"><rdfs:label>Storks and long-legged wading birds</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Family rdf:about="/nature/life/Columbidae#class"><rdfs:label>Pigeons and doves</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Family><wo:Order rdf:about="/nature/life/Coraciiformes#class"><rdfs:label>Kingfishers and hornbills</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Species rdf:about="/nature/life/Common_Cuckoo#class"><rdfs:label>Common cuckoo</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Species><wo:Order rdf:about="/nature/life/Falconiformes#class"><rdfs:label>Birds of prey</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Order rdf:about="/nature/life/Galliformes#class"><rdfs:label>Gamebirds</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Genus rdf:about="/nature/life/Loon#class"><rdfs:label>Divers</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Genus><wo:Order rdf:about="/nature/life/Gruiformes#class"><rdfs:label>Coots, cranes and rails</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Order rdf:about="/nature/life/Passerine#class"><rdfs:label>Perching birds</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Order rdf:about="/nature/life/Pelecaniformes#class"><rdfs:label>Pelicans, cormorants and gannets</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Genus rdf:about="/nature/life/Flamingo#class"><rdfs:label>Flamingos</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Genus><wo:Family rdf:about="/nature/life/Woodpecker#class"><rdfs:label>Woodpeckers</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Family><wo:Family rdf:about="/nature/life/Grebe#class"><rdfs:label>Grebes</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Family><wo:Order rdf:about="/nature/life/Procellariiformes#class"><rdfs:label>Tubenoses</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Order rdf:about="/nature/life/Parrot#class"><rdfs:label>Parrots</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Family rdf:about="/nature/life/Penguin#class"><rdfs:label>Penguins</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Family><wo:Order rdf:about="/nature/life/Owl#class"><rdfs:label>Owls</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Order rdf:about="/nature/life/Ratite#class"><rdfs:label>Ostriches and rheas</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Order><wo:Genus rdf:about="/nature/life/Archaeopteryx#class"><rdfs:label>Archaeopteryx</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Genus><wo:Genus rdf:about="/nature/life/Gastornis#class"><rdfs:label>Gastornis</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Genus><wo:Family rdf:about="/nature/life/Phorusrhacidae#class"><rdfs:label>Terror birds</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Family><wo:Family rdf:about="/nature/life/Elephant_bird#class"><rdfs:label>Elephant birds</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Family><wo:Species rdf:about="/nature/life/Kagu#class"><rdfs:label>Kagu</rdfs:label><wo:class rdf:resource="/nature/life/Bird#class"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

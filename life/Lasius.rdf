@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Lasius">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Lasius#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Lasius#genus">
+				<rdfs:label>Lasius ants</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Lasius#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lasius/lasius_1.jpg"/>
+
+				<dc:description>Many species of Lasius ants go unnoticed by people until large swarms of winged ants take to the air on a summer mating flight. However, they are the most abundant <a href="/nature/life/Insect">insects</a> in the areas where they live. They are found in temperate climates across <a href="/nature/places/North_America">North America</a>, <a href="/nature/places/Europe">Europe</a> and <a href="/nature/places/Asia">Asia</a>, and are also found in North <a href="/nature/places/Africa">Africa</a> and parts of the Middle East. Lasius is a genus of ants with at least 115 species in it, including the very common <a href="/nature/life/Black_garden_ant">black garden ant</a> and <a href="/nature/life/Yellow_meadow_ant">yellow meadow ant</a>. These two species are a familiar sight in Britain’s gardens and meadows and are a favourite food of <a href="/nature/life/Green_Woodpecker">green woodpeckers</a>.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Lasius"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Eusociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Swarm#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Lasius.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Ant#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Hymenoptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Lasius#name">
+				<rdfs:label>Lasius</rdfs:label>
+				        <wo:commonName>Lasius ants</wo:commonName>
+        										<wo:scientificName>Lasius</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hymenoptera</wo:orderName><wo:familyName>Formicidae</wo:familyName><wo:genusName>Lasius</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/la/lasius/lasius_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Lasius#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/la/lasius/lasius_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Lasius">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Lasius#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Lasius.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Lasius#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/29186/bgpage">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Lasius#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://eol.org/pages/49417/overview">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Lasius#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.antweb.org/description.do?rank=genus&amp;name=lasius&amp;project=worldants">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Lasius#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Eusociality#adaptation">
+					<rdfs:label>Eusocial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Swarm#adaptation">
+					<rdfs:label>Swarming</rdfs:label>
+				</wo:BehaviouralPattern>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Lasius.gif">
+		<dc:title>Map showing the distribution of the Lasius ants genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Ant#family"><rdfs:label>Formicidae</rdfs:label><wo:genus rdf:resource="/nature/life/Lasius#genus"/><wo:genus rdf:resource="/nature/life/Atta_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Eciton#genus"/><wo:genus rdf:resource="/nature/life/Formica#genus"/><wo:genus rdf:resource="/nature/life/Cataglyphis#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Hymenoptera#order"><rdfs:label>Hymenoptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Yellow_meadow_ant#genus"><rdfs:label>Yellow meadow ant</rdfs:label><wo:genus rdf:resource="/nature/life/Lasius#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Black_garden_ant#genus"><rdfs:label>Black garden ant</rdfs:label><wo:genus rdf:resource="/nature/life/Lasius#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

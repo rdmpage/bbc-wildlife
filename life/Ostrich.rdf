@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Ostrich">
+		<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Ostrich#species">
+				<rdfs:label>Ostrich</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Ostrich#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/os/ostrich/ostrich_1.jpg"/>
+
+				<dc:description>Ostriches don't need to drink - they can make their own water internally and top up with what they can extract from vegetation. During the 18th century, it became fashionable to wear feathers and ostriches were hunted almost to extinction to satisfy demand for their large plumes. Once it was discovered that they could be farmed successfully, in 1833, the pressure on wild ostrich populations was lifted.
+<br/>
+<br/>
+<b>Did you know?</b><br/> The eye of an ostrich is almost 5cm across, the largest eye of any land animal.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ostrich"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Desiccation_tolerance#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Thermophile#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                                                                <wo:order rdf:resource="/nature/life/Ratite#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Ostrich#name">
+				<rdfs:label>Struthio camelus</rdfs:label>
+				        <wo:commonName>Ostrich</wo:commonName>
+        										<wo:scientificName>cameluscamelus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Struthioniformes</wo:orderName><wo:familyName>Struthionidae</wo:familyName><wo:genusName>Struthio</wo:genusName><wo:speciesName>camelus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/os/ostrich/ostrich_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Ostrich#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/os/ostrich/ostrich_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjhk5#programme">
+			<dc:title>How fast was T-rex?</dc:title>
+			<po:subject rdf:resource="/nature/species/Ostrich#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkw9p#programme">
+			<dc:title>Smashing Ostrich Eggs</dc:title>
+			<po:subject rdf:resource="/nature/species/Ostrich#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005bs0m#programme">
+			<dc:title>Ostrich fostering</dc:title>
+			<po:subject rdf:resource="/nature/species/Ostrich#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004qgxy#programme">
+			<dc:title>Strength in numbers</dc:title>
+			<po:subject rdf:resource="/nature/species/Ostrich#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/o/os/ostrich/1373-18.mp3">
+			<dc:title>Ostrich chicks calling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Ostrich#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Ostrich">
+		<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Struthio_camelus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Struthio_camelus/skull/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/ostrich/struthio-camelus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kenyabirds.org.uk/ostrichc.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildanimalsonline.com/birds/ostrich.php#">
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23679932">
+			<dc:title>Ostrich necks provide dinosaur clues</dc:title>
+			<dc:description>Ostriches show that the long-necked sauropod dinosaurs may not have been as flexible as previously thought, scientists say. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16112188">
+			<dc:title>Big birds' 'bloodless erections'</dc:title>
+			<dc:description>Emus and ostriches have bloodless erections, according to researchers, solving a centuries old mystery.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/what-makes-a-bird-a-bird/2474.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>A variety of animals and how they move and why an ostrich is classed as a bird although it does not fly.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/how-do-parents-look-after-their-young-in-a-perilous-environment/6569.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>How do parents look after their young in a perilous environment? Ostriches chicks are born with many dangers in their habitat and are cared for by their mother, father and sometimes different parents for a greater chance of survival.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/learningzone/clips/which-is-the-biggest-bird-in-the-world/6237.html">
+			<dc:title>LEARNING ZONE BROADBAND</dc:title>
+			<dc:description>Which is the biggest bird in the world? Animation explaining that although the ostrich doesn’t fly it has good eyesight and can run fast to evade a predator.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9129000/9129081.stm">
+			<dc:title>How ostriches run faster than us</dc:title>
+			<dc:description>Researchers reveal that the secret to ostriches' speed is the "spring in their step". </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Ostrich#species"/>
+		</foaf:Document>
+			
+											<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Desiccation_tolerance#adaptation">
+					<rdfs:label>Dry tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Thermophile#adaptation">
+					<rdfs:label>Heat tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Struthio</rdfs:label><wo:species rdf:resource="/nature/life/Ostrich#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Struthionidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Ratite#order"><rdfs:label>Struthioniformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

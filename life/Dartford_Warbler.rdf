@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Dartford_Warbler">
+		<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Dartford_Warbler#species">
+				<rdfs:label>Dartford warbler</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Dartford_Warbler#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/da/dartford_warbler/dartford_warbler_1.jpg"/>
+
+				<dc:description>Dartford Warblers are tiny, secretive birds, often glimpsed darting between bushes on lowland heath. If surprised they emit a harsh rattling call before vanishing into cover. They are unusual amongst the British warblers as they don't migrate away for the winter. As a result, they run the risk of starving if there's a period of severe frost when insects and spiders can't be found. During the harsh winter of 1962 numbers in the UK fell from 450 pairs to just 10.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Dartford_Warbler"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Typical_warbler#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Sylviidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Dartford_Warbler#name">
+				<rdfs:label>Sylvia undata</rdfs:label>
+				        <wo:commonName>Dartford warbler</wo:commonName>
+        										<wo:scientificName>undataundata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Sylviidae</wo:familyName><wo:genusName>Sylvia</wo:genusName><wo:speciesName>undata</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/da/dartford_warbler/dartford_warbler_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/da/dartford_warbler/dartford_warbler_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0086dyd#programme">
+			<dc:title>Bug larders</dc:title>
+			<po:subject rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fjq3#programme">
+			<dc:title>Winter warblers</dc:title>
+			<po:subject rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/d/da/dartford_warbler/5077241.mp3">
+			<dc:title>Dartford warbler song</dc:title>
+			<dc:subject rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Dartford_Warbler">
+		<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Sylvia_undata.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://blx1.bto.org/birdfacts/results/bob12620.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/dartford-warbler/sylvia-undata/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/dartford-warbler.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/148834/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/d/dartfordwarbler/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/6706607.stm">
+			<dc:title>Recovery for warbler population</dc:title>
+			<dc:description>A vulnerable bird is experiencing an extraordinary population revival in the UK, RSPB figures have indicated.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/surrey/hi/people_and_places/nature/newsid_8594000/8594777.stm">
+			<dc:title>Hope in sight for Dartford Warbler in Surrey</dc:title>
+			<dc:description>Conservationists' fears that the South East's Dartford Warblers may not have survived the freezing winter have been allayed by new sightings of the birds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Dartford_Warbler#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Typical_warbler#genus"><rdfs:label>Sylvia</rdfs:label><wo:species rdf:resource="/nature/life/Dartford_Warbler#species"/><wo:species rdf:resource="/nature/life/Blackcap#species"/><wo:species rdf:resource="/nature/life/Garden_Warbler#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Sylviidae#family"><rdfs:label>Sylviidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

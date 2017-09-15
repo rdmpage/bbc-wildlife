@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Odonata">
+		<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Odonata#order">
+				<rdfs:label>Damselflies and dragonflies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Odonata#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/od/odonata/odonata_1.jpg"/>
+
+				<dc:description>Damselflies and dragonflies are among the most beautiful and spectacular <a href="http://www.bbc.co.uk/nature/life/Insect">insects</a>. They are also among the most ancient of creatures and, millions of years ago, included some of the largest flying invertebrates ever. Odonates are <a href="http://www.bbc.co.uk/nature/adaptations/Carnivore">carnivorous</a> in both nymph and adult forms, with a large appetite for smaller insects. Their lives are closely tied to fresh water as the nymphs are at least semi-aquatic. Dragonflies can be distinguished from damselflies by larger eyes, that usually touch, different shaped fore- and hindwings which they hold horizontally when at rest and by their more powerful <a href="http://www.bbc.co.uk/nature/adaptations/Flight">flight</a>. Damselflies have similar shaped wings which they hold close to the body when resting.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Odonata"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Metamorphosis#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Odonata.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Odonata#name">
+				<rdfs:label>Odonata</rdfs:label>
+				        <wo:commonName>Damselflies and dragonflies</wo:commonName>
+        								<wo:commonName>Odonates</wo:commonName>
+								<wo:scientificName>Odonata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Odonata</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/o/od/odonata/odonata_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Odonata#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/o/od/odonata/odonata_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008df5j#programme">
+			<dc:title>Dragonfly geek</dc:title>
+			<po:subject rdf:resource="/nature/order/Odonata#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081g6r#programme">
+			<dc:title>Damsels and dragons</dc:title>
+			<po:subject rdf:resource="/nature/order/Odonata#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007z97x#programme">
+			<dc:title>Hungry plants</dc:title>
+			<po:subject rdf:resource="/nature/order/Odonata#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0053k4y#programme">
+			<dc:title>Winging it</dc:title>
+			<po:subject rdf:resource="/nature/order/Odonata#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003b0mf#programme">
+			<dc:title>Damselflies</dc:title>
+			<po:subject rdf:resource="/nature/order/Odonata#order"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/o/od/odonata/5095218.mp3">
+			<dc:title>Dragonfly wing-beats</dc:title>
+			<dc:subject rdf:resource="/nature/order/Odonata#order"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Odonata">
+		<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Odonata.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://ecoevo.uvigo.es/wda/linked/beginners_guide_odonates.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://sunsite.ualberta.ca/Projects/Aquatic_Invertebrates/?Page=37">
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.naturegrid.org.uk/biodiversity/invert/dragnfly.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.tolweb.org/Odonata">
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/23312732">
+			<dc:title>Your pictures: Damsels and dragons</dc:title>
+			<dc:description>Your photographs celebrating and raising awareness of these "fantastic jewels of the air" during National Dragonfly Week.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19048038">
+			<dc:title>In pictures: Supersize damselflies</dc:title>
+			<dc:description>The evolution of giant, spider-eating helicopter damselflies has been investigated by US researchers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10718550">
+			<dc:title>Beautiful 'lost' insect turns up anew in UK</dc:title>
+			<dc:description>The dainty damselfly re-appears in the UK after an absence of more than 50 years, probably assisted by climate change.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8680000/8680710.stm">
+			<dc:title>Female damselflies prefer hot males, finds Japan study</dc:title>
+			<dc:description>Female damselflies prefer hot males, scientists have revealed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8170164.stm">
+			<dc:title>Dragonfly discovery a 'UK record'</dc:title>
+			<dc:description>A dragonfly found laying eggs in a mountain pond has set a UK record for the species, Highland Council's biodiversity officer has said.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8040000/8040926.stm">
+			<dc:title>Dragonflies face uncertain future</dc:title>
+			<dc:description>At least one in ten species of dragonfly and damselfly are threatened with extinction, according to the first world survey of their numbers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Odonata#order"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Metamorphosis#adaptation">
+					<rdfs:label>Metamorphosis</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Odonata.gif">
+		<dc:title>Map showing the distribution of the Damselflies and dragonflies order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label><wo:order rdf:resource="/nature/life/Odonata#order"/><wo:order rdf:resource="/nature/life/Lepidoptera#order"/><wo:order rdf:resource="/nature/life/Beetle#order"/><wo:order rdf:resource="/nature/life/Fly#order"/><wo:order rdf:resource="/nature/life/Hymenoptera#order"/><wo:order rdf:resource="/nature/life/Cockroach#order"/><wo:order rdf:resource="/nature/life/Hemiptera#order"/><wo:order rdf:resource="/nature/life/Orthoptera#order"/><wo:order rdf:resource="/nature/life/Mantis#order"/><wo:order rdf:resource="/nature/life/Termite#order"/><wo:order rdf:resource="/nature/life/Neuroptera#order"/><wo:order rdf:resource="/nature/life/Phasmatodea#order"/><wo:order rdf:resource="/nature/life/Mayfly#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Banded_Demoiselle#order"><rdfs:label>Banded demoiselle</rdfs:label><wo:order rdf:resource="/nature/life/Odonata#order"/></wo:Species><wo:Species rdf:about="/nature/life/Norfolk_Hawker#order"><rdfs:label>Norfolk hawker</rdfs:label><wo:order rdf:resource="/nature/life/Odonata#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

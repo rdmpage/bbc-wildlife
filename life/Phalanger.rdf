@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Phalanger">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Phalanger#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Phalanger#genus">
+				<rdfs:label>Grey cuscuses</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Phalanger#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phalanger/phalanger_1.jpg"/>
+
+				<dc:description>Grey cuscuses are marsupials, so the female has a pouch in which she keeps her babies. She can have up to three babies, but may only succeed in rearing one of them. Found in New Guinea and Australia, grey cuscuses are nocturnal. There are 13 different species.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Phalanger"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Phalangeridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Diprotodontia#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Phalanger#name">
+				<rdfs:label>Phalanger</rdfs:label>
+				        <wo:commonName>Grey cuscuses</wo:commonName>
+        								<wo:commonName>Phalangers</wo:commonName>
+								<wo:scientificName>Phalanger</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Diprotodontia</wo:orderName><wo:familyName>Phalangeridae</wo:familyName><wo:genusName>Phalanger</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phalanger/phalanger_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Phalanger#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/ph/phalanger/phalanger_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hfrm#programme">
+			<dc:title>Bosavi cuscus debut</dc:title>
+			<po:subject rdf:resource="/nature/genus/Phalanger#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hfr8#programme">
+			<dc:title>Cuscus identified</dc:title>
+			<po:subject rdf:resource="/nature/genus/Phalanger#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004bl41#programme">
+			<dc:title>Secretive cuscus</dc:title>
+			<po:subject rdf:resource="/nature/genus/Phalanger#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Phalanger">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Phalanger#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Phalanger.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Phalanger#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.edgeofexistence.org/edgeblog/?p=111">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Phalanger#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Phalangeridae#family"><rdfs:label>Phalangeridae</rdfs:label><wo:genus rdf:resource="/nature/life/Phalanger#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Diprotodontia#order"><rdfs:label>Diprotodontia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

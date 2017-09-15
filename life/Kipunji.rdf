@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Kipunji">
+		<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Kipunji#species">
+				<rdfs:label>Kipunji</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Kipunji#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ki/kipunji/kipunji_1.jpg"/>
+
+				<dc:description>Kipunjis were first discovered in 2003 and reported to the world in 2005. They were the first monkey species to be assigned a new genus since the 1920s. The only two known populations are in the mountain forests of Tanzania and with fewer than 2,000 individuals counted, they are already critically endangered. Little is known about the kipunji yet. They live in groups, mainly up in the tree tops and are, unsurprisingly, shy of humans. Their distinctive and loud 'honk bark' is unlike that of any other monkey and was a factor that helped to distinguish them as a new species.    </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Kipunji"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Arboreal_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Kipunji.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Old_World_monkey#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Kipunji#name">
+				<rdfs:label>Rungwecebus kipunji</rdfs:label>
+				        <wo:commonName>Kipunji</wo:commonName>
+        										<wo:scientificName>kipunjikipunji</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Cercopithecidae</wo:familyName><wo:genusName>Rungwecebus</wo:genusName><wo:speciesName>kipunji</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/k/ki/kipunji/kipunji_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Kipunji#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/k/ki/kipunji/kipunji_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cqcmq#programme">
+			<dc:title>Kipunji discovery</dc:title>
+			<po:subject rdf:resource="/nature/species/Kipunji#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00639lh#programme">
+			<dc:title>First and last</dc:title>
+			<po:subject rdf:resource="/nature/species/Kipunji#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/k/ki/kipunji/kipunji_honk_bark.mp3">
+			<dc:title>Calls from a kipunji</dc:title>
+			<dc:subject rdf:resource="/nature/species/Kipunji#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Kipunji">
+		<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Rungwecebus_kipunji.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/kipunji/rungwecebus-kipunji/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/136791/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nsf.gov/news/news_summ.jsp?cntn_id=104165&amp;org=NSF">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildlifeextra.com/go/news/kipunji-monkey221.html#cr">
+			<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16599909">
+			<dc:title>Odd primates you may have never heard of</dc:title>
+			<dc:description>Cute primates slow lorises are in decline as they are being traded illegally as pets, but there are other endangered primates you may never have heard of that are also vanishing.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/southernhighlandstanzania/stories/kipunji">
+			<dc:title>Kipunji: the new primate on the block</dc:title>
+			<dc:description>Felicity Egerton heads into the forests of Mount Rungwe to look for an unusual inhabitant.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Kipunji#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Arboreal_locomotion#adaptation">
+					<rdfs:label>Tree dweller</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Kipunji.gif">
+		<dc:title>Map showing the distribution of the Kipunji species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Rungwecebus</rdfs:label><wo:species rdf:resource="/nature/life/Kipunji#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Old_World_monkey#family"><rdfs:label>Cercopithecidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

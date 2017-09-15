@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Triceratops">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Triceratops#genus">
+				<rdfs:label>Triceratops</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Triceratops#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tr/triceratops/triceratops_1.jpg"/>
+
+				<dc:description>Together with the bony frill behind its extraordinarily large head, the three distinctive horns of the Triceratops were traditionally viewed as defensive weapons for this mighty herbivore. However, it is likely that they were used in courtship and dominance displays, much as modern deer use their antlers. One of the last groups of dinosaur to evolve, Triceratops would have shared the landscape with, and been preyed upon by, the awesome Tyrannosaurus. There is little evidence that they ever had the spectacular battles so often depicted, however. No complete Triceratops skeleton has yet been found and what was thought to be another horned dinosaur, Torosaurus, has recently been identified as the fully mature form of Triceratops.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Triceratops"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Triceratops.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Ceratopsidae#family"/>
+                                                        <wo:infraorder rdf:resource="/nature/life/Ceratopsia#infraorder"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Cerapoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Ornithischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Triceratops#name">
+				<rdfs:label>Triceratops</rdfs:label>
+												<wo:commonName>three-horned face</wo:commonName>
+								<wo:scientificName>Triceratops</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Ornithischia</wo:orderName><wo:suborderName>Cerapoda</wo:suborderName><wo:infraorderName>Ceratopsia</wo:infraorderName><wo:familyName>Ceratopsidae</wo:familyName><wo:genusName>Triceratops</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/tr/triceratops/triceratops_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Triceratops#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/tr/triceratops/triceratops_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjhp1#programme">
+			<dc:title>Triceratops attack</dc:title>
+			<po:subject rdf:resource="/nature/genus/Triceratops#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjh26#programme">
+			<dc:title>Dinosaur vision</dc:title>
+			<po:subject rdf:resource="/nature/genus/Triceratops#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjgyw#programme">
+			<dc:title>Crash test dinosaurs</dc:title>
+			<po:subject rdf:resource="/nature/genus/Triceratops#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjgtb#programme">
+			<dc:title>T-rex the predator</dc:title>
+			<po:subject rdf:resource="/nature/genus/Triceratops#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjgp0#programme">
+			<dc:title>Dino whodunnit</dc:title>
+			<po:subject rdf:resource="/nature/genus/Triceratops#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkql9#programme">
+			<dc:title>Powerful jaws</dc:title>
+			<po:subject rdf:resource="/nature/genus/Triceratops#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9sh4#programme">
+			<dc:title>Horned herbivores</dc:title>
+			<po:subject rdf:resource="/nature/genus/Triceratops#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Triceratops">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1497">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=9320&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossilmuseum.net/DinosaurFossils/triceratops/triceratops.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mnh.si.edu/exhibits/triceratops/TriceratopsatSI.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/jdsml/nature-online/dino-directory/detail.dsml?Genus=Triceratops">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sciencedaily.com/releases/2010/07/100714131244.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17192624">
+			<dc:title>Horn dinos 'two species, not one'</dc:title>
+			<dc:description>A study rejects claims that Triceratops and the lesser-known Torosaurus are one and the same type of dinosaur.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Triceratops#genus"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Triceratops.gif">
+		<dc:title>Map showing the distribution of the Triceratops genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Ceratopsidae#family"><rdfs:label>Ceratopsidae</rdfs:label><wo:genus rdf:resource="/nature/life/Triceratops#genus"/></wo:Family><wo:Infraorder rdf:about="/nature/infraorder/Ceratopsia#infraorder"><rdfs:label>Ceratopsia</rdfs:label></wo:Infraorder><wo:Suborder rdf:about="/nature/suborder/Cerapoda#suborder"><rdfs:label>Cerapoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Ornithischia#order"><rdfs:label>Ornithischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Hen_Harrier">
+		<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Hen_Harrier#species">
+				<rdfs:label>Hen harrier</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Hen_Harrier#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/hen_harrier/hen_harrier_1.jpg"/>
+
+				<dc:description>Hen harriers are almost owl-like in their facial appearance, which distinguishes them from other hawks. The face shape helps the harriers to detect small mammals and birds concealed in vegetation, as they rely on sound as well as sight to pinpoint prey. During the breeding season, males perform a spectacular sky dance, with a series of steep climbs, twists and rolls. Hen harriers exhibit a degree of polygyny, nesting in loose colonies, with males simultaneously raising several broods with as many as seven females.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hen_Harrier"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Gliding_(flight)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Harrier_(bird)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Accipitridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Hen_Harrier#name">
+				<rdfs:label>Circus cyaneus</rdfs:label>
+				        <wo:commonName>Hen harrier</wo:commonName>
+        								<wo:commonName>Northern harrier</wo:commonName>
+								<wo:scientificName>cyaneuscyaneus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Accipitridae</wo:familyName><wo:genusName>Circus</wo:genusName><wo:speciesName>cyaneus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/he/hen_harrier/hen_harrier_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Hen_Harrier#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/he/hen_harrier/hen_harrier_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01622vv#programme">
+			<dc:title>Hunting ground</dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00wb76r#programme">
+			<dc:title>Hen harriers in the wild</dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lr3b0#programme">
+			<dc:title>Spot the difference</dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lr308#programme">
+			<dc:title>Twites and a harrier</dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g3l7h#programme">
+			<dc:title>Iolo's Secret Life of Birds - </dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1p44#programme">
+			<dc:title>Quartering hen harrier</dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0089ss1#programme">
+			<dc:title>Rare raptor</dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007w09c#programme">
+			<dc:title>Hand it over</dc:title>
+			<po:subject rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Hen_Harrier">
+		<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Circus_cyaneus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.allaboutbirds.org/guide/Northern_Harrier/id">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/northern-harrier/circus-cyaneus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.hawkandowl.org/Species/DiurnalBirdsofPrey/HenHarrier">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/ourwork/conservation/species/casestudies/henharrier.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.scottishraptorgroups.org/raptors/hen_harrier.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-23627737">
+			<dc:title>'Extinction threat' to hen harriers</dc:title>
+			<dc:description>Hen harriers are close to extinction in England after the country's only two nesting pairs failed to produce chicks this year, conservationists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-22232095">
+			<dc:title>Walkers urged to spot hen harriers</dc:title>
+			<dc:description>Bird watchers and hillwalkers are being asked to keep an eye out for hen harriers in an attempt to conserve their numbers. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21580923">
+			<dc:title>Protecting Britain's birds of prey</dc:title>
+			<dc:description>Conservationists say there is only one breeding pair of Hen Harriers left in England and claim numbers have dwindled over the last decade partly because of illegal killing</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-15735247">
+			<dc:title>'Skydancer' to save hen harriers</dc:title>
+			<dc:description>A new project by conservationists in Cumbria and Northumberland is hoping to protect hen harriers and their breeding areas.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-15460422">
+			<dc:title>Hen harriers 'scupper' wind farm</dc:title>
+			<dc:description>A major energy firm withdraws its planning application to develop a 29-turbine wind farm at Waterhead Moor near Largs.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/8696994.stm">
+			<dc:title>RSPB enlists public in hen harrier preservation fight</dc:title>
+			<dc:description>Cyclists, walkers and tourists are being urged to help save one of England's most endangered bird of prey by reporting sightings to a hotline.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/7794682.stm">
+			<dc:title>Illegal threat to hen harriers</dc:title>
+			<dc:description>Hen harriers are nearing extinction in England owing to illegal persecution in areas managed for rearing game birds, Natural England has said.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/uk/7071577.stm">
+			<dc:title>Hen harriers 'Gamekeepers' enemy'</dc:title>
+			<dc:description>With its sad distinction as England's most persecuted bird of prey, it is hardly surprising that the reported shooting of two hen harriers on the Sandringham estate has been condemned by conservationists, but gamekeepers reject accusations that they are t</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Hen_Harrier#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Gliding_(flight)#adaptation">
+					<rdfs:label>Adapted to gliding</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Harrier_(bird)#genus"><rdfs:label>Circus</rdfs:label><wo:species rdf:resource="/nature/life/Hen_Harrier#species"/><wo:species rdf:resource="/nature/life/Western_Marsh_Harrier#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Accipitridae#family"><rdfs:label>Accipitridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

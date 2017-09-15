@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Vipera_berus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Vipera_berus#species">
+				<rdfs:label>Adder</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Vipera_berus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/vi/vipera_berus/vipera_berus_1.jpg"/>
+
+				<dc:description>Adders are the only venomous snakes found in Britain, although they are absent from Ireland. They use their venom to immobilise prey such as lizards, amphibians, nestlings and small mammals. After striking their prey, they leave the venom to take effect before following the victim’s scent to find the body. Although an adder’s venom poses little danger to a healthy adult human, the bite is very painful and requires urgent medical attention. Adders are the most northerly distributed snake and the only species found inside the Arctic circle.   
+<br/>
+<br/>
+<a href="/nature/22062931">How to identify UK reptiles.</a>
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Vipera_berus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Venom#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Heath_(habitat)#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Vipera#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Viperidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Snake#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Vipera_berus#name">
+				<rdfs:label>Vipera berus</rdfs:label>
+				        <wo:commonName>Adder</wo:commonName>
+        								<wo:commonName>Common European adder</wo:commonName>
+						<wo:commonName>Common viper</wo:commonName>
+								<wo:scientificName>berusberus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Serpentes</wo:suborderName><wo:familyName>Viperidae</wo:familyName><wo:genusName>Vipera</wo:genusName><wo:speciesName>berus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/vi/vipera_berus/vipera_berus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Vipera_berus#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/v/vi/vipera_berus/vipera_berus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hxsm5#programme">
+			<dc:title>Flatter adder</dc:title>
+			<po:subject rdf:resource="/nature/species/Vipera_berus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00hdqgt#programme">
+			<dc:title>Passionate about adders</dc:title>
+			<po:subject rdf:resource="/nature/species/Vipera_berus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081fp7#programme">
+			<dc:title>Good vibrations</dc:title>
+			<po:subject rdf:resource="/nature/species/Vipera_berus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007qywj#programme">
+			<dc:title>Entwined</dc:title>
+			<po:subject rdf:resource="/nature/species/Vipera_berus#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Vipera_berus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Vipera_berus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/adder/vipera-berus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.euroherp.com/species/Vipera_berus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.forestry.gov.uk/forestry/adder">
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.herpetofauna.co.uk/adder.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.herpfrance.com/reptile/adder_vipera_berus.php">
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/24289923">
+			<dc:title>INDEX</dc:title>
+			<dc:description>No description</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-18260745">
+			<dc:title>Snake warning for countryside walkers</dc:title>
+			<dc:description>People out enjoying the countryside should stay away from adders, the only venomous snake native to Britain, the Health Protection Agency warns.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13903085">
+			<dc:title>'Watch out for adders this summer'</dc:title>
+			<dc:description>Already this summer a nine-year-old girl and several dogs have been bitten by adders. The rare snakes, a member of the viper family, have been venturing into the open to take advantage of any warm sunlight.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9405000/9405801.stm">
+			<dc:title>Adders are 'disappearing from UK'</dc:title>
+			<dc:description>The adder is disappearing from the UK landscape, while toads, lizards and grass snakes are becoming less common, according to a survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Vipera_berus#species"/>
+		</foaf:Document>
+			
+											<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Venom#adaptation">
+					<rdfs:label>Venomous</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Heath_(habitat)#habitat">
+					<rdfs:label>Heathland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Vipera#genus"><rdfs:label>Vipera</rdfs:label><wo:species rdf:resource="/nature/life/Vipera_berus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Viperidae#family"><rdfs:label>Viperidae</rdfs:label></wo:Family><wo:Suborder rdf:about="/nature/suborder/Snake#suborder"><rdfs:label>Serpentes</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

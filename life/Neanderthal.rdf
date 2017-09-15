@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Neanderthal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Neanderthal#species">
+				<rdfs:label>Neanderthal</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Neanderthal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/neanderthal/neanderthal_1.jpg"/>
+
+				<dc:description>Neanderthals looked much like modern humans only shorter, more heavily built and much stronger, particularly in the arms and hands. Their skulls show that they had no chin and their foreheads sloped backwards. The brain case was lower but longer housing a slightly larger brain than that of modern humans. As almost exclusively carnivorous, both male and female Neanderthals hunted. Evidence of a huge number of injuries - like those sometimes seen in today's rodeo riders - suggests that hunting involved dangerously close contact with large prey animals.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Neanderthal"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Allomothering#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_cognition#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_culture#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Neanderthal.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Homo#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Hominidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Neanderthal#name">
+				<rdfs:label>Homo neanderthalensis</rdfs:label>
+				        <wo:commonName>Neanderthal</wo:commonName>
+        								<wo:commonName>Man of the Neander Valley</wo:commonName>
+								<wo:scientificName>neanderthalensisneanderthalensis</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Hominidae</wo:familyName><wo:genusName>Homo</wo:genusName><wo:speciesName>neanderthalensis</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/ne/neanderthal/neanderthal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Neanderthal#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/ne/neanderthal/neanderthal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cft8h#programme">
+			<dc:title>Swanscombe woman</dc:title>
+			<po:subject rdf:resource="/nature/species/Neanderthal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bnflm#programme">
+			<dc:title>Life at the edge</dc:title>
+			<po:subject rdf:resource="/nature/species/Neanderthal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk5vl#programme">
+			<dc:title>Mammoth hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Neanderthal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk5qs#programme">
+			<dc:title>Bad tempered rhino</dc:title>
+			<po:subject rdf:resource="/nature/species/Neanderthal#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Neanderthal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis">
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.archaeologyinfo.com/homoneaderthalensis.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21759233">
+			<dc:title>Neanderthal big eyes 'caused demise'</dc:title>
+			<dc:description>A study of Neanderthal skulls suggests that they became extinct because they had larger eyes than our species.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21330194">
+			<dc:title>Last-stand Neanderthals queried</dc:title>
+			<dc:description>Radiocarbon studies question whether a late Neanderthal population really did hang on in southern Spain long after the species died out in the rest of Europe.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19960748">
+			<dc:title>Recreating Neanderthal man</dc:title>
+			<dc:description>A little over 100 years ago, a discovery in France paved the way for how we look at prehistoric history today.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19623929">
+			<dc:title>Neanderthals 'harvested feathers'</dc:title>
+			<dc:description>Our evolutionary cousins the Neanderthals were harvesting feathers from birds to use as personal ornaments, according to a new study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19250778">
+			<dc:title>Neanderthal breeding idea doubted</dc:title>
+			<dc:description>A new study casts doubt on the finding from recent genome studies that modern humans and Neanderthals interbred.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17179608">
+			<dc:title>New clue to Neanderthal wipe-out</dc:title>
+			<dc:description>Neanderthals were already on the verge of extinction by the time modern humans appeared in the frame, according to a study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14673047">
+			<dc:title>Neanderthal sex boost to immunity</dc:title>
+			<dc:description>Sexual relations between ancient humans and their evolutionary cousins were critical in boosting our modern immune systems, say scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14677434">
+			<dc:title>Jersey's Neanderthal survival story</dc:title>
+			<dc:description>New investigations are revealing a Neanderthal success story at La Cotte de St Brelade that spans over a quarter of a million years. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12071424">
+			<dc:title>Neanderthals 'cooked vegetables'</dc:title>
+			<dc:description>Neanderthals cooked and ate plants and vegetables,  a new study of their remains reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12049854">
+			<dc:title>Ancient family was cannibalised</dc:title>
+			<dc:description>Archaeologists in Spain have unearthed the remains of a possible family of 12 Neanderthals who were cannibalised some 49,000 years ago. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7582912.stm">
+			<dc:title>'Complexity' of Neanderthal tools</dc:title>
+			<dc:description>Early stone tools developed by modern humans were no more advanced than ones used by the Neanderthals, research shows.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7873373.stm">
+			<dc:title>Did climate kill off the Neanderthals?</dc:title>
+			<dc:description>Did a downturn in climate thousands of years ago kill off our closest evolutionary relatives?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7886477.stm">
+			<dc:title>Neanderthals 'distinct from us'</dc:title>
+			<dc:description>Scientists studying the DNA of Neanderthals say they can find no evidence that this ancient species ever interbred with modern humans.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8671643.stm">
+			<dc:title>So we're part Neanderthal. What now?</dc:title>
+			<dc:description>Some of our genetic make-up is derived from our ancient evolutionary cousins, the Neanderthals, the latest research has shown.  What are the implications?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8674068.stm">
+			<dc:title>To mate, or not to mate: The Neanderthal question</dc:title>
+			<dc:description>Professor Clive Finlayson looks into the much-debated subject of Neanderthal mating.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11618814">
+			<dc:title>Humans 'got to Asia much earlier'</dc:title>
+			<dc:description>Our ancestors got out of Africa and spread all the way to East Asia much earlier than believed, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11408298">
+			<dc:title>Neanderthals were 'keen on tech'</dc:title>
+			<dc:description>Neanderthals were keen on innovation and technology and developed tools all on their own, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8660940.stm">
+			<dc:title>Neanderthal genes 'survive in us'</dc:title>
+			<dc:description>Many people alive today possess some Neanderthal ancestry, according to a landmark scientific study.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Neanderthal#species"/>
+		</foaf:Document>
+			
+											<wo:LifeCycle rdf:about="/nature/adaptations/Allomothering#adaptation">
+					<rdfs:label>Paternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_cognition#adaptation">
+					<rdfs:label>Learning</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Animal_culture#adaptation">
+					<rdfs:label>Culture</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Neanderthal.gif">
+		<dc:title>Map showing the distribution of the Neanderthal species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Homo#genus"><rdfs:label>Homo</rdfs:label><wo:species rdf:resource="/nature/life/Neanderthal#species"/><wo:species rdf:resource="/nature/life/Human#species"/><wo:species rdf:resource="/nature/life/Homo_erectus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Hominidae#family"><rdfs:label>Hominidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

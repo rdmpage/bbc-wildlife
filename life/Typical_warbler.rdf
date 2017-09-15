@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Typical_warbler">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Typical_warbler#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Typical_warbler#genus">
+				<rdfs:label>Sylvia warblers</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Typical_warbler#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ty/typical_warbler/typical_warbler_1.jpg"/>
+
+				<dc:description>Sylvia warblers are a group of very active, insect-eating birds. These typical warblers inhabitat the open woodlands, shrubland and hedgerows of western Europe, Asia and parts of Africa. There are around 20 species of Sylvia warbler, many of whom migrate to warmer climes during winter. Most members in this group have recognisable male and female plumages, the males often sporting black caps. Common members include the garden warbler and the blackcap. Not so common are the Yemen parisoma and Dartford warbler.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Typical_warbler"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Sylviidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Typical_warbler#name">
+				<rdfs:label>Sylvia</rdfs:label>
+				        <wo:commonName>Sylvia warblers</wo:commonName>
+        										<wo:scientificName>Sylvia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Sylviidae</wo:familyName><wo:genusName>Sylvia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ty/typical_warbler/typical_warbler_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Typical_warbler#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ty/typical_warbler/typical_warbler_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Typical_warbler">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Typical_warbler#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Sylvia.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Typical_warbler#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/104750">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Typical_warbler#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Sylviidae#family"><rdfs:label>Sylviidae</rdfs:label><wo:genus rdf:resource="/nature/life/Typical_warbler#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Blackcap#genus"><rdfs:label>Blackcap</rdfs:label><wo:genus rdf:resource="/nature/life/Typical_warbler#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Garden_Warbler#genus"><rdfs:label>Garden warbler</rdfs:label><wo:genus rdf:resource="/nature/life/Typical_warbler#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Dartford_Warbler#genus"><rdfs:label>Dartford warbler</rdfs:label><wo:genus rdf:resource="/nature/life/Typical_warbler#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Rosaceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Rosaceae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Rosaceae#family">
+				<rdfs:label>Rose family</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Rosaceae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ro/rosaceae/rosaceae_1.jpg"/>
+
+				<dc:description>The rose family encompasses much more than beautiful ornamental flowers, as it includes some of the world's tastiest fruits. Favourites such as apples, peaches, cherries and strawberries are all in this diverse family. However it also holds some invasive plants that need to controlled as weeds. As would be expected from such a large family of flowering plants (there are over 3,000 species) they're to be found everywhere except Antarctica. Members of the rose family can be herbs, shrubs or trees. Most species are deciduous, though some are evergreen.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Rosaceae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Rosaceae.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Rosales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Rosaceae#name">
+				<rdfs:label>Rosaceae</rdfs:label>
+				        <wo:commonName>Rose family</wo:commonName>
+        								<wo:commonName>Roses</wo:commonName>
+								<wo:scientificName>Rosaceae</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Rosales</wo:orderName><wo:familyName>Rosaceae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/ro/rosaceae/rosaceae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Rosaceae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/ro/rosaceae/rosaceae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Rosaceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Rosaceae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://delta-intkey.com/angio/www/rosaceae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rosaceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://montana.plant-life.org/families/Rosaceae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rosaceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/8097">
+			<foaf:primaryTopic rdf:resource="/nature/family/Rosaceae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Rosaceae.gif">
+		<dc:title>Map showing the distribution of the Rose family family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Rosales#order"><rdfs:label>Rosales</rdfs:label><wo:family rdf:resource="/nature/life/Rosaceae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Blackberry#family"><rdfs:label>Blackberry</rdfs:label><wo:family rdf:resource="/nature/life/Rosaceae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Crataegus_monogyna#family"><rdfs:label>Hawthorn</rdfs:label><wo:family rdf:resource="/nature/life/Rosaceae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

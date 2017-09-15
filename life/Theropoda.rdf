@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/suborder/Theropoda">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		<rdfs:seeAlso rdf:resource="/nature/suborder"/>
+	</rdf:Description>
+
+		<wo:Suborder rdf:about="/nature/life/Theropoda#suborder">
+				<rdfs:label>Theropod dinosaurs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/suborder/Theropoda#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>Theropod dinosaurs were the top predators in the Jurassic and Cretaceous periods. For over 100 million years theropods were the only large carnivores on land and included all the infamous carnivorous dinosaurs - Tyrannosaurus, Velociraptor and Spinosaurus. However, not all theropods were predators. Some evolved away from their carnivorous origins to consume an omnivorous or herbivorous diet. Birds are the only living descendants of the theropods.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Theropoda"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/suborder/Theropoda.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Suborder>
+
+			<wo:TaxonName rdf:about="/nature/suborder/Theropoda#name">
+				<rdfs:label>Theropoda</rdfs:label>
+				        <wo:commonName>Theropod dinosaurs</wo:commonName>
+        								<wo:commonName>beast-footed</wo:commonName>
+								<wo:scientificName>Theropoda</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cl9qg#programme">
+			<dc:title>Herds and packs</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkqxv#programme">
+			<dc:title>Dinosaur footprints</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Theropoda">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=931&amp;Itemid=104">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kheper.net/evolution/dinosauria/Theropoda.htm">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeos.com/Vertebrates/Units/340Theropoda/340.000.html">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/diapsids/saurischia/theropoda.html">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-26452266">
+			<dc:title>Ferocious dino was European giant</dc:title>
+			<dc:description>Portuguese scientists identify a dinosaur that may have been the largest predator ever to roam across the European landmass.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17612354">
+			<dc:title>Dino is biggest feathered animal</dc:title>
+			<dc:description>A newly described relative of Tyrannosaurus rex is the largest known feathered animal - living or extinct.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-13763644">
+			<dc:title>Australian dinosaur had UK double</dc:title>
+			<dc:description>A dinosaur found in Australia is almost identical to a well-known fish-eating one from the UK, suggesting northern and southern hemisphere dinos had a lot more in common than previously thought.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11221459">
+			<dc:title>Dino clue to 'earliest feathers'</dc:title>
+			<dc:description>Palaeontologists uncover a new dinosaur with what may be the earliest evidence of feathers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Theropoda#suborder"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/suborder/Theropoda.gif">
+		<dc:title>Map showing the distribution of the Theropod dinosaurs suborder</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/><wo:suborder rdf:resource="/nature/life/Sauropodomorpha#suborder"/></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Allosaurus#suborder"><rdfs:label>Allosaurus</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Genus><wo:Genus rdf:about="/nature/life/Australovenator#suborder"><rdfs:label>Australovenator</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Genus><wo:Family rdf:about="/nature/life/Tyrannosauridae#suborder"><rdfs:label>Tyrannosaurs</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Family><wo:Family rdf:about="/nature/life/Carcharodontosauridae#suborder"><rdfs:label>Carcharodontosaurids</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Family><wo:Family rdf:about="/nature/life/Dromaeosauridae#suborder"><rdfs:label>Dromaeosaurs</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Family><wo:Genus rdf:about="/nature/life/Coelophysis#suborder"><rdfs:label>Coelophysis</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Genus><wo:Family rdf:about="/nature/life/Therizinosauridae#suborder"><rdfs:label>Therizinosaurs</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Family><wo:Genus rdf:about="/nature/life/Spinosaurus#suborder"><rdfs:label>Spinosaurus </rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Genus><wo:Genus rdf:about="/nature/life/Epidexipteryx#suborder"><rdfs:label>Epidexipteryx</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Genus><wo:Genus rdf:about="/nature/life/Gigantoraptor#suborder"><rdfs:label>Gigantoraptor</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Genus><wo:Genus rdf:about="/nature/life/Majungasaurus#suborder"><rdfs:label>Majungasaurus</rdfs:label><wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

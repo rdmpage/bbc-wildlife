@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Monitor_lizard">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Monitor_lizard#genus">
+				<rdfs:label>Monitor Lizards</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Monitor_lizard#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/monitor_lizard/monitor_lizard_1.jpg"/>
+
+				<dc:description>Monitor lizards have forked tongues, which they use (as a snake does) to detect scents in the air. Many of them are good swimmers and this family includes the largest lizard on Earth, the Komodo dragon.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Monitor_lizard"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Varanidae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Lizard#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Squamata#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Monitor_lizard#name">
+				<rdfs:label>Varanus</rdfs:label>
+				        <wo:commonName>Monitor Lizards</wo:commonName>
+        										<wo:scientificName>Varanus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:orderName>Squamata</wo:orderName><wo:suborderName>Lacertilia</wo:suborderName><wo:familyName>Varanidae</wo:familyName><wo:genusName>Varanus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/monitor_lizard/monitor_lizard_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/monitor_lizard/monitor_lizard_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00n088f#programme">
+			<dc:title>Gifted goannas</dc:title>
+			<po:subject rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k647l#programme">
+			<dc:title>Alien invasion</dc:title>
+			<po:subject rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006ff87#programme">
+			<dc:title>Perentie catching rabbit</dc:title>
+			<po:subject rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Monitor_lizard">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://uts.cc.utexas.edu/~varanus/varanus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.curator.org/legacyvmnh/WebOfLife/Kingdom/P_Chordata/ClassReptilia/O_Squamata/InfraAnguimorphan/SupFVaranoidea/FVaranidae/GVaranus/GVaranus/SubVaranus/Varanusvarius/genus_varanus.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8605000/8605699.stm">
+			<dc:title>Giant lizard species discovered in the Philippines</dc:title>
+			<dc:description>A new species of giant lizard has been discovered in the Philippines.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Monitor_lizard#genus"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Varanidae#family"><rdfs:label>Varanidae</rdfs:label><wo:genus rdf:resource="/nature/life/Monitor_lizard#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Lizard#suborder"><rdfs:label>Lacertilia</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Squamata#order"><rdfs:label>Squamata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Perentie#genus"><rdfs:label>Perentie</rdfs:label><wo:genus rdf:resource="/nature/life/Monitor_lizard#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Sand_goanna#genus"><rdfs:label>Sand goanna</rdfs:label><wo:genus rdf:resource="/nature/life/Monitor_lizard#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Komodo_dragon#genus"><rdfs:label>Komodo dragon</rdfs:label><wo:genus rdf:resource="/nature/life/Monitor_lizard#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Water_monitor#genus"><rdfs:label>Water monitor</rdfs:label><wo:genus rdf:resource="/nature/life/Monitor_lizard#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

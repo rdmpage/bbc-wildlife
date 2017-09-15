@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Sea_otter">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Sea_otter#species">
+				<rdfs:label>Sea otter</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Sea_otter#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_otter/sea_otter_1.jpg"/>
+
+				<dc:description>Sea otters are one of the largest otter species. Rarely coming ashore, sea otters spend most of their time in the <a href="/nature/life/Macrocystis">kelp</a> forests off the west coast of America, Alaska and Russia. To keep warm they have the densest fur of all <a href="/nature/life/Mammal">mammals</a> but no insulating body fat. When resting or sleeping sea otters float on their backs wrapped in <a href="/nature/life/Macrocystis">kelp</a> and often holding paws with another individual so they don't drift apart. Stones are used as <a href="/nature/adaptations/Tool_use_by_animals">tools</a> for dislodging and cracking open molluscs.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Sea otters play an important role in protecting <a href="/nature/life/Macrocystis">kelp</a> forests from grazing <a href="/nature/life/Sea_urchin">sea urchins</a>.
+<br/>
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Sea_otter"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Precocial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Sea_otter.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Mustelidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Sea_otter#name">
+				<rdfs:label>Enhydra lutris</rdfs:label>
+				        <wo:commonName>Sea otter</wo:commonName>
+        										<wo:scientificName>lutrislutris</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Mustelidae</wo:familyName><wo:genusName>Enhydra</wo:genusName><wo:speciesName>lutris</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/se/sea_otter/sea_otter_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Sea_otter#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/se/sea_otter/sea_otter_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00wpbjx#programme">
+			<dc:title>Forest guardians</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhlr0#programme">
+			<dc:title>Underwater ecosystem</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4s4#programme">
+			<dc:title>Ocean ties</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4rh#programme">
+			<dc:title>Safe haven</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4qv#programme">
+			<dc:title>Cracking it</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4mp#programme">
+			<dc:title>Swimming lesson</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4lp#programme">
+			<dc:title>Harbour patrol</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4jk#programme">
+			<dc:title>Trial and error</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4hy#programme">
+			<dc:title>Otter trickery</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4hc#programme">
+			<dc:title>Gently does it</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009c4gd#programme">
+			<dc:title>Independent life</dc:title>
+			<po:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/s/se/sea_otter/5076158.mp3">
+			<dc:title>Cries from sea otter pups</dc:title>
+			<dc:subject rdf:resource="/nature/species/Sea_otter#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Sea_otter">
+		<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Enhydra_lutris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://species-identification.org/species.php?species_group=Marine_mammals&amp;menuentry=soorten">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/sea-otter/enhydra-lutris/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.montereybayaquarium.org/cr/sorac.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.otterspecialistgroup.org/Species/Enhydra_lutris.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.seaotters.org/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23814524">
+			<dc:title>Sea otter return boosts seagrass</dc:title>
+			<dc:description>Sea otters re-colonising estuaries on the central Californian coast have improved the health of seagrass, new research has found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8383000/8383070.stm">
+			<dc:title>Save 'special' carnivores plea</dc:title>
+			<dc:description>Certain carnivores are so unique that special efforts should be made to save them, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Sea_otter#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Precocial#adaptation">
+					<rdfs:label>Active at birth</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Sea_otter.gif">
+		<dc:title>Map showing the distribution of the Sea otter species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Enhydra</rdfs:label><wo:species rdf:resource="/nature/life/Sea_otter#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Mustelidae#family"><rdfs:label>Mustelidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

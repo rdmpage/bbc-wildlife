@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Suidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Suidae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Suidae#family">
+				<rdfs:label>Hogs and pigs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Suidae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/su/suidae/suidae_1.jpg"/>
+
+				<dc:description>Hogs and pigs make up a family of stocky and bristly-haired even-toed ungulates. All 16 species in the hog and pig family are fond of wallowing in the mud, from the giant forest hog of the African jungles to the common domestic pig. They combine a keen sense of smell with a flexible, muscular snout to root around the forest and woodland undergrowth, sniffing out things to eat, from fungi and bulbs to earthworms. They are usually very vocal animals producing some very noisy grunts and squeals.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Suidae"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Even-toed_ungulate#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Cetartiodactyla#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Suidae#name">
+				<rdfs:label>Suidae</rdfs:label>
+				        <wo:commonName>Hogs and pigs</wo:commonName>
+        										<wo:scientificName>Suidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:superorderName>Cetartiodactyla</wo:superorderName><wo:orderName>Artiodactyla</wo:orderName><wo:familyName>Suidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/s/su/suidae/suidae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Suidae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/s/su/suidae/suidae_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lyq8y#programme">
+			<dc:title>Pig pannage</dc:title>
+			<po:subject rdf:resource="/nature/family/Suidae#family"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Suidae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Suidae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Suidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Suidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/7681">
+			<foaf:primaryTopic rdf:resource="/nature/family/Suidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.funkman.org/animal/mammal/pigfamily.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Suidae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ultimateungulate.com/Cetartiodactyla/Suidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Suidae#family"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Even-toed_ungulate#order"><rdfs:label>Artiodactyla</rdfs:label><wo:family rdf:resource="/nature/life/Suidae#family"/><wo:family rdf:resource="/nature/life/Antilocapridae#family"/><wo:family rdf:resource="/nature/life/Bovid#family"/><wo:family rdf:resource="/nature/life/Camelid#family"/><wo:family rdf:resource="/nature/life/Deer#family"/><wo:family rdf:resource="/nature/life/Giraffidae#family"/><wo:family rdf:resource="/nature/life/Hippopotamidae#family"/><wo:family rdf:resource="/nature/life/Entelodont#family"/></wo:Order><wo:Superorder rdf:about="/nature/superorder/Cetartiodactyla#superorder"><rdfs:label>Cetartiodactyla</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Warthog#family"><rdfs:label>Warthog</rdfs:label><wo:family rdf:resource="/nature/life/Suidae#family"/></wo:Species><wo:Species rdf:about="/nature/life/Wild_boar#family"><rdfs:label>Wild boar</rdfs:label><wo:family rdf:resource="/nature/life/Suidae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

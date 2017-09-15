@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Velociraptor">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Velociraptor#genus">
+				<rdfs:label>Velociraptors</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Velociraptor#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/ve/velociraptor/velociraptor_1.jpg"/>
+
+				<dc:description>Velociraptors were made famous in the film 'Jurassic Park', though they were a little less impressive in reality, standing not much taller than domestic turkeys. A famous fossil has one locked in battle with a Protoceratops. The predatory Velociraptor had pinned down its plant-eating victim, but both appear to have been overcome, perhaps by a sudden sandstorm. Fossils also show that Velociraptor had large feathers on its forelimbs, perhaps used for display.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Velociraptor"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00kf6gd#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Velociraptor.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Dromaeosauridae#family"/>
+                                                        <wo:suborder rdf:resource="/nature/life/Theropoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Saurischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Velociraptor#name">
+				<rdfs:label>Velociraptor</rdfs:label>
+				        <wo:commonName>Velociraptors</wo:commonName>
+        								<wo:commonName>swift seizer</wo:commonName>
+								<wo:scientificName>Velociraptor</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Saurischia</wo:orderName><wo:suborderName>Theropoda</wo:suborderName><wo:familyName>Dromaeosauridae</wo:familyName><wo:genusName>Velociraptor</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/v/ve/velociraptor/velociraptor_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Velociraptor#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/v/ve/velociraptor/velociraptor_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00clsng#programme">
+			<dc:title>Immortal combat</dc:title>
+			<po:subject rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjjs3#programme">
+			<dc:title>Ruthless raptors</dc:title>
+			<po:subject rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjj8l#programme">
+			<dc:title>Robot raptor</dc:title>
+			<po:subject rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjj15#programme">
+			<dc:title>Jaws of death</dc:title>
+			<po:subject rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cjht3#programme">
+			<dc:title>Feathered dinosaurs</dc:title>
+			<po:subject rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b9whm#programme">
+			<dc:title>Forest pack-hunters</dc:title>
+			<po:subject rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Velociraptor">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animals.nationalgeographic.com/animals/prehistoric/velociraptor-mongoliensis/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://dinobase.gly.bris.ac.uk/frontend/dinobase_pageViewSpecies.php?id=1529">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=7548&amp;Itemid=67">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhm.ac.uk/kids-only/dinosaurs/3d-dinos/velociraptor/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sciencedaily.com/releases/2007/09/070920145402.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17276531">
+			<dc:title>Velociraptor's last meal revealed</dc:title>
+			<dc:description>The bone of a large flying reptile has been found in the gut of a Velociraptor, sparking fresh discussion among palaeontologists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/thingstodo/project/planet-dinosaur">
+			<dc:title>Planet Dinosaur related activities (88)</dc:title>
+			<dc:description>Discover free and not-for-profit Planet Dinosauractivities run by the BBC and our partners</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7004727.stm">
+			<dc:title>Velociraptor dino 'had feathers'</dc:title>
+			<dc:description>A re-assessed fossil from a <I>Velociraptor</I> dinosaur suggests the animal was probably covered in feathers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11137905">
+			<dc:title>Beefy dino sported fearsome claws</dc:title>
+			<dc:description>Fossils of a new type of dinosaur, which looks like a beefy version of the predatory Velociraptor, have been unearthed in Romania.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Velociraptor#genus"/>
+		</foaf:Document>
+			
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+						
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00kf6gd#collection">
+				<dc:title>Deadly dinosaurs</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Velociraptor.gif">
+		<dc:title>Map showing the distribution of the Velociraptors genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Dromaeosauridae#family"><rdfs:label>Dromaeosauridae</rdfs:label><wo:genus rdf:resource="/nature/life/Velociraptor#genus"/><wo:genus rdf:resource="/nature/life/Utahraptor#genus"/><wo:genus rdf:resource="/nature/life/Microraptor#genus"/><wo:genus rdf:resource="/nature/life/Sinornithosaurus#genus"/></wo:Family><wo:Suborder rdf:about="/nature/suborder/Theropoda#suborder"><rdfs:label>Theropoda</rdfs:label></wo:Suborder><wo:Order rdf:about="/nature/order/Saurischia#order"><rdfs:label>Saurischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

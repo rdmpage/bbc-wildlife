@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Titan_arum">
+		<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Titan_arum#species">
+				<rdfs:label>Titan arum</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Titan_arum#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/titan_arum/titan_arum_1.jpg"/>
+
+				<dc:description>Titan arums are true giants amongst flowering plants: the circumference of their huge flowers can be over three metres and they stand three metres high and the single leaf grows to the size of a small tree. Their smell, likened to rotting meat, is so bad it led to the common name 'corpse flower'. Both the 'fragance' and the flower's meat-colouration attract pollinators - carrion flies and beetles. The common name was given by Sir David Attenborough during the filming of the Private Life of Plants series.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Titan_arum"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hermaphrodite#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Mimicry#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Titan_arum.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Amorphophallus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Araceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Alismatales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Titan_arum#name">
+				<rdfs:label>Amorphophallus titanum</rdfs:label>
+				        <wo:commonName>Titan arum</wo:commonName>
+        								<wo:commonName>Corpse flower</wo:commonName>
+						<wo:commonName>Corpse plant</wo:commonName>
+								<wo:scientificName>titanumtitanum</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Alismatales</wo:orderName><wo:familyName>Araceae</wo:familyName><wo:genusName>Amorphophallus</wo:genusName><wo:speciesName>titanum</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/ti/titan_arum/titan_arum_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Titan_arum#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/ti/titan_arum/titan_arum_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004gx80#programme">
+			<dc:title>Titan of the flowers</dc:title>
+			<po:subject rdf:resource="/nature/species/Titan_arum#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Titan_arum">
+		<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://botit.botany.wisc.edu/Titan_Arum_Archive/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kew.org/plants/titan/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/cornwall/7084633.stm">
+			<dc:title>Stinkiest bloom is set to flower</dc:title>
+			<dc:description>A Cornish horticulturist has impressed his colleagues by raising his third specimen of one of the world's smelliest flowers, at the Eden Project.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/cornwall/6332893.stm">
+			<dc:title>Corpse flower comes back to life</dc:title>
+			<dc:description>One of the smelliest flowers in the world is drawing hundreds of people to the Eden Project in Cornwall.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/cornwall/6271253.stm">
+			<dc:title>Titan is causing a stink at Eden</dc:title>
+			<dc:description>One of the world's smelliest plants has shocked gardeners at Cornwall's Eden Project by blooming during the winter.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/london/4469055.stm">
+			<dc:title>Giant rare bloom gives off stench</dc:title>
+			<dc:description>A giant rare flower is emitting a stench of rotting flesh after blooming overnight.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/in_pictures/4468829.stm">
+			<dc:title>In pictures: 'Corpse flower' blooms</dc:title>
+			<dc:description>A titan arum flower has bloomed at Kew Gardens in west London. At 2.11m, it is the tallest flower in the world.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Titan_arum#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Hermaphrodite#adaptation">
+					<rdfs:label>Hermaphroditic</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Mimicry#adaptation">
+					<rdfs:label>Mimicry</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Titan_arum.gif">
+		<dc:title>Map showing the distribution of the Titan arum species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Amorphophallus#genus"><rdfs:label>Amorphophallus</rdfs:label><wo:species rdf:resource="/nature/life/Titan_arum#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Araceae#family"><rdfs:label>Araceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Alismatales#order"><rdfs:label>Alismatales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Weddell_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Weddell_Seal#species">
+				<rdfs:label>Weddell seal</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Weddell_Seal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/weddell_seal/weddell_seal_1.jpg"/>
+
+				<dc:description>Weddell seals were named after a British sea commander in the 1800s, Sir James Weddell who also has a sea in the Antarctic named after him. These seals live and swim in groups around cracks and breathing holes in the pack ice of the Antarctic, even chewing holes through particularly thin areas of ice with their canine teeth. Weddell seals can drink sea water and they also eat snow. They can remain underwater for up to an hour while hunting. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Weddell_Seal"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0048522#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Weddell_Seal.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Polar_region#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Earless_seal#family"/>
+                                                        <wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Weddell_Seal#name">
+				<rdfs:label>Leptonychotes weddellii</rdfs:label>
+				        <wo:commonName>Weddell seal</wo:commonName>
+        										<wo:scientificName>weddelliiweddellii</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:superfamilyName>Pinnipedia</wo:superfamilyName><wo:familyName>Phocidae</wo:familyName><wo:genusName>Leptonychotes</wo:genusName><wo:speciesName>weddellii</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/weddell_seal/weddell_seal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Weddell_Seal#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/we/weddell_seal/weddell_seal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kvmsy#programme">
+			<dc:title>A chilly reception</dc:title>
+			<po:subject rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kvm6k#programme">
+			<dc:title>The daily grind</dc:title>
+			<po:subject rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004gxs5#programme">
+			<dc:title>Weddell's world</dc:title>
+			<po:subject rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/w/we/weddell_seal/nhs1344-10.mp3">
+			<dc:title>Weddell seal calling underwater</dc:title>
+			<dc:subject rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Weddell_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Leptonychotes_weddellii.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.aad.gov.au/default.asp?casid=1704">
+			<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.antarcticconnection.com/antarctic/wildlife/seals/weddell.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/weddell-seal/leptonychotes-weddellii/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/328638">
+			<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pinnipeds.org/species/weddell.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15308790">
+			<dc:title>Orcas make waves to prey on seals</dc:title>
+			<dc:description>A film crew captures footage of killer whales working together to create waves that wash their vulnerable prey into the water. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Weddell_Seal#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Polar_region#habitat">
+					<rdfs:label>Polar</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0048522#collection">
+				<dc:title>David Attenborough's favourite moments</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Weddell_Seal.gif">
+		<dc:title>Map showing the distribution of the Weddell seal species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Leptonychotes</rdfs:label><wo:species rdf:resource="/nature/life/Weddell_Seal#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Earless_seal#family"><rdfs:label>Phocidae</rdfs:label></wo:Family><wo:Superfamily rdf:about="/nature/superfamily/Pinniped#superfamily"><rdfs:label>Pinnipedia</rdfs:label></wo:Superfamily><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Carcharhiniformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Carcharhiniformes#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Carcharhiniformes#order">
+				<rdfs:label>Ground sharks</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Carcharhiniformes#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/carcharhiniformes/carcharhiniformes_1.jpg"/>
+
+				<dc:description>The ground sharks (Carcharhiniformes) are an order of cartilaginous fish which includes the hammerhead sharks, cat sharks and requiem sharks. This is the biggest order of sharks, and they are found in marine, brackish and freshwater.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Carcharhiniformes"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Haptic_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Carcharhiniformes.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Pelagic#habitat"/>
+        					        				    								
+					
+                                                                <wo:superorder rdf:resource="/nature/life/Shark#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Chondrichthyes#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Carcharhiniformes#name">
+				<rdfs:label>Carcharhiniformes</rdfs:label>
+				        <wo:commonName>Ground sharks</wo:commonName>
+        								<wo:commonName>Carcharhiniformes</wo:commonName>
+						<wo:commonName>Whaler sharks</wo:commonName>
+								<wo:scientificName>Carcharhiniformes</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Chondrichthyes</wo:className><wo:superorderName>Selachimorpha</wo:superorderName><wo:orderName>Carcharhiniformes</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/carcharhiniformes/carcharhiniformes_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Carcharhiniformes#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/carcharhiniformes/carcharhiniformes_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Carcharhiniformes">
+		<foaf:primaryTopic rdf:resource="/nature/order/Carcharhiniformes#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Carcharhiniformes.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carcharhiniformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.elasmo-research.org/education/shark_profiles/carcharhiniformes.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Carcharhiniformes#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8323155.stm">
+			<dc:title>Shark mums 'invest' in newborns</dc:title>
+			<dc:description>Shark pups are born with super-sized livers, providing them with nutrients to help them survive early life.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Carcharhiniformes#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8272508.stm">
+			<dc:title>Palau pioneers 'shark sanctuary'</dc:title>
+			<dc:description>Palau is to create the world's first "shark sanctuary", banning all commercial shark fishing in its waters.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Carcharhiniformes#order"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Haptic_perception#adaptation">
+					<rdfs:label>Tactile sense</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Pelagic#habitat">
+					<rdfs:label>Open ocean</rdfs:label>
+				</wo:MarineHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Carcharhiniformes.gif">
+		<dc:title>Map showing the distribution of the Ground sharks order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Superorder rdf:about="/nature/superorder/Shark#superorder"><rdfs:label>Selachimorpha</rdfs:label><wo:order rdf:resource="/nature/life/Carcharhiniformes#order"/><wo:order rdf:resource="/nature/life/Lamniformes#order"/><wo:order rdf:resource="/nature/life/Carpet_sharks#order"/></wo:Superorder><wo:Class rdf:about="/nature/class/Chondrichthyes#class"><rdfs:label>Chondrichthyes</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Requiem_shark#order"><rdfs:label>Requiem sharks</rdfs:label><wo:order rdf:resource="/nature/life/Carcharhiniformes#order"/></wo:Family><wo:Genus rdf:about="/nature/life/Hammerhead_shark#order"><rdfs:label>Hammerhead sharks</rdfs:label><wo:order rdf:resource="/nature/life/Carcharhiniformes#order"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

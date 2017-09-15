@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Ammonite">
+		<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Ammonite#order">
+				<rdfs:label>Ammonites</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Ammonite#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/ammonite/ammonite_1.jpg"/>
+
+				<dc:description>Ammonites were free-swimming molluscs of the ancient oceans, living around the same time that the dinosaurs walked the Earth and disappearing during the same extinction event. They came in a range of sizes, from tiny species only a couple of centimetres across, to large ones reaching over two metres in diameter. The animal would have lived in the last and largest of a chain of spiralled chambers. Filling these chambers with fluid or gas allowed the ammonite to sink like a stone to avoid predators, though ammonite shells with toothmarks on them have been found, evidence that it didn't always work. Fossilised shells are usually, but not always, beautiful spirals.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ammonite"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Antipredator_adaptation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Ammonite.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Cephalopod#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Ammonite#name">
+				<rdfs:label>Ammonitida</rdfs:label>
+				        <wo:commonName>Ammonites</wo:commonName>
+        								<wo:commonName>Snake stones</wo:commonName>
+								<wo:scientificName>Ammonitida</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName><wo:className>Cephalopoda</wo:className><wo:orderName>Ammonitida</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/am/ammonite/ammonite_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Ammonite#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/am/ammonite/ammonite_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bxk6h#programme">
+			<dc:title>Jurassic coast</dc:title>
+			<po:subject rdf:resource="/nature/order/Ammonite#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bm0pl#programme">
+			<dc:title>Dorset's ancient animals</dc:title>
+			<po:subject rdf:resource="/nature/order/Ammonite#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkt26#programme">
+			<dc:title>Super-snails</dc:title>
+			<po:subject rdf:resource="/nature/order/Ammonite#order"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006jppt#programme">
+			<dc:title>Fossil detection</dc:title>
+			<po:subject rdf:resource="/nature/order/Ammonite#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Ammonite">
+		<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.bgs.ac.uk/education/fossilfocus/ammonite.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.discoveringfossils.co.uk/ammonites.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.fossilmuseum.net/Fossil_Galleries/Ammonites.htm">
+			<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.sdnhm.org/exhibits/mystery/fg_ammonite.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ukfossils.co.uk/guides/ammonites.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12127790">
+			<dc:title>Ammonite diet revealed in X-rays</dc:title>
+			<dc:description>Scientists use X-rays to establish the feeding habits of everyone's favourite fossils - the ammonites.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/dorset/hi/people_and_places/nature/newsid_9225000/9225848.stm">
+			<dc:title>What's been eating the ammonites?</dc:title>
+			<dc:description>A new research paper by experts in Lyme Regis suggests that local ammonite fossils have visible bite marks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Ammonite#order"/>
+		</foaf:Document>
+			
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Antipredator_adaptation#adaptation">
+					<rdfs:label>Predation defence</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Ammonite.gif">
+		<dc:title>Map showing the distribution of the Ammonites order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Cephalopod#class"><rdfs:label>Cephalopoda</rdfs:label><wo:order rdf:resource="/nature/life/Ammonite#order"/><wo:order rdf:resource="/nature/life/Squid#order"/><wo:order rdf:resource="/nature/life/Octopus#order"/><wo:order rdf:resource="/nature/life/Nautilida#order"/><wo:order rdf:resource="/nature/life/Cuttlefish#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Mollusca#phylum"><rdfs:label>Mollusca</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

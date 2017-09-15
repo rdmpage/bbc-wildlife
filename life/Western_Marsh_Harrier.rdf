@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Western_Marsh_Harrier">
+		<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Western_Marsh_Harrier#species">
+				<rdfs:label>Marsh harrier</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Western_Marsh_Harrier#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/western_marsh_harrier/western_marsh_harrier_1.jpg"/>
+
+				<dc:description>Marsh harriers are slow fliers and can remain airborne at speeds of less than 32kmph (20mph). Flying at such slow speeds makes it easier for them to detect prey. Northern European and Asian birds tend to migrate, with British birds going to West Africa, but even in Britain, some birds are sedentary and do not make these migrations. Their preferred habitat is moorland, marshes, fens, reedbeds and swamps. Some species in Britain are now breeding in cereal fields. Frogs make up a large component of the marsh harrier's diet, but small mammals, reptiles, insects, eggs and nestlings are also consumed. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Western_Marsh_Harrier"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Marsh#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Swamp#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Harrier_(bird)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Accipitridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Western_Marsh_Harrier#name">
+				<rdfs:label>Circus aeruginosus</rdfs:label>
+				        <wo:commonName>Marsh harrier</wo:commonName>
+        								<wo:commonName>Eurasian marsh harrier</wo:commonName>
+						<wo:commonName>Western marsh harrier</wo:commonName>
+								<wo:scientificName>aeruginosusaeruginosus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Accipitridae</wo:familyName><wo:genusName>Circus</wo:genusName><wo:speciesName>aeruginosus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/w/we/western_marsh_harrier/western_marsh_harrier_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/w/we/western_marsh_harrier/western_marsh_harrier_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0085998#programme">
+			<dc:title>Nesting harriers</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081gbs#programme">
+			<dc:title>Wicken walk</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0080scs#programme">
+			<dc:title>Flight test</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007vdkk#programme">
+			<dc:title>Wetland raptor</dc:title>
+			<po:subject rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/w/we/western_marsh_harrier/5051182.mp3">
+			<dc:title>Male calling during aerial display</dc:title>
+			<dc:subject rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Western_Marsh_Harrier">
+		<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/classification/Circus_aeruginosus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/marsh-harrier/circus-aeruginosus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdsofbritain.co.uk/bird-guide/marsh-harrier.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.hawkandowl.org/Species/DiurnalBirdsofPrey/MarshHarrier">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.raptorfoundation.org.uk/marshharrier.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/m/marshharrier/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/local/nottingham/hi/people_and_places/nature/newsid_8777000/8777098.stm">
+			<dc:title>Marsh harriers breed in Nottinghamshire for first time</dc:title>
+			<dc:description>Marsh harriers are breeding for the first time in Nottinghamshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/sculthorpe2009/stories/monarchofthemarsh">
+			<dc:title>Monarch of the marsh</dc:title>
+			<dc:description>One of the UK's most charistmatic raptors, the marsh harrier, can even do beige with style as Julian Hector discovers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Western_Marsh_Harrier#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Marsh#habitat">
+					<rdfs:label>Marsh</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Swamp#habitat">
+					<rdfs:label>Swamp</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+								
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Harrier_(bird)#genus"><rdfs:label>Circus</rdfs:label><wo:species rdf:resource="/nature/life/Western_Marsh_Harrier#species"/><wo:species rdf:resource="/nature/life/Hen_Harrier#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Accipitridae#family"><rdfs:label>Accipitridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

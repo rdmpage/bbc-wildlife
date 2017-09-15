@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Diprotodontia">
+		<foaf:primaryTopic rdf:resource="/nature/order/Diprotodontia#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Diprotodontia#order">
+				<rdfs:label>Kangaroos, possums and wallabies</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Diprotodontia#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/diprotodontia/diprotodontia_1.jpg"/>
+
+				<dc:description>Kangaroos, possums and wallabies are an order of marsupial mammals that includes all the most familiar Australian animals: kangaroos, wallabies, possums, koalas and wombats. Most diprotodontids are herbivorous, although some eat insects and nectar and a few extinct ones were carnivores.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Diprotodontia"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Diprotodontia#name">
+				<rdfs:label>Diprotodontia</rdfs:label>
+				        <wo:commonName>Kangaroos, possums and wallabies</wo:commonName>
+        								<wo:commonName>Diprotodontids</wo:commonName>
+								<wo:scientificName>Diprotodontia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Diprotodontia</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/d/di/diprotodontia/diprotodontia_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Diprotodontia#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/d/di/diprotodontia/diprotodontia_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Diprotodontia">
+		<foaf:primaryTopic rdf:resource="/nature/order/Diprotodontia#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Diprotodontia.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Diprotodontia#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bird.net.au/bird/index.php?title=Diprotodontia">
+			<foaf:primaryTopic rdf:resource="/nature/order/Diprotodontia#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/treehouses/?treehouse_id=4712">
+			<foaf:primaryTopic rdf:resource="/nature/order/Diprotodontia#order"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-10686515">
+			<dc:title>Cave yields marsupial fossil haul</dc:title>
+			<dc:description>Fossil hunters in Australia have discovered a cave filled with the 15-million-year-old remains of prehistoric marsupials.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Diprotodontia#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8754000/8754412.stm">
+			<dc:title>Why kangaroos evolved small arms and long legs</dc:title>
+			<dc:description>Why do kangaroos have such small arms?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/order/Diprotodontia#order"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label><wo:order rdf:resource="/nature/life/Diprotodontia#order"/><wo:order rdf:resource="/nature/life/Carnivora#order"/><wo:order rdf:resource="/nature/life/Bat#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Soricomorpha#order"/><wo:order rdf:resource="/nature/life/Lagomorpha#order"/><wo:order rdf:resource="/nature/life/Macroscelidea#order"/><wo:order rdf:resource="/nature/life/Monotreme#order"/><wo:order rdf:resource="/nature/life/Odd-toed_ungulate#order"/><wo:order rdf:resource="/nature/life/Pholidota#order"/><wo:order rdf:resource="/nature/life/Primate#order"/><wo:order rdf:resource="/nature/life/Proboscidea#order"/><wo:order rdf:resource="/nature/life/Rodent#order"/><wo:order rdf:resource="/nature/life/Sirenia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Afrosoricida#order"/><wo:order rdf:resource="/nature/life/Armadillo#order"/><wo:order rdf:resource="/nature/life/Dasyuromorphia#order"/><wo:order rdf:resource="/nature/life/#order"/><wo:order rdf:resource="/nature/life/Pilosa#order"/><wo:order rdf:resource="/nature/life/Leptictida#order"/><wo:order rdf:resource="/nature/life/Litopterna#order"/><wo:order rdf:resource="/nature/life/Mesonychid#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Family rdf:about="/nature/life/Macropod#order"><rdfs:label>Kangaroos and wallabies</rdfs:label><wo:order rdf:resource="/nature/life/Diprotodontia#order"/></wo:Family><wo:Species rdf:about="/nature/life/Yellow-bellied_Glider#order"><rdfs:label>Yellow-bellied glider</rdfs:label><wo:order rdf:resource="/nature/life/Diprotodontia#order"/></wo:Species><wo:Genus rdf:about="/nature/life/Phalanger#order"><rdfs:label>Grey cuscuses</rdfs:label><wo:order rdf:resource="/nature/life/Diprotodontia#order"/></wo:Genus><wo:Species rdf:about="/nature/life/Koala#order"><rdfs:label>Koala</rdfs:label><wo:order rdf:resource="/nature/life/Diprotodontia#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

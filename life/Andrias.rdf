@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Andrias">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Andrias#genus">
+				<rdfs:label>Asian giant salamanders</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Andrias#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/andrias/andrias_1.jpg"/>
+
+				<dc:description>Asian giant salamanders are the largest salamanders in the world, and species are found in China and Japan. These impressive animals grow to around 1.5m long.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Andrias"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Giant_salamander#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Salamander#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Amphibian#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Andrias#name">
+				<rdfs:label>Andrias</rdfs:label>
+				        <wo:commonName>Asian giant salamanders</wo:commonName>
+        										<wo:scientificName>Andrias</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Amphibia</wo:className><wo:orderName>Caudata</wo:orderName><wo:familyName>Cryptobranchidae</wo:familyName><wo:genusName>Andrias</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/andrias/andrias_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Andrias#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/an/andrias/andrias_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Andrias">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Andrias#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Giant_salamander#family"><rdfs:label>Cryptobranchidae</rdfs:label><wo:genus rdf:resource="/nature/life/Andrias#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Salamander#order"><rdfs:label>Caudata</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Amphibian#class"><rdfs:label>Amphibia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Chinese_giant_salamander#genus"><rdfs:label>Chinese giant salamander</rdfs:label><wo:genus rdf:resource="/nature/life/Andrias#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Japanese_giant_salamander#genus"><rdfs:label>Japanese giant salamander</rdfs:label><wo:genus rdf:resource="/nature/life/Andrias#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

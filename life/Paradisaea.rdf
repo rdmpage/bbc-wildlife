@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Paradisaea">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Paradisaea#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Paradisaea#genus">
+				<rdfs:label>Paradisaea</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Paradisaea#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pa/paradisaea/paradisaea_1.jpg"/>
+
+				<dc:description>Paradisaea is the genus of birds of paradise that contains the world's most spectacular species. The males of the seven species, all of which are native to Indonesia and Papua New Guinea, boast some of the most impressive ornamental plumes and long tail wires of any of the birds of paradise. Their amazing plumage is shown off to the females in a display area, or lek. Species in this group include the iconic greater bird of paradise.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Paradisaea"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Birds_of_Paradise#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Paradisaea#name">
+				<rdfs:label>Paradisaea</rdfs:label>
+														<wo:scientificName>Paradisaea</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Paradisaeidae</wo:familyName><wo:genusName>Paradisaea</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/pa/paradisaea/paradisaea_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Paradisaea#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/pa/paradisaea/paradisaea_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Paradisaea">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Paradisaea#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Paradisaea.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Paradisaea#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/104657">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Paradisaea#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Birds_of_Paradise#family"><rdfs:label>Paradisaeidae</rdfs:label><wo:genus rdf:resource="/nature/life/Paradisaea#genus"/><wo:genus rdf:resource="/nature/life/Cicinnurus#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Parotia#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Raggiana_Bird_of_Paradise#genus"><rdfs:label>Raggiana bird of paradise</rdfs:label><wo:genus rdf:resource="/nature/life/Paradisaea#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Blue_Bird_of_Paradise#genus"><rdfs:label>Blue bird of paradise</rdfs:label><wo:genus rdf:resource="/nature/life/Paradisaea#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

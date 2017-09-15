@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Bear">
+		<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Bear#family">
+				<rdfs:label>Bears</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Bear#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/bear/bear_1.jpg"/>
+
+				<dc:description>Bears are one of the most recognisable and iconic families of animals. The eight living species include the <a href="/nature/life/Spectacled_Bear">spectacled</a>, sun and sloth bears alongside the more familiar <a href="/nature/life/Polar_bear">polar bear</a> and <a href="/nature/life/Giant_Panda">giant panda</a>. Young bears are born in protective dens as they are very small, blind and deaf. But they are not <a href="/nature/adaptations/Altricial">helpless</a> for long, developing and gaining weight rapidly. 
+<br />
+<br />
+Most bears are very general in their <a href="/nature/habitats">habitats</a>; they can be found roaming Arctic <a href="/nature/habitats/Tundra">tundra</a>, tropical <a href="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests">forests</a> and even <a href="/nature/habitats/Deserts_and_xeric_shrublands">deserts</a>. Six species also have an opportunistic and varied diet relying on the habitat and season for their selection of animals and plants. The two dietary specialists are the mostly <a href="/nature/adaptations/Carnivore">carnivorous</a> <a href="/nature/life/Polar_bear">polar bear</a> and the <a href="/nature/life/Bamboo">bamboo</a>-eating <a href="/nature/life/Giant_Panda">giant panda</a>.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bear"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Bear#name">
+				<rdfs:label>Ursidae</rdfs:label>
+				        <wo:commonName>Bears</wo:commonName>
+        										<wo:scientificName>Ursidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Ursidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/b/be/bear/bear_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Bear#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/b/be/bear/bear_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Bear">
+		<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Ursidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bearbiology.com/iba/bears-of-the-world.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.medvede.sk/index1.php?action=zivot">
+			<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-22220384">
+			<dc:title>Debate on bringing back wild bears</dc:title>
+			<dc:description>Wildlife experts are to discuss whether large animals that were native to Scotland in the distant past could one day be reintroduced.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/15559929">
+			<dc:title>Ancient bear had strongest bite</dc:title>
+			<dc:description>The largest bear that ever lived also had the strongest bite of any land mammal, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8383000/8383070.stm">
+			<dc:title>Save 'special' carnivores plea</dc:title>
+			<dc:description>Certain carnivores are so unique that special efforts should be made to save them, a study finds.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Bear#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label><wo:family rdf:resource="/nature/life/Bear#family"/><wo:family rdf:resource="/nature/life/Canidae#family"/><wo:family rdf:resource="/nature/life/Felidae#family"/><wo:family rdf:resource="/nature/life/Mongoose#family"/><wo:family rdf:resource="/nature/life/Hyena#family"/><wo:family rdf:resource="/nature/life/Mustelidae#family"/><wo:family rdf:resource="/nature/life/Procyonidae#family"/><wo:family rdf:resource="/nature/life/Ailuridae#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Eupleridae#family"/><wo:family rdf:resource="/nature/life/Bear_dog#family"/></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Giant_Panda#family"><rdfs:label>Giant panda</rdfs:label><wo:family rdf:resource="/nature/life/Bear#family"/></wo:Species><wo:Species rdf:about="/nature/life/Spectacled_Bear#family"><rdfs:label>Spectacled bear</rdfs:label><wo:family rdf:resource="/nature/life/Bear#family"/></wo:Species><wo:Genus rdf:about="/nature/life/Ursus_(genus)#family"><rdfs:label>Black, brown and polar bears</rdfs:label><wo:family rdf:resource="/nature/life/Bear#family"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

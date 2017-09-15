@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Polar_bear">
+		<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Polar_bear#species">
+				<rdfs:label>Polar bear</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Polar_bear#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/po/polar_bear/polar_bear_1.jpg"/>
+
+				<dc:description>Remarkable adaptations allow polar bears to live in the frozen <a href="/nature/places/Arctic">Arctic</a>, but global warming is destroying their <a href="/nature/habitats/Polar_region">habitat</a> and leaving them seriously endangered. Despite being <a href="/nature/adaptations/Altricial">born deaf and blind</a> beneath the snow, cubs eventually grow into the most powerful of all four-legged animals.  
+<br />
+<br />
+Using their incredible sense of smell to track their prey, adult polar bears spend most of their lives <a href="/nature/adaptations/Nomad">alone</a>, wandering over the vast tracts of frozen ice in search of blubber-rich prey such as <a href="/nature/life/Earless_seal">seals</a>, <a href="/nature/life/Walrus">walruses</a> and even <a href="/nature/life/Cetacea">whales</a>. They are also remarkably good <a href="/nature/adaptations/Aquatic_locomotion">swimmers</a> and have been spotted over 60 miles from shore.
+<br/>
+<br/>
+<b>Did you know?</b><br/> Polar bears are the largest living land carnivore.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Polar_bear"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hibernation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Kleptoparasitism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Psychrophile#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Torpor#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Polar_bear.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Polar_region#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Ursus_(genus)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Bear#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Polar_bear#name">
+				<rdfs:label>Ursus maritimus</rdfs:label>
+				        <wo:commonName>Polar bear</wo:commonName>
+        										<wo:scientificName>maritimusmaritimus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Ursidae</wo:familyName><wo:genusName>Ursus</wo:genusName><wo:speciesName>maritimus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/po/polar_bear/polar_bear_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Polar_bear#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/po/polar_bear/polar_bear_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p013424q#programme">
+			<dc:title>Polar bear central</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0133zx4#programme">
+			<dc:title>Polar bear hunting</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zc93#programme">
+			<dc:title>Close encounter with a polar bear</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p012zbq7#programme">
+			<dc:title>Miki and Luca playing</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m51sc#programme">
+			<dc:title>Polar bear darting</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00m510c#programme">
+			<dc:title>Bleak future</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7xhv#programme">
+			<dc:title>Vegetarian bears</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7v0z#programme">
+			<dc:title>Swimming lessons</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l7tw8#programme">
+			<dc:title>Ice rub</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l73wf#programme">
+			<dc:title>New family</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l73q3#programme">
+			<dc:title>Naughty corner</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00l4q8g#programme">
+			<dc:title>Searching for a mate</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dhdhv#programme">
+			<dc:title>Polar bear airlift</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00dg1w5#programme">
+			<dc:title>On the menu</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cxrs1#programme">
+			<dc:title>Clever Polar Bear Stalks Seal</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cxrjy#programme">
+			<dc:title>Wild Polar Bears Playing Football!</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctsqy#programme">
+			<dc:title>Coming out</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctslv#programme">
+			<dc:title>Polar bear life</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctsdm#programme">
+			<dc:title>Bear whiteout</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cts8p#programme">
+			<dc:title>Caring, sharing bears</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctpnj#programme">
+			<dc:title>Bear alert</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctlk4#programme">
+			<dc:title>Swimming polar bears</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00ctkkz#programme">
+			<dc:title>Searching for seals</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bxkf6#programme">
+			<dc:title>Bare bones</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b82z#programme">
+			<dc:title>Grass-eating polar bears</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vb12#programme">
+			<dc:title>Polar bear trek</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038xmr#programme">
+			<dc:title>Polar bear walrus hunt</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382n6#programme">
+			<dc:title>Wary walruses</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382mw#programme">
+			<dc:title>First day out</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00380p2#programme">
+			<dc:title>Polar bear cubs</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00380ky#programme">
+			<dc:title>Polar bear swim</dc:title>
+			<po:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/p/po/polar_bear/mp25094-07.mp3">
+			<dc:title>A polar bear growling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Polar_bear#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Polar_bear">
+		<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Ursus_maritimus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://digimorph.org/specimens/Ursus_maritimus/male/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/polar-bear/ursus-maritimus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/22823">
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.polarbearsinternational.org/sites/default/files/pdf/PolarBearsComprehensive.pdf">
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-20798136">
+			<dc:title>Polar bear row splits campaigners</dc:title>
+			<dc:description>Wildlife campaign groups are at odds over a new attempt to ban the global trade in polar bear parts.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-20140188">
+			<dc:title>Polar bear sanctuary on iceberg</dc:title>
+			<dc:description>The makers of a BBC documentary discover a hitherto unknown polar bear sanctuary in the Arctic.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17762196">
+			<dc:title>DNA reveals polar bear's origins</dc:title>
+			<dc:description>The polar bear evolved from the brown bear about 600,000 years ago, according to new genetic data.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-16081214">
+			<dc:title>Polar bear 'cannibalism' pictured</dc:title>
+			<dc:description>A photojournalist snaps an image of cannibalism among polar bears - a situation that is becoming more common as sea ice dwindles. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/technology-15824295">
+			<dc:title>Polar bears wait for the freeze</dc:title>
+			<dc:description>A charity is broadcasting live pictures of polar bears in the Canadian tundra via a wireless internet network set up in the wilderness.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-15503106">
+			<dc:title>Polar bear 'better Canada emblem'</dc:title>
+			<dc:description>A Conservative senator wants the polar bear installed as Canada's national emblem - calling the current emblem, a beaver, a "dentally defective rat".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-wiltshire-14671427">
+			<dc:title>Polar bear death boy funeral held</dc:title>
+			<dc:description>The parents of a teenager who was mauled to death by a polar bear in Norway say his funeral was "a wonderful tribute to his achievements".</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-13965286">
+			<dc:title>Polar bears have Irish ancestors</dc:title>
+			<dc:description>The maternal ancestors of modern polar bears were from Ireland, according to a DNA study of ancient brown bear bones.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-12805534">
+			<dc:title>The life and death of a superstar bear</dc:title>
+			<dc:description>The death of Knut, the world's most famous polar bear, has reopened the debate on the ethical minefield of man's relationship with wild animals. Should polar bears be kept in zoos?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9369000/9369317.stm">
+			<dc:title>Bear's epic nine-day 'swimathon'</dc:title>
+			<dc:description>A female polar bear swam continuously for 232 hours, covering 687km, a new study has revealed.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-12058865">
+			<dc:title>Polar bears filmed by 'spy cams'</dc:title>
+			<dc:description>Several hi-tech cameras have cast new light on the world of the polar bear - including a cub's first steps outside its mother's den.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-12065257">
+			<dc:title>Polar bears lose US endanger bid</dc:title>
+			<dc:description>The US upholds a decision classifying polar bears merely as "threatened" rather than "endangered", giving them less protection and angering activists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-us-canada-11836156">
+			<dc:title>Polar bears given Alaska 'haven'</dc:title>
+			<dc:description>The US government designates a huge area in Alaska as a 'critical habitat' for polar bears, raising the hopes of environmentalists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11986236">
+			<dc:title>Polar bear 'could still be saved'</dc:title>
+			<dc:description>Cutting global greenhouse emissions might still save the polar bear, according to scientists in the United States.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11741906">
+			<dc:title>Snow bear fight as pair meet up</dc:title>
+			<dc:description>Park staff are forecasting roar then peace after two polar bears come nose to nose for first time.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11682872">
+			<dc:title>New polar bear in breeding plan</dc:title>
+			<dc:description>A 23-month-old male polar bear is to be brought to Scotland as part of a park's plan to breed the bears.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-south-scotland-10988316">
+			<dc:title>Polar bear threat to Solway geese</dc:title>
+			<dc:description>An Arctic expedition finds polar bears are preying on the eggs of geese who migrate to the south of Scotland each year.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-10897716">
+			<dc:title>Highland Wildlife Park's polar bear weighed</dc:title>
+			<dc:description>The UK's only polar bear is weighed to help her keepers in the Scottish Highlands determine the state of her health.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8700000/8700472.stm">
+			<dc:title>Polar bears face 'tipping point' due to climate change</dc:title>
+			<dc:description>Climate change will trigger a dramatic and sudden decline in the number of polar bears, a new study has concluded.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8622000/8622244.stm">
+			<dc:title>In pictures: Rock climbing polar bears</dc:title>
+			<dc:description>Polar bears have been photographed climbing cliffs while feeding on thick-billed murre eggs, in startling pictures released by scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8531647.stm">
+			<dc:title>Grizzlies encroach on polar bear territory</dc:title>
+			<dc:description>Grizzly bears are being spotted in Manitoba, Canada, where biologists say only polar bears are usually found.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/hudsonbay/stories/polarbearpicnic">
+			<dc:title>Grass-eating polar bears</dc:title>
+			<dc:description>Hudson Bay's polar bears, usually seen against a backdrop of snow and ice, spend the summer eating berries and surprisingly grass.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8457000/8457270.stm">
+			<dc:title>Pollution imperils polar bears</dc:title>
+			<dc:description>Polar bears in the Arctic are suffering a range of potentially fatal ill-effects caused by man-made pollution, a major review reveals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8284000/8284906.stm">
+			<dc:title>Polar bear cub hitches a ride</dc:title>
+			<dc:description>A young cub is seen hitching a ride on its mother's back in the Arctic Ocean, a rarely sighted adaptive behaviour that may help it keep warm.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8214673.stm">
+			<dc:title>Stress' is shrinking polar bears</dc:title>
+			<dc:description>Polar bears have shrunk over the last century, according to research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8139926.stm">
+			<dc:title>Climate role for only polar bear</dc:title>
+			<dc:description>The only polar bear in a UK zoo will be used to help educate visitors to her new home in the Highlands.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/world/americas/8040913.stm">
+			<dc:title>Obama keeps Bush polar bear rules</dc:title>
+			<dc:description>The US government has opted to retain a Bush-era rule that limits protection for polar bears from the effects of global warming.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/expeditions/svalbard/stories/polarbear">
+			<dc:title>Stalked by a polar bear</dc:title>
+			<dc:description></dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/7874602.stm">
+			<dc:title>Polar bear skull defies DNA test</dc:title>
+			<dc:description>A sample taken from what are believed to be the only polar bear remains to have been found in Britain has defied DNA analysis, it has emerged.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7132220.stm">
+			<dc:title>Ancient polar bear jawbone found</dc:title>
+			<dc:description>What may be the oldest known remains of a polar bear have been uncovered on the Svalbard archipelago in the Arctic.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Polar_bear#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hibernation#adaptation">
+					<rdfs:label>Hibernation</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Kleptoparasitism#adaptation">
+					<rdfs:label>Kleptoparasitic</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:ExtremesAdaptation rdf:about="/nature/adaptations/Psychrophile#adaptation">
+					<rdfs:label>Cold tolerant</rdfs:label>
+				</wo:ExtremesAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Torpor#adaptation">
+					<rdfs:label>Torpor</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Polar_region#habitat">
+					<rdfs:label>Polar</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Polar_bear.gif">
+		<dc:title>Map showing the distribution of the Polar bear species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Ursus_(genus)#genus"><rdfs:label>Ursus</rdfs:label><wo:species rdf:resource="/nature/life/Polar_bear#species"/><wo:species rdf:resource="/nature/life/American_Black_Bear#species"/><wo:species rdf:resource="/nature/life/Brown_Bear#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Bear#family"><rdfs:label>Ursidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

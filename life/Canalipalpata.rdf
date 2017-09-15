@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Canalipalpata">
+		<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Canalipalpata#order">
+				<rdfs:label>Bristle-footed worms</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Canalipalpata#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/canalipalpata/canalipalpata_1.jpg"/>
+
+				<dc:description>Canalipalpata are an order of the marine polychaete worms. Species in this order are mostly filter feeders owing to a lack of teeth. Within the known 31 families are some quite remarkable species, including the Pompeii worm that can withstand temperature gradients of 60C (140F) and the multicoloured and spiraled Christmas tree worms which are found burrowing in coral around the world's tropical oceans. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Canalipalpata"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Canalipalpata.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Polychaete#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Annelid#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Canalipalpata#name">
+				<rdfs:label>Canalipalpata</rdfs:label>
+				        <wo:commonName>Bristle-footed worms</wo:commonName>
+        								<wo:commonName>annelids</wo:commonName>
+						<wo:commonName>Fan-head worms</wo:commonName>
+								<wo:scientificName>Canalipalpata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Annelida</wo:phylumName><wo:className>Polychaeta</wo:className><wo:orderName>Canalipalpata</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ca/canalipalpata/canalipalpata_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Canalipalpata#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ca/canalipalpata/canalipalpata_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Canalipalpata">
+		<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="A">
+			<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="2">
+			<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="W">
+			<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="h">
+			<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="C">
+			<foaf:primaryTopic rdf:resource="/nature/order/Canalipalpata#order"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Canalipalpata.gif">
+		<dc:title>Map showing the distribution of the Bristle-footed worms order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Polychaete#class"><rdfs:label>Polychaeta</rdfs:label><wo:order rdf:resource="/nature/life/Canalipalpata#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Annelid#phylum"><rdfs:label>Annelida</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Giant_tube_worm#order"><rdfs:label>Giant tube worm</rdfs:label><wo:order rdf:resource="/nature/life/Canalipalpata#order"/></wo:Species><wo:Species rdf:about="/nature/life/Pompeii_worm#order"><rdfs:label>Pompeii worm</rdfs:label><wo:order rdf:resource="/nature/life/Canalipalpata#order"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

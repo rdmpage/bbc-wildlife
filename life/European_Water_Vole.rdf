@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/European_Water_Vole">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/European_Water_Vole#species">
+				<rdfs:label>European water vole</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/European_Water_Vole#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_water_vole/european_water_vole_1.jpg"/>
+
+				<dc:description>Water voles are widespread around Europe, living in the banks of slow moving rivers, streams and other waterways. The waterside burrows of these strong swimmers have many floor levels that hinder flooding, as well as nesting chambers and a food store for the long winter months. Although water voles are a quick meal for many predators, the UK population suffered a catastrophic level of predation by the American mink. Water voles are often mistaken for rats. Ratty, in Kenneth Grahame's 'The Wind in the Willows', was actually a water vole.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/European_Water_Vole"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Territory_(animal)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/European_Water_Vole.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brownfield_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Lake#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/River#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Cricetidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Rodent#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/European_Water_Vole#name">
+				<rdfs:label>Arvicola amphibius</rdfs:label>
+				        <wo:commonName>European water vole</wo:commonName>
+        								<wo:commonName>Eurasian water vole</wo:commonName>
+						<wo:commonName>Water rat</wo:commonName>
+						<wo:commonName>Water vole</wo:commonName>
+								<wo:scientificName>amphibiusamphibius</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Rodentia</wo:orderName><wo:familyName>Cricetidae</wo:familyName><wo:genusName>Arvicola</wo:genusName><wo:speciesName>amphibius</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/e/eu/european_water_vole/european_water_vole_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/European_Water_Vole#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/e/eu/european_water_vole/european_water_vole_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f9rk2#programme">
+			<dc:title>Water voles: natural swimmers</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01f9kzw#programme">
+			<dc:title>How to spot water voles</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g90gs#programme">
+			<dc:title>A water vole's history of Britain</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00g90d0#programme">
+			<dc:title>Black water voles of Balmoral</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1nz1#programme">
+			<dc:title>Digging competition</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008whl6#programme">
+			<dc:title>Vole's best friend</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008fbxf#programme">
+			<dc:title>Guardians of the future</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081tvz#programme">
+			<dc:title>Vole heaven</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007zcn1#programme">
+			<dc:title>Ratty in the city</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b9fg#programme">
+			<dc:title>Symbol of success</dc:title>
+			<po:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/e/eu/european_water_vole/mp25116-06.mp3">
+			<dc:title>Water vole courtship</dc:title>
+			<dc:subject rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/European_Water_Vole">
+		<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Arvicola_amphibius.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/water-vole/arvicola-terrestris/">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mammal.org.uk/index.php?option=com_content&amp;view=article&amp;id=223&amp;Itemid=256">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.snh.org.uk/publications/on-line/wildlife/voles/decline.asp">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.wildlifearktrust.org/water_vole/index.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23975749">
+			<dc:title>Water voles 'decline by a fifth'</dc:title>
+			<dc:description>Water vole numbers in UK have declined by up to a fifth since 2011, a survey suggests.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/21804627">
+			<dc:title>Ladder link helps voles get out more</dc:title>
+			<dc:description>Isolated water voles in London are given miniature ladders to encourage them to venture further afield.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-21711791">
+			<dc:title>Inside a water vole habitat</dc:title>
+			<dc:description>The BBC's Duncan Kennedy takes a look at the new water vole habitat being built by the Environment Agency on a Dorset river.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-tyne-21211443">
+			<dc:title>Endangered voles set to return</dc:title>
+			<dc:description>An endangered species is set to return to a Northumberland forest more than 30 years after it was wiped out.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-19503827">
+			<dc:title>Voles' epic trips across Scotland</dc:title>
+			<dc:description>Researchers reporting at the British Science Festival show that Scottish water voles make long and perilous journeys far from home in search of mates. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/kent/hi/people_and_places/nature/newsid_9110000/9110331.stm">
+			<dc:title>Water voles are in winning photos</dc:title>
+			<dc:description>Photos by Terry Whittaker of a vole conservation project at Wildwood have won a British Wildlife Photography Award.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/science_and_environment/10345086.stm">
+			<dc:title>Water voles make a comeback in UK</dc:title>
+			<dc:description>The critically endangered water vole is showing signs of a comeback, according to a UK survey.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8659760.stm">
+			<dc:title>Mink 'threat' to Lochalsh and Wester Ross voles</dc:title>
+			<dc:description>Water voles in Lochalsh and Wester Ross are under threat from a non-native predator, Highland Council has warned.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8346632.stm">
+			<dc:title>'Bumper year' for UK water voles</dc:title>
+			<dc:description>A survey of the UK's waterways called 2009 a "bumper year" for water voles, which had been considered to be one of the nation's fastest declining mammals.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/england/suffolk/7946424.stm">
+			<dc:title>Water voles 'mistaken for rats'</dc:title>
+			<dc:description>A wildlife trust has warned that water voles are under threat in Suffolk from people who confuse them with rats.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/European_Water_Vole#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Territory_(animal)#adaptation">
+					<rdfs:label>Territorial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Brownfield_land#habitat">
+					<rdfs:label>Brownfield land</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Lake#habitat">
+					<rdfs:label>Lakes and ponds</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/River#habitat">
+					<rdfs:label>Rivers and streams</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/European_Water_Vole.gif">
+		<dc:title>Map showing the distribution of the European water vole species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Arvicola</rdfs:label><wo:species rdf:resource="/nature/life/European_Water_Vole#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Cricetidae#family"><rdfs:label>Cricetidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Rodent#order"><rdfs:label>Rodentia</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Macaque">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Macaque#genus">
+				<rdfs:label>Macaques</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Macaque#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macaque/macaque_1.jpg"/>
+
+				<dc:description>Macaques are the most widespread <a href="http://www.bbc.co.uk/nature/life/Primate">primates</a> except <a href="http://www.bbc.co.uk/nature/life/Human">humans</a>. They are <a href="http://www.bbc.co.uk/nature/life/Old_World_monkey">Old World monkeys</a> and most have tails. Some macaques, including the <a href="http://www.bbc.co.uk/nature/life/Barbary_macaque">Barbary macaque</a>, have no tails just like <a href="http://www.bbc.co.uk/nature/life/Hominidae">apes</a>. All macaques have powerful jaws, long canine teeth and cheek pouches that can hold the same volume of food as their stomachs. There are currently 22 species of macaque, many of them easily recognised such as the Rhesus macaque. <a href="http://www.bbc.co.uk/nature/places/Europe">Europe's</a> only free-living <a href="http://www.bbc.co.uk/nature/life/Primate">primate</a>, the  <a href="http://www.bbc.co.uk/nature/life/Barbary_macaque">Barbary macaque</a>, is found on Gibraltar. The <a href="http://www.bbc.co.uk/nature/life/Japanese_Macaque">Japanese macaque</a> is the most northerly-living non-human primate.
+<br/>
+<br/>
+<b>Did you know?</b><br/> A macaque's cheek pouches can store the same volume of food as its stomach.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Macaque"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Dominance_hierarchy#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Old_World_monkey#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Primate#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Macaque#name">
+				<rdfs:label>Macaca</rdfs:label>
+				        <wo:commonName>Macaques</wo:commonName>
+        										<wo:scientificName>Macaca</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Primates</wo:orderName><wo:familyName>Cercopithecidae</wo:familyName><wo:genusName>Macaca</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macaque/macaque_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Macaque#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/macaque/macaque_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Macaque">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Macaca.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://pin.primate.wisc.edu/factsheets/links/macaca">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/41559">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23711013">
+			<dc:title>Monkeys down tools as palm oil booms</dc:title>
+			<dc:description>Macaques that wield stone tools are under threat from the growth of illegal rubber farms and palm oil plantations in Thailand.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/18442081">
+			<dc:title>Deer eavesdrop on monkeys for food</dc:title>
+			<dc:description>Sika deer living in the forests of Japan listen in to macaque monkey chatter to find top foraging spots, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-17663133">
+			<dc:title>Social rank 'linked to immunity'</dc:title>
+			<dc:description>A study of monkeys suggests that the assignment of social rank defines immune cell counts and gene expression rather than vice versa.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16494192">
+			<dc:title>Monkeys 'follow friends first'</dc:title>
+			<dc:description>Crested macaque monkeys look to their friends for guidance more than to their family, according to scientists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-pacific-11490575">
+			<dc:title>Malaysian baby killed by monkey</dc:title>
+			<dc:description>A four-day-old girl dies in Malaysia after being snatched from her home by a monkey and dropped from a roof, reports say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macaque#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Dominance_hierarchy#adaptation">
+					<rdfs:label>Hierarchical</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Old_World_monkey#family"><rdfs:label>Cercopithecidae</rdfs:label><wo:genus rdf:resource="/nature/life/Macaque#genus"/><wo:genus rdf:resource="/nature/life/Erythrocebus#genus"/><wo:genus rdf:resource="/nature/life/Baboon#genus"/><wo:genus rdf:resource="/nature/life/Gray_langur#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Lutung#genus"/><wo:genus rdf:resource="/nature/life/#genus"/><wo:genus rdf:resource="/nature/life/Snub-nosed_monkey#genus"/><wo:genus rdf:resource="/nature/life/#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Primate#order"><rdfs:label>Primates</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Japanese_Macaque#genus"><rdfs:label>Japanese macaque</rdfs:label><wo:genus rdf:resource="/nature/life/Macaque#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Barbary_macaque#genus"><rdfs:label>Barbary macaque</rdfs:label><wo:genus rdf:resource="/nature/life/Macaque#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Toque_macaque#genus"><rdfs:label>Toque macaque</rdfs:label><wo:genus rdf:resource="/nature/life/Macaque#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

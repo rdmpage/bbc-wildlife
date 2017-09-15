@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Corvus_(genus)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Corvus_(genus)#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Corvus_(genus)#genus">
+				<rdfs:label>True crows</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Corvus_(genus)#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/corvus_genus/corvus_genus_1.jpg"/>
+
+				<dc:description>True crows are large and usually, but not always, totally black. This genera include some classic species such as jackdaws, rooks and ravens, as well as the various birds termed crow. There are around 40 species of true crow, and they inhabit every continent except the Antarctic and South America. In Britain, the smallest species of true crow is the jackdaw, and the largest is the raven. Aside from all the legends and mythology, crows are well known for their intelligence and use of tools and regularly score highly in intelligence tests.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Corvus_(genus)"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Tool_use_by_animals#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Corvidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Passerine#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Corvus_(genus)#name">
+				<rdfs:label>Corvus</rdfs:label>
+				        <wo:commonName>True crows</wo:commonName>
+        										<wo:scientificName>Corvus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Passeriformes</wo:orderName><wo:familyName>Corvidae</wo:familyName><wo:genusName>Corvus</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/co/corvus_genus/corvus_genus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Corvus_(genus)#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/co/corvus_genus/corvus_genus_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Corvus_(genus)">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Corvus_(genus)#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Corvus.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Corvus_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://users.ox.ac.uk/~kgroup/tools/introduction.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Corvus_(genus)#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/33750">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Corvus_(genus)#genus"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8631486.stm">
+			<dc:title>Clever New Caledonian crows can use three tools</dc:title>
+			<dc:description>New Caledonian crows have given scientists yet another display of their tool-using prowess.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/genus/Corvus_(genus)#genus"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:AnimalIntelligence rdf:about="/nature/adaptations/Tool_use_by_animals#adaptation">
+					<rdfs:label>Tool use</rdfs:label>
+				</wo:AnimalIntelligence>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Corvidae#family"><rdfs:label>Corvidae</rdfs:label><wo:genus rdf:resource="/nature/life/Corvus_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Garrulus#genus"/><wo:genus rdf:resource="/nature/life/Pica_(genus)#genus"/><wo:genus rdf:resource="/nature/life/Chough#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Passerine#order"><rdfs:label>Passeriformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Jackdaw#genus"><rdfs:label>Jackdaw</rdfs:label><wo:genus rdf:resource="/nature/life/Corvus_(genus)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Rook_(bird)#genus"><rdfs:label>Rook</rdfs:label><wo:genus rdf:resource="/nature/life/Corvus_(genus)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Carrion_Crow#genus"><rdfs:label>Carrion crow</rdfs:label><wo:genus rdf:resource="/nature/life/Corvus_(genus)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Common_Raven#genus"><rdfs:label>Raven</rdfs:label><wo:genus rdf:resource="/nature/life/Corvus_(genus)#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Hooded_Crow#genus"><rdfs:label>Hooded crow</rdfs:label><wo:genus rdf:resource="/nature/life/Corvus_(genus)#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

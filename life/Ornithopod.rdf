@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/infraorder/Ornithopod">
+		<foaf:primaryTopic rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+		<rdfs:seeAlso rdf:resource="/nature/infraorder"/>
+	</rdf:Description>
+
+		<wo:Infraorder rdf:about="/nature/life/Ornithopod#infraorder">
+				<rdfs:label>Ornithopod dinosaurs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/infraorder/Ornithopod#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>With some of the most advanced chewing apparatus ever developed by a reptile, ornithopod dinosaurs became a most successful group of herbivorous dinosaurs. They rapidly became a prominent feature on North America's Cretaceous landscape, until they were wiped out by the famous Cretaceous-Tertiary, or K-T, extinction event. Early ornithopods were only about a metre long and could probably run very fast on their hind legs. They evolved to become as large as some of the mighty sauropods, walking and grazing on all four legs, but still using the hind legs for running and reaching up into trees. Notable ornithopods include the duck-billed hadrosaurs and, of course, iguanodon.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ornithopod"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/infraorder/Ornithopod.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:suborder rdf:resource="/nature/life/Cerapoda#suborder"/>
+                                                        <wo:order rdf:resource="/nature/life/Ornithischia#order"/>
+                                                        <wo:superorder rdf:resource="/nature/life/Dinosaur#superorder"/>
+                                                        <wo:class rdf:resource="/nature/life/Reptile#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Infraorder>
+
+			<wo:TaxonName rdf:about="/nature/infraorder/Ornithopod#name">
+				<rdfs:label>Ornithopoda</rdfs:label>
+				        <wo:commonName>Ornithopod dinosaurs</wo:commonName>
+        								<wo:commonName>bird feet</wo:commonName>
+								<wo:scientificName>Ornithopoda</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Reptilia</wo:className><wo:superorderName>Dinosauria</wo:superorderName><wo:orderName>Ornithischia</wo:orderName><wo:suborderName>Cerapoda</wo:suborderName><wo:infraorderName>Ornithopoda</wo:infraorderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Ornithopod">
+		<foaf:primaryTopic rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.dinodata.org/index.php?option=com_content&amp;task=view&amp;id=969&amp;Itemid=104">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.geol.umd.edu/~tholtz/G104/10419orni.htm">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.kheper.net/evolution/dinosauria/Ornithopoda.html">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thescelosaurus.com/ornithopoda.htm">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/diapsids/ornithischia/ornithopoda.html">
+			<foaf:primaryTopic rdf:resource="/nature/infraorder/Ornithopod#infraorder"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/infraorder/Ornithopod.gif">
+		<dc:title>Map showing the distribution of the Ornithopod dinosaurs infraorder</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Suborder rdf:about="/nature/suborder/Cerapoda#suborder"><rdfs:label>Cerapoda</rdfs:label><wo:infraorder rdf:resource="/nature/life/Ornithopod#infraorder"/><wo:infraorder rdf:resource="/nature/life/Ceratopsia#infraorder"/></wo:Suborder><wo:Order rdf:about="/nature/order/Ornithischia#order"><rdfs:label>Ornithischia</rdfs:label></wo:Order><wo:Superorder rdf:about="/nature/superorder/Dinosaur#superorder"><rdfs:label>Dinosauria</rdfs:label></wo:Superorder><wo:Class rdf:about="/nature/class/Reptile#class"><rdfs:label>Reptilia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Genus rdf:about="/nature/life/Iguanodon#infraorder"><rdfs:label>Iguanodons</rdfs:label><wo:infraorder rdf:resource="/nature/life/Ornithopod#infraorder"/></wo:Genus><wo:Family rdf:about="/nature/life/Hadrosaurid#infraorder"><rdfs:label>Duck-billed dinosaurs</rdfs:label><wo:infraorder rdf:resource="/nature/life/Ornithopod#infraorder"/></wo:Family><wo:Genus rdf:about="/nature/life/Leaellynasaura#infraorder"><rdfs:label>Leaellynasaura</rdfs:label><wo:infraorder rdf:resource="/nature/life/Ornithopod#infraorder"/></wo:Genus><wo:Genus rdf:about="/nature/life/Muttaburrasaurus#infraorder"><rdfs:label>Muttaburrasaurus</rdfs:label><wo:infraorder rdf:resource="/nature/life/Ornithopod#infraorder"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

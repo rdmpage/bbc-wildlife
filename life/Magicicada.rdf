@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Magicicada">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Magicicada#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Magicicada#genus">
+				<rdfs:label>Periodical cicadas</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Magicicada#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/magicicada/magicicada_1.jpg"/>
+
+				<dc:description>Large numbers of periodical cicadas emerge from the ground every few years, instead of a few every year like most cicadas. There are three species of 17 year cicadas and four species of 13 year cicadas, the number telling how often they emerge. Both thirteen and seventeen are prime numbers, which makes it difficult for predators to time their own population increases to match what the cicadas are up to. This means there are always more cicadas than the predators can possibly eat!</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Magicicada"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p00bf3fy#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Magicicada.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Cicada#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Hemiptera#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Magicicada#name">
+				<rdfs:label>Magicicada</rdfs:label>
+				        <wo:commonName>Periodical cicadas</wo:commonName>
+        								<wo:commonName>13 year cicadas</wo:commonName>
+						<wo:commonName>17 year cicadas</wo:commonName>
+						<wo:commonName>Seventeen year cicadas</wo:commonName>
+						<wo:commonName>Thirteen year cicadas</wo:commonName>
+								<wo:scientificName>Magicicada</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Hemiptera</wo:orderName><wo:familyName>Cicadidae</wo:familyName><wo:genusName>Magicicada</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/magicicada/magicicada_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Magicicada#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/magicicada/magicicada_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00jdprh#programme">
+			<dc:title>The periodical cicada - safety in numbers</dc:title>
+			<po:subject rdf:resource="/nature/genus/Magicicada#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003x6js#programme">
+			<dc:title>17 year swarm</dc:title>
+			<po:subject rdf:resource="/nature/genus/Magicicada#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038rnl#programme">
+			<dc:title>Periodical cicadas</dc:title>
+			<po:subject rdf:resource="/nature/genus/Magicicada#genus"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/ma/magicicada/5041095.mp3">
+			<dc:title>Periodical cicada stridulation</dc:title>
+			<dc:subject rdf:resource="/nature/genus/Magicicada#genus"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Magicicada">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Magicicada#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Magicicada.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Magicicada#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://insects.ummz.lsa.umich.edu/fauna/michigan_cicadas/Periodical/">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Magicicada#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.audubonmagazine.org/truenature/truenature0005.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Magicicada#genus"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3fy#collection">
+				<dc:title>George's marvellous minibeasts</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Magicicada.gif">
+		<dc:title>Map showing the distribution of the Periodical cicadas genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Cicada#family"><rdfs:label>Cicadidae</rdfs:label><wo:genus rdf:resource="/nature/life/Magicicada#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Hemiptera#order"><rdfs:label>Hemiptera</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

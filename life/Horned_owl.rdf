@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Horned_owl">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Horned_owl#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Horned_owl#genus">
+				<rdfs:label>Horned owls</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Horned_owl#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ho/horned_owl/horned_owl_1.jpg"/>
+
+				<dc:description>This small family of true owls is characterised by ear tufts that resemble horns, though some of the 20 or so members don't have them. The horned owl group contains the eagle owls, fish owls and the snowy owl. Most are superb hunters whose cryptic plumage allows them to sneak up on prey - none more effectively than the snowy owl in a snowy landscape. Find out more about these owls by following the image links below where the stunning slow-motion strike of an eagle owl on an unsuspecting giant gerbil awaits.     </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Horned_owl"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									
+				
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/True_owl#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Owl#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Horned_owl#name">
+				<rdfs:label>Bubo</rdfs:label>
+				        <wo:commonName>Horned owls</wo:commonName>
+        								<wo:commonName>Horned and eagle owls</wo:commonName>
+								<wo:scientificName>Bubo</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Strigiformes</wo:orderName><wo:familyName>Strigidae</wo:familyName><wo:genusName>Bubo</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/h/ho/horned_owl/horned_owl_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Horned_owl#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/h/ho/horned_owl/horned_owl_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0074tgp#programme">
+			<dc:title>Snake in the grass</dc:title>
+			<po:subject rdf:resource="/nature/genus/Horned_owl#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Horned_owl">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Horned_owl#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Bubo.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Horned_owl#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://tolweb.org/Bubo/100925">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Horned_owl#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.owls.org/Species/bubo/bubo.htm">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Horned_owl#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+					
+	
+								
+		
+
+
+
+
+	<wo:Family rdf:about="/nature/family/True_owl#family"><rdfs:label>Strigidae</rdfs:label><wo:genus rdf:resource="/nature/life/Horned_owl#genus"/><wo:genus rdf:resource="/nature/life/Asio#genus"/><wo:genus rdf:resource="/nature/life/Athene_(owl)#genus"/><wo:genus rdf:resource="/nature/life/Strix_(genus)#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Owl#order"><rdfs:label>Strigiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Eurasian_Eagle-owl#genus"><rdfs:label>Eurasian eagle owl</rdfs:label><wo:genus rdf:resource="/nature/life/Horned_owl#genus"/></wo:Species><wo:Species rdf:about="/nature/life/Snowy_Owl#genus"><rdfs:label>Snowy owl</rdfs:label><wo:genus rdf:resource="/nature/life/Horned_owl#genus"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

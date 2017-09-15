@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Gray_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Gray_Seal#species">
+				<rdfs:label>Grey seal</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Gray_Seal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_seal/gray_seal_1.jpg"/>
+
+				<dc:description>Grey seals are the largest breeding seals found in the <a href="http://www.bbc.co.uk/nature/places/United_Kingdom">UK</a>. Half of the world's population of grey seals are found around British coasts, and numbers here have doubled since 1960. In the autumn, females congregate at traditional pupping sites called rookeries. Pups weigh 14 kilograms at <a href="http://www.bbc.co.uk/nature/adaptations/Vivipary">birth</a>, but since their mother's milk contains 60% fat, they quickly balloon and develop the blubber layer essential for maintaining body temperature out at <a href="http://www.bbc.co.uk/nature/habitats/Neritic_zone">sea</a>. When feeding, these seals can dive to a depth of 70 metres.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Gray_Seal"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Aquatic_locomotion#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Colony_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nomad#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polygyny#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bdxqw#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00j5jg4#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxfvq#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gray_Seal.gif"/>
+		
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Brackish#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Coast#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Estuary#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Intertidal_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Neritic_zone#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Polar_region#habitat"/>
+        					        				    								
+					
+                                                                                        <wo:family rdf:resource="/nature/life/Earless_seal#family"/>
+                                                        <wo:superfamily rdf:resource="/nature/life/Pinniped#superfamily"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Gray_Seal#name">
+				<rdfs:label>Halichoerus grypus</rdfs:label>
+				        <wo:commonName>Grey seal</wo:commonName>
+        								<wo:commonName>Atlantic grey seal</wo:commonName>
+						<wo:commonName>Horsehead seal</wo:commonName>
+								<wo:scientificName>grypusgrypus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:superfamilyName>Pinnipedia</wo:superfamilyName><wo:familyName>Phocidae</wo:familyName><wo:genusName>Halichoerus</wo:genusName><wo:speciesName>grypus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/g/gr/gray_seal/gray_seal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Gray_Seal#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/g/gr/gray_seal/gray_seal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hxvyh#programme">
+			<dc:title>Moulting seals</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p015rtzn#programme">
+			<dc:title>Walney Island seals</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00lr2ds#programme">
+			<dc:title>Secret seals</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00gvfpp#programme">
+			<dc:title>Seal secret weapons</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00fdls5#programme">
+			<dc:title>Grey seals on Bardsey Island</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cq3k2#programme">
+			<dc:title>Designed to dive</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c4m3n#programme">
+			<dc:title>Stormy seal pups</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1pg1#programme">
+			<dc:title>Scent of love</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1np1#programme">
+			<dc:title>Ice age legacy</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1m37#programme">
+			<dc:title>Grey seal mating</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bwdql#programme">
+			<dc:title>Tough love</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bwdbw#programme">
+			<dc:title>Unsure on shore</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008r33j#programme">
+			<dc:title>Seal cycle</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008dt8n#programme">
+			<dc:title>Flippering brilliant!</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008cw24#programme">
+			<dc:title>North Norfolk's seals</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p008cnhq#programme">
+			<dc:title>Common or harbour?</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0081f9d#programme">
+			<dc:title>Seal watching</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yyhh#programme">
+			<dc:title>Terrible timing</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yfmv#programme">
+			<dc:title>Feel good factor</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006fbhz#programme">
+			<dc:title>Changing times</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k8tn#programme">
+			<dc:title>Seal blubber</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0039rd4#programme">
+			<dc:title>Cave calls</dc:title>
+			<po:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/gray_seal/aw07audiohighlight08.mp3">
+			<dc:title>Singing seals</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/gray_seal/aw07audiohighlight09.mp3">
+			<dc:title>Seal pup calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/gray_seal/aw07audiohighlight10.mp3">
+			<dc:title>Seal calls</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/gray_seal/nhs989-08.mp3">
+			<dc:title>Grey seal pup</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/gray_seal/nhs989-12.mp3">
+			<dc:title>grey seals mating</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</dctypes:Sound>
+				<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/g/gr/gray_seal/nhs989-13.mp3">
+			<dc:title>Grey seal colony</dc:title>
+			<dc:subject rdf:resource="/nature/species/Gray_Seal#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Gray_Seal">
+		<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Halichoerus_grypus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/grey-seal-(eastern-atlantic-population)/halichoerus-grypus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.greyseal.net/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.pinnipeds.org/species/grey.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.welshwildlife.org/Greyseals_en.link">
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-20989664">
+			<dc:title>Winterwatch: Seals at Blakeney</dc:title>
+			<dc:description>The record breeding behaviour of Norfolk's Blakeney seal colony has been captured by BBC wildlife cameras for Winterwatch 2013.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-tyne-20083254">
+			<dc:title>Island sees birth of 'twin seals'</dc:title>
+			<dc:description>Wildlife experts believe the first ever twin seals have been born on the Farne Islands, off the Northumberland coast.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-isle-of-man-19663098">
+			<dc:title>Seal calf season prompts warning</dc:title>
+			<dc:description>Wildlife experts in the Isle of Man issue a seal pup warning ahead of the annual breeding season.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-15853505">
+			<dc:title>Seals' personalities affect pups</dc:title>
+			<dc:description>Grey seals have different types of personality that affect how they guard and care for their young, according to new research.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9134000/9134947.stm">
+			<dc:title>Baby seals face survival dilemma</dc:title>
+			<dc:description>Grey seals pups face a potential life of death decision: whether to stay ashore and fatten up, or take to sea and learn how to swim.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/guernsey/hi/people_and_places/nature/newsid_9135000/9135125.stm">
+			<dc:title>Looking after a stranded seal pup</dc:title>
+			<dc:description>A stranded seal pup found near Vazon could prove a challenge for the GSPCA Animal Shelter as the bring it back to health.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-lincolnshire-11475981">
+			<dc:title>Plea to walkers over seal deaths</dc:title>
+			<dc:description>People are urged not to disturb seals at a colony in Lincolnshire after a rise in the number of pup deaths.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11373000">
+			<dc:title>Inuit loophole for seal sporrans</dc:title>
+			<dc:description>Skin from seals hunted by the Inuit could be used to make sporrans despite a European Union trade ban.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-northern-ireland-11220052">
+			<dc:title>Concern at 'violent seal deaths'</dc:title>
+			<dc:description>Concerns are expressed after several seals which suffered violent deaths - including some which were beheaded - were found in County Down.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-11113877">
+			<dc:title>Clues found in North Norfolk seal death mystery</dc:title>
+			<dc:description>Investigators examining the deaths of seals found with lacerations on beaches in North Norfolk believe a boat's propeller is responsible. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/11092145">
+			<dc:title>Experts clash over seal deaths cause</dc:title>
+			<dc:description>The mystery surrounding the so-called "corkscrew" injuries found on dead seals sparks a debate among experts with one camp blaming sharks and the other blaming boat propellers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-11062330">
+			<dc:title>Clue to mysterious 'corkscrew' seal deaths</dc:title>
+			<dc:description>A Canadian researcher says she may have solved the mystery deaths of more than 50 seals washed up along the UK's coast.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cornwall-11002063">
+			<dc:title>Study of south west seals unlocks migration secrets</dc:title>
+			<dc:description>Volunteers are studying seals off the south west coast to establish migration patterns.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-10995456">
+			<dc:title>Grey seals project off Cornwall coast gives hope</dc:title>
+			<dc:description>Conservationists are hoping a project on the Cornish coastline will help increase the numbers of grey seals by providing them with sanctuary.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-10968630">
+			<dc:title>Mystery deaths of dozens of seals off Norfolk coast</dc:title>
+			<dc:description>Police have set up special sea patrols off North Norfolk after the deaths of 38 seals that were found with mysterious injuries.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-norfolk-10962076">
+			<dc:title>Police probe after dead seals wash up in North Norfolk</dc:title>
+			<dc:description>The deaths of seals found with lacerations on beaches in North Norfolk are being investigated by police.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-10976201">
+			<dc:title>'Corkscrew' seal deaths probed</dc:title>
+			<dc:description>The mysterious deaths of more than 30 seals washed up along the east coast of Scotland and England in the past two years are investigated.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-mid-wales-10899553">
+			<dc:title>Boating plan will protect Ceredigion marine life</dc:title>
+			<dc:description>Sea-goers in Ceredigion are being asked to follow a recreational boating plan aimed at protecting marine life.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/8301997.stm">
+			<dc:title>Fisherman allowed to shoot seals</dc:title>
+			<dc:description>Some fishermen off the coast of Northumbria have been given permission to take drastic action against grey seals because they are eating their fish stocks.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Gray_Seal#species"/>
+		</foaf:Document>
+			
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Aquatic_locomotion#adaptation">
+					<rdfs:label>Adapted to swimming</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Colony_(biology)#adaptation">
+					<rdfs:label>Colonial</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nomad#adaptation">
+					<rdfs:label>Nomadic</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Polygyny#adaptation">
+					<rdfs:label>Polygynous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:FreshwaterHabitat rdf:about="/nature/habitats/Brackish#habitat">
+					<rdfs:label>Brackish water</rdfs:label>
+				</wo:FreshwaterHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Coast#habitat">
+					<rdfs:label>Coastal</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Estuary#habitat">
+					<rdfs:label>Estuaries</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Intertidal_zone#habitat">
+					<rdfs:label>Intertidal zone</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:MarineHabitat rdf:about="/nature/habitats/Neritic_zone#habitat">
+					<rdfs:label>Shallow seas</rdfs:label>
+				</wo:MarineHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Polar_region#habitat">
+					<rdfs:label>Polar</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bdxqw#collection">
+				<dc:title>Wild autumn</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00j5jg4#collection">
+				<dc:title>Seaside spectacular</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxfvq#collection">
+				<dc:title>Baby Animals</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Gray_Seal.gif">
+		<dc:title>Map showing the distribution of the Grey seal species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Halichoerus</rdfs:label><wo:species rdf:resource="/nature/life/Gray_Seal#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Earless_seal#family"><rdfs:label>Phocidae</rdfs:label></wo:Family><wo:Superfamily rdf:about="/nature/superfamily/Pinniped#superfamily"><rdfs:label>Pinnipedia</rdfs:label></wo:Superfamily><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

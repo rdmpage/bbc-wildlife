@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/genus/Macrauchenia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Macrauchenia#genus"/>
+		<rdfs:seeAlso rdf:resource="/nature/genus"/>
+	</rdf:Description>
+
+		<wo:Genus rdf:about="/nature/life/Macrauchenia#genus">
+				<rdfs:label>Macrauchenia</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/genus/Macrauchenia#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macrauchenia/macrauchenia_1.jpg"/>
+
+				<dc:description>The first Macrauchenia skeleton was actually discovered by Charles Darwin on a stop-over on his famous journey on board The Beagle. Since then many more remains have been found in the Lujan formation in Argentina. Although this animal looked like it should be a member of the camel family, it was actually related to a group of animals that no longer exists - the litopterns. Its strange skull suggests that it had a muscular proboscis. Little work has been done on Macrauchenia, but its ankle joints and shin bones seem to be adapted for extreme mobility, allowing it to twist and turn to avoid pursuers at high speed.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Macrauchenia"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Herbivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Macrauchenia.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:family rdf:resource="/nature/life/Macraucheniidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Litopterna#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Genus>
+
+			<wo:TaxonName rdf:about="/nature/genus/Macrauchenia#name">
+				<rdfs:label>Macrauchenia</rdfs:label>
+												<wo:commonName>long llama</wo:commonName>
+								<wo:scientificName>Macrauchenia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Litopterna</wo:orderName><wo:familyName>Macraucheniidae</wo:familyName><wo:genusName>Macrauchenia</wo:genusName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/ma/macrauchenia/macrauchenia_1.jpg">
+		<foaf:depicts rdf:resource="/nature/genus/Macrauchenia#genus"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/ma/macrauchenia/macrauchenia_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk4jx#programme">
+			<dc:title>Pack tactics</dc:title>
+			<po:subject rdf:resource="/nature/genus/Macrauchenia#genus"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bk263#programme">
+			<dc:title>Unusual creatures</dc:title>
+			<po:subject rdf:resource="/nature/genus/Macrauchenia#genus"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Macrauchenia">
+		<foaf:primaryTopic rdf:resource="/nature/genus/Macrauchenia#genus"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://blog.everythingdinosaur.co.uk/blog/_archives/2009/12/19/4408483.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macrauchenia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://weburbanist.com/wp-content/uploads/2010/01/Macrauchenia.gif">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macrauchenia#genus"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeos.com/Vertebrates/Units/510Ungulatomorpha/510.500.html">
+			<foaf:primaryTopic rdf:resource="/nature/genus/Macrauchenia#genus"/>
+		</foaf:Document>
+			
+					
+											<wo:FeedingHabit rdf:about="/nature/adaptations/Herbivore#adaptation">
+					<rdfs:label>Herbivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/genus/Macrauchenia.gif">
+		<dc:title>Map showing the distribution of the Macrauchenia genus</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Family rdf:about="/nature/family/Macraucheniidae#family"><rdfs:label>Macraucheniidae</rdfs:label><wo:genus rdf:resource="/nature/life/Macrauchenia#genus"/></wo:Family><wo:Order rdf:about="/nature/order/Litopterna#order"><rdfs:label>Litopterna</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

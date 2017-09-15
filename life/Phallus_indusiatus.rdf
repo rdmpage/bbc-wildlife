@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Phallus_indusiatus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Phallus_indusiatus#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Phallus_indusiatus#species">
+				<rdfs:label>Bridal veil stinkhorn</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Phallus_indusiatus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phallus_indusiatus/phallus_indusiatus_1.jpg"/>
+
+				<dc:description>Bridal veil stinkhorns are fungi that grow in rainforest leaf litter. They get their name from the veil formation that hangs down from the cap. Despite their pretty appearance, they usually smell appalling, as their aim is to attract carrion eating flies which then distribute the spores. Uncommon in the wild, the stinkhorn is now cultivated for use in Chinese cuisine and medicine.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Phallus_indusiatus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Phallus_indusiatus.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                                                                                                                <wo:phylum rdf:resource="/nature/life/Basidiomycota#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Fungus#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Phallus_indusiatus#name">
+				<rdfs:label>Phallus indusiatus</rdfs:label>
+				        <wo:commonName>Bridal veil stinkhorn</wo:commonName>
+        								<wo:commonName>Crinoline stinkhorn</wo:commonName>
+						<wo:commonName>Long net stinkhorn</wo:commonName>
+						<wo:commonName>Veiled lady</wo:commonName>
+								<wo:scientificName>indusiatusindusiatus</wo:scientificName>
+		<wo:kingdomName>fungi</wo:kingdomName><wo:phylumName>Basidiomycota</wo:phylumName><wo:className>Agaricomycetes</wo:className><wo:orderName>Phallales</wo:orderName><wo:familyName>Phallaceae</wo:familyName><wo:genusName>Phallus</wo:genusName><wo:speciesName>indusiatus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/p/ph/phallus_indusiatus/phallus_indusiatus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Phallus_indusiatus#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/p/ph/phallus_indusiatus/phallus_indusiatus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0038s7f#programme">
+			<dc:title>Fungal timelapse</dc:title>
+			<po:subject rdf:resource="/nature/species/Phallus_indusiatus#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Phallus_indusiatus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Phallus_indusiatus#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://cms.jcu.edu.au/discovernature/fungicommon/JCUDEV_012533">
+			<foaf:primaryTopic rdf:resource="/nature/species/Phallus_indusiatus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/189001">
+			<foaf:primaryTopic rdf:resource="/nature/species/Phallus_indusiatus#species"/>
+		</foaf:Document>
+			
+					
+											<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Phallus_indusiatus.gif">
+		<dc:title>Map showing the distribution of the Bridal veil stinkhorn species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/#genus"><rdfs:label>Phallus</rdfs:label><wo:species rdf:resource="/nature/life/Phallus_indusiatus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/#family"><rdfs:label>Phallaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/#order"><rdfs:label>Phallales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/#class"><rdfs:label>Agaricomycetes</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Basidiomycota#phylum"><rdfs:label>Basidiomycota</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Fungus#kingdom"><rdfs:label>fungi</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

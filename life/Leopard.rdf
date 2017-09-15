@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Leopard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Leopard#species">
+				<rdfs:label>Leopard</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Leopard#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/leopard/leopard_1.jpg"/>
+
+				<dc:description>Its muscular yet graceful stealth makes the leopard a prize sighting on safari, but it's not just spots that make for super-effective <a href="/nature/adaptations/Camouflage">camouflage</a>. The black form can be just as elusive in the forest, remaining unseen only a few metres away, the twitch of a tail the only giveaway to its resting place on a tree branch. Leopards are skilled <a href="/nature/adaptations/Climbing">climbers</a>, carrying carcasses heavier than themselves up trees and descending head first. There are recognised subspecies living in <a href="/nature/places/Africa">Africa</a>, <a href="/nature/places/Asia">Asia</a> and the Middle East, and may be others as yet unidentified. Leopards were once found from the British Isles to Japan.
+<br/>
+<br/>
+<b>Did you know?</b><br/> A leopard can be individually identified by the pattern of spots on its coat.
+<br/></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Leopard"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Altricial#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Camouflage#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Maternal_effect#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Nocturnality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Polymorphism_(biology)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Semiochemical#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Vivipary#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p0085njx#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00db3b8#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p011x1yq#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Flooded_grasslands_and_savannas#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mangrove#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Panthera#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Felidae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Carnivora#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Mammal#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Leopard#name">
+				<rdfs:label>Panthera pardus</rdfs:label>
+				        <wo:commonName>Leopard</wo:commonName>
+        										<wo:scientificName>parduspardus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Mammalia</wo:className><wo:orderName>Carnivora</wo:orderName><wo:familyName>Felidae</wo:familyName><wo:genusName>Panthera</wo:genusName><wo:speciesName>pardus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/l/le/leopard/leopard_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Leopard#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/l/le/leopard/leopard_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0154vtz#programme">
+			<dc:title>Encounter with an Arabian leopard</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8f35#programme">
+			<dc:title>Elusive leopards</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8dyd#programme">
+			<dc:title>Amur leopard triplets</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00k8dxl#programme">
+			<dc:title>Spot check</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4gmh#programme">
+			<dc:title>Meat and gravity</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4gd3#programme">
+			<dc:title>Leopards move out</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4fxb#programme">
+			<dc:title>Leopard magic</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00f4fjr#programme">
+			<dc:title>Warthog encounter</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c283l#programme">
+			<dc:title>Black leopard</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bpl7j#programme">
+			<dc:title>Ancient Wales</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b6z73#programme">
+			<dc:title>Hot cats in camp</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b3jz0#programme">
+			<dc:title>Safe haven</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p009wwg7#programme">
+			<dc:title>Leopard in a Storm</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vqv#programme">
+			<dc:title>On the brink</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vqh#programme">
+			<dc:title>Perfect predator</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vq0#programme">
+			<dc:title>Stealthy stalkers</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vpl#programme">
+			<dc:title>Jungle police</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vp0#programme">
+			<dc:title>Terrorising the troop</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vnj#programme">
+			<dc:title>Black panthers</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vn4#programme">
+			<dc:title>Leopard noticeboards</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vmm#programme">
+			<dc:title>Village hunter</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0060vm5#programme">
+			<dc:title>Night cover</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00382tn#programme">
+			<dc:title>Amur leopards</dc:title>
+			<po:subject rdf:resource="/nature/species/Leopard#species"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/l/le/leopard/nhc27-12.mp3">
+			<dc:title>Leopard growling</dc:title>
+			<dc:subject rdf:resource="/nature/species/Leopard#species"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Leopard">
+		<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Panthera_pardus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/leopard/panthera-pardus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.awf.org/content/wildlife/detail/leopard">
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/details/15954/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.leopardcon.co.za/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.predatorconservation.com/leopard.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-asia-india-19754587">
+			<dc:title>Four leopards poached 'per week'</dc:title>
+			<dc:description>At least four leopards are poached every week in India, according to a new study by a group of conservationists. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-18196350">
+			<dc:title>Rare Arabian leopard in need of safe corridors</dc:title>
+			<dc:description>Conservationists edge closer to releasing the Arabian leopard back into the wild after a decade long breeding programme. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/17707022">
+			<dc:title>Reserve for world's rarest cats</dc:title>
+			<dc:description>Russia creates a 1,000 square mile protected reserve to safeguard the habitat of the Amur leopard and Amur tiger  - the world's rarest cats. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/nature/16282718">
+			<dc:title>Rare cats in Russia's wilderness</dc:title>
+			<dc:description>Wildlife vets track the world's rarest big cats in the forests of Russia, in an attempt to save them from extinction. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11575214">
+			<dc:title>On how the leopard got its spots</dc:title>
+			<dc:description>The patterns of leopards' spots and tigers' stripes are a camouflage related to their individual habitats, researchers say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-wales-mid-wales-11403420">
+			<dc:title>Animals taken away as zoo fined</dc:title>
+			<dc:description>A leopard and a lynx are to be confiscated from a Ceredigion zoo after its owners admit displaying animals without the proper paperwork.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8993000/8993557.stm">
+			<dc:title>'Trophy lion' hunts unsustainable</dc:title>
+			<dc:description>Lion and leopard numbers in Tanzania will crash unless fewer big cats are killed by trophy hunters, say conservation experts.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Leopard#species"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Altricial#adaptation">
+					<rdfs:label>Helpless young</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Camouflage#adaptation">
+					<rdfs:label>Camouflage</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Hoarding_(animal_behaviour)#adaptation">
+					<rdfs:label>Food storage</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Maternal_effect#adaptation">
+					<rdfs:label>Maternal care</rdfs:label>
+				</wo:LifeCycle>
+												<wo:BehaviouralPattern rdf:about="/nature/adaptations/Nocturnality#adaptation">
+					<rdfs:label>Nocturnal</rdfs:label>
+				</wo:BehaviouralPattern>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Polymorphism_(biology)#adaptation">
+					<rdfs:label>Polymorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Semiochemical#adaptation">
+					<rdfs:label>Chemical communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Vivipary#adaptation">
+					<rdfs:label>Viviparous</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Flooded_grasslands_and_savannas#habitat">
+					<rdfs:label>Flooded grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mangrove#habitat">
+					<rdfs:label>Mangroves</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_coniferous_forests#habitat">
+					<rdfs:label>Tropical coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Tropical grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p0085njx#collection">
+				<dc:title>Going, going, gone</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00db3b8#collection">
+				<dc:title>Jonathan Scott: a wild life in Africa</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p011x1yq#collection">
+				<dc:title>African Wildlife</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Panthera#genus"><rdfs:label>Panthera</rdfs:label><wo:species rdf:resource="/nature/life/Leopard#species"/><wo:species rdf:resource="/nature/life/Lion#species"/><wo:species rdf:resource="/nature/life/Jaguar#species"/><wo:species rdf:resource="/nature/life/Tiger#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Felidae#family"><rdfs:label>Felidae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Carnivora#order"><rdfs:label>Carnivora</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Mammal#class"><rdfs:label>Mammalia</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Mosquito">
+		<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Mosquito#family">
+				<rdfs:label>Mosquitoes</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Mosquito#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/mosquito/mosquito_1.jpg"/>
+
+				<dc:description>Mosquitoes are a family of insects encompassing over 3,500 recognised species. Most are associated with warm and humid regions, although they can be found in cooler areas and even in snow.
+
+Most mosquito species feed on nectar, however, the females of some species drink blood for the nutrients they need to develop eggs. They inject saliva that contains an anti-coagulant to prevent their proboscis from getting clogged up. Mosquitoes transmit diseases such as malaria to many millions of people every year. </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mosquito"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p0057tcr#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p0085nk0#collection"/>
+					
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Mosquito.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Fly#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Insect#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Mosquito#name">
+				<rdfs:label>Culicidae</rdfs:label>
+				        <wo:commonName>Mosquitoes</wo:commonName>
+        										<wo:scientificName>Culicidae</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Arthropoda</wo:phylumName><wo:className>Insecta</wo:className><wo:orderName>Diptera</wo:orderName><wo:familyName>Culicidae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/mosquito/mosquito_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Mosquito#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/mosquito/mosquito_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005fq51#programme">
+			<dc:title>Meat-eating plants</dc:title>
+			<po:subject rdf:resource="/nature/family/Mosquito#family"/>
+		</po:Clip>
+			
+
+		
+						<dctypes:Sound rdf:about="http://downloads.bbc.co.uk/earth/naturelibrary/assets/m/mo/mosquito/541812.mp3">
+			<dc:title>Hum of mosquitoes in flight</dc:title>
+			<dc:subject rdf:resource="/nature/family/Mosquito#family"/>
+		</dctypes:Sound>
+			
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mosquito">
+		<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Culicidae.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://bugguide.net/node/view/169/bgpage">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/dna/h2g2/A588189">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mosquito.org/mosquito-information/mosquito-borne.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.mosquitoes.org/LifeCycle.html">
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/health/4738698.stm">
+			<dc:title>Frog 'key to mosquito repellents'</dc:title>
+			<dc:description>A bottle-green Australian frog may hold the key to future mosquito repellents, a study says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-europe-26193808">
+			<dc:title>Nazis 'researched war mosquitoes'</dc:title>
+			<dc:description>Nazi scientists at Dachau concentration camp investigated the use of malaria-infected mosquitoes as weapons during World War Two, a researcher says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-23987827">
+			<dc:title>Mosquito 'invisibility cloak' found</dc:title>
+			<dc:description>A naturally occurring substance found in human skin could yield a viable alternative to existing mosquito repellent, scientists say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-15491228">
+			<dc:title>GM mosquitoes show fever promise</dc:title>
+			<dc:description>A field study of genetically modified mosquitoes suggests they could be deployed against dengue fever and other tropical diseases.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-14685612">
+			<dc:title>Mystery drop in mosquito numbers</dc:title>
+			<dc:description>Scientists say that malaria-carrying mosquitoes are disappearing in some parts of Africa but the researchers are unsure as to why. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/magazine-14613140">
+			<dc:title>Is the mosquito menace growing in the UK?</dc:title>
+			<dc:description>Mosquito bites are rising dramatically in the UK, so why are the insect's numbers increasing?</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14422440">
+			<dc:title>Spermless mosquitoes hold promise</dc:title>
+			<dc:description>Scientists create spermless mosquitoes - an important first step toward releasing sterile males into the wild in an effort to curb the spread of malaria.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/health-13128327">
+			<dc:title>GM mosquitoes offer malaria hope</dc:title>
+			<dc:description>Scientists believe they are closer to being able to change the genes of wild mosquitoes in order to combat malaria.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9398000/9398408.stm">
+			<dc:title>Mosquito-eater spider likes socks</dc:title>
+			<dc:description>A spider that preys on the malaria-carrying mosquito is attracted to the odour of people's smelly socks, say scientists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-11512691">
+			<dc:title>Scientists make malaria discovery</dc:title>
+			<dc:description>Scientists in Edinburgh discover a gene in the malaria parasite which allows it to resist certain drugs. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-11290268">
+			<dc:title>Mosquito ecology 'must advance'</dc:title>
+			<dc:description>We need to learn more about the ecology of malaria-spreading mosquitoes to capitalise on molecular biology's recent advances, a top scientist says.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/world-south-asia-11241218">
+			<dc:title>Delhi games face disease threat</dc:title>
+			<dc:description>India's Commonwealth Games village in Delhi is being threatened by dengue fever-carrying mosquitoes.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/business-10965062">
+			<dc:title>Mumbai tackles malarial mosquitos for economic health</dc:title>
+			<dc:description>The Indian monsoon season provides mosquitos with the ideal breeding ground, and in Mumbai cases of malaria are on the rise.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/health/8074259.stm">
+			<dc:title>Birth control to combat malaria</dc:title>
+			<dc:description>Mosquito bites can be deadly.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/1/hi/sci/tech/7814404.stm">
+			<dc:title>Mosquitoes make sweet love music</dc:title>
+			<dc:description>Amorous mosquitoes "sing" a mating duet by beating their wings together in harmony, US scientists have discovered.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/family/Mosquito#family"/>
+		</foaf:Document>
+			
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p0057tcr#collection">
+				<dc:title>The wildlife of Life</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p0085nk0#collection">
+				<dc:title>Timelapse photography: speeding up life</dc:title>
+			</wo:Collection>
+					
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Mosquito.gif">
+		<dc:title>Map showing the distribution of the Mosquitoes family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Fly#order"><rdfs:label>Diptera</rdfs:label><wo:family rdf:resource="/nature/life/Mosquito#family"/><wo:family rdf:resource="/nature/life/#family"/><wo:family rdf:resource="/nature/life/Ceratopogonidae#family"/><wo:family rdf:resource="/nature/life/Scathophagidae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Insect#class"><rdfs:label>Insecta</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Arthropod#phylum"><rdfs:label>Arthropoda</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

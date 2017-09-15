@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Red_Kite">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Red_Kite#species">
+				<rdfs:label>Red kite</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Red_Kite#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_kite/red_kite_1.jpg"/>
+
+				<dc:description>The red kite is a striking bird of prey with deep red plumage, a grey head and light eyes. They are recognisable in <a href="http://www.bbc.co.uk/nature/adaptations/Flight">flight</a> by their long and narrow, black-tipped wings and deeply forked tail. They usually <a href="http://www.bbc.co.uk/nature/adaptations/Monogamous_pairing_in_animals">pair for life</a>, building large untidy nests out of sticks in the forks of trees. When the hatchlings are young the female can signal for them to play dead when a predator is near.
+<br />
+<br />
+Primarily a <a href="http://www.bbc.co.uk/nature/adaptations/Scavenger">scavenger</a>, the red kite mostly eats carrion but will also catch small mammals, birds and worms. They live in a wide range of habitats from <a href="http://www.bbc.co.uk/nature/habitats/Ancient_woodland">woodlands</a> and valleys to <a href="http://www.bbc.co.uk/nature/habitats/Wetland">wetland</a> edges and rough pastures. Red kites have suffered rapid population declines due to habitat loss, pesticide usage and persecution.
+<br />
+<br />
+<a href="/nature/19700707">All you need to know about British birds.</a></dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Red_Kite"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Ambush_predator#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Animal_migration#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Carnivore#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Courtship_display#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flight#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Hearing_(sense)#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Monogamous_pairing_in_animals#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Moulting#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Parental_investment#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Presociality#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Scavenger#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Sexual_dimorphism#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Predation#adaptation"/>
+    													
+									<wo:collection rdf:resource="/nature/collections/p00bf3g7#collection"/>
+					
+				
+										    
+    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Deserts_and_xeric_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Montane_grasslands_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Moorland#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_coniferous_forest#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    				    				            					        						<wo:livesIn rdf:resource="/nature/habitats/Wetland#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Milvus#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Accipitridae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Falconiformes#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Bird#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Red_Kite#name">
+				<rdfs:label>Milvus milvus</rdfs:label>
+				        <wo:commonName>Red kite</wo:commonName>
+        										<wo:scientificName>milvusmilvus</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Aves</wo:className><wo:orderName>Falconiformes</wo:orderName><wo:familyName>Accipitridae</wo:familyName><wo:genusName>Milvus</wo:genusName><wo:speciesName>milvus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/r/re/red_kite/red_kite_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Red_Kite#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/r/re/red_kite/red_kite_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p01hxxvv#programme">
+			<dc:title>Ploughing up a meal</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kfw05#programme">
+			<dc:title>Sky safari</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007x9dj#programme">
+			<dc:title>Red kite flight</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007x8wd#programme">
+			<dc:title>Kite flying</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007g7hs#programme">
+			<dc:title>Garden party</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007fncg#programme">
+			<dc:title>Red kite carers</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006l8qz#programme">
+			<dc:title>Rare raptors</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p003k8s9#programme">
+			<dc:title>Kite country</dc:title>
+			<po:subject rdf:resource="/nature/species/Red_Kite#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Red_Kite">
+		<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Milvus_milvus.html">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.arkive.org/red-kite/milvus-milvus/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/wales/nature/sites/species/birds/red_kites.shtml">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.birdguides.com/species/species.asp?sp=030030">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.hawkandowl.org/Species/DiurnalBirdsofPrey/Redkite.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.iucnredlist.org/apps/redlist/details/144330/0">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/index.aspx">
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-south-scotland-20762343">
+			<dc:title>Kite trail spending 'worth £33m'</dc:title>
+			<dc:description>A new report claims a red kite visitor trail in the south of Scotland has helped to generate millions of pounds for the local economy.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-19148359">
+			<dc:title>Missing red kite at 'love nest'</dc:title>
+			<dc:description>A red kite which disappeared from the Highlands is traced to a "love nest" in Aberdeenshire. </dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-18923266">
+			<dc:title>'Waterlogged' red kites rescued</dc:title>
+			<dc:description>A Buckinghamshire wildlife hospital is looking after 18 young red kites which "fell out of trees" after their feathers got wet.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-berkshire-17866195">
+			<dc:title>Kite 'tried to kill Pomeranian'</dc:title>
+			<dc:description>A bird of prey tries to snatch a woman's dog as she walks across a field near her home in Berkshire.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-13429000">
+			<dc:title>Released red kite found shot dead</dc:title>
+			<dc:description>One of the red kites reintroduced into Cumbria after a gap of 160 years is found shot dead.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-13219276">
+			<dc:title>Almost extinct Red Kite returns</dc:title>
+			<dc:description>The RSPB is celebrating the "remarkable" comeback of the Red Kite which had almost become extinct in Britain.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-11264438">
+			<dc:title>Reintroduced red kite shot dead</dc:title>
+			<dc:description>One of a group of red kites, reintroduced into Cumbria for the first time in 160 years, is found shot dead.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-tayside-central-11098865">
+			<dc:title>Red kite found dead was poisoned</dc:title>
+			<dc:description>A red kite found is the latest in a series of animals to be found poisoned near Aberfeldy, police say.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-scotland-tayside-central-11082812">
+			<dc:title>Chiltern red kite's Scottish 'staycation'</dc:title>
+			<dc:description>A red kite from England, which hardly ever leaves its own territory, is spotted 400 miles away in Scotland.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://news.bbc.co.uk/local/cumbria/hi/people_and_places/nature/newsid_8884000/8884192.stm">
+			<dc:title>See images of red kites being returned to Grizedale</dc:title>
+			<dc:description>The first rare red kites have been reintroduced to Cumbria for the first time in 160 years.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.bbc.co.uk/news/uk-england-cumbria-10849991">
+			<dc:title>Red kites returned to Cumbria forest after 160 years</dc:title>
+			<dc:description>The first red kites to be seen in Cumbria for 160 years are released by forest rangers.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/species/Red_Kite#species"/>
+		</foaf:Document>
+			
+											<wo:PredationStrategy rdf:about="/nature/adaptations/Ambush_predator#adaptation">
+					<rdfs:label>Ambush predator</rdfs:label>
+				</wo:PredationStrategy>
+												<wo:SurvivalStrategy rdf:about="/nature/adaptations/Animal_migration#adaptation">
+					<rdfs:label>Migration</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Carnivore#adaptation">
+					<rdfs:label>Carnivorous</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Courtship_display#adaptation">
+					<rdfs:label>Courtship display</rdfs:label>
+				</wo:LifeCycle>
+												<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Flight#adaptation">
+					<rdfs:label>Adapted to flying</rdfs:label>
+				</wo:LocomotionAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Hearing_(sense)#adaptation">
+					<rdfs:label>Acoustic communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Monogamous_pairing_in_animals#adaptation">
+					<rdfs:label>Monogamous</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Moulting#adaptation">
+					<rdfs:label>Moulting</rdfs:label>
+				</wo:LifeCycle>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:LifeCycle rdf:about="/nature/adaptations/Parental_investment#adaptation">
+					<rdfs:label>Parental investment</rdfs:label>
+				</wo:LifeCycle>
+												<wo:SocialBehaviour rdf:about="/nature/adaptations/Presociality#adaptation">
+					<rdfs:label>Social</rdfs:label>
+				</wo:SocialBehaviour>
+												<wo:FeedingHabit rdf:about="/nature/adaptations/Scavenger#adaptation">
+					<rdfs:label>Scavenger</rdfs:label>
+				</wo:FeedingHabit>
+												<wo:MorphologyAdaptation rdf:about="/nature/adaptations/Sexual_dimorphism#adaptation">
+					<rdfs:label>Sexual dimorphism</rdfs:label>
+				</wo:MorphologyAdaptation>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+												<wo:PredationStrategy rdf:about="/nature/adaptations/Predation#adaptation">
+					<rdfs:label>Predator</rdfs:label>
+				</wo:PredationStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Deserts_and_xeric_shrublands#habitat">
+					<rdfs:label>Desert</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Montane_grasslands_and_shrublands#habitat">
+					<rdfs:label>Mountain grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Moorland#habitat">
+					<rdfs:label>Moorland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_coniferous_forest#habitat">
+					<rdfs:label>Coniferous forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_dry_broadleaf_forests#habitat">
+					<rdfs:label>Tropical dry forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Tropical_and_subtropical_moist_broadleaf_forests#habitat">
+					<rdfs:label>Rainforest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:FreshwaterHabitat rdf:about="/nature/habitats/Wetland#habitat">
+					<rdfs:label>Wetlands</rdfs:label>
+				</wo:FreshwaterHabitat>
+						
+	
+									<wo:Collection rdf:about="/nature/collections/p00bf3g7#collection">
+				<dc:title>Life in slow motion</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Milvus#genus"><rdfs:label>Milvus</rdfs:label><wo:species rdf:resource="/nature/life/Red_Kite#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Accipitridae#family"><rdfs:label>Accipitridae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Falconiformes#order"><rdfs:label>Falconiformes</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Bird#class"><rdfs:label>Aves</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>

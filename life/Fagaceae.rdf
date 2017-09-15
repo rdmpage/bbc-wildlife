@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/family/Fagaceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Fagaceae#family"/>
+		<rdfs:seeAlso rdf:resource="/nature/family"/>
+	</rdf:Description>
+
+		<wo:Family rdf:about="/nature/life/Fagaceae#family">
+				<rdfs:label>Beeches and oaks</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/family/Fagaceae#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fa/fagaceae/fagaceae_1.jpg"/>
+
+				<dc:description>Beeches and oaks are best known for their edible fruits. From an oak tree's acorns to the nuts of beech and chestnut trees, these fruits are part of the diet of many animals, including humans. Also recognisable are the alternately arranged, and often lobed, simple leaves and the seperate male and female flowers (catkins). Beeches, oaks and their relatives make up this family of flowering plants that can be deciduous or evergreen and grow either as trees or shrubs. There are around 1,000 species, the majority being oaks, with a wide distribution predominately in the broadleaf forests of the northern hemisphere.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Fagaceae"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Abscission#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Fagaceae.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Fagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Dicotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Family>
+
+			<wo:TaxonName rdf:about="/nature/family/Fagaceae#name">
+				<rdfs:label>Fagaceae</rdfs:label>
+				        <wo:commonName>Beeches and oaks</wo:commonName>
+        								<wo:commonName>Beech family</wo:commonName>
+								<wo:scientificName>Fagaceae</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Magnoliopsida</wo:className><wo:orderName>Fagales</wo:orderName><wo:familyName>Fagaceae</wo:familyName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/f/fa/fagaceae/fagaceae_1.jpg">
+		<foaf:depicts rdf:resource="/nature/family/Fagaceae#family"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/f/fa/fagaceae/fagaceae_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Fagaceae">
+		<foaf:primaryTopic rdf:resource="/nature/family/Fagaceae#family"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.cirrusimage.com/trees_Fagaceae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Fagaceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/4197">
+			<foaf:primaryTopic rdf:resource="/nature/family/Fagaceae#family"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thewildclassroom.com/biodiversity/floweringplants/Fagaceae.htm">
+			<foaf:primaryTopic rdf:resource="/nature/family/Fagaceae#family"/>
+		</foaf:Document>
+			
+					
+											<wo:SurvivalStrategy rdf:about="/nature/adaptations/Abscission#adaptation">
+					<rdfs:label>Shedding body parts</rdfs:label>
+				</wo:SurvivalStrategy>
+												<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Mediterranean_forests,_woodlands,_and_scrub#habitat">
+					<rdfs:label>Mediterranean forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/family/Fagaceae.gif">
+		<dc:title>Map showing the distribution of the Beeches and oaks family</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Fagales#order"><rdfs:label>Fagales</rdfs:label><wo:family rdf:resource="/nature/life/Fagaceae#family"/></wo:Order><wo:Class rdf:about="/nature/class/Dicotyledon#class"><rdfs:label>Magnoliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom><wo:Species rdf:about="/nature/life/Quercus_robur#family"><rdfs:label>English oak</rdfs:label><wo:family rdf:resource="/nature/life/Fagaceae#family"/></wo:Species><wo:Species rdf:about="/nature/life/European_Beech#family"><rdfs:label>Common beech</rdfs:label><wo:family rdf:resource="/nature/life/Fagaceae#family"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

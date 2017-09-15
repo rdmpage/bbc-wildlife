@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/species/Narcissus_pseudonarcissus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		<rdfs:seeAlso rdf:resource="/nature/species"/>
+	</rdf:Description>
+
+		<wo:Species rdf:about="/nature/life/Narcissus_pseudonarcissus#species">
+				<rdfs:label>Daffodil</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/species/Narcissus_pseudonarcissus#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/narcissus_pseudonarcissus/narcissus_pseudonarcissus_1.jpg"/>
+
+				<dc:description>With their striking yellow displays, daffodils are true heralds of spring. Growing from bulbs, daffodils are sizeable wildflowers that have pale yellow outer petals around a dark yellow trumpet. The wild plants are smaller and paler than the many garden varieties and are native to the woods, grassland and rocky places of Western <a href="http://www.bbc.co.uk/nature/places/Europe">Europe</a>. Despite a recent population decline, they are still one of the most common wildflowers of the <a href="http://www.bbc.co.uk/nature/places/United_Kingdom">English and Welsh</a> countryside. Known also as Lent lilies because they <a href="http://www.bbc.co.uk/nature/adaptations/Flower">bloom</a> in early spring and usually drop before Easter, daffodils are also one of the national symbols of Wales.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Narcissus_pseudonarcissus"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Flower#adaptation"/>
+    														     				    					<wo:adaptation rdf:resource="/nature/adaptations/Visual_perception#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Narcissus_pseudonarcissus.gif"/>
+		
+										    
+    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Ancient_woodland#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Arable_land#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/English_Lowlands_beech_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Meadow#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Park#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat"/>
+        					        				    				    				            					        						<wo:growsIn rdf:resource="/nature/habitats/Urban_ecosystem#habitat"/>
+        					        				    								
+					
+                                                                <wo:genus rdf:resource="/nature/life/Narcissus_(plant)#genus"/>
+                                                        <wo:family rdf:resource="/nature/life/Amaryllidaceae#family"/>
+                                                        <wo:order rdf:resource="/nature/life/Asparagales#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Monocotyledon#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Flowering_plant#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Plant#kingdom"/>
+                        
+
+					</wo:Species>
+
+			<wo:TaxonName rdf:about="/nature/species/Narcissus_pseudonarcissus#name">
+				<rdfs:label>Narcissus pseudonarcissus</rdfs:label>
+				        <wo:commonName>Daffodil</wo:commonName>
+        								<wo:commonName>Lent lily</wo:commonName>
+						<wo:commonName>Wild daffodil</wo:commonName>
+								<wo:scientificName>pseudonarcissuspseudonarcissus</wo:scientificName>
+		<wo:kingdomName>plantae</wo:kingdomName><wo:phylumName>Magnoliophyta</wo:phylumName><wo:className>Liliopsida</wo:className><wo:orderName>Asparagales</wo:orderName><wo:familyName>Amaryllidaceae</wo:familyName><wo:genusName>Narcissus</wo:genusName><wo:speciesName>pseudonarcissus</wo:speciesName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/n/na/narcissus_pseudonarcissus/narcissus_pseudonarcissus_1.jpg">
+		<foaf:depicts rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/n/na/narcissus_pseudonarcissus/narcissus_pseudonarcissus_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c0b5t#programme">
+			<dc:title>Blooming season</dc:title>
+			<po:subject rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007st3l#programme">
+			<dc:title>A golden host</dc:title>
+			<po:subject rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Narcissus_pseudonarcissus">
+		<foaf:primaryTopic rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.data-wales.co.uk/l_d.htm">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1004074">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.plantlife.org.uk/wild_plants/plant_species/daffodil_wild/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.thedaffodilsociety.com/">
+			<foaf:primaryTopic rdf:resource="/nature/species/Narcissus_pseudonarcissus#species"/>
+		</foaf:Document>
+			
+					
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Flower#adaptation">
+					<rdfs:label>Flowering</rdfs:label>
+				</wo:ReproductionStrategy>
+												<wo:CommunicationAdaptation rdf:about="/nature/adaptations/Visual_perception#adaptation">
+					<rdfs:label>Visual communication</rdfs:label>
+				</wo:CommunicationAdaptation>
+						
+											<wo:TerrestrialHabitat rdf:about="/nature/habitats/Ancient_woodland#habitat">
+					<rdfs:label>Oak wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Arable_land#habitat">
+					<rdfs:label>Farmland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/English_Lowlands_beech_forests#habitat">
+					<rdfs:label>Beech wood</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Meadow#habitat">
+					<rdfs:label>Wildflower meadow</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Park#habitat">
+					<rdfs:label>Parkland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat">
+					<rdfs:label>Broadleaf forest</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Temperate_grasslands,_savannas,_and_shrublands#habitat">
+					<rdfs:label>Temperate grassland</rdfs:label>
+				</wo:TerrestrialHabitat>
+												<wo:TerrestrialHabitat rdf:about="/nature/habitats/Urban_ecosystem#habitat">
+					<rdfs:label>Urban</rdfs:label>
+				</wo:TerrestrialHabitat>
+						
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/species/Narcissus_pseudonarcissus.gif">
+		<dc:title>Map showing the distribution of the Daffodil species</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Genus rdf:about="/nature/genus/Narcissus_(plant)#genus"><rdfs:label>Narcissus</rdfs:label><wo:species rdf:resource="/nature/life/Narcissus_pseudonarcissus#species"/></wo:Genus><wo:Family rdf:about="/nature/family/Amaryllidaceae#family"><rdfs:label>Amaryllidaceae</rdfs:label></wo:Family><wo:Order rdf:about="/nature/order/Asparagales#order"><rdfs:label>Asparagales</rdfs:label></wo:Order><wo:Class rdf:about="/nature/class/Monocotyledon#class"><rdfs:label>Liliopsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Flowering_plant#phylum"><rdfs:label>Magnoliophyta</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Plant#kingdom"><rdfs:label>plantae</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>
