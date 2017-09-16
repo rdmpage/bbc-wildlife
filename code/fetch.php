@@ -1298,7 +1298,7 @@ foreach ($links as $url)
 		}
 		*/
 		
-		file_put_contents(dirname(__FILE__) . '/places' . $filename, $xml);
+		file_put_contents(dirname(dirname(__FILE__)) . '/places' . $filename, $xml);
 		
 	}
 }
