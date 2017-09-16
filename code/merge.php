@@ -56,6 +56,11 @@ foreach ($files as $filename)
 	if (preg_match('/\.rdf$/', $filename))
 	{	
 		$rdf = file_get_contents($basedir . '/' . $filename);
+		
+		// fix stuff
+		
+		$rdf = str_replace('<dc:description>', '<dc:description><![CDATA[', $rdf);
+		$rdf = str_replace('</dc:description>', ']]></dc:description>', $rdf);
 
 		// convert to triples
 		$triples = rdf_to_triples($rdf);
