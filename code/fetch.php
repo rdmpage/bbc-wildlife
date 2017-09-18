@@ -1275,6 +1275,28 @@ $links = array(
 );
 */
 
+
+$links = array(
+'http://www.bbc.co.uk/nature/life/Animal',
+'http://www.bbc.co.uk/nature/life/Cnidaria',
+'http://www.bbc.co.uk/nature/life/Mollusca',
+'http://www.bbc.co.uk/nature/life/Echinoderm',
+'http://www.bbc.co.uk/nature/life/Brachiopod',
+'http://www.bbc.co.uk/nature/life/Chordate',
+'http://www.bbc.co.uk/nature/life/Arthropod',
+'http://www.bbc.co.uk/nature/life/Annelid',
+'http://www.bbc.co.uk/nature/life/Osteichthyes',
+
+'http://www.bbc.co.uk/nature/life/Synapsid',
+'http://www.bbc.co.uk/nature/life/Therapsida',
+'http://www.bbc.co.uk/nature/life/Cynodont',
+'http://www.bbc.co.uk/nature/life/Placerias'
+
+
+
+);
+
+
 foreach ($links as $url)
 {
 	$url .= '.rdf';
@@ -1286,7 +1308,7 @@ foreach ($links as $url)
 //		echo $xml;
 		
 		
-		$filename = str_replace('http://www.bbc.co.uk/nature/places', '', $url);
+		$filename = str_replace('http://www.bbc.co.uk/nature/life', '', $url);
 		
 		//echo "|$filename|\n";
 		//exit();
@@ -1298,7 +1320,7 @@ foreach ($links as $url)
 		}
 		*/
 		
-		file_put_contents(dirname(dirname(__FILE__)) . '/places' . $filename, $xml);
+		file_put_contents(dirname(dirname(__FILE__)) . '/life' . $filename, $xml);
 		
 	}
 }
