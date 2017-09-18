@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/phylum/Cnidaria">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+		<rdfs:seeAlso rdf:resource="/nature/phylum"/>
+	</rdf:Description>
+
+		<wo:Phylum rdf:about="/nature/life/Cnidaria#phylum">
+				<rdfs:label>Cnidaria</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/phylum/Cnidaria#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cn/cnidaria/cnidaria_1.jpg"/>
+
+				<dc:description>Cnidaria are a phylum of aquatic animals that includes jellyfish and corals. They have two body shapes: the medusa (a jellyfish-like swimming form) and the polyp (a sea anemone-like sessile or static form). During their life cycle they may transform themselves from one shape to the other. All cnidarians possess stinging cells, which they use to kill or paralyse prey.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cnidaria"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Cnidaria.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Phylum>
+
+			<wo:TaxonName rdf:about="/nature/phylum/Cnidaria#name">
+				<rdfs:label>Cnidaria</rdfs:label>
+												<wo:commonName>Cnidarians</wo:commonName>
+						<wo:commonName>corals and allies</wo:commonName>
+						<wo:commonName>Jellyfish</wo:commonName>
+								<wo:scientificName>Cnidaria</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Cnidaria</wo:phylumName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/cn/cnidaria/cnidaria_1.jpg">
+		<foaf:depicts rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/cn/cnidaria/cnidaria_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bn963#programme">
+			<dc:title>Soft-bodied survivors</dc:title>
+			<po:subject rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cnidaria">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/Cnidaria/2461">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1745">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.flickr.com/groups/cnidaria/pool/">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.glaucus.org.uk/Moonjell.htm">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Cnidaria#phylum"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Cnidaria.gif">
+		<dc:title>Map showing the distribution of the Cnidaria phylum</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label><wo:phylum rdf:resource="/nature/life/Cnidaria#phylum"/><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/><wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/><wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/><wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/><wo:phylum rdf:resource="/nature/life/Annelid#phylum"/><wo:phylum rdf:resource="/nature/life/Brachiopod#phylum"/></wo:Kingdom><wo:Class rdf:about="/nature/life/Anthozoa#phylum"><rdfs:label>Corals and sea anemones</rdfs:label><wo:phylum rdf:resource="/nature/life/Cnidaria#phylum"/></wo:Class><wo:Species rdf:about="/nature/life/Aurelia_aurita#phylum"><rdfs:label>Common jellyfish</rdfs:label><wo:phylum rdf:resource="/nature/life/Cnidaria#phylum"/></wo:Species>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/phylum/Chordate">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Chordate#phylum"/>
+		<rdfs:seeAlso rdf:resource="/nature/phylum"/>
+	</rdf:Description>
+
+		<wo:Phylum rdf:about="/nature/life/Chordate#phylum">
+				<rdfs:label>Vertebrates</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/phylum/Chordate#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/chordate/chordate_1.jpg"/>
+
+				<dc:description>Chordates include all the vertebrates and some invertebrate allies that possess, for part or all of their lives, a structure called a notochord. The notochord is a stiff rod that helps support the body and runs parallel to the main nerve cord. In the vertebrates, these have evolved into the spinal column, which is reinforced and protected by cartilage or bone. The allied invertebrates in the chordates phylum include members that only have the notochord for part of their life: the sea squirts, lancelets and hagfish.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Chordate"/>
+		
+		
+									
+									
+				
+										    
+    								
+					
+                                                                <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Phylum>
+
+			<wo:TaxonName rdf:about="/nature/phylum/Chordate#name">
+				<rdfs:label>Chordata</rdfs:label>
+				        <wo:commonName>Vertebrates</wo:commonName>
+        								<wo:commonName>Vertebrates and allies</wo:commonName>
+								<wo:scientificName>Chordata</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/c/ch/chordate/chordate_1.jpg">
+		<foaf:depicts rdf:resource="/nature/phylum/Chordate#phylum"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/c/ch/chordate/chordate_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cfs2y#programme">
+			<dc:title>Devonian fishing</dc:title>
+			<po:subject rdf:resource="/nature/phylum/Chordate#phylum"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00br2pb#programme">
+			<dc:title>Unsophisticated relatives</dc:title>
+			<po:subject rdf:resource="/nature/phylum/Chordate#phylum"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Chordate">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Chordate#phylum"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Chordata.html">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Chordate#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://cas.bellarmine.edu/tietjen/images/phylum_chordata_overview.htm">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Chordate#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/694">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Chordate#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/chordata/chordata.html">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Chordate#phylum"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+		
+
+
+
+
+	<wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/><wo:phylum rdf:resource="/nature/life/Cnidaria#phylum"/><wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/><wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/><wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/><wo:phylum rdf:resource="/nature/life/Annelid#phylum"/><wo:phylum rdf:resource="/nature/life/Brachiopod#phylum"/></wo:Kingdom><wo:Class rdf:about="/nature/life/Amphibian#phylum"><rdfs:label>Amphibians</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Class><wo:Class rdf:about="/nature/life/Bird#phylum"><rdfs:label>Birds</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Class><wo:Class rdf:about="/nature/life/Mammal#phylum"><rdfs:label>Mammals</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Class><wo:Class rdf:about="/nature/life/Reptile#phylum"><rdfs:label>Reptiles</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Class><wo:Class rdf:about="/nature/life/Chondrichthyes#phylum"><rdfs:label>Cartilaginous fish</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Class><wo:Species rdf:about="/nature/life/European_brook_lamprey#phylum"><rdfs:label>Brook lamprey</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Species><wo:Superclass rdf:about="/nature/life/Osteichthyes#phylum"><rdfs:label>Bony fish</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Superclass><wo:Order rdf:about="/nature/life/Therapsida#phylum"><rdfs:label>Therapsids</rdfs:label><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/></wo:Order>
+	
+	
+		    
+</rdf:RDF>

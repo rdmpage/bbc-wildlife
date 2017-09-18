@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/order/Therapsida">
+		<foaf:primaryTopic rdf:resource="/nature/order/Therapsida#order"/>
+		<rdfs:seeAlso rdf:resource="/nature/order"/>
+	</rdf:Description>
+
+		<wo:Order rdf:about="/nature/life/Therapsida#order">
+				<rdfs:label>Therapsids</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/order/Therapsida#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/th/therapsida/therapsida_1.jpg"/>
+
+				<dc:description>The therapsids include all mammals plus the many mammal-like reptiles, such as Dicynodon and the sabre-toothed gorgonopsids. The therapsids rose to prominence in the Permian to become the most successful land animals of their day. The secret of their success was in their teeth, as therapsids evolved new and better methods of chewing plant and animal food. However, the group took a hammering in the mass extinction at the end of the Permian, and was sidelined for millions of years as the dinosaurs diversified. The therapsids' ultimate successors - mammals - now rule the Earth courtesy of those efficient therapsid teeth and jaws.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Therapsida"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Running#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Therapsida.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:class rdf:resource="/nature/life/Synapsid#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Order>
+
+			<wo:TaxonName rdf:about="/nature/order/Therapsida#name">
+				<rdfs:label>Therapsida</rdfs:label>
+				        <wo:commonName>Therapsids</wo:commonName>
+        								<wo:commonName>beast arch</wo:commonName>
+								<wo:scientificName>Therapsida</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Synapsida</wo:className><wo:orderName>Therapsida</wo:orderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/t/th/therapsida/therapsida_1.jpg">
+		<foaf:depicts rdf:resource="/nature/order/Therapsida#order"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/t/th/therapsida/therapsida_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cly4k#programme">
+			<dc:title>Permian paradise</dc:title>
+			<po:subject rdf:resource="/nature/order/Therapsida#order"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Therapsida">
+		<foaf:primaryTopic rdf:resource="/nature/order/Therapsida#order"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://eonsepochsetc.com/Mesozoic/Triassic/Tri_Animals/Dicynodonts.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Therapsida#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://palaeo.gly.bris.ac.uk/palaeofiles/fossilgroups/synapsida/therapsida.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Therapsida#order"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeos.com/Vertebrates/Units/400Therapsida/400.000.html">
+			<foaf:primaryTopic rdf:resource="/nature/order/Therapsida#order"/>
+		</foaf:Document>
+			
+					
+											<wo:LocomotionAdaptation rdf:about="/nature/adaptations/Running#adaptation">
+					<rdfs:label>Adapted to running</rdfs:label>
+				</wo:LocomotionAdaptation>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/order/Therapsida.gif">
+		<dc:title>Map showing the distribution of the Therapsids order</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Class rdf:about="/nature/class/Synapsid#class"><rdfs:label>Synapsida</rdfs:label><wo:order rdf:resource="/nature/life/Therapsida#order"/></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom><wo:Suborder rdf:about="/nature/life/Cynodont#order"><rdfs:label>Cynodonts</rdfs:label><wo:order rdf:resource="/nature/life/Therapsida#order"/></wo:Suborder><wo:Genus rdf:about="/nature/life/Placerias#order"><rdfs:label>Placerias</rdfs:label><wo:order rdf:resource="/nature/life/Therapsida#order"/></wo:Genus>
+	
+	
+		    
+</rdf:RDF>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/phylum/Annelid">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Annelid#phylum"/>
+		<rdfs:seeAlso rdf:resource="/nature/phylum"/>
+	</rdf:Description>
+
+		<wo:Phylum rdf:about="/nature/life/Annelid#phylum">
+				<rdfs:label>Segmented worms</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/phylum/Annelid#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/annelid/annelid_1.jpg"/>
+
+				<dc:description>Segmented worms, or annelids, contain the most familiar types of worm: the earthworms found in garden soil and the ragworms and lugworms dug up on muddy beaches. The segmented bodies of animals in this phylum make them both efficient burrowers and good swimmers. Segmented worms have a variety of dietary approaces. Some, such as lugworms, are filter-feeders; others are blood-suckers like the leeches.
+</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Annelid"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Annelid.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Phylum>
+
+			<wo:TaxonName rdf:about="/nature/phylum/Annelid#name">
+				<rdfs:label>Annelida</rdfs:label>
+				        <wo:commonName>Segmented worms</wo:commonName>
+        								<wo:commonName>Annelid worms</wo:commonName>
+						<wo:commonName>Ringed worms</wo:commonName>
+						<wo:commonName>Segmented worms</wo:commonName>
+								<wo:scientificName>Annelida</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Annelida</wo:phylumName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/annelid/annelid_1.jpg">
+		<foaf:depicts rdf:resource="/nature/phylum/Annelid#phylum"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/an/annelid/annelid_1.jpg"/>
+	</foaf:Image>
+
+					
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Annelid">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Annelid#phylum"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://tolweb.org/Annelida/2486">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Annelid#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/36">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Annelid#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.nhc.ed.ac.uk/index.php?page=24.25.312.329">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Annelid#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/annelida/annelida.html">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Annelid#phylum"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/news/science-environment-14046316">
+			<dc:title>Parasites make sex worthwhile</dc:title>
+			<dc:description>Sex gives worms an advantage in the face of parasite invasion, a result that helps researchers explain why sex exists.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Annelid#phylum"/>
+		</foaf:Document>
+			
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Annelid.gif">
+		<dc:title>Map showing the distribution of the Segmented worms phylum</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label><wo:phylum rdf:resource="/nature/life/Annelid#phylum"/><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/><wo:phylum rdf:resource="/nature/life/Cnidaria#phylum"/><wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/><wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/><wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/><wo:phylum rdf:resource="/nature/life/Brachiopod#phylum"/></wo:Kingdom><wo:Order rdf:about="/nature/life/Canalipalpata#phylum"><rdfs:label>Bristle-footed worms</rdfs:label><wo:phylum rdf:resource="/nature/life/Annelid#phylum"/></wo:Order><wo:Family rdf:about="/nature/life/Lumbricidae#phylum"><rdfs:label>Earthworms</rdfs:label><wo:phylum rdf:resource="/nature/life/Annelid#phylum"/></wo:Family>
+	
+	
+		    
+</rdf:RDF>

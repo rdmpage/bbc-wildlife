@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/kingdom/Animal">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		<rdfs:seeAlso rdf:resource="/nature/kingdom"/>
+	</rdf:Description>
+
+		<wo:Kingdom rdf:about="/nature/life/Animal#kingdom">
+				<rdfs:label>Animals</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/kingdom/Animal#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/animal/animal_1.jpg"/>
+
+				<dc:description>The animal kingdom is estimated to contain about 10 million species. The defining characteristics of an animal include the fact that it is a multicellular organism, that its cell walls are not rigid and that it gets its food by eating other living things, rather than by processes such as photosynthesis. Animals can range from being tiny creatures which are only a collection of a few cells, to giants like the blue whale.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Animal"/>
+		
+		
+									
+									<wo:collection rdf:resource="/nature/collections/p005f9vp#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00hldcc#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00kf6hs#collection"/>
+					<wo:collection rdf:resource="/nature/collections/p00fxg1n#collection"/>
+					
+				
+										    
+    								
+					
+                                
+
+					</wo:Kingdom>
+
+			<wo:TaxonName rdf:about="/nature/kingdom/Animal#name">
+				<rdfs:label>animalia</rdfs:label>
+				        <wo:commonName>Animals</wo:commonName>
+        								<wo:commonName>Animalia</wo:commonName>
+						<wo:commonName>Metazoa</wo:commonName>
+								<wo:scientificName>animalia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/a/an/animal/animal_1.jpg">
+		<foaf:depicts rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/a/an/animal/animal_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00kslsp#programme">
+			<dc:title>Thermoregulation</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1ng2#programme">
+			<dc:title>Body Structure</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00c1ndv#programme">
+			<dc:title>A Living Fossil</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00br2pb#programme">
+			<dc:title>Unsophisticated relatives</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bn9y5#programme">
+			<dc:title>Creepy crawlies</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkwgv#programme">
+			<dc:title>The toothy jaws that led to the rise of the shark</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkvwd#programme">
+			<dc:title>From feather stars to sea urchins: echinoderm evolution</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00bkt26#programme">
+			<dc:title>Super-snails</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p006b3kv#programme">
+			<dc:title>Amphibian characteristics</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p005lp0j#programme">
+			<dc:title>The tree of life</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p0053k49#programme">
+			<dc:title>Global force</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004vtb0#programme">
+			<dc:title>Mammal success</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004htvq#programme">
+			<dc:title>Deep surprises</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p004hs5q#programme">
+			<dc:title>Fish types</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00486y9#programme">
+			<dc:title>Survivors</dc:title>
+			<po:subject rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Animal">
+		<foaf:primaryTopic rdf:resource="/nature/kingdom/Animal#kingdom"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://animaldiversity.ummz.umich.edu/site/accounts/information/Animalia.html">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.eol.org/pages/1">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.perspective.com/nature/animalia/index.html">
+			<foaf:primaryTopic rdf:resource="/nature/kingdom/Animal#kingdom"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+									<wo:Collection rdf:about="/nature/collections/p005f9vp#collection">
+				<dc:title>What on Earth...? 2009</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00hldcc#collection">
+				<dc:title>Nature's record breakers</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00kf6hs#collection">
+				<dc:title>Attenborough's frozen planet</dc:title>
+			</wo:Collection>
+						<wo:Collection rdf:about="/nature/collections/p00fxg1n#collection">
+				<dc:title>This is Planet Earth</dc:title>
+			</wo:Collection>
+					
+		
+
+
+
+
+	<wo:Phylum rdf:about="/nature/life/Chordate#kingdom"><rdfs:label>Vertebrates</rdfs:label><wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/></wo:Phylum><wo:Phylum rdf:about="/nature/life/Cnidaria#kingdom"><rdfs:label>Cnidaria</rdfs:label><wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/></wo:Phylum><wo:Phylum rdf:about="/nature/life/Mollusca#kingdom"><rdfs:label>Molluscs</rdfs:label><wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/></wo:Phylum><wo:Phylum rdf:about="/nature/life/Arthropod#kingdom"><rdfs:label>Arthropods</rdfs:label><wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/></wo:Phylum><wo:Phylum rdf:about="/nature/life/Echinoderm#kingdom"><rdfs:label>Echinoderms</rdfs:label><wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/></wo:Phylum><wo:Phylum rdf:about="/nature/life/Annelid#kingdom"><rdfs:label>Segmented worms</rdfs:label><wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/></wo:Phylum><wo:Phylum rdf:about="/nature/life/Brachiopod#kingdom"><rdfs:label>Lamp shells</rdfs:label><wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/></wo:Phylum>
+	
+	
+		    
+</rdf:RDF>

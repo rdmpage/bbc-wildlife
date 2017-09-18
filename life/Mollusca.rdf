@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/phylum/Mollusca">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		<rdfs:seeAlso rdf:resource="/nature/phylum"/>
+	</rdf:Description>
+
+		<wo:Phylum rdf:about="/nature/life/Mollusca#phylum">
+				<rdfs:label>Molluscs</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/phylum/Mollusca#name"/>
+		
+		<foaf:depiction rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/mollusca/mollusca_1.jpg"/>
+
+				<dc:description>Molluscs include the largest of all invertebrates - the giant squid. This is a diverse phylum, containing approximately 100,000 species, that includes snails, mussels and the pearly nautilus. Molluscs are soft-bodied and most species today still possess the ancestral shell. Some notable examples however, such as squid and slugs, have lost it.</dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Mollusca"/>
+		
+		
+										     				    					<wo:adaptation rdf:resource="/nature/adaptations/Oviparity#adaptation"/>
+    													
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Mollusca.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Phylum>
+
+			<wo:TaxonName rdf:about="/nature/phylum/Mollusca#name">
+				<rdfs:label>Mollusca</rdfs:label>
+				        <wo:commonName>Molluscs</wo:commonName>
+        								<wo:commonName>Mollusca</wo:commonName>
+						<wo:commonName>Mollusks</wo:commonName>
+								<wo:scientificName>Mollusca</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Mollusca</wo:phylumName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="http://ichef.bbci.co.uk/naturelibrary/images/ic/640x360/m/mo/mollusca/mollusca_1.jpg">
+		<foaf:depicts rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		<foaf:thumbnail rdf:resource="http://ichef.bbci.co.uk/naturelibrary/images/ic/83x104/m/mo/mollusca/mollusca_1.jpg"/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00cfswx#programme">
+			<dc:title>Washed out</dc:title>
+			<po:subject rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p007yftc#programme">
+			<dc:title>Casting in cavities</dc:title>
+			<po:subject rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Mollusca">
+		<foaf:primaryTopic rdf:resource="/nature/phylum/Mollusca#phylum"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.eol.org/pages/2195">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.glaucus.org.uk/molluscs.htm">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/taxa/inverts/mollusca/mollusca.php">
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		</foaf:Document>
+			
+						<foaf:Document rdf:about="http://www.bbc.co.uk/nature/19543557">
+			<dc:title>Antarctic molluscs 'switch sex'</dc:title>
+			<dc:description>Antarctic bivalves have surprised scientists who have discovered that the animals switch sex.</dc:description>
+			<foaf:primaryTopic rdf:resource="/nature/phylum/Mollusca#phylum"/>
+		</foaf:Document>
+			
+											<wo:ReproductionStrategy rdf:about="/nature/adaptations/Oviparity#adaptation">
+					<rdfs:label>Egg layer</rdfs:label>
+				</wo:ReproductionStrategy>
+						
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/phylum/Mollusca.gif">
+		<dc:title>Map showing the distribution of the Molluscs phylum</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label><wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/><wo:phylum rdf:resource="/nature/life/Chordate#phylum"/><wo:phylum rdf:resource="/nature/life/Cnidaria#phylum"/><wo:phylum rdf:resource="/nature/life/Arthropod#phylum"/><wo:phylum rdf:resource="/nature/life/Echinoderm#phylum"/><wo:phylum rdf:resource="/nature/life/Annelid#phylum"/><wo:phylum rdf:resource="/nature/life/Brachiopod#phylum"/></wo:Kingdom><wo:Family rdf:about="/nature/life/Pectinidae#phylum"><rdfs:label>Scallops</rdfs:label><wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/></wo:Family><wo:Class rdf:about="/nature/life/Gastropoda#phylum"><rdfs:label>Snails and slugs</rdfs:label><wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/></wo:Class><wo:Class rdf:about="/nature/life/Cephalopod#phylum"><rdfs:label>Cephalopods</rdfs:label><wo:phylum rdf:resource="/nature/life/Mollusca#phylum"/></wo:Class>
+	
+	
+		    
+</rdf:RDF>

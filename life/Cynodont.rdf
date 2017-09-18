@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><rdf:RDF
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:dctypes="http://purl.org/dc/dcmitype/" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:po="http://purl.org/ontology/po/" 
+    xmlns:wo="http://purl.org/ontology/wo/">
+    		<rdf:Description rdf:about="/nature/suborder/Cynodont">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Cynodont#suborder"/>
+		<rdfs:seeAlso rdf:resource="/nature/suborder"/>
+	</rdf:Description>
+
+		<wo:Suborder rdf:about="/nature/life/Cynodont#suborder">
+				<rdfs:label>Cynodonts</rdfs:label>
+		
+				<wo:name rdf:resource="http://www.bbc.co.uk/nature/suborder/Cynodont#name"/>
+		
+		<foaf:depiction rdf:resource=""/>
+
+				<dc:description>Cynodonts are said to be the missing links between reptiles and mammals. All of the latter are, techincally speaking, cynodonts themselves. It was during the evolution of the cynodonts that many things typical of mammals arose: their jaw structure, the hammer, anvil and stirrup bones of their inner ear, and - the secret of their success - their efficient chewing teeth. Things which don't fossilise so easily, such as warm-bloodedness, furry bodies and milk production also probably arose in the pre-mammalian cynodonts. They were most likely to have been nocturnal, as the areas of the brain associated with smell and hearing -  useful senses in the dark - were enlarged.   </dc:description>
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Cynodont"/>
+		
+		
+									
+									
+						<wo:distributionMap rdf:resource="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/suborder/Cynodont.gif"/>
+		
+										    
+    								
+					
+                                                                <wo:order rdf:resource="/nature/life/Therapsida#order"/>
+                                                        <wo:class rdf:resource="/nature/life/Synapsid#class"/>
+                                                        <wo:phylum rdf:resource="/nature/life/Chordate#phylum"/>
+                                                        <wo:kingdom rdf:resource="/nature/life/Animal#kingdom"/>
+                        
+
+					</wo:Suborder>
+
+			<wo:TaxonName rdf:about="/nature/suborder/Cynodont#name">
+				<rdfs:label>Cynodontia</rdfs:label>
+				        <wo:commonName>Cynodonts</wo:commonName>
+        								<wo:commonName>dog teeth</wo:commonName>
+								<wo:scientificName>Cynodontia</wo:scientificName>
+		<wo:kingdomName>animalia</wo:kingdomName><wo:phylumName>Chordata</wo:phylumName><wo:className>Synapsida</wo:className><wo:orderName>Therapsida</wo:orderName><wo:suborderName>Cynodontia</wo:suborderName>
+	</wo:TaxonName>
+	
+		<foaf:Image rdf:about="">
+		<foaf:depicts rdf:resource="/nature/suborder/Cynodont#suborder"/>
+		<foaf:thumbnail rdf:resource=""/>
+	</foaf:Image>
+
+						<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b99dr#programme">
+			<dc:title>Dinosaur attack</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Cynodont#suborder"/>
+		</po:Clip>
+				<po:Clip rdf:about="http://www.bbc.co.uk/programmes/p00b984t#programme">
+			<dc:title>Mammal in the making</dc:title>
+			<po:subject rdf:resource="/nature/suborder/Cynodont#suborder"/>
+		</po:Clip>
+			
+
+		
+					
+
+			<foaf:Document rdf:about="http://en.wikipedia.org/wiki/Cynodont">
+		<foaf:primaryTopic rdf:resource="/nature/suborder/Cynodont#suborder"/>
+	</foaf:Document>
+						<foaf:Document rdf:about="http://www.abc.net.au/dinosaurs/fact_files/dried/cynodont.htm">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Cynodont#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.palaeos.com/Vertebrates/Units/410Cynodontia/410.000.html">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Cynodont#suborder"/>
+		</foaf:Document>
+				<foaf:Document rdf:about="http://www.ucmp.berkeley.edu/synapsids/rowe/thrinax.html">
+			<foaf:primaryTopic rdf:resource="/nature/suborder/Cynodont#suborder"/>
+		</foaf:Document>
+			
+					
+					
+					
+	
+								
+			<foaf:Image rdf:about="http://static.bbci.co.uk/naturelibrary/3.1.44/images/ic/maps/366x217/suborder/Cynodont.gif">
+		<dc:title>Map showing the distribution of the Cynodonts suborder</dc:title>
+	</foaf:Image>
+	
+
+
+
+
+	<wo:Order rdf:about="/nature/order/Therapsida#order"><rdfs:label>Therapsida</rdfs:label><wo:suborder rdf:resource="/nature/life/Cynodont#suborder"/></wo:Order><wo:Class rdf:about="/nature/class/Synapsid#class"><rdfs:label>Synapsida</rdfs:label></wo:Class><wo:Phylum rdf:about="/nature/phylum/Chordate#phylum"><rdfs:label>Chordata</rdfs:label></wo:Phylum><wo:Kingdom rdf:about="/nature/kingdom/Animal#kingdom"><rdfs:label>animalia</rdfs:label></wo:Kingdom>
+	
+	
+		    
+</rdf:RDF>
