@@ -39,3 +39,66 @@ WHERE
  ?habitat <http://www.w3.org/2000/01/rdf-schema#label> ?label .
 }
 ```
+
+Data for a species
+
+```
+SELECT *
+WHERE
+{
+ <http://www.bbc.co.uk/nature/life/Pronghorn#species> ?p ?o .
+}
+```
+
+Coprophagy
+```
+SELECT ?tname ?kname ?cname
+WHERE
+{
+?taxon <http://purl.org/ontology/wo/adaptation>	
+<http://www.bbc.co.uk/nature/adaptations/Coprophagia#adaptation> .
+     ?taxon <http://www.w3.org/2000/01/rdf-schema#label> ?tname .
+    
+    ?taxon <http://purl.org/ontology/wo/kingdom>	
+?kingdom .
+     ?kingdom <http://www.w3.org/2000/01/rdf-schema#label> ?kname .
+    
+    OPTIONAL {
+?taxon <http://purl.org/ontology/wo/class>	
+?class .
+    ?class <http://www.w3.org/2000/01/rdf-schema#label> ?cname .
+    }
+}
+```
+
+Coprophagy with thumbnail
+```
+SELECT ?tname ?kname ?cname ?thumbnail
+WHERE
+{
+?taxon <http://purl.org/ontology/wo/adaptation>	
+<http://www.bbc.co.uk/nature/adaptations/Coprophagia#adaptation> .
+     ?taxon <http://www.w3.org/2000/01/rdf-schema#label> ?tname .
+    
+    ?taxon <http://purl.org/ontology/wo/kingdom>	
+?kingdom .
+     ?kingdom <http://www.w3.org/2000/01/rdf-schema#label> ?kname .
+    
+    OPTIONAL {
+?taxon <http://purl.org/ontology/wo/class>	
+?class .
+    ?class <http://www.w3.org/2000/01/rdf-schema#label> ?cname .
+    }
+    
+    optional {
+        
+        ?taxon <http://xmlns.com/foaf/0.1/depiction> ?image .
+        ?image <http://xmlns.com/foaf/0.1/thumbnail> ?thumbnail .
+      
+
+        
+    }
+}
+```
+
+
