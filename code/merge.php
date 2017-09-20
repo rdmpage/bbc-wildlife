@@ -43,8 +43,8 @@ function rdf_to_triples($xml)
 
 
 //$basedir = dirname(dirname(__FILE__)) . '/ecozones';
-$basedir = dirname(dirname(__FILE__)) . '/adaptations';
-//$basedir = dirname(dirname(__FILE__)) . '/habitats';
+//$basedir = dirname(dirname(__FILE__)) . '/adaptations';
+$basedir = dirname(dirname(__FILE__)) . '/habitats';
 //$basedir = dirname(dirname(__FILE__)) . '/life';
 
 $files = scandir($basedir);
