@@ -94,12 +94,13 @@
 			    
 			    facet.name = text;
 			    facet.thumbnail = result[i].thumbnail;
+			    facet.url = result[i].facet;
 				object.facets[facet_name].push(facet);
 			  }
 			  
 		  }		  
 
-		  console.log(JSON.stringify(object, null, 2));
+		  //console.log(JSON.stringify(object, null, 2));
 
 		  return object;		
 		}
@@ -135,14 +136,54 @@
 			    
 			    
 			    facet.thumbnail = result[i].image;
+			    facet.url = result[i].thing;
 				object.facets[facet_name].push(facet);
 			  }
 		  }		  
 
-		  console.log(JSON.stringify(result, null, 2));
+		  //console.log(JSON.stringify(result, null, 2));
 
 		  return object;		
 		}
+		
+		//--------------------------------------------------------------------------------
+		// Get things which have the same type
+		function get_same_type(object, thing_uri) {
+
+		  var result = mydb.search([
+			[thing_uri, "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", ["type"]],
+			[["thing"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", ["type"]],
+			[["thing"], "http://www.w3.org/2000/01/rdf-schema#label", ["label"]]
+			  ]);
+
+          if (result.length > 0) {
+
+             object.sameType = [];
+  
+			  for(var i in result) {
+			  	if (result[i].thing != thing_uri) {
+			    	var facet = {};
+			    
+					var pattern = /\\u([\d\w]{4})/gi;
+					var text = result[i].label;
+					text = text.replace(pattern, function (match, grp) {
+						return String.fromCharCode(parseInt(grp, 16)); } ); 
+						
+					text = text.replace(/\\r\\n/g, ''); 		
+				    facet.name = text;
+				    
+				    facet.type = result[i].type;
+				    facet.url = result[i].thing;
+
+					object.sameType.push(facet);
+				}
+			  }
+		  }		  
+
+		  //console.log(JSON.stringify(result, null, 2));
+
+		  return object;		
+		}		
 		
 		//--------------------------------------------------------------------------------
 		// Programme needs special handling as it has different type of label [?,p,o]
@@ -167,7 +208,7 @@
 			  }
 		  }		  
 
-		  console.log(JSON.stringify(result, null, 2));
+		  //console.log(JSON.stringify(result, null, 2));
 
 		  return object;		
 		}
@@ -193,7 +234,7 @@
 			  }
 		  }		  
 
-		  console.log(JSON.stringify(result, null, 2));
+		  //console.log(JSON.stringify(result, null, 2));
 
 		  return object;		
 		}
@@ -212,7 +253,7 @@
 			[uri, ["p"], ["o"]]
 			  ]);
   
-		  console.log(JSON.stringify(result, null, 2));
+		  //console.log(JSON.stringify(result, null, 2));
 
 		  for(var i in result) {
   
@@ -240,6 +281,25 @@
 				case "http://www.w3.org/2002/07/owl#sameAs":
 					object.sameAs.push(result[i]['o']);
 					break;
+					
+				case "http://purl.org/ontology/wo/distributionMap":
+					object.distributionMap = result[i]['o'];
+					break;
+					
+				// Taxon name
+				case "http://purl.org/ontology/wo/name":
+					var r = mydb.search([
+						[uri, "http://purl.org/ontology/wo/name", ["name"]],
+						[["name"], "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", "http://purl.org/ontology/wo/TaxonName"],
+						[["name"], "http://www.w3.org/2000/01/rdf-schema#label", ["label"]],			
+					  ]);
+					  
+					console.log(JSON.stringify(r, null, 2));
+					  
+					if (r.length == 1) {
+						object.taxonName =	r[0].label;
+					}
+					break;					
 			
 				default:
 					break;
@@ -279,6 +339,12 @@
 			// has this behaviour 			
 			object = get_has_facet(object, uri, "http://purl.org/ontology/wo/adaptation", "behaviour");
 
+			// other things of this type (related by kind)
+			object = get_same_type(object, uri);
+			
+			// classification path			
+
+			// related by tree
 
 			// coccurrences 
 			
@@ -289,7 +355,7 @@
 			
 
 
-		  console.log(JSON.stringify(object, null, 2));
+		  //console.log(JSON.stringify(object, null, 2));
 
 		 return object;
 		
@@ -315,6 +381,11 @@
 				
 				html +=  object.description;
 				
+				if (object.taxonName) {
+					html += '<br /><br /><span>Scientific name: ' + object.taxonName + '</span>';
+				}
+				
+				
 				if (object.sameAs) {
 					html += '<ul>';
 					for (var i in object.sameAs) {
@@ -326,6 +397,12 @@
 				html += '</div>';
 			}
 			
+			 
+			if(object.distributionMap) {
+				html += '<h2>distribution</h2>';
+				html += '<img src="' + object.distributionMap + '" />';
+			}
+			
 			if (object.facets) {
 				for (var i in object.facets) {
 					html += '<h2>' + i + '</h2>';
@@ -335,7 +412,7 @@
 						html += '<div style="position:relative;display:inline-block;padding:10px;border:1px solid rgb(242,242,242);margin:5px;background-color:white;width:120px;">';
 						
 						if (object.facets[i][j].thumbnail) {
-							html += '<img src="' + object.facets[i][j].thumbnail + '" width="104" height="83"/>';
+							html += '<img src="' + object.facets[i][j].thumbnail + '" width="104" height="83" onclick="go(\'' + object.facets[i][j].url + '\');"/>';
 							html += '<br />';
 						}
 						
@@ -344,7 +421,7 @@
 							html += '<br />';
 						}
 
-						if (object.facets[i][j].url) {
+						if (object.facets[i][j].url && !object.facets[i][j].thumbnail) {
 						
 							var domain = object.facets[i][j].url.match(/^https?:\/\/(([a-zA-Z\d-]+\.)+[a-zA-Z\d-]+)/);
 							if (domain) {
@@ -363,6 +440,19 @@
 				}
 			
 			}
+			
+			if (object.sameType) {
+				html += '<h2>' + 'same type' + '</h2>';
+				html += '<ul>';
+			
+				for (var i in object.sameType) {
+					html += '<li style="font-size:12px;">' + object.sameType[i].name  + '</li>';
+				}
+				
+				html += '</ul>';
+			
+			}
+			
 			
 			if (object.cofacets) {
 				for (var i in object.cofacets) {
@@ -385,10 +475,17 @@
 		
 		}
 		
+		function go(uri) {
+			var object = get_thing(uri);
+			show_thing(object);
+			window.scrollTo(0, 0);
+		}
+
+		
 		var uri = '';
 		uri = "http://www.bbc.co.uk/nature/life/Haast's_Eagle#species";
 		uri = "http://www.bbc.co.uk/nature/habitats/Temperate_broadleaf_and_mixed_forests#habitat";
-		uri = "http://www.bbc.co.uk/nature/life/Steller's_Sea_Eagle#species"
+		uri = "http://www.bbc.co.uk/nature/life/Steller's_Sea_Eagle#species";
 		uri = "http://www.bbc.co.uk/nature/habitats/Coast#habitat";
 		//uri = "http://www.bbc.co.uk/nature/life/Baikal_Seal#species"; 
 		//uri = "http://www.bbc.co.uk/nature/adaptations/Torpor#adaptation";
@@ -402,6 +499,13 @@
 		//uri = "http://www.bbc.co.uk/nature/life/Python_sebae#species";
 		
 uri = "http://www.bbc.co.uk/nature/habitats/Coast#habitat";
+uri = "http://www.bbc.co.uk/nature/habitats/Neritic_zone#habitat";
+
+uri = "http://www.bbc.co.uk/nature/life/Bowhead_whale#species";
+
+uri = "http://www.bbc.co.uk/nature/life/Steller's_Sea_Eagle#species";
+
+
 
 		
 		var object = get_thing(uri);
