@@ -26,6 +26,61 @@
 	
 	<script>
 	
+		//--------------------------------------------------------------------------------
+		// Get type(s)
+		function get_type(uri) {
+			var type = [];
+
+		  var result = mydb.search([
+			[uri, "http://www.w3.org/1999/02/22-rdf-syntax-ns#type", ["type"]]
+			  ]);
+
+          if (result.length > 0) {
+			  for(var i in result) {
+			  	type.push(result[i].type);
+			  }
+			}
+
+		  return type;		
+		}		
+
+		//--------------------------------------------------------------------------------
+		// Get label
+		function get_label(uri) {
+			label = '';
+
+		  var result = mydb.search([
+			[uri, "http://www.w3.org/2000/01/rdf-schema#label", ["label"]]
+			  ]);
+
+          if (result.length == 1) {
+			  for(var i in result) {
+			  	label = result[i].label;
+			  }
+			}
+
+		  return label;		
+		}		
+
+		//--------------------------------------------------------------------------------
+		// Get name
+		function get_name(uri) {
+			label = '';
+
+		  var result = mydb.search([
+			[uri, "http://purl.org/ontology/wo/name", ["name"]],
+			[["name"], "http://www.w3.org/2000/01/rdf-schema#label", ["label"]]
+			  ]);
+
+          if (result.length == 1) {
+			  for(var i in result) {
+			  	label = result[i].label;
+			  }
+			}
+
+		  return label;		
+		}		
+	
 		
 		//--------------------------------------------------------------------------------
 		// Get things which coccur with property of thing, [x?, p1, o],[x?, p2, y?] 
@@ -247,7 +302,12 @@
 		
 		  var object = {};
 		  object.id = uri;
+
 		  object.sameAs = [];
+		  object.commonName = []; // fails as commonName seems to be associated with /species/ but not /life/
+		  
+		  object.ecozone = [];
+		  
 		  
 		  var result = mydb.search([
 			[uri, ["p"], ["o"]]
@@ -256,6 +316,8 @@
 		  //console.log(JSON.stringify(result, null, 2));
 
 		  for(var i in result) {
+		  
+		  	//alert(result[i]['p']);
   
 			switch (result[i]['p']) {
 				case "http://xmlns.com/foaf/0.1/depiction":
@@ -282,8 +344,31 @@
 					object.sameAs.push(result[i]['o']);
 					break;
 					
+				case "http://purl.org/ontology/wo/commonName":
+					object.commonName.push(result[i]['o']);
+					break;	
+					
+				case "http://purl.org/ontology/wo/ecozone":				
+					object.ecozone.push(result[i]['o']);
+					break;	
+					
+				/*
+				// This is broken as none of the images are still live
 				case "http://purl.org/ontology/wo/distributionMap":
 					object.distributionMap = result[i]['o'];
+					break;
+				*/
+				
+				// Classification
+				case 'http://purl.org/ontology/wo/kingdom':
+				case 'http://purl.org/ontology/wo/phylum':
+				case 'http://purl.org/ontology/wo/class':
+				case 'http://purl.org/ontology/wo/superorder':
+				case 'http://purl.org/ontology/wo/order':
+				case 'http://purl.org/ontology/wo/infraorder':
+				case 'http://purl.org/ontology/wo/family':
+				case 'http://purl.org/ontology/wo/genus':
+					object[result[i]['p'].replace(/http:\/\/purl.org\/ontology\/wo\//, '')] = result[i]['o'];
 					break;
 					
 				// Taxon name
@@ -307,6 +392,11 @@
   
 		  }		
 		  
+		  // cleanup
+		  if (object.commonName.length == 0) {
+		  	//delete(object.commonName);
+		  }
+		  
 		  // features/facets
 		  object.facets = {};
 		  
@@ -328,8 +418,10 @@
 			// Adaptations			
 			object = get_facet(object, uri, "http://purl.org/ontology/wo/adaptation", "adaptation");
 
+			// Ecozones (BBC RDF is broken)
+			object = get_facet(object, uri, "http://purl.org/ontology/wo/ecozone", "ecozone");
 
-			// things with this facet
+			// things with this facet-----------------------------------------------------
 			// grows in 			
 			object = get_has_facet(object, uri, "http://purl.org/ontology/wo/growsIn", "grows in");
 
@@ -340,9 +432,55 @@
 			object = get_has_facet(object, uri, "http://purl.org/ontology/wo/adaptation", "behaviour");
 
 			// other things of this type (related by kind)
-			object = get_same_type(object, uri);
+			var type = get_type(uri);
 			
-			// classification path			
+			// Ignore this for things like species where we get lots of hits which aen't interesting
+			var ok = true;			
+			for (var i in type) {
+				switch (type[i]) {
+					case 'http://purl.org/ontology/wo/Species':
+						ok = false;
+						break;
+					default:
+						break;
+				}
+			}
+			
+			if (ok) {
+				object = get_same_type(object, uri);
+			}
+
+			// classification path
+				
+			object.path = [];
+			var ranks = [
+			'http://purl.org/ontology/wo/kingdom',
+			'http://purl.org/ontology/wo/phylum',
+			'http://purl.org/ontology/wo/class',
+			'http://purl.org/ontology/wo/superorder',
+			'http://purl.org/ontology/wo/order',
+			'http://purl.org/ontology/wo/infraorder',
+			'http://purl.org/ontology/wo/family',
+			'http://purl.org/ontology/wo/genus'
+			];
+
+			for (var i in type) {
+				switch (type[i]) {
+					case 'http://purl.org/ontology/wo/Species':
+						for (var j in ranks) {
+							var label = get_name(object[ranks[j].replace(/http:\/\/purl.org\/ontology\/wo\//, '')]);
+							if (label != '') {
+								object.path.push(label);
+							}
+						}
+					
+						break;
+					default:
+						break;
+				}
+			}
+			
+					
 
 			// related by tree
 
@@ -383,6 +521,10 @@
 				
 				if (object.taxonName) {
 					html += '<br /><br /><span>Scientific name: ' + object.taxonName + '</span>';
+				}
+				
+				if (object.commonName) {					
+					html += '<br /><br /><span>Common name(s): ' + object.commonName.join(", ") + '</span>';				
 				}
 				
 				
@@ -438,6 +580,20 @@
 					html += '</div>';
 				
 				}
+			
+			}
+			
+			if (object.path) {
+				html += '<h2>' + 'classification' + '</h2>';
+				html += '<ul>';
+			
+				for (var i in object.path) {
+					html += '<li style="font-size:12px;">' + object.path[i]  + '</li>';
+				}
+				
+				html += '</ul>';
+			
+			
 			
 			}
 			

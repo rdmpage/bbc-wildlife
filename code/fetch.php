@@ -1262,7 +1262,7 @@ $links = array(
 'http://www.bbc.co.uk/nature/places/Ynys-hir_RSPB_reserve'
 );
 
-/*
+
 $links = array(
 'http://www.bbc.co.uk/nature/ecozones/Afrotropic_ecozone',
 'http://www.bbc.co.uk/nature/ecozones/Antarctic_ecozone',
@@ -1273,9 +1273,9 @@ $links = array(
 'http://www.bbc.co.uk/nature/ecozones/Oceania_ecozone',
 'http://www.bbc.co.uk/nature/ecozones/Palearctic_ecozone'
 );
-*/
 
 
+/*
 $links = array(
 'http://www.bbc.co.uk/nature/life/Animal',
 'http://www.bbc.co.uk/nature/life/Cnidaria',
@@ -1295,6 +1295,7 @@ $links = array(
 
 
 );
+*/
 
 
 foreach ($links as $url)
@@ -1308,7 +1309,7 @@ foreach ($links as $url)
 //		echo $xml;
 		
 		
-		$filename = str_replace('http://www.bbc.co.uk/nature/life', '', $url);
+		$filename = str_replace('http://www.bbc.co.uk/nature/ecozones', '', $url);
 		
 		//echo "|$filename|\n";
 		//exit();

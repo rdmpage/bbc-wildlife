@@ -42,20 +42,25 @@ function rdf_to_triples($xml)
 
 
 
-//$basedir = dirname(dirname(__FILE__)) . '/ecozones';
+$basedir = dirname(dirname(__FILE__)) . '/ecozones';
 //$basedir = dirname(dirname(__FILE__)) . '/adaptations';
-$basedir = dirname(dirname(__FILE__)) . '/habitats';
+//$basedir = dirname(dirname(__FILE__)) . '/habitats';
 //$basedir = dirname(dirname(__FILE__)) . '/life';
 
 $files = scandir($basedir);
 
+
+$files = array('Palearctic_ecozone.rdf');
+
 foreach ($files as $filename)
 {
-	//echo "filename=$filename|\n";
+	echo "filename=$filename|\n";
 	
 	if (preg_match('/\.rdf$/', $filename))
 	{	
 		$rdf = file_get_contents($basedir . '/' . $filename);
+		
+		//echo $rdf;
 		
 		// fix stuff
 		
