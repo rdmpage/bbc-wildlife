@@ -26,7 +26,7 @@ The RDF has some issues. We need to add
  xml:base="http://www.bbc.co.uk"
 ```
 
-to the <rdf:RDF> tag so that URLs for BBC items are absolute URLs. Also need to handle <a href=“”> tags in <dc:description> (for example by enclosing in <![CDATA[ … ]]> ).
+to the `<rdf:RDF>` tag so that URLs for BBC items are absolute URLs. Also need to handle `<a href=“”>` tags in `<dc:description>` (for example by enclosing in `<![CDATA[ … ]]>` ).
 
 
 ## Queries
