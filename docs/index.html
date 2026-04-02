@@ -551,7 +551,7 @@
 					html += '<div>';
 					
 					for (var j in object.facets[i]) {
-						html += '<div style="position:relative;display:inline-block;padding:10px;border:1px solid rgb(242,242,242);margin:5px;background-color:white;width:120px;">';
+						html += '<div style="position:relative;display:inline-block;vertical-align:top;padding:10px;border:1px solid rgb(242,242,242);margin:5px;background-color:white;width:120px;">';
 						
 						if (object.facets[i][j].thumbnail) {
 							html += '<img src="' + object.facets[i][j].thumbnail + '" width="104" height="83" onclick="go(\'' + object.facets[i][j].url + '\');"/>';
